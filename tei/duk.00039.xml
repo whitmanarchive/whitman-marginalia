@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen
+RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"
+?>
+<?oxygen
+SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
+?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Slavonians and Eastern Europe</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Anonymous</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="ano">Alejandro Omidsalar</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>2015</edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00039</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be 
+                        freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">
+                            Creative Commons Attribution 4.0 International License
+                        </ref>
+                        (CC BY 4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted 
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Excerpt from North British Review, American Edition, vol. VI</title>
+                    <idno type="callno">MS q 186</idno>
+                    <date notBefore="1849-08-01" notAfter="1892-03-26">August 1849 or later</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Anonymous</author>
+                    <title level="a">The Slavonians and Eastern Europe" and "The Railway System of Great Britain</title>
+                    <title level="j">The North British Review</title>
+                    <date>August 1849</date>
+                    <publisher>Leonard Scott &#38; Co.</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="ink"></handNote>
+                <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/></handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-09-21" who="#ano">Transcribed; encoded</change>
+            <change when="2015-10-19" who="#mc">Proofed</change>
+        </revisionDesc>
+    </teiHeader>    
+<text type="marginalia">
+    <body>
+        <pb xml:id="leaf001r" facs="duk.00039.001.jpg" type="recto"/>
+        <note type="authorial" place="top" resp="#h1"><hi rend="underline">Valuable resum&#233;</hi></note>
+        <fw type="date" place="top left">1849.</fw>
+        <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+        <fw type="pageNum" place="top right">283</fw>
+        <cb/>
+        <div1><p>and adds the interesting fact, that they were 
+            in a good state of preservation, though they 
+            appeared to have been for some time in the 
+            water. The water, he adds, seems to have 
+            the quality of preserving whatever is cast 
+            into it. Specimens of wood found there 
+            were in an excellent state of preservation.</p>
+        <p>We now quit with reluctance a subject in 
+            which we feel very much interest. Lieutenant 
+            Lynch's book must be pronounced of 
+            great value, not only for the additions which 
+            it makes to our knowledge, but as the authentic 
+            record of an enterprise in the highest 
+            degree honourable to all the parties concerned. 
+            Our only regret is, that the author's 
+            avowed anxiety to occupy the book-market has prevented him from digesting 
+            his materials so carefully as the importance 
+            of the subject demanded, and has left inexcusable 
+            marks of haste, which should in any 
+            future edition be removed. Mr. Bentley is 
+            not, in this matter, altogether free from 
+            blame; for there are numerous persons in 
+            this country whose services would have removed 
+            most of the grosser errors by which 
+            the work is disfigured. As for the other 
+            book, what we have already said, we say 
+            once more:&#x2014;It is a bushel of chaff, from 
+            which those who think it worth their while, 
+            and who have sufficient patience and skill, 
+            may contrive to extract a few grains of 
+            wheat.</p></div1>
+        <milestone unit="undeclared" rend="horbar-short"/>
+        <div1>
+            <list>
+                <item><hi rend="smallcaps">ART.</hi> IX&#x2014;1. <hi rend="italic">Eastern Europe and the
+                Emperor Nicholas</hi>. By the Author of "Revelations
+                of Russia," &#38;c. 2 Vols. London,
+                1846.</item>
+                <item>2. <hi rend="italic">Histoire de la Langue et de la Litt&#233;rature 
+                des Slaves</hi>. Par F.G. E<hi rend="smallcaps">ICHHOFF</hi>. Paris,
+                1839.</item>
+                <item>3. <hi rend="italic">Dalmatia and Montenegro; with a Journey
+                to Mostar in Herzigovina, and Remarks
+                on the Slavonic Nations.</hi> By Sir J. G<hi rend="smallcaps">ARDNER</hi>
+                    W<hi rend="smallcaps">ILKINSON</hi>, F.R.S. 2 vols. London, 1848</item>
+                <item>4. <hi rend="italic">Panslavism and Germanism</hi>. By Count
+                    V<hi rend="smallcaps">ALERIAN</hi> K<hi rend="smallcaps">RASINSKI</hi>. London, 1848.</item>
+                <item>5. <hi rend="italic">Der Krieg in Ungarn; mit einer Geschichte
+                der Serbischen und Croatischen
+                Wirren</hi>. Von O<hi rend="smallcaps">SKAR</hi> F<hi rend="smallcaps">ODAL</hi>. 
+                Mannheim, 1849.</item>
+            </list>
+            <p>No one that has not worked much in the 
+                element of History can be aware of the immense 
+                importance of clearly keeping in view 
+                the differences of race that are discernible 
+                among the nations that inhabit different parts 
+                of the world. In practical politics it is certainly<cb/>
+                 possible to push such ethnographical 
+                considerations too far, as, for example, in 
+                our own cant about Celt and Saxon, when 
+                Ireland is under discussion; but in speculative 
+                History, in questions relating to the 
+                past career and the future destinies of 
+                nations, it is only by a firm and efficient handling 
+                of this conception of our species as 
+                broken up into so many groups or masses, 
+                physiologically different to a certain extent, 
+                that any progress can be made, or any 
+                available conclusions accurately arrived at.</p>
+            <span rend="singleLine-right" hand="#h1" xml:id="a1" from="#a1" to="#a2"/><p>The <hi rend="smallcaps">NEGRO</hi> or African, with his black
+                <note type="authorial" place="right" resp="#h1">Thee<lb/>
+                    great<lb/>
+                    Ethnologic<lb/>
+                Types</note>
+            skin, woolly hair, and compressed elongated
+            skull; the <hi rend="smallcaps">MONGOLIAN</hi> of Eastern Asia and
+            America, with his olive complexion, broad
+            and all but beardless face, oblique eyes, and 
+            square skull; and the <hi rend="smallcaps">CAUCASIAN</hi> of Western 
+                Asia and Europe, with his fair skin, oval 
+                face, full brow, and rounded skull;&#8212;such, 
+                as every school-boy knows, are the three 
+                great types or varieties into which naturalists 
+                have divided the inhabitants of our planet. 
+                Accepting this rough initial conception of a<anchor xml:id="a2"/> 
+                world peopled everywhere more or less completely 
+                with these three varieties of human 
+                beings or their combinations, the historian 
+                is able, in virtue of it, to announce one 
+                important fact at the very outset,&#8212;to wit, that, <span rend="singleLine-left" hand="#h1" xml:id="l1" from="#l1" to="#l2"/><note type="authorial" place="right" resp="#h1">? yes, of late<lb/>
+                    centuries&#8212;<lb/>
+                    but how<lb/>
+                    about<lb/>
+                    those<lb/>
+                    5, or 10, or<lb/>
+                    twenty thousand<lb/>
+                years ago?</note><anchor xml:id="l2"/>
+                <!-- This marginal note has a curvy line drawn that seems to separate it from the text, 
+                rather than highlight the adjacent type.-->
+                up to the present moment, the destinies of 
+                the species <hi rend="underline" hand="#h1">appear to have been carried 
+                forward almost exclusively by its Caucasian 
+                variety.</hi> In the broad field and long duration 
+                of Ethiopic or Negro life, only one native 
+                and spontaneous civilisation appears to 
+                have presented itself&#8212;that of the ancient 
+                and almost mythical kingdom of Mer&#246;e on 
+                the sources of the Nile. Mongolian humanity, 
+                on the other hand, if we except the 
+                two abortive beginnings of the native 
+            Mexicans and Peruvians in America, has been
+            able as yet to produce but one great 
+            civilisation&#8212;that of the Chinese and Japanese. 
+            With this Ethiopic retrogression, and this 
+            Mongolian uniformity, compare Caucasian 
+            progress, as exhibited in the splendid 
+            succession of distinct civilisations, from the 
+            ancient Egyptian to the recent Anglo-American, 
+            to which the Caucasian part of the species 
+            has given birth. Such, at least, is the Past; 
+            as to the Future let no man speak!</p>
+            <p>His attention thus specially directed to 
+                the Caucasian section of mankind, the historian 
+                finds it farther necessary to break it 
+                also up into parts. Studying the physiological 
+                and philological differences observable 
+                within its field, he is able, in the first place, 
+                to separate it into two great families of 
+                nations, essentially distinct&#8212;the <hi rend="italic">Semitic</hi> family, 
+                consisting of men having the Arabic 
+                physiognomy, and speaking a class of 
+                languages, of which the Arabic is the type;</p>
+            <pb xml:id="leaf001v" facs="duk_ap_00163.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">284</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="date" place="top right">Aug.</fw>
+            <cb/>
+            <p>and the <hi rend="italic">Indo-European</hi> family, consisting of 
+            men having a less determinable cast of 
+            physiognomy, and speaking a class of languages, 
+            of which the Sanscrit is the type. The 
+            special geographical seat of the former, or 
+            Semitic branch of the Caucasian stock, is 
+            that part of Western Asia which lies 
+            between the Mediterranean and the Red Sea 
+            on the west, and the Tigris and Persian 
+            Gulf on the east; these lands, together with 
+            adjacent portions of Africa, are occupied by 
+            Semitic peoples now, and have been 
+            occupied by them from time immemorial. The 
+            area over which the Indo-European branch 
+            of the Caucasian stock has extended itself 
+            is much larger, and the diversities of its 
+            several partitions or offshoots are much more 
+            marked and important. Schlosser, whose 
+            scheme on this subject is the best that we 
+            have seen, enumerates four leading 
+            subdivisions of the Indo-European family:&#8212;
+            1. The Armenian race, whose seat is in the 
+            vicinity of the Caspian, and whose part in 
+            history has hitherto been small; 2. The 
+            Scythian race, overspreading the vast 
+            regions of Eastern and North-Eastern 
+            Europe, and of Central Asia, to the confines of 
+            the Mongolian countries; 3. The Pelasgic 
+            race, diffused, in the remotest ages, through 
+            Asia Minor, the &#230;gean Islands, Greece, 
+            Italy, and other parts of Southern Europe; 
+            and the mother-race of the great Greek and 
+            Roman peoples; and 4. The Indo-Persic 
+            race proper, stretching in Asia from the 
+            Caspian to the Bay of Bengal; and the 
+            parent, in the west, of the two great modern races, 
+            the Celts of Gaul, Britain, Spain, &#38;c., and 
+            the Germans of central Europe and the 
+            Scandinavian peninsulas. All these races 
+            scattered as they are geographically, and 
+            differing, as they do from each other in 
+            many important respects, are yet bound 
+            together by certain similarities that distinguish 
+            them in the mass from the Semitic branch 
+            of nations.</p>
+            <p>Mastering such current ethnographical 
+            distinctions as these, the student of history 
+            ought to take care at the same time thoroughly 
+            to digest and appropriate the positive 
+            notion that is wrapped up in them,&#8212;to wit, 
+            that our species is not a huge collection of 
+            perfectly similar human beings, but an aggregation 
+            of a number of separate groups or 
+            masses, the men of which, though all agreeing 
+            in the grand characteristics of humanity, 
+            all the creatures of a common Father, 
+            and all the heirs of a common hope, have 
+            yet such subordinate differences of organization 
+            that, necessarily, they must understand 
+            nature differently, and employ in life very 
+            different modes of procedure. Assemble 
+            together a Negro, a Mongol, a Shemite, an<cb/>
+            Armenian, a Scythian, a Pelasgian, a Celt, 
+            and a German, and you will have before you 
+            not mere illustrations of an arbitrary classification, 
+            but positively distinct human beings, 
+            men whose relations to the outer world 
+            are by no means the same. In all, indeed, 
+            there will be found the same fundamental 
+            instincts and powers, the same obligation to 
+            recognised truth, the same feeling for the 
+            beautiful, the same abstract sense of justice, 
+            the same necessity of reverence; in all, 
+            the same liability to do wrong, knowing it 
+            to be wrong. These things excepted, however, 
+            what contrast, what variety! The 
+            representative of one race is haughty and 
+            eager to strike, that of another is meek and 
+            patient of injury; one has the gift of slow 
+            and continued perseverance, another can labour 
+            only at intervals and violently; one is 
+            full of mirth and humour, another walks as 
+            if life were a pain; one is so faithful and 
+            clear in perception, that what he sees to-day 
+            he will report accurately a year hence; 
+            through the head of another there perpetually 
+            sings such a buzz of fiction that, even as 
+            he looks, realities grow dim, and rocks, 
+            trees, and hills reel before his poetic gaze. 
+            Whether, with phrenologists, we call these 
+            differences craniological; or whether, in the 
+            spirit of a deeper physiology, we adjourn the 
+            question by refusing to connect them with 
+            aught less than the whole corporeal organism&#8212;bone, chest, limb, skin, muscle, and 
+            nerve; they are, at all events, real and 
+            substantial; and Englishmen will never conceive 
+            the world as it is, will never be intellectually 
+            its masters, until, realizing this as 
+            a fact, they shall remember that it is perfectly 
+            respectable to be an Assyrian, and 
+            that an Italian is not necessarily a rogue 
+            because he wears a moustache.</p>
+            <p>It is but a change of expression to say 
+            that races, whose individual specimens differ 
+            so much, must stand in very different relations 
+            to the general history of the world. 
+            While the Shemite, for example, whose 
+            mental characteristics are extreme spontaneity 
+            and ease, attained his highest perfection 
+            almost at once, and has since acted but 
+            fitfully on the general condition of the world, 
+            the Indo-European, on the other hand, with 
+            faculties more stubborn and more dependent 
+            on discipline, has advanced by successive 
+            steps, and has charged himself specifically 
+            with that part of the entire business of the 
+            species which consists in continuous intellectual 
+            evolution. Thus, in Europe, civilisation 
+            as it now exists has been the progressive 
+            work of three great Indo-European 
+            races. First of all there was the Pelasgic 
+            movement, including the whole of Greek 
+            and Roman activity; to this succeeded the<cb/></p>
+            <pb xml:id="leaf002r" facs="duk.00039.002.jpg" type="recto"/>
+            <note type="authorial" place="top" resp="#h2"><gap reason="illegible"></gap> [Great?] Commencement of <hi rend="underline">Russia</hi><lb/>
+            a.d. 850</note>
+            <fw type="date" place="top left">1849.</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="pageNum" place="top right">289</fw>
+            <cb/>
+            <p>the Lekhs and the Tchekhes. Living 
+                peaceably, and plying trading occupations, 
+                of which they were fond, the tribes of Novgorod, 
+                Kiew, and their adjacencies, still 
+                retained unchanged their native Slavonian 
+                habits and characteristics. Even they, however, 
+                were doomed at last to foreign invasion. Huns 
+                <span rend="singleLine-left" hand="#h1" xml:id="b1" from="#b1" to="#b2"/>and Avars had spared them, despising the 
+                conquest of their sunless and wintry lands; 
+                but the Northern Scaninavians, less difficult 
+                to please, now began to pay them marauding 
+                visits. At length, in the year 850,
+                <span rend="doubleleLine-left" hand="#h1" xml:id="c1" from="#c1" to="#c2"/>one Danish or Swedish chief, named Rurik, 
+                crossed the Baltic with a fleet, and making 
+                himself master of all the Slavonian countries 
+                of the Baltic, established himself at Novgorod, 
+                and founded the dynasty of the Grand 
+                Dukes of Muscovy, or Great Russia.</p><anchor xml:id="c2"/>
+            <p>The Muscovites or Great Russians, extending<anchor xml:id="b2"/>
+                 from the Baltic inland as far as the 
+                Kwina and the Volga, and ruled over by a 
+                Scandinavian dynasty; the Lekhs or Poles, 
+                forming the two independent nations of 
+                Lithuania and Poland proper, governed by 
+                native dynasties, and extending from the Oder 
+                to the Dnieper, and from the Baltic to the 
+                Carpathian mountains; the Tchekhes or 
+                Slavonians of the three independent states or 
+                kingdoms of Bohemia, Moravia, and 
+                Hungary; and the medley of Gr&#230;co-Slavonian 
+                nations, Croats, Servians, Bulgarians, 
+                Slavonians proper, Dalmatians, &#38;c., attached to 
+                the Greek Empire&#8212;such, in the ninth 
+                century, were the four leading divisions of the 
+                Slavonic family. A great change was produced 
+                in the condition of these four Slavonian 
+                masses individually, and in their 
+                mutual relations, by the introduction among 
+                them of Christianity. There were two 
+                quarters, it is evident, from which Christianity 
+                might reach the Slavonic nations&#8212;
+                the Latin world on the west, spiritually 
+                subject to the Roman pontiffs; or the Greek 
+                world on the east, spiritually subject to the 
+                patriarchs of Constantinople. From both 
+                these quarters, Christianity did make its 
+                way. The Lekha of Poland, and the 
+                Tchekhes of Bohemia, Moravia, and 
+                Hungary, received their religious forms chiefly 
+                from the West, (<hi rend="smallcaps">a.d.</hi> 700-1000,) and 
+                consequently became, for the most part, 
+                adherents of the Latin or Roman Catholic 
+                Church; the Gr&#230;co-Slavonians, and the 
+                Muscovites or Great Russians, on the other 
+                hand, were converted chiefly by Greek 
+                missionaries, (<hi rend="smallcaps">a.d.</hi> 640-1100,) and consequently 
+                adopted, in preference, the rites and doctrines 
+                of the Greek Church. This fact is of great 
+                importance in its bearing on Slavonian 
+                history. The Poles, the Lithuanians, and the 
+                Tchekhes, for example, converted into adherents 
+                of the Romish faith, became by that 
+                <cb/>
+                very fact members of the great confederacy 
+                of the Western nations; while the Russians, 
+                the Bulgarians, &#38;c., fell back, as it were, 
+                into the arms of the East. This distinction 
+                was perpetuated by certain corresponding 
+                differences in the written characters used by 
+                the two groups of peoples. At first, the 
+                Cyrillic alphabet, so called because it was 
+                devised from the Greek by a Greek monk, 
+                Cyril (873), was used, with the vernacular 
+                form of service, even in Bohemia and Moravia, 
+                where, indeed, Cyril preceded the Latin 
+                missionaries: ultimately, however, by the 
+                strenuous exertions of the Romish Church, 
+                the Latin character and the Latin form of 
+                service triumphed among all the Slavonian 
+                Romanists, with the exception of some 
+                Romanist communities among the Gr&#230;co-Slavonians 
+                of the Adriatic, for whom an 
+                expressly new character was invented, 
+                called the Glagolitic, and who were allowed, 
+                besides, to retain their vernacular service. 
+                The use of the Cyrillic character, therefore, 
+                became a characteristic of the Slavonians of the Greek Church.</p>
+            <p>The two great influences between which, 
+                as between two opposite pressures, we have 
+                seen the Slavonian populations struggling 
+                and gradually moulding themselves from 
+                the fourth to the tenth century&#8212;to wit, the 
+                encroachments of the German powers on the 
+                west, and the indefatigable irruptions of the 
+                Asiatic race from the east, did not yet cease 
+                to operate. Let us briefly indicate the 
+                results of their continued action from the 
+                tenth century forward.</p>
+            <p>The Roman Empire of the west, disintegrated 
+                and overrun by the various Teutonic 
+                races, had at length (800) been re-united 
+                under the sceptre of the Fraukish Charlemagne. 
+                But the purpose of this Germanic 
+                reconstruction of the western world having 
+                been fully served, a new subdivision was 
+                required; and, in the year 843, the grandsons 
+                of Charlemagne effected such a subdivision 
+                by sharing among themselves the vast 
+                dominions of their ancestor. Gaul and the 
+                dominion of the western Franks were 
+                assigned to Charles the Bald; Lothaire, the 
+                eldest of the brothers, retained Italy and 
+                other central territories, together with the 
+                Imperial dignity; while Louis became master 
+                of Germany, i.e., feudal chief of the 
+                confederate German States proper, beyond 
+                the Rhine.</p>
+            <p>The German Empire of Louis, in addition 
+                to some winegrowing districts on the left 
+                bank of the Rhine, comprehended on the 
+                right bank the German States or Duchies of 
+                Bavaria, Saxony, Franconia, and Swabia, 
+                together with some Slavonian dependencies, 
+                consisting chiefly of lands that had been</p>
+            <pb xml:id="leaf003v" facs="duk.00039.003.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">290</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="date" place="top right">Aug.</fw>
+            <cb/>
+            <p>conquered by Charlemagne from the Lekhs 
+               of Lithuania, and the Tchekhes of Bohemia. 
+               Powerful from the first, and rendered still 
+               more powerful by being converted (887) 
+               from a hereditary possession of the Carlovingian 
+               kings into a confederacy of free 
+               States under an elective head, the German 
+               Empire was able generally to extend its 
+               Slavonian appendages. Under Henry the 
+               Fowler, for example, who was Emperor 
+               from 919 to 936, the districts of Brandenburg 
+               and Lusatia were conquered from the 
+               Lekhs and the Tchekhes; and by his successors 
+               of the Saxon dynasty (936-1024) not 
+               only were new conquests added to these, 
+               extending the German frontier as far as the 
+               Oder, but the Slavonian dukes of Bohemia 
+               and Poland were reduced to the condition of 
+               tributaries. The more thoroughly to Germanize 
+               the Slavonian parts of the empire, 
+               German colonies were planted and German 
+               bishoprics established in them; and, indeed, 
+               it was chiefly by the rough-handed efforts of 
+               their German conquerors that the Northwestern 
+               Slavonians were first reclaimed 
+               from Paganism. To provide for the efficient 
+               government of this quarter of the German 
+               Empire, several margravates or 
+               marquisates (literally earldoms of the marches) 
+               were erected; of which the two most 
+               important were the margravate of the North, 
+               otherwise called the margravate of Brandenburg, 
+               established on the frontier towards 
+                <span rend="singleLine-left" hand="#h2" xml:id="d1" from="#d1" to="#d2"/>
+                <note type="authorial" resp="#h2" place="left">etymology<lb/>
+                    of<lb/>
+               "Austria"</note>the Lekhs of Poland, and the margravate of 
+               the East, otherwise called the margravate 
+               of Austria, (<hi rend="italic">Oester-reich</hi>, literally Eastern 
+               march,) established on the frontier towards 
+               the Tchekhes of Bohemia and Hungary.<anchor xml:id="d2"/> 
+               This latter margravate, though but a creation 
+               and outpost of the Germanic Empire, 
+               soon swelled itself to the dimensions of a 
+               great power, by assuming the chief burden 
+               of the activity of the empire against the 
+               Slavonians. Elevated into a Duchy by the 
+               Emperor Frederic I. (1152) and still farther 
+               aggrandized when Rudolph of Hapsburg, 
+               having been elected to the empire in 1273, 
+               assigned it as fief to his eldest son Albert, it 
+               gradually acquired, by marriage, inheritance, 
+               or conquest, (1273-1560,) dominion 
+               over Bohemia, Moravia, Hungary, &#38;c., thus 
+               absorbing into itself the whole of the Tchekh 
+               portion of the Slavonian family. It was in 
+               consequence of this "Very extension of its 
+               rule by the annexation of Slavonian territories 
+               that Austria attained that predominance 
+               in the Germanic Empire which enabled it to 
+               retain the imperial dignity, so long as that 
+               dignity existed, in the possession of the 
+               House of Hapsburg. Meanwhile, what the 
+               margravate of Austria had been to the 
+               Tchekhes or Southern Slavonians, the margravate<cb/>
+                of Brandenburg had proved to their 
+               north-western brethren the Lekhs. Converted 
+               into an Electorate of the empire by 
+               the Golden Bull of Charles IV. in 1356, and 
+               acquired by purchase in 1417 by the House 
+               of Hohen-Zollern, this margravate was 
+               gradually enlarged by the abilities of its 
+               holders till it assumed the dimensions of 
+               the original Prussian kingdom. That kingdom, 
+               the creation of the successive Fredericks 
+               and Frederick-Williams of the House 
+               of Hohen-Zollern, is. in reality, but a well 
+               Germanized section of the territories of the 
+               Lekhs or central Slavonians. The name 
+               Prussia itself was originally but the designation 
+               of a Polish fief, added to the Electorate 
+               in 1618; and it was not till 1701 that 
+               the electors of Brandenburg, wishing a title 
+               more descriptive of their possession as sovereigns 
+               of a joint population of Germans 
+               and Slavonians, assumed that of kings of 
+               Prussia.</p>
+            <p>While Germany was thus seizing the 
+               Slavonian races from the West by its two 
+               greedy arms, Prussia and Austria, a more 
+               violent and stormy influence was agitating 
+               them from the East. Since the days of the 
+               Huns and the Avars, there had been a general 
+               tendency of the Asiatic races to dash 
+               themselves against the populations of Eastern 
+               Europe. One such Asiatic race, calling 
+               themselves the <hi rend="italic">Magyars</hi>, and belonging not 
+               to the Calmuck or Mongolian family, as 
+               some have supposed, but to the Turkish or 
+               Tatar subdivision of the great Caucasian 
+               family, detached themselves about the year 
+               880 from their Asiatic connexions, whatever 
+               these were, and advancing into Europe, 
+               under a chief named Arpad, took possession 
+               of a large tract of land in the very heart of 
+               the Tchekhes, and subjecting the native 
+               inhabitants to serfdom, founded the present 
+               Tatar-Slavonic kingdom of Hungary. The 
+               name Hungary itself, though imagined by 
+               some to have been an ancient name given 
+               to that section of the Tchekh dominions, to 
+               denote its previous extensive colonization by 
+               the Huns or Kalmucks, is by others regarded 
+               as a native Magyar appellation, given to 
+               what had till then been known only as a 
+               part of Great Moravia. In any case, the 
+               Magyars were able almost instantly to naturalize 
+               themselves in the fine country which 
+               they had selected for their habitation. Under 
+               Geysa, the grandson of Arpad, they embraced 
+               Christianity, and thus entered within the 
+               pale of Catholic Europe. Stephen, the son 
+               of Geysa, assuming the title of King of 
+               Hungary, became known as a warlike 
+               potentate; and his successors following in his 
+               footsteps, added the Gr&#230;co-Slavonian territories 
+               of Croatia (1100), Slavonia proper,</p>
+            <pb xml:id="leaf004r" facs="duk.00039.004.jpg" type="recto"/>
+            <note type="authorial" place="top" resp="#h2">&#9759;</note>
+            <note type="authorial" place="top" resp="#h2">original Slavonians</note>
+            <fw type="date" place="top left">1849.</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="pageNum" place="top right">293</fw>
+            <cb/>
+            <span rend="singleLine-left" hand="#h2" xml:id="e1" from="#e1" to="#e2"/>
+            <p>nal condition, when they were but a vast aggregation of barbaric tribes, adoring Sviantovid, drinking mead, and dancing to the sound 
+            of the gusla&#8212;might have been led to form of 
+            them. It had been from no want of real
+                <hi rend="italic">stamina</hi> in themselves, but rather from an 
+            accumulation of irresistible circumstances<anchor xml:id="e2"/>
+            from without, that, instead of founding a 
+            united Slavonic empire in Eastern, and 
+            furnishing Slavonic dynasties to Western 
+            Europe, they had fallen asunder into fragments, 
+            some of which, like the German and Turkish 
+            Slavonians, were but appendages to 
+            foreign sovereignties, and others, like Russia 
+            and Poland, but the Slavonian patrimonies 
+            of foreign aristocratic houses. This singular 
+            tenor of their past history did not by any 
+            means demonstrate their incapacity to act a 
+            wholesale part in the general career of the 
+            human species, or the inferiority of the 
+            Slavonic to other races. On the contrary, 
+            as might more philosophically be argued, all 
+            this sifting and tearing apart of the Slavonian 
+            mass, and intermingling with it of 
+            foreign ingredients, German, Turkish, Mogul, 
+            and Magyar, had been but a necessary 
+            process of preparation, in order that, finally, the 
+            Slavonian genius might manifest itself with 
+            greater power and acceptance, just as some 
+            substances have their special and characteristic 
+            attributes not altered or extinguished 
+            by the limited interfusion of others, but only 
+            developed and made available. Various 
+            circumstances seem to indicate this, and to 
+            prove that, at the present moment, there lies 
+            underneath the uniform surface of Slavonian 
+            Europe a pent-up flood of future influences.</p>
+            <p>In the first place, the various Slavonic 
+            nations have all along taken a part in the 
+            general commerce and material ongoings of 
+            the world, such as only nations of good brain 
+            and faculty could have been equal to. 
+            They figure sufficiently well in McCulloch's 
+            Commercial Dictionary, and in the lists and 
+            figure-tables of Manchester manufacturers. 
+            Russia, for example, with its marvellous 
+            capital, St. Petersburg, containing nearly 
+            500,000 inhabitants, exports wheat, flour, 
+            cattle, furs, flax, oil, tallow, and hides, in 
+            large quantities; imports foreign commodities 
+            in return; and is altogether an important 
+            member of the European confederacy of 
+            nations. The Muscovite, or Great Russian 
+            part of its population, are the fondest of trading, 
+            and of industrial occupations generally; 
+            the Cossacks, or Little Russians, are bolder, 
+            less thrifty, and make better soldiers. Nor 
+            are the Slavonian populations under German 
+            rule inferior, after their respective fashions, 
+            to the Russians. The Slavonians of Prussia 
+            contribute their full share to the general 
+            prosperity of that remarkable country. The<cb/>
+            kingdom of Bohemia, with its capital, Prague, 
+            a town of about 110,000 inhabitants, is well 
+            known to be one of the most important of the 
+            manufacturing apartments of the Austrian 
+            empire. Its glass has been celebrated since 
+            the thirteenth century; its northern districts 
+            are one continued manufactory of linens; 
+            and its calicoes, woollens, china-ware, 
+            cutlery, &#38;c., employ thousands of hands. From 
+            the rich adjoining country of Moravia, the 
+            capital of which is Br&#252;nn, a town of about 
+            35,000 inhabitants, there is a large export 
+            trade to various parts of Germany. 
+            Hungary, whose commercial capital is Pesth, 
+            with upwards of 62,000, and its political 
+            capital, Presburg, with about 38,000 inhabitants, 
+            is said to excel almost any country in 
+            Europe in the abundance, variety, and value 
+            of its natural productions. It has coal-mines, and mines of all the metals except 
+            tin; it grows more wheat, maize, and oats, 
+            than it can use; it has whole forests of fruit-trees; tobacco is cultivated in nearly every 
+            part of it; it contains millions of sheep and 
+            cattle of good breeds; and its wines, the best 
+            of which is the sweet strong aromatic Tokay, 
+            yield to none in the world. So richly 
+            favoured by nature, the Hungarians do not 
+            practise many branches of manufacture, but 
+            import the manufactured goods they require 
+            in exchange for their superfluous home-produce. 
+            Nor is the prosperity of Hungary, 
+            such as it is, the sole work of its ruling 
+            inhabitants, the Magyars. The Slovacks of 
+            its northern districts, a branch of the 
+            Tchekhes of Moravia, are industrious cultivators 
+            of their Carpathian valleys; besides 
+            which, (whatever the fact may indicate,) a 
+            detachment of them, after the manner of the 
+            Italian organ-boys, are perpetually perambulating 
+            Germany, with countenances and 
+            eyes the most magnificent in the world, selling 
+            mouse-traps. The kingdoms of Croatia 
+            and Slavonia proper, too, politically incorporated 
+            with that of Hungary, and enjoying 
+            similar advantages of soil and climate, are 
+            by no means nests of savages. Agram, the 
+            capital of Croatia, a town of some 17,000 
+            inhabitants, is a great market for the sale of 
+            Hungarian wheat, tobacco, and pigs; and 
+            the Croats, though rough fighting fellows, 
+            dwelling in barns without windows, make 
+            their own carts and ploughs, and drink their 
+            own wine and plum juice. The Slavonians 
+            proper resemble the Croats; their chief 
+            town, Essek, is a handsome place, containing 
+            about 12,000 inhabitants, and, besides trading 
+            in grain, cattle, and hides, does a little 
+            silk-spinning. The capital of lllyria, which 
+            is the modern name of the patch of the 
+            Slavonian territory lying between the Venetians 
+            and the Croats, is the growing Austrian sea-</p>
+            <pb xml:id="leaf005r" facs="duk.00039.005.jpg" type="recto"/>
+            <note type="authorial" place="top" resp="#h2">&#9759;</note>
+            <note type="authorial" place="top" resp="#h2">Slavonic songs,<!-- might say "souls" instead of songs. Would appreciate editorial input. -->&#8212;poetry</note>
+            <fw type="date" place="top left">1849.</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="pageNum" place="top right">295</fw>
+            <cb/>
+            <span rend="singleLine-left" hand="#h2" xml:id="j1" from="#j1" to="#j2"/>
+            <p>language and by their written literature to 
+                be one of the superior races of our species. 
+                As regards the first, no more highly organized 
+                language, we are told, was ever spoken 
+                on earth than the Slavonic: vying in 
+                grammatical devices as it is said to do with the 
+                ancient Greek; possessing, for example, 
+                numerous declensions, an ablative case, a 
+                dual number, a patronymic termination, 
+                diminutive and augmentative nouns, 
+                frequentative and inceptive verbs, various 
+                preterite and future tenses, inflexions of verbs 
+                rendering pronouns unnecessary, unlimited 
+                powers of compounding words, and a host 
+                of serviceable particles; besides all which 
+                it includes every articulate human sound 
+                known, except the English <hi rend="italic">th</hi>. Again, as 
+                regards Slavonic literature; here, it is said, 
+                with a due amount of all that varied intellectual 
+                vigour that is exhibited in the literature 
+                of the Indo-European races in general, 
+                there is discernible a certain important 
+                <hi rend="italic">differentia</hi> or originality, a certain peculiar 
+                something that is not Celtic, that is not 
+                Pelasgic, that is not Germanic, but solely and 
+                essentially Slavonic. This peculiarity of 
+                the Slavonic genius, this characteristic 
+                attitude, if we may so call it, of the Slavonian 
+                soul, naturally shows itself most clearly in 
+                the higher poetry of the Slaves, and above 
+                all, in their popular songs and ballads. <anchor xml:id="j2"/>
+                There, besides an intense nationality, and 
+                a burning hatred, in particular, to the 
+                Germanic races, partly produced, no doubt, by 
+                historical causes, but arising to some extent 
+                <span rend="singleLine-left" hand="#h2" xml:id="k1" from="#k1" to="#k2"/>also from the consciousness of a difference 
+                of character, there prevails a certain <hi rend="underline">large 
+                and melancholy</hi> wildness, as we occidentals 
+                <hi rend="underline">would call it&#8212;a wildness as of a sacred 
+                horseman in a great desert,</hi> urging his steed 
+                <hi rend="underline">through the winds,</hi> with the far horizon in 
+                <hi rend="underline">his eye.</hi> Nay, were we to allow the author<anchor xml:id="k2"/>
+                of the <hi rend="italic">Revelations of Russia</hi> to sum up for 
+                us in this place, we should have from him, 
+                in conclusion, a flat assertion of the general 
+                intellectual superiority of the Slavonic to 
+                the Teutonic races. Of this superiority, he 
+                says, the Slaves themselves are profoundly 
+                convinced. In the present state of our 
+                information, however, it will be wise to say as little as 
+                possible on that point.</p>
+            <p>There is still one other way in which the 
+            worth of a people may be estimated; by 
+            ascertaining, namely, whether they have, on 
+            any occasion, fought and resisted bravely, 
+            whether in their history there are any grand 
+            and heroic passages, whether they have 
+            ever stood forth before other men as the 
+            champions of a cause. Tried by this test, 
+            at least, the Slavonian peoples are safe. 
+            Of their primeval heroism, of their conflicts 
+            long and resolute with German, Turk, Mongol,<cb/>
+            and Magyar, we shall not speak; all 
+            that is but mist and song. Coming down, 
+            however, to a clearer day, what eye does 
+            not rest fondly on one hour at least in the 
+            European past, made memorable by 
+            Slavonian courage&#8212;the hour of Huss, of 
+            Jerome of Prague, and of Ziska, those three 
+            Bohemian patriots, who, seized at a distance 
+            by the spirit of the English Wycliffe, first 
+            spoke the bold truth in their native part of 
+            Europe, and scattered abroad, Slaves as 
+            they were, seeds that were but revived by 
+            the German Luther? Or, descending still 
+            later, to our own times, who has not heard 
+            of the brave struggle of the Servians against 
+            the Turks, a struggle continued during 
+            twenty-six years, (1804-30,) with a 
+            determination comparable to that of the Scotch 
+            under Wallace, and which resulted at last 
+            in a guarantee of virtual independence 
+            wrung by the subjects from their hard 
+            masters? Nay, and if further proof should 
+            be required, have we not one last argument 
+            at hand in the history of the Polish nation?</p>
+            <p>After remaining distinct for several 
+            centuries, the two nations that had formed 
+            themselves in the Tchekhish portion of the 
+            general Slavonian area, to wit, Poland and 
+            Lithuania, were united in 1385 by the 
+            marriage of Hedvige, the Queen of Poland, with 
+            Jagellon, the reigning prince of Lithuania. 
+            The throne of Poland being elective, however,
+            while that of Lithuania was hereditary, 
+            the union was at first by no means 
+            complete; and it was only in consequence 
+            of a tacit suppression on the part of the 
+            Polish nobles of their right to elect the 
+            sovereigns of their country, that the princes of 
+            the Jagellon line continued to rule in both 
+            nations. To put an end to this anomalous 
+            state of things, a formal arrangement was 
+            made in 1569, by which the Lithuanian 
+            sovereignty, becoming also elective, was 
+            merged in that of Poland, the Lithuanian 
+            nobles becoming entitled to all the 
+            privileges enjoyed by their Polish brethren, that 
+            of sitting and voting, for example, in the 
+            general Diet; but the laws, the armies, and 
+            the finances of the two countries to remain 
+            still distinct. By this arrangement, Poland 
+            attained the dimensions of a great European 
+            state, extending from the Oder to and 
+            beyond the Dnieper in one direction, and to 
+            and beyond the Dwina in another. 
+            Unfortunately, however, hardly had the union 
+            taken place, when Sigismund Augustus, the 
+            last of the Jagellon princes, died, (1572,) 
+            and the throne, till then elective but in 
+            theory, became elective in practice. From 
+            that day dates the decline of Poland. 
+            Internal Polish history became thenceforward 
+            but a continued series of election-struggles</p>
+            <pb xml:id="leaf005v" facs="duk_ap_00164.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">296</fw>
+            <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
+            <fw type="date" place="top right">Aug.</fw>
+            <cb/>
+            <p>between different factions of the nobility, 
+            of intrigues on the part of foreign states 
+            interested in the success of different candidates, 
+            and of religious persecutions directed 
+            against the Protestant portion of the population. 
+            Occasionally, indeed, as for example, 
+            during the reign of the Hungarian Stephen 
+            Battori, (1575-1586,) or during that of 
+            John Sobieski, (1673-1690,) there was a 
+            flash of new splendour; but on the whole, 
+            the progress towards ruin was steady and 
+            uniform. The reconstruction and enlargement 
+            of the Muscovite kingdom under Ivan 
+            the Terrible, (1550,) and the subsequent 
+            accession to the Russian throne of the House 
+            of Romanof, (1613,) were disastrous events 
+            for Poland. Engaged in almost incessant 
+            wars with Russia, as well as with Sweden 
+            and Turkey, the Poles were reduced before 
+            the middle of the eighteenth century to a 
+            state of perfect helplessness. Even before 
+            the close of the seventeenth, they had lost 
+            part of their territories by ceding, on the 
+            west, the Lithuanian fief of Prussia to the 
+            Electorate of Brandenburg, to which it had 
+            till then belonged only dependency; and 
+            on the east, various Cossack districts on the 
+            Dnieper to Russia and Turkey. Their farther 
+            humiliation, however, if not their total 
+            annihilation as a nation, was the fixed 
+            scheme of the House of Romanof. Peter 
+            the Great, (1689-1725,) founding the Russian 
+            Empire by his genius, had chalked out 
+            for his successors a line of policy, leading, 
+            by implication, to the subjugation of Poland. 
+            It was reserved for Catherine the Great, 
+            (1762-1796,) to execute the project. The 
+            Polish throne becoming vacant in 1764, she 
+            sent a Russian army to compel the Diet to 
+            elect her former lover, Stanislaus Poniatowski. 
+            The Czartoryskis, then the heads 
+            of a zealous Reform party in Poland, 
+            supported the nominee of the Empress, hoping 
+            the best results from her avowed liberalism. 
+            No sooner was Poniatowski elected, 
+            however, than Russian influence was employed 
+            to crush the Reforms proposed by the Czartoryskis. 
+            A civil war followed; Russian 
+            armies occupied the country; and in 1772, 
+            took place, under Russian auspices, the first 
+            dismemberment of Poland. By this 
+            dismemberment, the Poles lost 3925 square 
+            German miles of their territories, or more 
+            than a fourth part of the whole. The confiscated 
+            lands were divided unequally 
+            between Prussia, Austria, and Russia; Prussia 
+            receiving the most valuable portions of Western 
+            Poland proper and Western Lithuania; 
+            Austria, the territories that now constitute 
+            the kingdom of Galicia and Lodomeria; 
+            and Russia nearly the whole of her present<cb/>
+            provinces of Livonia, Witepsk, Mochilew, 
+            and Minsk. Thus diminished and degraded, 
+            Poland endeavoured to regenerate wbat was 
+            left of her. Again Russia remorselessly 
+            interfered, and by a second dismemberment, 
+            (1792,) the Poles were deprived of 5614 
+            square German miles of their territories, 
+            1061 of which were appropriated by Prussia, 
+            and 4553 by Russia. Then ensued the 
+            last struggle under Kosciusko; on the 
+            suppression of which, (1795,) the third 
+            dismemberment took place; and Poland was 
+            effaced from the map of Europe.</p>
+            <p>"And rightly served!" cry our stern 
+            judges of the worth of nations. "A 
+            wrangling pack of some 200,000 nobles, with 
+            millions of serfs under them, uneducated and 
+            ill-fed: such was the Polish nation&#8212;a 
+            nation that deserved to die, if ever nation did!" 
+            Quick reasoning; very summary justice! 
+            Was Poland, under the Jagellons, in a worse 
+            condition than other countries in Europe? 
+            Even in her worst days, were her serfs more 
+            degraded beings than those of Russia now? 
+            Did not Poland, even in her later days, 
+            accomplish some things that were great&#8212;
+            produce a Copernicus; give birth to a Sobieski? 
+            Was her crime of a bad constitution one 
+            unparalleled in the history of nations that have 
+            turned out well? Has the change been for 
+            the better? Have her spoilers, Austria, 
+            Prussia, and Russia, been more conscientious 
+            stewards of the interests of the Polish 
+            millions than those whom they superseded? 
+            Was there no evidence that a change was 
+            in progress in Poland herself at the very 
+            hour when her life was trampled out? A 
+            Poland organized by Kosciusko and 
+            Niemcewicz, what had it been in Europe now! 
+            Those struggles, too, of the Poles to regain 
+            themselves, those services under Napoleon, 
+            and insurrections under Nicholas that have 
+            scattered the Slavonic physiognomy over the 
+            earth, and filled our cities with men the types 
+            of energy&#8212;are they of no account? Above 
+            all, was the punishment a doom, or only a 
+            probation? Is there no pardon? has there 
+            been no repentance? Has not Poland, 
+            territorially defunct, waxed morally stronger? 
+            Has not the sore trial of eighty years 
+            fulfilled its stated purpose; and if now, the 
+            chastened, united, Polish spirit were gathered 
+            as a thunderbolt, and let loose on Slavonic 
+            Europe, would it not split and nobly 
+            recreate it?</p>
+            <p>The following is a survey of the present
+            arrangement of the Slavonic race, as quoted
+            by Count Krasinski from the Slavonian
+            Ethnography of Schaffarik:&#8212;</p>
+            <pb xml:id="leaf006r" facs="duk.00039.006.jpg" type="recto"/>
+            <fw type="date" place="top left">1849.</fw>
+            <fw type="header" place="top"><hi rend="italic">The Railway System of Great Britain.</hi></fw>
+            <fw type="pageNum" place="top right">305</fw>
+            <cb/>
+            <p>Perczel, Damianich, Guyon, men of all nations,
+            Magyars, Slavonians, Englishmen. On
+            Bem, the brave Pole, saved from the fate of
+            Blum by a difficult escape from Vienna, was
+            immediately conferred a high command. 
+            Such were the visible signs of preparation;
+            of the invisible and unknown reality who
+            shall speak&#8212;of the thoughts, prayers, and
+            fears of ten millions of human beings, as fit
+            for liberty as the people of England, and
+            spread over a country twice as large?
+            Worthless, indeed, the heart that, beating
+            freely in this land of ours, franchised for us
+            by the blood of our fathers, can think 
+            unmoved of those millions of our contemporaries
+            striving to do the like for their children, albeit
+            they do live in Eastern Europe, and call
+            themselves Magyars!</p>
+            <p>In December, 1848, the war was begun. 
+            An Imperial army of 130,000 men under 
+            Windischgr&#228;tz as commander-in-chief, and 
+            Jellachich and other generals of note as his 
+            subordinates, entered Hungary. The movements 
+            of the various divisions of this army, 
+            and the countermovements of the Hungarians, 
+            during the four months that followed, 
+            will some day form a subject of study for 
+            such as shall be interested in military science. 
+            At present the details are hardly 
+            known. Suffice it to say that, during these 
+            four months, the Hungarians beat their enemies 
+            again and again ; beat them in slight 
+            engagements, and in pitched battles; beat 
+            them in bravery and in strategy; beat them 
+            at the very time when the Austrian journals 
+            were publishing lying reports of victories 
+            gained by the Imperialists, and when hardly 
+            a true account from beleaguered Hungary 
+            could reach the rest of Europe. All that 
+            title to freedom, therefore, that arises from 
+            lion-like courage, from fierce hard obstinacy, 
+            from perfect soundness of head joined to 
+                <span rend="doubleLine-left" hand="#h2" xml:id="i1" from="#i1" to="#i2"/>
+                strength of heart, <hi rend="underline">from unwearied and successful perseverance in a course once begun</hi>&#8212;a title more respected by the world in general, and by Englishmen in particular, than 
+            any arising from mere historic or metaphysic<anchor xml:id="i2"/>
+            right&#8212;this the Hungarians showed themselves 
+            most unmistakably to possess. In one 
+            other respect, too, they proved the superior 
+            temper of their race. Fighting against generals 
+            the most pitiless and barbaric that 
+            ever took the field, men that, defeated in battle, 
+            would hang, shoot, burn, flog, and call it 
+            military firmness, the Hungarians carried all 
+            gently, heroically, like a people noble in misfortune. 
+            That such a people should win 
+            would be a boon to the world. Nor, had they 
+            been left, they and their natural enemies, to 
+            fight it out equally between them, could the result 
+            have been doubtful. One more trial, 
+            however, was to be heaped upon them. Already,<cb/>
+            in April, 1849, had the Austrians been 
+            driven from Hungary; already in the same 
+            month had the emancipated Hungarians proclaimed 
+            their freedom, and chosen Kossuth 
+            their first chief and President, with other ministers, 
+            both Magyar and Slavonian, to assist 
+            him, when the flood-gates of northern despotism 
+            were opened on Austrian solicitation, and 
+            the expected tide rushed in. In the end of 
+            April 50,000 Russians crossed the Hungarian 
+            frontier. Other armies have followed in 
+            their track. And now for three months
+            has the war been waging between the 
+            Hungarians and the united Russian and Austrian
+            armies. The efforts of the Hungarians have 
+            been unprecedented; like brave men, they 
+            have staked all on their last struggle. In 
+            their first battles they beat the Russians, as 
+            they had already beaten the Austrians; at 
+            the moment that we write, however, matters 
+            wear a more perplexed aspect, and all 
+            Europe waits with anxiety to know the issue. 
+            Should the Hungarians finally be victorious, 
+            the results will be most beneficial; in Eastern 
+            Europe there will be founded a free 
+            Magyar-Slavonic State, stronger and greater than 
+            Austria, a splendid commercial member of the 
+            European commonwealth, and a nucleus, 
+            round which the Slavonic races may gradually 
+            and conveniently form themselve according 
+            to their common Panslavic or their separate 
+            national tendencies : should the Russians, on 
+            the other hand, win the day, then there will 
+            be Panslavic Empire in right earnest; the 
+            Tsar, overruling decrepit Austria like a master, 
+            will place his foot upon Constantinople, 
+            and look scowlingly towards the European 
+            West, and this state of things will continue 
+            till the coming blow shall be struck that 
+            shall shiver Russia itself in pieces, and 
+            proclaim a new era for the enfranchised world.</p>
+        </div1>
+        <milestone unit="undeclared" rend="horbar-short"/>
+        <div1>
+            <list>
+                <item>A<hi rend="smallcaps">RT.</hi> X.&#8212;1. <hi rend="italic">
+                    The Railways of the United 
+                    Kingdom Statistically considered, in relation
+                    to their Extent, Capital, Amalgamation,
+                    Debentures, Financial Position, Acts
+                    of Parliament by which Regulated, 
+                    Creation and Appropriation of Shares, Calls,
+                    Dividends, &#38;c., concisely arranged from
+                    Authentic Documents.</hi> By H<hi rend="smallcaps">ARRY</hi> S<hi rend="smallcaps">CRIVENOR</hi>,
+                Secretary to the Liverpool Stock Exchange. London, 1849. 8vo. Pp. 840.</item>
+                <item>2. <hi rend="italic">The Railways of Great Britain and
+                Ireland Practically Described and Illustrated.</hi>
+                    By F<hi rend="smallcaps">RANCIS</hi> W<hi rend="smallcaps">HISHAW</hi>, Civil Engineer,
+                Member of the Institution of Civil Engineers. London, 1840. 4to. Pp. 574.
+                With Seventeen Plates.</item>
+                <item>3. <hi rend="italic">An Historical and Practical Treatise upon</hi></item>
+            </list>
+            <pb xml:id="leaf006v" facs="duk_ap_00165.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">306</fw>
+            <fw type="header" place="top"><hi rend="italic">The Railway System of Great Britain.</hi></fw>
+            <fw type="date" place="top right">Aug.</fw>
+            <cb/>
+            <list>
+                <item><hi rend="italic">Elemental Locomotion by means of Steam
+                Carriages on Common Roads.</hi> By A<hi rend="smallcaps">LEXANDER</hi> 
+                G<hi rend="smallcaps">ORDON</hi>, Civil Engineer. London,
+                1833. 8vo. Pp. 192.</item>
+                <item>4. <hi rend="italic">Past and Present Views of Railways</hi>.
+                By A<hi rend="smallcaps">LEXANDER</hi> G<hi rend="smallcaps">ORDON</hi>, Esq., Member
+                of the Institution of Civil Engineers. London,
+                1849. Pp. 20.</item>
+                <item>5. <hi rend="italic">Stokers and Pokers, or the London and
+                North-Western Railway, the Electric Telegraph,
+                and the Railway Clearing House</hi>.
+                By the Author of Bubbles from the Brunnen
+                of Nassau. Published in Murray's
+                Colonial Library, No. 66. Pp. 208.</item>
+                <item>6. <hi rend="italic">Report of the Commissioners of Railways</hi>,
+                1848. Part I. London, 1848. Pp. 224.</item>
+                <item>7. <hi rend="italic">Report of the Commisioners of Railways</hi>,
+                1848. Part II. London, 1849. Pp. 220.</item>
+            </list>
+            <p>I<hi rend="smallcaps">T</hi> has been lately shown that there is poetry 
+            in science, and more recently it has been 
+            asserted that there is poetry even in railways. 
+            We cheerfully adopt both these 
+            propositions in all their truth and beauty, and 
+            are surprised only at the limitation with 
+            which the sentiment had been surrounded. 
+            Poetry acknowledges no boundary to its domains. 
+            Its strains are breathed throughout 
+            the physical as well as the moral world&#8212;its 
+            music is heard among the spheres&#8212;it chaunts 
+            its lays over the loves of the plants, and its 
+            sympathies are entwined even round the 
+            sufferings and enjoyments of irrational 
+            existence. What a noble epic is the universe 
+            itself! delineated in radiant hieroglyphics on 
+            the azure canvass of the firmament, as 
+            explored by the space-penetrating tube of the 
+            astronomer, and decyphered by the analysis 
+            of the mathematical sage. What a 
+            melodrame is exhibited on our own globe, while 
+            it speeds in ether its annual and its daily 
+            round;&#8212;on our earth-home&#8212;the stage upon 
+            which man has so long strutted his brief 
+            hour, emblazoning his vices and his crimes, 
+            and rioting in giddy frivolity above burning 
+            caverns and primeval tombs, and among the 
+            contemporary dead, over whom he has 
+            himself sighed and wept.</p>
+            <p>Beneath the lava crust on which he daily 
+            treads and slumbers, he witnesses the tragedy 
+            of the pre-Adamite age, in which all the 
+            characters have perished, without leaving a 
+            seed behind;&#8212;while on its surface is played 
+            the comedy of modern life, in which intellectual 
+            and immortal man eats, and drinks, and 
+            dies; and exhibited the farce, in which kings 
+            and conquerors are reproduced in clay, or 
+            embalmed by the apothecary, or thrust under 
+            ground by the sexton. Nor is the poetry of 
+            life thus limited to humanity with its 
+            conflicting interests and passions. It claims 
+            a right of song over the speechless denizens<cb/>
+            of the forest and the heath, of the ocean and 
+            the air. The Pierian spring has tributaries 
+            even in the haunts of ferocious natures; and 
+            with the blood-stained hearth of the tiger, 
+            and the roofless home which the jungle or 
+            the rock affords to the carnivorous pilgrim, 
+            there are associations of tenderness and love, 
+            of suffering and enjoyment, more noble and 
+            affecting than those which are linked with 
+            the lower and more savage grades of 
+            humanity. When animal and intellectual life 
+            are sheltered under the same roof, and when 
+            instinct and reason are auxiliaries in the 
+            house or on the heath, we learn to appreciate 
+            the virtues and the affections, if not the 
+            knowledge and the wisdom, of the brutes 
+            that perish.</p>
+            <p>The poetry of mechanism is one of the 
+            most interesting departments of the poetry of 
+            science, and that of railways cannot fail to 
+            be regarded as the Iliad of its productions&#8212;
+            embracing the account of works the most 
+            expensive and gigantic&#8212;the description of 
+            engines the most ingenious and complex, and 
+            the history of social ameliorations which are 
+            now altering the very condition of man&#8212;
+            virtually extending the very term of his 
+            existence, and opening new and extensive fields 
+            for the exercise of his holiest and noblest 
+            affections.</p>
+            <p>It is not our design in the following 
+            Article to amuse the reader with any account of 
+            those singularly curious and interesting 
+            arrangements&#42; which have been rendered 
+            necessary by the great and rapid extension 
+            of the railway system, for the comfort and 
+            security of the millions whom it accommodates. 
+            Our object is to give the general 
+            reader some idea of the origin, progress, and 
+            extent of the railway system&#8212;of the ingenious 
+            inventions and stupendous works which 
+            it has called into existence&#8212;of the social 
+            triumphs which it has achieved&#8212;of the 
+            improvements of which it is susceptible, and 
+            which are necessary for the security of life 
+            and property&#8212;of its present state and prospects 
+            as a commercial speculation, and of 
+            the necessity of protecting it as a great 
+            national institution,&#8212;by the development of 
+            the whole traffic of the empire&#8212;by the grant 
+            of public aid&#8212;by placing all the railways 
+            in the kingdom under the management of 
+            Government, and by preventing in 
+            future that enormous expenditure of railway 
+            capital which has been so unnecessarily 
+            sunk in the preliminary stages of their 
+            existence, and which has led to the ruin of 
+            many of those enterprising capitalists to</p>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <note type="footnote" resp="#h3" place="bottom">&#42; This has been already beautifully done by the 
+            distinguished author of "Stokers and Pokers," a
+            work well worthy of the reader's perusal and
+            study.</note>
+        </div1>
+    </body>
+</text>
+</TEI>

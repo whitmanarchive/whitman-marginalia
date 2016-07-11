@@ -2,7 +2,7 @@
     xpath-default-namespace="http://www.whitmanarchive.org/namespace"
     xmlns:tei="http://www.tei-c.org/ns/1.0">
     <xsl:output indent="yes"/>
-    
+    <xsl:include href="whitman_include_metadata.xsl"/>
     
     
     <!-- Fields -->
@@ -30,14 +30,14 @@
                     <xsl:value-of select="/TEI/text/@type"/>
                 </field>
                 
+                <!-- Get the filename -->
+                <xsl:variable name="filename" select="tokenize(base-uri(.), '/')[last()]"/>
                 
+                <!-- Split the filename using '\.' -->
+                <xsl:variable name="filenamepart" select="substring-before($filename, '.xml')"/>
                 
                 <field name="id">
-                    <!-- Get the filename -->
-                    <xsl:variable name="filename" select="tokenize(base-uri(.), '/')[last()]"/>
                     
-                    <!-- Split the filename using '\.' -->
-                    <xsl:variable name="filenamepart" select="substring-before($filename, '.xml')"/>
                     
                     <!-- Remove the file extension -->
                     <xsl:value-of select="$filenamepart"/>
@@ -78,8 +78,9 @@
                 
                 <!-- ==================== -->
                 
+                <xsl:variable name="title"><xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title[@level='m' and @type='main']"/></xsl:variable>
                 <field name="title">
-                    <xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title[@level='m' and @type='main']"></xsl:value-of>
+                    <xsl:value-of select="$title"/>
                 </field>
                 
                 <!-- Date -->
@@ -162,8 +163,29 @@
                 </field>
                 
                 <field name="text">
-<xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/bibl/idno"></xsl:value-of><xsl:text>&#10;</xsl:text>
-<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/title"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/publisher"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/pubPlace"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"></xsl:value-of>
+                    
+                    <!-- The following fields are for inserting metadata into text, and should be 
+						redone/generalized soon -kmd -->
+                    
+                    <!-- include ID -->
+                    <xsl:value-of select="$filenamepart"/>
+                    <xsl:text> </xsl:text>
+                    <!-- include title -->
+                    <xsl:value-of select="$title"/>
+                    <xsl:text> </xsl:text>
+                    <!-- include metadata from xml file -->
+                    <xsl:call-template name="include_metadata"/>
+                    
+                    <!-- /including metadata -->
+                    
+                    
+                    
+                    <!-- replaced this with the above, not sure this was ever working correctly (we used copyfields instead) -kmd -->
+                    
+                   
+                    
+<!--<xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/bibl/idno"></xsl:value-of><xsl:text>&#10;</xsl:text>
+<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/title"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/publisher"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/pubPlace"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"></xsl:value-of>-->
                     <xsl:value-of select="//text"/>
                 </field>
             </doc>

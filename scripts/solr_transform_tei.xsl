@@ -2,6 +2,7 @@
 	xpath-default-namespace="http://www.whitmanarchive.org/namespace"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<xsl:include href="whitman_include_metadata.xsl"/>
 	<xsl:output indent="yes" omit-xml-declaration="yes"/>
 	
 	<!-- ===================================
@@ -605,15 +606,24 @@
 				
 				<!-- text -->
 				
-				<!--<field name="text">
-					<xsl:for-each select="//text">
-						<xsl:text> </xsl:text>
-						<xsl:value-of select="normalize-space(.)"/>
-						<xsl:text> </xsl:text>
-					</xsl:for-each>
-				</field>-->
+				
 				
 				<field name="text">
+					
+					<!-- The following fields are for inserting metadata into text, and should be 
+						redone/generalized soon -kmd -->
+					
+					<!-- include ID -->
+					<xsl:value-of select="$filenamepart"/>
+					<xsl:text> </xsl:text>
+					<!-- include title -->
+					<xsl:value-of select="$title"/>
+					<xsl:text> </xsl:text>
+					<!-- include metadata from xml file -->
+					<xsl:call-template name="include_metadata"/>
+					
+					<!-- /including metadata -->
+					
 					<xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/bibl/idno"></xsl:value-of><xsl:text>&#10;</xsl:text>
 					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/title"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/publisher"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/pubPlace"></xsl:value-of>, <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"></xsl:value-of>
 					<xsl:value-of select="//text"/>

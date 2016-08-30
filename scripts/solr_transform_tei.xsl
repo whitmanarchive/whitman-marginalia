@@ -119,43 +119,10 @@
     <field name="text_type_s">
       <xsl:value-of select="/TEI/text/@type"/>
     </field>
-
-    <field name="marginalia_place_s">
-      <xsl:variable name="filename_prefix" select="substring(/TEI/@xml:id, 1, 3)"/>
-      <xsl:if test="$filename_prefix='loc'">
-        <xsl:text>Library of Congress</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='duk'">
-        <xsl:text>Duke University</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='nyp'">
-        <xsl:text>New York Public Library</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='mid'">
-        <xsl:text>Middlebury College</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='yal'">
-        <xsl:text>Yale University</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='bmr'">
-        <xsl:text>Bryn Mawr College</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='rut'">
-        <xsl:text>Rutgers University</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='owu'">
-        <xsl:text>Ohio Wesleyan University</xsl:text>
-      </xsl:if>
-      <xsl:if test="$filename_prefix='tex'">
-        <xsl:text>Harry Ransom Center</xsl:text>
-      </xsl:if>
-    </field>
   </xsl:template>
 
   <!-- adds text copyfield -->
   <xsl:template name="text_other">
-    <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/bibl/idno"/>
-    <xsl:text>&#10;</xsl:text>
     <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"/>,
     <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/title"/>,
     <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/publisher"/>,

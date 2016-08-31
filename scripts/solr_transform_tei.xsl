@@ -50,17 +50,23 @@
       </xsl:template>
   -->
 
+  <!-- ============= Category ============= -->
+
   <xsl:template name="category">
     <field name="category">
       <xsl:text>manuscripts</xsl:text>
     </field>
   </xsl:template>
 
+  <!-- ============= SubCategory ============= -->
+
   <xsl:template name="subCategory">
     <field name="subCategory">
       <xsl:text>marginalia</xsl:text>
     </field>
   </xsl:template>
+
+  <!-- ============= Date and Date Display ============= -->
 
   <xsl:template name="date">
     <field name="dateDisplay">
@@ -78,48 +84,15 @@
     </field>
   </xsl:template>
 
-  <xsl:template name="recipients">
-    <xsl:if test="/TEI/teiHeader/profileDesc/particDesc/person/@role='recipient'">
-      <!-- All in one field -->
-      <field name="recipient">
-        <xsl:if test="count(//person[@role='recipient']) = 1">
-          <xsl:value-of select="//person[@role='recipient']/persName/attribute::key"/>
-        </xsl:if>
-        <xsl:if test="count(//person[@role='recipient']) = 2">
-          <xsl:value-of select="//person[@role='recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role='recipient'][2]/persName/attribute::key"/>
-        </xsl:if>
-        <xsl:if test="count(//person[@role='recipient']) = 3">
-          <xsl:value-of select="//person[@role='recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role='recipient'][2]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role='recipient'][3]/persName/attribute::key"/>
-        </xsl:if>
-        <xsl:if test="count(//person[@role='recipient']) &gt; 3">
-          <xsl:value-of select="//person[@role='recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role='recipient'][2]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role='recipient'][3]/persName/attribute::key"/>
-          <xsl:text> and others</xsl:text>
-        </xsl:if>
-      </field>
-      <!-- Individual fields -->
-      <xsl:for-each select="/TEI/teiHeader/profileDesc/particDesc/person[@role='recipient']/persName/@key">
-        <field name="recipients">
-          <xsl:value-of select="."></xsl:value-of>
-        </field>
-      </xsl:for-each>
-    </xsl:if>
-  </xsl:template>
+  <!-- ============= Custom (Other) Fields ============= -->
 
   <xsl:template name="other_fields">
     <field name="text_type_s">
       <xsl:value-of select="/TEI/text/@type"/>
     </field>
   </xsl:template>
+
+  <!-- ============= Custom Text (for searching) ============= -->
 
   <!-- adds text copyfield -->
   <xsl:template name="text_other">

@@ -67,22 +67,24 @@
   </xsl:template>
 
   <!-- ============= Date and Date Display ============= -->
+  
+ 
 
-  <xsl:template name="date">
+  <!--<xsl:template name="date">
     <field name="dateDisplay">
       <xsl:value-of select="//sourceDesc/bibl/date"/>
     </field>
     <field name="date">
       <xsl:choose>
-        <xsl:when test="//sourceDesc/bibl/date/attribute::notBefore">
-          <xsl:value-of select="//sourceDesc/bibl/date/attribute::notBefore"/>
+        <xsl:when test="//bibl[//date[@notBefore]]/date[@notBefore]">
+          <xsl:value-of select="//bibl[//date[@notBefore]][1]/date[@notBefore][1]/@notBefore"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="//sourceDesc/bibl/date/attribute::when"/>
+          <xsl:value-of select="//sourceDesc/bibl[1]/date[1]/attribute::when"/>
         </xsl:otherwise>
       </xsl:choose>
     </field>
-  </xsl:template>
+  </xsl:template>-->
 
   <!-- ============= Custom (Other) Fields ============= -->
 

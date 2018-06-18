@@ -83,6 +83,20 @@
     </field>
   </xsl:template>-->
 
+  <!-- ============= URI ============== -->
+
+  <xsl:template name="uri">
+    <xsl:variable name="type" select="if (/TEI/text/@type = 'marginalia') then 'transcriptions' else 'annotations'"/>
+    <field name="uri">
+      <xsl:value-of select="$site_url"/>
+      <xsl:text>/manuscripts/marginalia/</xsl:text>
+      <xsl:value-of select="$type"/>
+      <xsl:text>/</xsl:text>
+      <xsl:value-of select="$filenamepart"/>
+      <xsl:text>.html</xsl:text>
+    </field>
+  </xsl:template>
+
   <!-- ============= Custom (Other) Fields ============= -->
 
   <xsl:template name="other_fields">

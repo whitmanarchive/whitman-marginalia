@@ -13,6 +13,8 @@ class TeiToEs
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@when"
     ]
     xpaths["date_display"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date"
+    # custom xpath for marginalia
+    xpaths["text_type"] = "/TEI/text/@type"
     return xpaths
   end
 
@@ -66,7 +68,14 @@ class TeiToEs
   # TODO text other from author, title, publisher, pubplace, and date[@when]
 
   def uri
-    "#{@options["site_url"]}/manuscripts/marginalia/tei/#{@filename}.html"
+    # text_type as a custom field in the API has yet to be implemented, but using
+    # the value to determine the URI structure
+    text_type = get_text(@xpaths["text_type"])
+    if text_type == "marginalia"
+      "#{@options["site_url"]}/manuscripts/marginalia/transcriptions/#{@filename}.html"
+    else
+      "#{@options["site_url"]}/manuscripts/marginalia/annotations/#{@filename}.html"
+    end
   end
 
 end

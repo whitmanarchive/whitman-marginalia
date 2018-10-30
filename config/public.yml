@@ -3,6 +3,8 @@ default:
   # are in data/config/private.yml
   # (solr_core, solr_path, solr_variables, etc)
 
+  collection: whitman
+  site_url: https://whitmanarchive.org
   shortname: whitman-marginalia
   collection_desc: Marginalia for The Walt Whitman Archive
   tei_solr_xsl: collections/whitman-marginalia/scripts/solr_transform_tei.xsl
@@ -12,9 +14,8 @@ default:
     site_url: https://whitmanarchive.org
     slug: whitman-marginalia
 development:
+  site_url: https://whitman-dev.unl.edu
   variables_solr:
     project: The_Walt_Whitman_Archive
     site_url: https://whitman-dev.unl.edu
     slug: whitman-marginalia
-# production:
-  # production overrides here

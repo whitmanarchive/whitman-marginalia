@@ -5,4 +5,5 @@ Data Repo | Whitman Marginalia TEI
 
 The <em>Walt Whitman Archive</em> data repositories include the base TEI/XML files that comprise several sections of the <em>Whitman Archive</em>.  All XML for a given section is available in the "tei" directory.  Other directories contain materials related to the process of indexing the files in SOLR and work in combination with the University of Nebraska-Lincoln Center for Digital Research in the Humanities [central data repository](https://github.com/CDRH/data). For more information about the <em>Walt Whitman Archive</em>, including encoding guidelines and editorial policy statements, see [About the <em>Whitman Archive</em>](http://whitmanarchive.org/about/index.html).
 
-*NOTE* This repository should only be updated with production ready TEI from manuscripts/marginalia/tei
+*NOTE* This repository should only be updated with production ready TEI from manuscripts/marginalia/tei and manuscripts/marginalia/tei-annotations
+

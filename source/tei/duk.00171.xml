@@ -9,7 +9,11 @@
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
-                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
                 </respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +39,7 @@
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
             </publicationStmt>                 
             <notesStmt>                 
-                <note type="project" target="#dat1">Floyd Stovall recognized this piece as a "paraphrase, with a few quotations, of Macauley's essay on Goldsmith in <hi rend="italic">Encyclopedia Britannica</hi> (8th ed.) which Whitman would have read in <hi rend="italic">Harper's Magazine</hi>, 14 (April 1857), 633–639. See Stovall, "Notes on Whitman's Reading," <hi rend="italic">American Literature</hi> 26, 348.</note>             
+                <note type="project" target="#dat1">Floyd Stovall recognized this piece as a "paraphrase, with a few quotations, of Macauley's essay on Goldsmith in <hi rend="italic">Encyclopedia Britannica</hi> (8th ed.) which Whitman would have read in <hi rend="italic">Harper's Magazine</hi>, 14 (April 1857), 633–639. See Stovall, "Notes on Whitman's Reading," <hi rend="italic">American Literature</hi> 26 (November 1954), 348.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -54,6 +58,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
+            <change who="#nhg" when="2018-09-17">added month and date to Stovall citation in headnote</change>
             <change who="#nhg" when="2015-01-27">added date information</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-07-28">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-08-23">Checked and revised.</change>

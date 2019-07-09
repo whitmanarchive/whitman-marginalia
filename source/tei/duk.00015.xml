@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" type="main">Christopher Under Canvass</title>
+                <title level="m" type="main">Christopher under Canvass</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <author xml:id="ww">Walt Whitman</author>
                 <author xml:id="unk">[John Wilson?]</author>
@@ -55,7 +55,7 @@
                 </bibl>
                 <bibl type="base" xml:id="r1">
                     <author>[John Wilson?]</author>
-                    <title level="a">Christopher Under Canvass</title>
+                    <title level="a">Christopher under Canvass</title>
                     <title level="j">Edinburgh Magazine</title>
                     <date>June 1849</date>
                     <biblScope type="vol">65</biblScope>
@@ -72,6 +72,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
+            <change who="#nhg" when="2015-12-01">corrected title</change>
             <change who="#nhg" when="2015-02-26">corrected handNote formatting</change>
             <change who="#lmg" when="2011-09-01">Transcribed and encoded.</change>
             <change who="#nhg" when="2012-04-17">Checked, revised.</change>

@@ -6,7 +6,7 @@ class FileCsv
 
   def create_manifest_base
     IIIF::Presentation::Manifest.new({
-      "@id" => "https://whitman-dev.unl.edu/media/data/whitman-marginalia/output/#{@options["environment"]}/manifests/geography_scrapbook.json",
+      "@id" => "https://whitman-dev.unl.edu/media/data/whitman-marginalia/output/#{@options["environment"]}/iiif/geography_scrapbook.json",
       "label" => "Whitman's Cultural Geography Scrapbook",
       #"description" => [
       #  "@value" => "This is a description",
@@ -21,7 +21,7 @@ class FileCsv
   end
 
   def print_iiif(json, filename)
-    output_dir = File.join(@options["collection_dir"], "output", @options["environment"], "manifests")
+    output_dir = File.join(@options["collection_dir"], "output", @options["environment"], "iiif")
     File.open(File.join(output_dir, "geography_scrapbook.json"), "w") { |f| f.write(json.to_json(pretty: true)) }
   end
 

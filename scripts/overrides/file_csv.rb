@@ -6,7 +6,7 @@ class FileCsv
 
   def create_manifest_base
     IIIF::Presentation::Manifest.new({
-      "@id" => "https://whitman-dev.unl.edu/media/data/whitman-marginalia/output/#{@options["environment"]}/iiif/geography_scrapbook.json",
+      "@id" => "#{@iiif_output_path}/geography_scrapbook.json",
       "label" => "Whitman's Cultural Geography Scrapbook",
       #"description" => [
       #  "@value" => "This is a description",
@@ -21,8 +21,7 @@ class FileCsv
   end
 
   def print_iiif(json, filename)
-    output_dir = File.join(@options["collection_dir"], "output", @options["environment"], "iiif")
-    File.open(File.join(output_dir, "geography_scrapbook.json"), "w") { |f| f.write(json.to_json(pretty: true)) }
+    File.open(File.join(@iiif_output_dir, "geography_scrapbook.json"), "w") { |f| f.write(json.to_json(pretty: true)) }
   end
 
   def row_to_canvas(page)
@@ -35,7 +34,8 @@ class FileCsv
     full_url = "#{@iiif_path}%2F#{image_filename}/#{@iiif_end}"
     thumb_url = "#{@iiif_path}%2F#{image_filename}/#{@iiif_thumb}"
 
-    canvas["@id"] = "https://whitmanarchive.org/TODO/#{image_filename}"
+    image_filename_noext = image_filename[/^(.*)\.jpg$/,1]
+    canvas["@id"] = "#{@iiif_output_path}/canvas/#{image_filename_noext}.json"
     canvas.label = "#{label}"
     canvas.thumbnail = thumb_url
 
@@ -51,14 +51,15 @@ class FileCsv
       @errors << "#{image_filename} : #{e}"
       return nil
     end
-    annotation["on"] = "https://whitmanarchive.org/TODO/#{image_filename}"
-    annotation["@id"] = "https://whitmanarchive.org/TODO/annotation/#{image_filename}"
+    annotation["on"] = "#{@iiif_output_path}/canvas/#{image_filename_noext}.json"
+    annotation["@id"] = "#{@iiif_output_path}/annotation/#{image_filename_noext}.json"
     canvas.images << annotation
     canvas.width = annotation.resource.width
     canvas.height = annotation.resource.height
 
     # output all the canvas methods for inspection
     # puts canvas.methods(false).sort
+    canvas
   end
 
   def transform_iiif
@@ -66,6 +67,8 @@ class FileCsv
     @iiif_path = "https://whitmanarchive.org/iiif/2/manuscripts%2Fmarginalia%2Ffigures%2F"
     @iiif_end = "full/full/0/default.jpg"
     @iiif_thumb = "full/!150,150/0/default.jpg"
+    @iiif_output_dir = "#{@options["collection_dir"]}/output/#{@options["environment"]}/iiif"
+    @iiif_output_path = "#{@options["data_base"]}/output/#{@options["environment"]}/iiif"
     @errors = []
 
     manifest = create_manifest_base

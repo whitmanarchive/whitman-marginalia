@@ -68,7 +68,7 @@ class FileCsv
     @iiif_end = "full/full/0/default.jpg"
     @iiif_thumb = "full/!150,150/0/default.jpg"
     @iiif_output_dir = "#{@options["collection_dir"]}/output/#{@options["environment"]}/iiif"
-    @iiif_output_path = "#{@options["data_base"]}/output/#{@options["environment"]}/iiif"
+    @iiif_output_path = "#{@options["data_base"]}/data/#{@options["shortname"]}/output/#{@options["environment"]}/iiif"
     @errors = []
 
     manifest = create_manifest_base

@@ -83,7 +83,7 @@ class FileCsv
 
     csv.each do |page|
       canvas = row_to_canvas(page)
-      sequence_primary.canvases << canvas
+      sequence_primary.canvases << canvas if canvas
     end
 
     manifest.sequences << sequence_primary

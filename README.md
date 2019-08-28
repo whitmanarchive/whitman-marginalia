@@ -7,3 +7,22 @@ The <em>Walt Whitman Archive</em> data repositories include the base TEI/XML fil
 
 *NOTE* This repository should only be updated with production ready TEI from manuscripts/marginalia/tei and manuscripts/marginalia/tei-annotations
 
+## Update Documents
+
+See wiki for full instructions about updating Solr.  For help:
+
+```
+bundle exec post -h
+```
+
+Quickly post all documents to Solr:
+
+```
+bundle exec post -x solr
+```
+
+Update IIIF page viewer manifest:
+
+```
+bundle exec post -x iiif
+```

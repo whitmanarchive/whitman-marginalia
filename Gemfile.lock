@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: 713150b6ae3f82cf1f44aa702d31adbc5f586e3c
-  tag: v0.1.3
+  revision: 5c8fc03b0656bfd7bfef7d03a6a317e75eadc212
+  tag: v0.1.5
   specs:
-    datura (0.1.3)
+    datura (0.1.5)
       colorize (~> 0.8.1)
       nokogiri (~> 1.8)
       rest-client (~> 2.0.2)
@@ -11,47 +11,47 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.0)
+    activesupport (6.0.2.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-      zeitwerk (~> 2.1, >= 2.1.8)
+      zeitwerk (~> 2.2)
     colorize (0.8.1)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    faraday (0.15.4)
+    faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.6.0)
+    i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     iiif-presentation (0.2.0)
       activesupport (>= 3.2.18)
       faraday (>= 0.9)
       json
-    json (2.2.0)
-    mime-types (3.2.2)
+    json (2.3.0)
+    mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2019.0331)
+    mime-types-data (3.2019.1009)
     mini_portile2 (2.4.0)
-    minitest (5.11.3)
+    minitest (5.14.0)
     multipart-post (2.1.1)
     netrc (0.11.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.6)
-    zeitwerk (2.1.9)
+    unf_ext (0.0.7.7)
+    zeitwerk (2.3.0)
 
 PLATFORMS
   ruby
@@ -61,4 +61,4 @@ DEPENDENCIES
   iiif-presentation (~> 0.2.0)
 
 BUNDLED WITH
-   1.17.3
+   2.1.4

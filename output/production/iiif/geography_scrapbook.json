@@ -17904,6 +17904,34 @@
           "height": 2848
         },
         {
+          "@id": "https://whitmanarchive.org/media/data/whitman-marginalia/output/production/iiif/canvas/whitman_scrapbook_640.json",
+          "@type": "sc:Canvas",
+          "label": "Image 640",
+          "thumbnail": "https://whitmanarchive.org/iiif/2/manuscripts%2Fmarginalia%2Ffigures%2F%2Fwhitman_scrapbook_640.jpg/full/!150,150/0/default.jpg",
+          "images": [
+            {
+              "@id": "https://whitmanarchive.org/media/data/whitman-marginalia/output/production/iiif/annotation/whitman_scrapbook_640.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://whitmanarchive.org/iiif/2/manuscripts%2Fmarginalia%2Ffigures%2F%2Fwhitman_scrapbook_640.jpg/full/!200,200/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 14506,
+                "height": 10273,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://whitmanarchive.org/iiif/2/manuscripts%2Fmarginalia%2Ffigures%2F%2Fwhitman_scrapbook_640.jpg",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://whitmanarchive.org/media/data/whitman-marginalia/output/production/iiif/canvas/whitman_scrapbook_640.json"
+            }
+          ],
+          "width": 14506,
+          "height": 10273
+        },
+        {
           "@id": "https://whitmanarchive.org/media/data/whitman-marginalia/output/production/iiif/canvas/whitman_scrapbook_641.json",
           "@type": "sc:Canvas",
           "label": "Image 641",

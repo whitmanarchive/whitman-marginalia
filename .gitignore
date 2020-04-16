@@ -5,8 +5,9 @@ config/private.yml
 # scripts/.xslt is populated based on version of datura gem
 /scripts/.xslt-datura/*
 
-# ignore all output types except for production html
+# ignore all output types except for production html and iiif
 /output/*
 !/output/production
 /output/production/*
 !/output/production/html
+!/output/production/iiif

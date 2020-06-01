@@ -62,6 +62,10 @@ class FileCsv
     canvas
   end
 
+  def transform_es
+    puts "CSV to ES currently not supported by Whitman Marginalia"
+  end
+
   def transform_iiif
     # iiif config
     @iiif_path = "https://whitmanarchive.org/iiif/2/manuscripts%2Fmarginalia%2Ffigures%2F"

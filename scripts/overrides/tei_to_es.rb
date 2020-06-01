@@ -65,6 +65,10 @@ class TeiToEs
     "marginalia"
   end
 
+  def topics
+    get_text(@xpaths["text_type"])
+  end
+
   # TODO text other from author, title, publisher, pubplace, and date[@when]
 
   def uri

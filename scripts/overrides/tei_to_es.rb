@@ -7,15 +7,19 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    # TODO I am not sure that the first bibl is necessarily what we want as there are multiple
-    xpaths["date"] = [
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@notBefore",
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@when"
+    xpaths["contributors"] = [
+      "//titleStmt/respStmt/persName"
     ]
-    xpaths["date_display"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date"
-    # custom xpath for marginalia
-    xpaths["text_type"] = "/TEI/text/@type"
-    return xpaths
+    xpaths["date"] = {
+      "not_after" => "//sourceDesc/bibl/date/@notAfter",
+      "not_before" => "//sourceDesc/bibl/date/@notBefore",
+      "known" => "//sourceDesc/bibl[1]/date/@when"
+    }
+    xpaths["date_display"] = "//sourceDesc/bibl[1]/date"
+    xpaths["rights"] = "//publicationStmt/availability"
+    xpaths["rights_uri"] = "//publicationStmt/availability//ref/@target"
+    xpaths["topics"] = "/TEI/text/@type"
+    xpaths
   end
 
   #################
@@ -41,12 +45,23 @@ class TeiToEs
   end
 
   def date(before=true)
-    date = ""
-    @xpaths["date"].each do |xpath|
-      date = get_text(xpath)
-      break if !date.empty?
+    dt = get_text(@xpaths["date"]["known"])
+    if dt.empty?
+      # if there is no known date, use the not_before date
+      # as the primary date for general searches / filtering
+      dt = get_text(@xpaths["date"]["not_before"])
     end
-    CommonXml.date_standardize(date, before)
+    Datura::Helpers.date_standardize(dt)
+  end
+
+  def date_not_after
+    dt = get_text(@xpaths["date"]["not_after"])
+    dt.empty? ? date(false) : Datura::Helpers.date_standardize(dt, false)
+  end
+
+  def date_not_before
+    dt = get_text(@xpaths["date"]["date_not_before"])
+    dt.empty? ? date : Datura::Helpers.date_standardize(dt)
   end
 
   def language
@@ -59,22 +74,25 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO place, publisher, rights, rights_uri, rights_holder, source
+  def rights
+    get_text(@xpaths["rights"])
+  end
+
+  def rights_uri
+    get_text(@xpaths["rights_uri"])
+  end
 
   def subcategory
     "marginalia"
   end
 
   def topics
-    get_text(@xpaths["text_type"])
+    get_text(@xpaths["topics"])
   end
 
-  # TODO text other from author, title, publisher, pubplace, and date[@when]
-
   def uri
-    # text_type as a custom field in the API has yet to be implemented, but using
-    # the value to determine the URI structure
-    text_type = get_text(@xpaths["text_type"])
+    # TODO this may be altered in the new rails structure
+    text_type = get_text(@xpaths["topics"])
     if text_type == "marginalia"
       "#{@options["site_url"]}/manuscripts/marginalia/transcriptions/#{@filename}.html"
     else

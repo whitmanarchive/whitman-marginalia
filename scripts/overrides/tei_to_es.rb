@@ -7,17 +7,7 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    xpaths["contributors"] = [
-      "//titleStmt/respStmt/persName"
-    ]
-    xpaths["date"] = {
-      "not_after" => "//sourceDesc/bibl/date/@notAfter",
-      "not_before" => "//sourceDesc/bibl/date/@notBefore",
-      "known" => "//sourceDesc/bibl[1]/date/@when"
-    }
-    xpaths["date_display"] = "//sourceDesc/bibl[1]/date"
-    xpaths["rights"] = "//publicationStmt/availability"
-    xpaths["rights_uri"] = "//publicationStmt/availability//ref/@target"
+    xpaths["rights_holder"] = "//fileDesc/publicationStmt/distributor"
     xpaths["topics"] = "/TEI/text/@type"
     xpaths
   end
@@ -44,26 +34,6 @@ class TeiToEs
     "manuscripts"
   end
 
-  def date(before=true)
-    dt = get_text(@xpaths["date"]["known"])
-    if dt.empty?
-      # if there is no known date, use the not_before date
-      # as the primary date for general searches / filtering
-      dt = get_text(@xpaths["date"]["not_before"])
-    end
-    Datura::Helpers.date_standardize(dt)
-  end
-
-  def date_not_after
-    dt = get_text(@xpaths["date"]["not_after"])
-    dt.empty? ? date(false) : Datura::Helpers.date_standardize(dt, false)
-  end
-
-  def date_not_before
-    dt = get_text(@xpaths["date"]["date_not_before"])
-    dt.empty? ? date : Datura::Helpers.date_standardize(dt)
-  end
-
   def language
     # TODO verify that none of these are primarily english
     "en"
@@ -72,14 +42,6 @@ class TeiToEs
   def languages
     # TODO verify that none of these are multiple languages
     [ "en" ]
-  end
-
-  def rights
-    get_text(@xpaths["rights"])
-  end
-
-  def rights_uri
-    get_text(@xpaths["rights_uri"])
   end
 
   def subcategory

@@ -69,7 +69,7 @@ class TeiToEs
       # Datura::Helpers.date_standardize(datestr, true)
       Date.strptime(datestr).year
     else
-      date(true)
+      Date.strptime(date(true)).year
     end
   end
 
@@ -78,7 +78,7 @@ class TeiToEs
     if datestr && !datestr.empty?
       Date.strptime(datestr).year
     else
-      date(true)
+      Date.strptime(date(true)).year
     end
   end
 

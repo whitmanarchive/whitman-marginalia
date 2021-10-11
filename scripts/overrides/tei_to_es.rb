@@ -66,19 +66,18 @@ class TeiToEs
   def date_not_after
     datestr = get_text(@xpaths["date_not_after"])
     if datestr && !datestr.empty?
-      # Datura::Helpers.date_standardize(datestr, true)
-      Date.strptime(datestr).year
+      Datura::Helpers.date_standardize(datestr, true)
     else
-      Date.strptime(date(true)).year
+      date(true)
     end
   end
 
   def date_not_before
     datestr = get_text(@xpaths["date_not_before"])
     if datestr && !datestr.empty?
-      Date.strptime(datestr).year
+      Datura::Helpers.date_standardize(datestr, true)
     else
-      Date.strptime(date(true)).year
+      date(true)
     end
   end
 

@@ -10,7 +10,12 @@
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
-                    <persName xml:id="lcb">Laura Beerits</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="lcb">Laura Beerits</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
                 </respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +40,9 @@
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
             </publicationStmt>
-            
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>
+            </notesStmt>
             <sourceDesc>
                 <bibl>
                 <author>Walt Whitman</author>
@@ -55,6 +62,7 @@
         </handNotes>
     </profileDesc>
     <revisionDesc>
+        <change who="#km" when="2020-01-30">added link to scrapbook in editorial note</change>
         <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
         <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lcb" when="2013-06-16">Transcribed.</change>
         <change who="#tra" when="2013-09-07">Encoded.</change>

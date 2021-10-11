@@ -20,6 +20,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="ano">Alejandro Omidsalar</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
                 </respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -54,13 +55,12 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                         by the owners of the originals for this publication only.</p>
                 </availability>
             </publicationStmt>
-            <notesStmt><note type="project">Herrig was the editor of this collection; 
-                this section is an excerpt of a work by Chambers.</note></notesStmt>
+            <notesStmt><note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. This document comes from a collected volume, edited by Ludwig Herrig (see "Base Document Citation," above); the pages that Whitman has removed from the volume are an excerpt of a work by Robert Chambers.</note></notesStmt>
             <sourceDesc><bibl>
                 <author>Walt Whitman</author>
                 <title>Excerpt from Herrig's The British Classical Authors</title>
                 <idno type="callno">MS q 186</idno>
-                <date notBefore="1850-01-01" notAfter="1892-03-26">1850 or after</date>
+                <date notBefore="1850-01-01" notAfter="1860">Between 1850 and 1860</date>
                 <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
                 <note type="project">Transcribed from digital images of the original item.</note>
             </bibl>
@@ -82,8 +82,10 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             </handNotes>
         </profileDesc> 
         <revisionDesc>
-            <change who="#ano" when="2015-09-10">Transcribed and encoded.</change>
-            <change who="#mc" when="2015-09-21">Proofed.</change>   
+            <change who="#km" when="2020-02-06">edited editorial note</change>
+            <change who="#km" when="2020-01-31">proofed</change>
+            <change who="#mc" when="2015-09-21">Proofed.</change>
+            <change who="#ano" when="2015-09-10">Transcribed and encoded.</change>               
         </revisionDesc>
     </teiHeader>
     <text type="marginalia">

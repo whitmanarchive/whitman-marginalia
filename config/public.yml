@@ -6,6 +6,8 @@ default:
   tei_solr_xsl: scripts/overrides/solr_transform_tei.xsl
   data_base: https://whitmanarchive.org/media
   media_base: https://whitmanarchive.org/media
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
+  
 
 development:
   es_path: https://whitman-dev.unl.edu/elastic

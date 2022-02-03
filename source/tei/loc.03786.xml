@@ -101,7 +101,7 @@
             <change when="2019-06-03" who="#clh">transcribed and encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="annotations">
+    <text type="marginalia">
         <body>
 
             <pb xml:id="leaf001r" facs="loc.03786.001.jpg" type="recto"/>

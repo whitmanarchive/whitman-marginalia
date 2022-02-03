@@ -82,7 +82,7 @@
         </revisionDesc>
     </teiHeader>
 
-    <text type="annotations">
+    <text type="manuscript">
         <body>
             <ab/>
             <pb xml:id="leaf001r" facs="duk.00064.001.jpg" type="recto"/>

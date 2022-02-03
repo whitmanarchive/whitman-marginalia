@@ -79,7 +79,7 @@
             <change when="2019-12-06" who="#as">Transcribed; encoded</change>
         </revisionDesc>
     </teiHeader>    
-    <text type="annotations">
+    <text type="marginalia">
         <body>
             <pb xml:id="leaf001r" facs="DAWNCLR.jpg" type="recto"/>
            

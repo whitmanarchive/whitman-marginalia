@@ -74,7 +74,7 @@
          <change who="#nhg" when="2014-08-07">metadata extracted and transformed from EAD file</change>
       </revisionDesc>
    </teiHeader>
-   <text type="annotations">
+   <text type="manuscript">
       <body>
          <pb xml:id="leaf001r" facs="bpl.00003.001.jpg" type="recto"/>
          <head type="main-authorial"><hi rend="underline"><handShift new="#h1"/>Religions&#8212;Gods</hi></head>

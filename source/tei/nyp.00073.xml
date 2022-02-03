@@ -65,7 +65,7 @@
         </revisionDesc>
     </teiHeader>
 
-    <text type="annotations">
+    <text type="manuscript">
         <body> 
             <pb xml:id="leaf001r" facs="M_1238147.jpg" type="recto"/>
             

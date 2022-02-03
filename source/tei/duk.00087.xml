@@ -84,7 +84,7 @@
             <change when="2019-10-25" who="#as">transcribed and encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="annotations">
+    <text>
         <body>            
             <pb xml:id="leaf001r" facs="duk.00087.001.jpg" type="recto"/>
             <ab/><!-- adding this so that document is valid; schema doesn't like when there is no content other than <add>s. KM -->

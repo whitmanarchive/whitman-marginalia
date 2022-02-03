@@ -92,7 +92,7 @@
             <change when="2019-10-25" who="#as">transcribed and encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="annotations">
+    <text type="marginalia">
         <body>            
             <pb xml:id="leaf001r" facs="duk.00049.001.jpg" type="recto"/>
             

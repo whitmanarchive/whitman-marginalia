@@ -68,7 +68,7 @@
             <change when="2019-12-08" who="#as">Transcribed; encoded</change>
         </revisionDesc>
     </teiHeader>    
-    <text type="annotations">
+    <text>
         <body>
             <pb xml:id="leaf001r" facs="2039_010.jpg" type="recto"/>
             

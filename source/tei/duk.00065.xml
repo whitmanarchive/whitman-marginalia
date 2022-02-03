@@ -92,7 +92,7 @@
         </revisionDesc>
     </teiHeader>
 
-    <text type="annotations">
+    <text type="manuscript">
         <body>
             <pb xml:id="leaf001r" facs="duk.00065.001.jpg" type="recto"/>
             <ab><handShift new="#h1"/>American Institute Farmers Club</ab>

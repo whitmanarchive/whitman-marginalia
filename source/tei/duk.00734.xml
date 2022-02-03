@@ -77,7 +77,7 @@
             <change when="2019-06-12" who="#as">transcribed, encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="marginalia">
+    <text>
         <body>
             <pb xml:id="leaf001r" facs="duk_ap_00172.jpg" type="recto"/>
             <div1>

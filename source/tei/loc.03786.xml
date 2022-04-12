@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
 <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03786">
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03786">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -101,7 +101,7 @@
             <change when="2019-06-03" who="#clh">transcribed and encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="annotations">
+    <text type="marginalia">
         <body>
 
             <pb xml:id="leaf001r" facs="loc.03786.001.jpg" type="recto"/>

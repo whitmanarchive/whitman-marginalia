@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02137">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main">Whitman Reads New York</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Kevin McMullen</author>
+<respStmt>
+<resp>Transcription and encoding</resp>
+  <persName xml:id="km">Kevin McMullen</persName>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+</titleStmt><editionStmt>
+<edition><date>2020</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>anc.02137</idno> 
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+</address>
+<availability>
+  <p>
+    This text is made available under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    .
+  </p>
+  <p>
+    The text encoding was created and/or prepared by the
+    <title level="m">Walt Whitman Archive</title>
+    and is licensed under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    (CC BY 4.0). Any reuse of these materials should credit the
+    <title level="m">Walt Whitman Archive</title> and Kevin McMullen.
+  </p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+  <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+  <change when="2020-02-20" who="#km">implemented Ken's edits</change>
+  <change when="2020-01-24" who="#km">implemented Matt's edits</change>
+  <change when="2019-08-08" who="#km">created page</change>
+</revisionDesc>
+</teiHeader>
+
+<text type="ancillary">
+<body>
+  <head type="main">WHITMAN READS NEW YORK</head>
+  
+  <div1 type="section">
+    <head type="sub">Introduction</head>
+    <p>Walt Whitman was born in New York and lived there for over four decades. But what did he actually know and how did he learn about the area with which he is most associated? While much of the poet's education about the Empire State&#8212;and, in particular, about New York City and Long Island&#8212;came from simply observing and experiencing the world around him, Whitman also learned about New York as he learned about so much else: he picked up a book or a newspaper, and he read. We know this from the books and newspapers that he collected and then left behind, scribbled in and underlined. Examination of such documents offers insight into Whitman's process of self-education about his hometown and his particular areas of interest related to it. It also provides a revealing counterpoint to the narrative of Whitman as the roving bard, wandering the city to draw inspiration; in part, Whitman contained multitudes because he consumed multitudes, voraciously reading to learn about the world around him—even the world right outside his door in Brooklyn.</p>
+  
+    <p>The marginalia and annotations presented here show Whitman absorbing a wide range of materials&#8212;from ephemeral documents dealing with everyday, local concerns; to large volumes detailing the long history of New York; to textbooks and atlases describing the area's physical and geographical characteristics. This range is representative of the varying ways Whitman wrote about New York and Long Island. While poems such as "Manahatta" celebrated New York City's vibrancy and ever-expanding scale, its "tall and wonderful spires" and its "high growths of iron . . . splendidly uprising towards the clear skies," poems such as "Paumanok" and "Out of the Cradle Endlessly Rocking" focus on the more pastoral, natural beauty of neighboring Long Island. Whitman's prose writing about New York displays a similar range, with his "Brooklyniana" newspaper series featuring descriptions of contemporary Brooklyn and Long Island, including its current population and main products, even while most of the series is devoted to reminiscences of various aspects of the area's past. While Whitman would never again permanently live in New York following his departure for Washington, DC, in 1862, it clearly maintained a powerful hold over him, and he has come to be identified as perhaps the first "poet of New York." And we see in these documents his deep and abiding fascination with the place that he repeatedly called, simply, "my city."</p>
+  </div1>
+  
+  <div1>
+    <head type="sub">Reading the History of New York</head>
+  
+    <p>In the late 1840s and throughout the 1850s, Whitman began conducting extensive research into the history of New York. His notes from the period are full of lists of historical events related to the area&#8212;from accounts of the native Canarsee tribe that inhabited the western end of Long Island, to its settlement by the Dutch, to the Battle of Brooklyn that opened the Revolutionary War. His notes suggest that he planned to compile all of this research into a sweeping history of Brooklyn and Long Island. Such a written history, however, seemingly did not materialize until nearly a decade later.</p> 
+      
+      
+      
+      <figure>
+        <graphic url="brooklyn_is_mss.jpg"/>
+        <head>Figure 1.</head>
+        <p>A manuscript, written in the 1850s or early 1860s, in which Whitman notes the geographical dimensions and aboriginal name of Long Island, information he would use in the thirteenth installment of his newspaper series "Brooklyniana," on March 1, 1862.</p>
+      </figure>
+      
+      
+      <p>His journalistic series "Brooklyniana" appeared in the pages of the <hi rend="italic">Brooklyn Standard</hi> from June 1861 through November 1862. Composed of at least 40 installments&#8212;of which 27 are extant&#8212;the series provides a detailed if fairly disjointed history of Manhattan, Brooklyn, and the rest of Long Island, from the area's early exploration by Henry Hudson and the first Dutch settlements, up through the most recent statistics about the area's manufactured goods and products. As Karen Karbiener has noted, "Brooklyniana" was Whitman's largest single prose project. And yet, it has received relatively little critical attention.</p>
+    
+    <p>Whitman's reading history would seem to support the assertion, made by Emory Holloway, Ted Genoways, and others, that Whitman was at work on this project about the history of Brooklyn long before the publication of "Brooklyniana." And the types of materials that he was reading during the late 1840s and early 1850s suggest the breadth of his interests. For instance, he made minor although numerous markings in an 1847 publication titled <hi rend="italic">The Wealthy Men and Women of Brooklyn and Williamsburgh</hi>, a listing of all residents in the area with an estimated worth of more than $10,000. He extensively underlined and made marginal notes in the 1849 <ref target="https://whitmanarchive.org/manuscripts/marginalia/transcriptions/loc.03782.html"><hi rend="italic">Report of the Special Committee, of the Common Council, of the City of Brooklyn, on Ferry and Water Rights</hi></ref>. And the 1850 <hi rend="italic">Historical Sketches of the Churches of the City of Brooklyn</hi> is sprinkled with his characteristic pointing hands.</p> 
+  
+    <figure>
+      <graphic url="wealthy_men_women_brooklyn_cover.jpg"/>
+      <head>Figure 2.</head>
+      <p>Whitman's copy of an 1847 pamphlet, held in the Feinberg Collection at the Library of Congress, that lists all residents of Brooklyn and Williamsburgh with an estimated worth of $10,000 or more. Whitman made small checkmarks next to dozens of names throughout the book; what the markings indicate or the interest that Whitman had in those individuals is unknown.</p>
+    </figure>
+    
+    <figure>
+      <graphic url="report_to_special_committee.jpg"/>
+      <head>Figure 3.</head>
+      <p>Whitman's copy of the 1849 <hi rend="italic">Report of the Special Committee, of the Common Council, of the City of Brooklyn, on Ferry and Water Rights</hi>, in which Whitman has made extensive markings. A note in Whitman's hand on the report's cover states that it was given to "Walt Whitman Esq with the compliments of the writer." This copy is held in the Feinberg Collection at the Library of Congress.</p>
+    </figure>
+    
+    <figure>
+      <graphic url="historical_sketches_churches.jpg"/>
+      <head>Figure 4.</head>
+      <p>Whitman's copy of <hi rend="italic">The Historical Sketches of the Churches of the City of Brooklyn</hi>, published in 1850. Whitman made markings and annotations throughout the volume. This copy is held in the Feinberg Collection at the Library of Congress.</p>
+    </figure>
+  
+    <p>The relatively ephemeral nature of all of these documents would suggest that Whitman likely encountered them around the time that they were published (and in fact, a note on the cover of the Ferry report states that it was given to "Walt Whitman, Esq" by the report's author). They show Whitman engaging&#8212;often at length&#8212;with local, contemporary issues, likely reflecting both his innate curiosity and his professional interests as a local journalist and newspaper editor, where he was expected to report on and debate about a diverse range of local politics and culture. As relatively little manuscript evidence exists from Whitman's early working life as a journalist, these marginalia documents constitute a rare window into his research and composition processes. That Whitman was scouring through New York ferry reports and relatively banal lists of local citizens in the late 1840s and early 1850s&#8212;at the same time that he was also devouring Shakespeare, the King James Bible, and articles on the English poetic tradition in the long foreground that preceded the publication of the first edition of <hi rend="italic">Leaves of Grass</hi>&#8212;serves as an important reminder that while Whitman's poetry had global and even cosmic aspirations, much of his life and career as a writer was still very much grounded in everyday, local affairs.</p>
+    
+  <p>During this time, Whitman was also reading a number of larger historical works about the history of the New York area. As Jason Stacy, Kimberly Banion, and others have noted, Whitman had a great interest in the history of New York during the Revolutionary War, and he seems to have read with interest Henry Onderdonk, Jr.'s <hi rend="italic">Revolutionary Incidents of Suffolk and Kings Counties</hi>, published in 1849. Seemingly impressed with Onderdonk's knowledge of the area's history, Whitman either wrote to the author—who lived nearby, in Jamaica, Long Island—or sought him out in person sometime in late 1849 or early 1850. Onderdonk's written response—a letter that has gone largely unremarked upon in Whitman scholarship—is the third oldest known letter to Whitman, and offers fascinating evidence of the types of information that the budding poet was seeking out.</p>
+  
+    <figure>
+      <graphic url="onderdonk_letter_p1.jpg"/>
+      <head>Figure 5.</head>
+      <p>The first page of a letter from author and historian Henry Onderdonk, Jr., to Whitman, dated July 2, 1850. Onderdonk was the author of numerous histories of the Long Island area. The letter is held in the Feinberg Collection at the Library of Congress.</p>
+    </figure>
+  
+    <p>As we can glean from Onderdonk's reply, Whitman was in search of information about the New York Slave Revolt of 1712, in which a group of twenty-three slaves sought to rebel against their owners, setting fire to a building near Broadway, and threatening to kill any whites who attempted to put it out. Seventy black citizens were eventually arrested in connection with the plot. Onderdonk's letter to Whitman, quoting from a contemporary newspaper, gives a detailed account of the events and their aftermath, including gruesome details of the modes of execution of the alleged conspirators: "Six of the prisoners have been their own executioners by shooting or cutting their throats, 3 executed, one burnt [with green wood], a second broken upon the wheel, &amp; a third hung up alive &amp; 9 more to be executed tomorrow." Onderdonk even points Whitman to other places where he might seek out information about the trial proceedings of the accused slaves. He also details a smaller slave revolt that occurred in Newton township on Long Island in 1707. "I believe the above is about all I promised," Onderdonk concluded, "but if you can suggest any other topics, I will do what I can for you." The nature of Whitman's interest in these events is unclear; they are not mentioned in "Brooklyniana" or any of his other known writings. But the fact that he was seeking out information about slave revolts in the summer of 1850&#8212;as the debate over the Fugitive Slave Law and the expansion of slavery into the western territories was reaching fever pitch&#8212;is certainly worthy of further study.</p>
+  </div1>
+  
+  <div1 type="section">
+    <head type="sub">"Brooklyniana" Borrowings</head>
+  
+  <p>However, a number of other sources that Whitman was consulting in the late 1840s and 1850s have much more direct connections to his published work&#8212;and, in some cases, actually became his published work. Whitman's copy of Benjamin Thompson's <hi rend="italic">History of Long Island</hi> (1843) contains numerous markings and handwritten notes, and it is from this book that Whitman took many of his facts about the early history of the area, incorporating dates, statistics, and sometimes even entire phrases into his own work.</p>
+    
+    
+    <table>
+      <row>
+        <cell>From Benjamin F. Thompson, <hi rend="italic">The History of Long Island</hi> (New York: Gould, Bank, and Co., 1843), 103</cell>
+        <cell>From "Brooklyniana, No. 3" (June 12, 1861)</cell>
+      </row>
+      <row>
+        <cell>The commerce of the colony during these few years must have increased with great rapidity; for it appears from the most authentic returns, that from 1624 to 1635 the number of beaver skins exported from New Amsterdam was 80,182, and of other skins 9,347, valued together at 725,117 guilders.
+        </cell>
+        <cell>The commerce springing out of the settlement increased regularly from the very outset, and with great rapidity. From the years 1624 to 1635 the number of beaver skins exported from New Amsterdam was 80,182, and of other skins, 9,347, valued at 725,117 guilders.
+        </cell>
+      </row>
+    </table>
+    
+    <p>Similar borrowing happens elsewhere in the same number of "Brooklyniana," in Whitman's description of the Canarsee tribe that inhabited much of Long Island.</p>
+    
+    <table>
+      <row>
+        <cell>From Benjamin F. Thompson, <hi rend="italic">The History of Long Island</hi> (New York: Gould, Bank, and Co., 1843), 93</cell>
+        <cell>From "Brooklyniana, No. 3" (June 12, 1861)</cell>
+      </row>
+      <row>
+        <cell>The Canarsee Tribe claimed the whole of the lands now included within the limits of King's County and a part of the town of Jamaica. The principal settlement was probably about Flat-lands, where there is a place which yet retains the name of Canarsee, and was, perhaps, the residence of the sachem. The last of the tribe is known to have died about 40 years ago.</cell>
+        <cell>When the Dutch first planted themselves here (and for some time afterward) the whole of Kings County was possessed and ruled by the Kanarsie tribe of Indians. The principal settlements were at Flatbush and according to tradition, the locality toward the shore that still goes by the name of the tribe. In the latter spot was the residence of the sachem. . . . The last one, we have heard old Brooklynites say, became extinct between forty and fifty years ago.</cell>
+      </row>
+    </table>
+    
+    
+    
+    <p>Whitman also lifts facts, phrases, and even whole sentences for a large portion of "Brooklyniana No. 4." In one manuscript, we can see Whitman copying down portions of Thompson's text, which he then re-orders and re-phrases, but only slightly, in the final, published version of "Brooklyniana."</p> 
+    
+    <table>
+      <row>
+        <cell>From Benjamin F. Thompson, <hi rend="italic">The History of Long Island</hi> (New York: Gould, Bank, and Co., 1843), 85&#8211;86</cell>
+        <cell>From a manuscript held in the Feinberg Collection at the Library of Congress (Box: 35, Folder: "Brooklyniana: History of Brooklyn and Long Island")</cell>
+        <cell>From "Brooklyniana, No. 4" (December 28, 1861)</cell>
+      </row>
+      <row>
+        <cell>Seawan or seawant was also the name of Indian shell money, of which there were two kinds . . . the shells were bored through with sharp stones, and strung upon the sinews of small beasts  . . . Three beads of black and six of white were equivalent, among the English, to a penny, and among the Dutch, to a stuyver . . . The process of trade was this: the Dutch and English sold for seawan, their knives combs, scissors, needles, awls, looking-glasses, hatchets, hoes, guns, black cloth, and other articles of Indian traffic; and with the seawan, bought the furs, corn, and venison of the Indians upon the seaboard.</cell>
+        
+        <cell>Here the aboriginal money circulated,&#8212;small polished shells, some white, some black, strung on the sinews of small animals; the money called Seawan, or Seawant.&#8212;(Circulated all through the Dutch and early English administrations.)&#8212;The early traders sold to the aborigines knives, combs, scissors, needles, awls, looking-glasses, hatchets, hoes, guns, black and red cloth, and received pay in Seawant; with that he [buys] furs, maize, venison, &amp;c.&#8212;The Seawant was also disposed on the red man's person as an ornament.</cell>
+        
+        <cell>The inside portion of these shells were broken, rubbed on stones, and wore down smooth into bead-shaped dried prices, and then strung upon the sinews of animals, through holes bored through with sharp stones . . . Three beads of this black money, and six of white, were equivalent to an English penny, or a Dutch stuyver. The process of trade between the Indians and the settlers here and in New York was as follows: the Dutch and English sold to the Indians, hatchets, hoes, combs, scissors, guns, black and red cloth, &amp;c., and received the seawan shells, in strings or belts, for pay; and then in return bought furs, corn, venison, &amp;c., and paid in seawan.</cell>
+      </row>
+    </table>
+        
+    <p>"Brooklyniana, No. 9" draws heavily from <ref target="https://whitmanarchive.org/manuscripts/marginalia/transcriptions/loc.03784.html">a pamphlet</ref> that re-prints a sermon delivered in the Central Reformed Protestant Dutch Church in Brooklyn in July of 1851. A multi-page note in the pamphlet's appendix offers a history of Brooklyn's churches, which Whitman repurposes to form the bulk of his ninth installment.</p> 
+    
+  <p>Such practices were certainly nothing new for Whitman, and, indeed, were quite common in nineteenth-century publishing in general. As Zachary Turpin has noted, and as Stephanie Blalock will further demonstrate in forthcoming research, Whitman employed extensive textual borrowing in his 1858 newspaper series "Manly Health and Training." And such borrowings about New York are ultimately unsurprising. Although Whitman was a lifetime resident of Long Island, it is unreasonable to expect him to be acquainted with all of the specifics of the area's early history. For  dates and specific historical details, he understandably had to turn to other sources. Of more interest is what these practices reveal about Whitman's composition process. One page of the 1851 sermon, in particular, offers a brief but useful example of the interaction of multiple texts, working together to form Whitman's published work.</p> 
+  
+    <figure>
+      <graphic url="sermon_preached_page_with_note.jpg"/>
+      <head>Figure 6.</head>
+      <p>A page from Whitman's copy of a pamphlet that re-prints a sermon delivered in the Central Reformed Protestant Dutch Church in Brooklyn in July 1851. Portions of this page were incorporated into "Brooklyniana, No. 9." The document is held in the Feinberg Collection at the Library of Congress.</p>
+    </figure>
+  
+  <p>On this page, Whitman employs a number of annotating methods—a highlighting of an entire paragraph, a brief marginal annotation, some underlining of text, as well as a longer handwritten annotation at the bottom. In the published version of "Brooklyniana," he then takes a portion of the underlined text, rewording it, and appending it to his longer handwritten note—which he also rephrases prior to publication: 
+    
+    <q>
+      <floatingText>
+        <body>
+          <p>It stood for over a century—indeed for some hundred and twenty-five or thirty years, and for the greater part of that time was the only church in Brooklyn. It stood on what is now Fulton avenue, near Duffield street, right in the middle of the road, which passed by it on either side. It was either a round, or octagonal shaped building, and had a conical roof. (From "Brooklyniana, No. 9")</p>
+        </body>
+      </floatingText>
+    </q>
+
+    It's unclear whether Whitman's handwritten note comes from his own knowledge, was related to him by somebody else, or perhaps was copied from yet another source. But what is clear is that the final, published text of "Brooklyniana," in this and many other instances, represents an amalgam of sources and influences, all ultimately filtered and fibered through Whitman. Such instances reveal that, for Whitman, reading, note-taking, and writing were all part of the selfsame process, interwoven and inextricable.</p>
+  </div1>
+  
+  <div1>
+    <head type="sub">New York in Whitman's Cultural Geography Scrapbook</head>
+  
+  <p>Perhaps the most intriguing example of the fluidity of Whitman's reading and composition process comes from reading that he was conducting later in the 1850s. Sometime after the publication of the first two editions of <hi rend="italic">Leaves of Grass</hi>, likely in 1857, Whitman began an extensive process of self-education in world history and geography, compiling a massive, <ref target="transcriptions/owu.00090.html">several hundred page scrapbook</ref> that incorporated large portions of geography and history textbooks, interwoven with newspaper clippings and handwritten notes about nearly all the countries of the world, and all the states of the Union&#8212;including New York.</p>
+    
+    <figure>
+      <graphic url="scrapbook_newyork_illustration.jpg"/>
+      <head>Figure 7.</head>
+      <p>Two of the four pages about New York from Whitman's copy of Samuel Goodrich's <hi rend="italic">The World As It Is And As It Has Been; A Comprehensive Geography and History, Ancient and Modern</hi> (1855). The Goodrich volume forms part of Whitman's cultural geography scrapbook, held in the Bayley/Whitman Collection at Ohio Wesleyan University.</p>
+    </figure>
+    
+  <p>The main base text of Whitman's scrapbook is Samuel Goodrich's 1855 textbook entitled <hi rend="italic">The World As It Is And As It Has Been; A Comprehensive Geography and History, Ancient and Modern</hi>, which Whitman broke into sections and bound into his scrapbook. The section on the state of New York is four pages long, and contains information about its geographic features, principal resources and products, and major cities—a pattern which is repeated for each state. Whitman has made no markings on the New York pages that would give any indication as to the information that most caught his eye. However, in the course of researching the history and provenance of the scrapbook prior to its publication here, the <hi rend="italic">Whitman Archive</hi> research team discovered that there were a large number of handwritten manuscripts that were at one time bound or pasted into the volume, pages that were seemingly removed in the 1930s and sold as separate documents. One such manuscript was likely pasted to one of the textbook pages about New York. The manuscript is currently housed at the Library of Congress, along with twenty-eight other pages, all written on the back of tax forms from the City of Williamsburgh.</p>
+    
+    
+    <p>The pages contain notes about each of the states, with particular attention paid to mountains, rivers, and each state's main resources and products. C. Carroll Hollis was the first to draw attention to these documents, collectively referred to as "The states and their resources," noting in 1957 that while they seemed to be merely notes, a number of the lines found their way into poems in <hi rend="italic">Leaves of Grass</hi>. Michael R. Dressman, in 1980, determined that Goodrich's textbook was the source of the notes. Neither scholar shows evidence of having been aware of Whitman's geography scrapbook and Whitman's own copy of Goodrich. It is almost certain, however, that "The states and their resources" manuscripts were, at one time, part of the scrapbook proper, effectively serving as summaries of the pages of Goodrich's textbook, which Whitman then inserted into the volume at various points. And his notes about New York are of particular interest.</p> 
+ 
+    <figure>
+      <graphic url="empire_state_illustration.jpg"/>
+      <head>Figure 8.</head>
+      <p>One of twenty-nine leaves on which Whitman has written notes about various states and their resources and geography. Written on the back of tax forms from the City of Williamsburgh, the manuscripts were likely, at one time, pasted into Whitman's cultural geography scrapbook, serving as glosses of Goodrich's textbook. This page contains notes that later became, in slightly altered form, lines in Whitman's 1860 poem "Mannahatta." The manuscripts are held in the Feinberg Collection at the Library of Congress.</p>
+    </figure>
+  
+    <p>The page is topped by the underlined title, "The Empire State," with a note in Whitman's hand to "put this name instead of New York"&#8212;a name which he indeed includes for the first time in the "Proto-Leaf" of the 1860 edition of <hi rend="italic">Leaves of Grass</hi>. As he had done for other states, Whitman begins to make note of the state's mountains&#8212;the Mohegans and the Katskills&#8212;as well as the major rivers&#8212;the Hudson. However, his notes then begin to shift. As though drawing inspiration from the textbook's descriptions of his home state, Whitman begins drafting what seem to be poetic lines, incorporating small bits and phrases from the textbook. The textbook's note that Whitman's native east end of Long Island is "least settled, and deer, wild-fowl, and fish are found here," becomes "the wild-fowl and fish of Paumanok," with Whitman taking poetic license and introducing his favored Native American name for Long Island that he had first used in the 1856 <hi rend="italic">Leaves</hi>. He waxes poetic about Niagara Falls, and praises "[t]he amplitude, ease, and perfect proportions of the scenery." And the note ends with a title and poetic lines that appeared&#8212;albeit in fairly altered form&#8212;in the 1860 edition of <hi rend="italic">Leaves of Grass</hi>. "The Mannahatta," Whitman writes in the manuscript. "That's it / the Mannahatta. / The mast-hemmed&#8212;the egg in the nest of the beautiful bays&#8212;my city&#8212;ma femme&#8212;O never forgotten by me." Whitman begins here with a phrase he had already used in 1856's "Sun-Down Poem," the poem that he later titled "Crossing Brooklyn Ferry," where he asked "what sight can ever be more stately and admirable to me than my mast-hemm'd Manhatta..."? But the spirit of these lines, as well as some of the phrasing, eventually become the poem "Mannahatta" in 1860. "I was asking for something specific and perfect for my city," that poem begins:</p> 
+      
+      
+      <q>
+        <floatingText>
+          <body>
+            <lg type="extract">
+              <l>and behold! here is the aboriginal name!</l>
+              <l>Now I see what there is in a name, a word, liquid, sane, unruly, musical, self-sufficient,</l>
+              <l>I see that the word of my city, is that word up there,</l>
+              <l>Because I see that word nested in nests of water-bays, superb, with tall and wonderful spires,</l>
+              <l>Rich, hemmed thick all around with sailships and steamships&#8212;an island sixteen miles long, solid-founded. (<hi rend="italic">Leaves of Grass</hi> 1860, 404)</l>
+            </lg>
+          </body>
+        </floatingText>
+      </q> 
+    
+  <p>The poem's evocative image of the word "Mannahatta" "nested in nests of water-bays" becomes even more intriguing when we see Whitman's original vision as described in the manuscript. In the draft from his scrapbook, he envisions Mannahatta not simply as a word but as "the egg in the nest of the beautiful bays"&#8212;here, the city is an embryo, a prototype of what Whitman hoped to see throughout the nation, and the world. But if the New York of Whitman's present is the prototype and precedent of the cities of the future, it is just as much a product of earlier precedents. In "Proto-Leaf" (1860; later titled "Starting from Paumanok"), the poem that lays out Whitman's vision for the entire volume, he calls out to "you precedents," and vows to connect with them, and he describes "[o]ne generation playing its part and passing on, / And another generation playing its part and passing on in its turn." Such emphasis on precedent and history applied to all areas of Whitman's interest. Thus, to understand and know New York, his city, he had to understand and know its precedents. This, then, is one way of explaining Whitman's earlier extensive reading about the history of New York, as a gathering of precedents and antecedents, a way of knowing his city more fully, so that he might one day sing its true song.</p>
+    
+    <p>That these poetic lines about Mannahatta spring out of his note-taking in a geography textbook also suggests that Whitman seemed to have applied his outlook on history&#8212;that any number of precedents contribute to a cohesive present&#8212;to his methods of composition, in which any number of texts and sources meld into a more-or-less cohesive new work. The fluidity of his reading, note-taking, and writing processes renders it nearly impossible to differentiate between them. As these examples reveal, reading and note-taking were simply part of his larger compositional approach&#8212;and, indeed, in the numerous instances of his plagiarizing of whole phrases and paragraphs, the reading process and writing process are arguably one and the same. This fluidity of usage is evident even throughout Whitman's own works.</p>
+    
+    <p>For example, this manuscript is seemingly the first time that Whitman refers to New York as "my city." And while the phrase appears nowhere in the first two editions of <hi rend="italic">Leaves of Grass</hi>, it springs up five times in the 1860, making its first appearance in just the fifth line of the entire volume, when he declares himself in "Proto-Leaf," a "[b]oy of the Mannahatta, the city of ships, my city." It appears three times throughout the poem "Mannahatta," in its third instance again being paired, as it is in this manuscript, with the image of the "[t]he city nested in bays! my city!" And its fifth and final usage in 1860 comes in the volume's concluding poem, "So long!" And here we see, perhaps more explicitly than anywhere else, New York figured as the prototype city. Whitman writes that he will have reached "ripeness and conclusion" only "[w]hen America does what was promised, / When each part is peopled with free people, / When there is no city on earth to lead my city, the city of young men, the Mannahatta city&#8212;But when the Mannahatta leads all the cities of the earth."</p>
+    
+  <p>We now know that the spinal idea of these lines came from a note in the midst of Whitman's sprawling geography scrapbook, where New York is just one of many "cities of the earth," both past and present, that are chronicled. Thus, in this context, Whitman's exhaustive studying of world history and geography becomes just further precedent for the scope of New York's achievement. To truly understand a place, Whitman wanted to understand everything that came before it. And if New York was indeed a microcosm of the whole world, then he needed to understand the whole world to truly understand New York.</p>
+  </div1> 
+  
+  
+ 
+
+<div1 type="bibliography">
+<head type="main-authorial">Bibliography and Further Reading</head>
+<listBibl>
+  <bibl>Banion, Kimberly Winschel. "'These terrible 30 or 40 hours': Washington at the Battle of Brooklyn in Whitman's 'The Sleeps' and 'Brooklyniana' Manuscripts." <hi rend="italic">Walt Whitman Quarterly Review</hi> 27, (Spring 2010):193&#8211;212.</bibl>
+  
+  <bibl>Dressman, Michael R. "Goodrich's <hi rend="italic">Geography</hi> and Whitman's Place Names." <hi rend="italic">Walt Whitman Review</hi> 26, (June 1980): 64&#8211;67.</bibl>
+  
+  <bibl>Genoways, Ted. <hi rend="italic">Walt Whitman and the Civil War: America's Poet During the Lost Years of 1860&#8211;1862</hi>. Berkeley: University of California Press, 2009, 107&#8211;108.</bibl>
+  
+  <bibl>Gill, Jonathan. "Brooklyn, New York." In <hi rend="italic">Walt Whitman: An Encyclopedia</hi>, edited by J.R. LeMaster and Donald D. Kummings, 83&#8211;85. <ref target="https://whitmanarchive.org/criticism/current/encyclopedia/entry_391.html">https://whitmanarchive.org/criticism/current/encyclopedia/entry_391.html</ref></bibl>
+  
+  <bibl>Hollis, C. Carroll. "Names in <hi rend="italic">Leaves of Grass</hi>." <hi rend="italic">Names</hi> 5, no. 3 (September 1957): 129&#8211;156.</bibl>
+  
+  <bibl>Karbiener, Karen. "Brooklyn and Manhattan." In <hi rend="italic">Walt Whitman in Context</hi>, edited by Joanna Levin and Edward Whitley, 15&#8211;26. New York: Cambridge University Press, 2018.</bibl>
+  
+  <bibl>Krieg, Joann P. "Long Island, New York." In <hi rend="italic">Walt Whitman: An Encyclopedia</hi>, edited by J.R. LeMaster and Donald D. Kummings, 404&#8211;406. <ref target="https://whitmanarchive.org/criticism/current/encyclopedia/entry_528.html">https://whitmanarchive.org/criticism/current/encyclopedia/entry_528.html</ref></bibl>
+  
+  <bibl>Price, Kenneth M. "'An American bard at last!': Whitman's Persona and the English Heritage." In <hi rend="italic">Whitman and Tradition: The Poet in His Century</hi>, 8&#8211;34. New Haven, CT: Yale University Press, 1990.</bibl>
+  
+  <bibl>Shapiro, Michael J. "Walt Whitman and the Ethnopoetics of New York." In <hi rend="italic">A Political Companion to Walt Whitman</hi>, edited by John E. Seery, 185&#8211;219. Lexington: University Press of Kentucky, 2011.</bibl>
+  
+  <bibl>Southard, Sherry. "Place Names." In <hi rend="italic">Walt Whitman: An Encyclopedia</hi>, edited by J.R. LeMaster and Donald D. Kummings, 523&#8211;524. <ref target="https://whitmanarchive.org/criticism/current/encyclopedia/entry_595.html">https://whitmanarchive.org/criticism/current/encyclopedia/entry_595.html</ref></bibl>
+  
+  <bibl>Stacy, Jason. "Washington's Tears: Sentimental Anecdote and Walt Whitman's Battle of Long Island." <hi rend="italic">Walt Whitman Quarterly Review</hi> 27, (Spring 2010): 213&#8211;226.</bibl>
+  
+  <bibl>Still, Bayrd. <hi rend="italic">Mirror for Gotham: New York As Seen By Contemporaries from Dutch Days to the Present</hi>. New York: New York University Press, 1956.</bibl>
+  
+  <bibl>Tang, Edward. "The Civil War as Revolutionary Reenactment: Walt Whitman's 'The Centenarian's Story.'" <hi rend="italic">Walt Whitman Quarterly Review</hi> 21, (Winter/Spring 2004): 131&#8211;154.</bibl>
+  
+  <bibl>Thomas, M. Wynn. "New York City." In <hi rend="italic">Walt Whitman: An Encyclopedia</hi>, edited by J.R. LeMaster and Donald D. Kummings, 459&#8211;462. <ref target="https://whitmanarchive.org/criticism/current/encyclopedia/entry_37.html">https://whitmanarchive.org/criticism/current/encyclopedia/entry_37.html</ref></bibl>
+  
+  <bibl>Turpin, Zachary. "Introduction to Walt Whitman's 'Manly Health and Training.'" <hi rend="italic">Walt Whitman Quarterly Review</hi> 33.3, (Winter/Spring 2016): 147&#8211;183.</bibl>
+  
+  <bibl>Walter, William T. "Long Island." In <hi rend="italic">Walt Whitman in Context</hi>, edited by Joanna Levin and Edward Whitley, 3&#8211;14. New York: Cambridge University Press, 2018.</bibl>
+  
+  <bibl>Whitman, Walt. <hi rend="italic">Walt Whitman's New York: From Manhattan to Montauk</hi>, edited by Henry M. Christman. New York: New Amsterdam Books, 1963.</bibl>
+  
+
+</listBibl>
+
+
+</div1>
+</body>
+
+
+</text>
+</TEI>

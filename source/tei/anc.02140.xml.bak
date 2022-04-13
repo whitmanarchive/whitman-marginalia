@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02140">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main">Whitman's pre-<hi rend="italic">Leaves of Grass</hi> Marginalia on British Writers</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Kenneth M. Price</author>
+<respStmt>
+<resp>Transcription and encoding</resp>
+  <persName xml:id="km">Kevin McMullen</persName>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+</titleStmt><editionStmt>
+<edition><date>2020</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>anc.02140</idno> 
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+</address>
+<availability>
+  <p>
+    This text is made available under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    .
+  </p>
+  <p>
+    The text encoding was created and/or prepared by the
+    <title level="m">Walt Whitman Archive</title>
+    and is licensed under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    (CC BY 4.0). Any reuse of these materials should credit the
+    <title level="m">Walt Whitman Archive</title> and Kenneth M. Price.
+  </p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+  <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+  <change when="2020-02-05" who="#km">formatted footnotes and added captions</change>
+  <change when="2020-01-29" who="#km">created page</change>
+</revisionDesc>
+</teiHeader>
+
+<text type="ancillary">
+<body>
+  <div1>
+    <head type="main">WHITMAN'S PRE-<hi rend="italic">LEAVES OF GRASS</hi> MARGINALIA ON BRITISH WRITERS</head>
+    
+    <p>Whitman's marginalia on reviews and essays about British writers shed light on his early development in a mysterious period, what Ralph Waldo Emerson called the "long foreground" of <hi rend="italic">Leaves of Grass</hi>.<note xml:id="n1" type="authorial">My remarks here repurpose and reaffirm (in a much broader context now of <hi rend="italic">Whitman Archive</hi> work on Whitman's annotations) my earlier treatment in <hi rend="italic">Whitman and Tradition: The Poet in His Century</hi> (New Haven: Yale University Press, 1990). Emerson's comment was made in his famous letter of greeting to Whitman and is available in many places, including in an <ref target="https://whitmanarchive.org/published/LG/1856/poems/33">appendix to the second edition of <hi rend="italic">Leaves of Grass</hi></ref>.</note>  Still signing himself "Walter Whitman," the young autodidact already had begun to take on the perspectives and self-assurance of "Walt." In short, before the poet had produced any memorable writing, he nonetheless displayed a remarkable confidence, an attitude that easily could be misunderstood.  In fact, some critics have scolded Whitman's lack of deference. Larzer Ziff, for example, complained of the "tastelessness of his all-too-easy dismissal of certain British authors."<note xml:id="n2" type="authorial">Larzer Ziff, <hi rend="italic">Literary Democracy: The Declaration of Cultural Independence in America</hi> (New York: The Viking Press, 1981), 246.</note></p>
+    
+    <figure>
+      <graphic url="duk_nhg.00343.jpg"/>
+      <head>Figure 1.</head>
+      <p>Whitman's marginal notes on an article titled "The Vanity and the Glory of Literature," <hi rend="italic">Edinburgh Review</hi>, American Edition, 89 (April 1849). This copy is held in the Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </figure>
+    
+    <p>Yet adopting a pose of being rude, vulgar, uncouth, and "one of the roughs" was vital for Whitman's poetic persona and for the bold agenda he set for himself. In the early 1850s, he carved out a space for a distinctively American poetry by depicting British poets as shaped by ennui and aristocracy, as he said of Tennyson in one anonymous 1855 review of <hi rend="italic">Leaves of Grass</hi>. The poet laureate Tennyson 
+    
+    <q>
+      <floatingText>
+     <body>
+       <p>meets the nobility and gentry half-way. The models are the same both to the poet and the parlors. Both have the same supercilious elegance, both love the reminiscences which extol caste, both agree on the topics proper for mention and discussion, both hold the same undertone of church and state, both have the same languishing melancholy and irony, . . . both are silent on the presumptions of liberty and equality, and both devour themselves in solitary lassitude."<note xml:id="n3" type="authorial">[Walt Whitman], <ref target="https://whitmanarchive.org/criticism/reviews/lg1855/anc.00014.html">"An English and an American Poet,"</ref> <hi rend="italic">American Phrenological Journal</hi>, 90-91.</note></p>
+     </body>
+    </floatingText>
+    </q>
+    
+    To neutralize the daunting achievements of the British literary heritage, Whitman contended that Britain was tired, on the decline, spent.  In contrast, he claimed that the U.S. was raw, rank, vibrant, young, vital, and full of possibilities. These characteristics would be all the more apparent if American writers ceased being fettered by British models and politics that were all awry: "Of the leading British poets many who began with the rights of man, abj[i?]ured their beginning and came out for king[c]raft priestcraft, obedience, and so forth.&#8212;Southey, Coleridge, and Wordsworth, did so."<note xml:id="n4" type="authorial"><ref target="https://whitmanarchive.org/manuscripts/marginalia/annotations/duk.00169.html">"What are inextricable from the British poets,"</ref> in the <hi rend="italic">Walt Whitman Archive</hi>.</note></p>
+    
+    <p>What remains surprising is Whitman's remarkable confidence in the face of the British poetic tradition. This confidence was not a result of a thorough mastery of their writings but instead of a journalist's rough and ready understanding based on a cursory&#8212;but perceptive&#8212;analysis. As noted, he gained his understanding of their accomplishments primarily by reading reviews of their writings in any number of periodicals.<note xml:id="n5" type="authorial">Whitman also had access to the poetry of various British writers through Ludwig Herrig's anthology <hi rend="italic">British Classical Authors</hi> (Brunswick: George Westermann, 1851) and through volumes on some individual writers, including Percy Shelley.  Whitman's copy of Shelley is in the Bryn Mawr College library and, interestingly, shows more interest in Shelley's prose than in his poetry. See Kenneth M. Price, "Whitman's Anthology of English Literature," <hi rend="italic">Library Notes</hi> [Duke University] 50 (1982), 33-34, and Peter Van Egmond, "Bryn Mawr College Library Holdings of Whitman Books," <hi rend="italic">Walt Whitman Review</hi> 20 (June 1974), 41-50. The most thorough recent study of Whitman and the British writers is Gary Schmidgall, <hi rend="italic">Containing Multitudes: Walt Whitman and the British Literary Tradition</hi> (New York: Oxford University Press, 2014). An earlier study that remains useful is Floyd Stovall, <hi rend="italic">The Foreground of</hi> Leaves of Grass (Charlottesville: University Press of Virginia, 1974).</note>  In his marginalia he displays an aggressive engagement with this material, clarifying how he challenged virtually all of his foreign predecessors. These responses were vital in shaping Whitman's poetics, but so too was his encounter with less lofty material. When a reviewer suggested one should read only difficult writers, Whitman argued with him in the margin: "Still all kinds of light reading, novels, newspapers, gossip etc, serve as manure for the few great productions, and are indispensable or perhaps are premises to something better."<note xml:id="n6" type="authorial">"Thoughts on Reading, " <hi rend="italic">American Whig Review</hi> 1 (1845), 485.</note></p>
+    
+    <figure>
+      <graphic url="duk_nhg.00317.jpg"/>
+      <head>Figure 2.</head>
+      <p>Whitman's copy of "Thoughts on Reading, " <hi rend="italic">American Whig Review</hi> 1 (1845), 485, held in the Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </figure>
+    
+    <p>For Whitman, the poet's personal identity was a key factor, as is evident in his reaction to Keats's definition of poetic identity. An anonymous review of R. M. Milnes's <hi rend="italic">Life, Letters, and Literary Remains of John Keats</hi> gave Keats's description:
+      
+      <q>
+        <floatingText>
+          <body>
+            <p>As to the poetical character itself (I mean the sort of which, if I am anything, I am a member, that sort distinguished from the Wordsworthian or egotistical sublime, which is a thing per se and stands alone), it is not itself—it has no self—it is everything and nothing. It has no character. . . .  It has as much delight in conceiving an Iago as an Imogene. What shocks the virtuous philosopher delights the c[h]ameleon poet. . . .  A poet is the most unpoetical of anything in existence, because he has no identity; he is continually in for and filling some other body. . . .  When I am in a room with people, if I am free from speculating on creations of my own brain, then, not myself goes home to myself; but the identity of every one in the room begins to press upon me, so that I am in a very little time annihilated.</p>
+          </body>
+        </floatingText>
+      </q>
+      
+      Whitman responded in the margin: "the great poet absorbs the Iden[ti]ty and the expe[rience] of others, and they are definite in him or from him; but he p[resses] them all through the powerful press of himself . . . his own masterly identity."<note xml:id="n7" type="authorial">Whitman's annotations are on "R. M. Milnes' Life of Keats," <hi rend="italic">North British Review</hi>, American Edition, 10 (1848), 41 (Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University). Except for the item on Robert Southey and Robert Burns held at Middlebury College, all annotated clippings discussed here can be found in the Trent Collection.</note>  Like Keats, Whitman thinks the poet should so fully sympathize with others that their identities mesh, but unlike Keats, he insists that the poet must nonetheless retain a firm sense of personal self. For Whitman, the poet's own character was always of utmost importance: "Understand that you can have in your writing no qualities which you do not honestly entertain in yourself.—Understand that you cannot keep out of your writing the indication of the evil or shallowness you entertain in yourself . . . .  There is no trick or cunning, no art or recipe, by which you can have in your writing that which you do not possess in yourself."<note xml:id="n8" type="authorial">Whitman, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi>, ed. Edward Grier (New York: New York University Press, 1984), 1: 222.</note>  This passage may suggest that the issue of sincerity, along with that of identity, informed Whitman's reaction to Keats's letter.</p>
+    
+    <figure>
+      <graphic url="duk_nhg.00273.jpg"/>
+      <head>Figure 3.</head>
+      <p>Whitman's copy of "R. M. Milnes' Life of Keats," <hi rend="italic">North British Review</hi>, American Edition, 10 (1848), 41, held in the Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </figure>
+    
+    <p>Whitman refused to follow those English theorists who implied that the present lacked the grandeur of the past. When reading a review of Sir Henry Taylor's <hi rend="italic">The Eve of the Conquest</hi>, Whitman marked a discussion of the modern character with various means of highlighting: underscoring, wavy lines, and four pointing hands or manicules. The reviewer argued that "aids and appliances," the "shield of law," social uniformity, the division of labor, industrialism, and the moral and intellectual cross-currents inevitable in a period of diffused knowledge all tended to limit individual robustness and make the great character rarer than in simpler times.  Whitman's hopes for democracy and for himself as a poet made it impossible for him to accept this conclusion. "I will take all these things that produce this condition," he wrote, "and make them produce as great characters as any."<note xml:id="n9" type="authorial">"Taylor's Eve of the Conquest," <hi rend="italic">Edinburgh Review</hi>, American Edition, 89 (1849), 186.</note></p>
+    
+    <figure>
+      <graphic url="duk_nhg.00283.jpg"/>
+      <head>Figure 4.</head>
+      <p>Whitman's copy of "Taylor's Eve of the Conquest," <hi rend="italic">Edinburgh Review</hi>, American Edition, 89 (1849), 186, held in the Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </figure>
+    
+    <p>To Whitman's way of thinking, many English poets lacked "proud, independent" character because of their dependence on patronage. An article on the "Prelude" provoked this comment: "So it seems Wordsworth made a 'good thing' from the start out of his poetry. legacies,! a fat office! pensions from the crown!" In the top margin of another article, "Recollections of Poets Laureate," Whitman wrote: "Tennyson has a pension of £200 a year, conferred by the Queen, some years since."<note xml:id="n10" type="authorial">See "The Prelude," <hi rend="italic">American Whig Review</hi>, n. s. 7 (1851), 457 and "Recollections of Poets Laureate. Wordsworth: Tennyson," <hi rend="italic">American Whig Review</hi>, n. s. 9 (1852), 523.</note>  One comment on this did not suffice: he repeated the information in the side margin. The American poet admired neither the dependent position of his English counterparts nor their reliance on a governing aristocracy. The true poet, he said in the 1855 Preface, should "despise riches."</p>
+    
+    <figure>
+      <graphic url="duk_nhg.00270.jpg"/>
+      <head>Figure 5.</head>
+      <p>Whitman's copy of "Recollections of Poets Laureate. Wordsworth: Tennyson," <hi rend="italic">American Whig Review</hi>, n. s. 9 (1852), 523, held in the Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+    </figure>
+    
+    <p>His critique of poets on financial grounds shifted when he moved beyond England to consider the national poet of Scotland. Robert Burns gained income as an exciseman rather than through an aristocratic system of patronage, and his interest in the local, the ordinary, even the "lowly" intrigued Whitman. In a paste-on regarding Burns (affixed to an article about Robert Southey) we see Whitman's preoccupation with the poet's life rather than, say, poetic themes or technique.<note xml:id="n11" type="authorial">"Robert Southey," <hi rend="italic">American Whig Review</hi> (February 1851), 157-68.</note>  Whitman revises an unidentified newspaper's moralizing biography to suggest that Burns’s poetry of the common man was the product of someone who did not care about money (or opulence). His fall was due to drink, not stepping above his class position.</p>
+    
+    <figure>
+      <graphic url="mid.00007.005.jpg"/>
+      <head>Figure 6.</head>
+      <p>Whitman's copy of "Robert Southey," <hi rend="italic">American Whig Review</hi> (February 1851), 157-68, held at the Middlebury College Library Special Collections &amp; Archives.</p>
+    </figure>
+    
+    <p>Like Burns who was "faithful to . . . idioms" of Scotland, Whitman insisted that American writers should "throw off" the restraints of standard English in order to create a language commensurate with the "new occasions, new facts, new politics, new combinations" found in the U.S.<note xml:id="n12" type="authorial">Whitman, <hi rend="italic">Daybooks and Notebooks</hi>, ed. William White (New York: New York University Press, 1978), 3:754.</note>  He said: "I love to go away from books, and walk amidst the strong coarse talk of men as they give muscle and bone to every word they speak."<note xml:id="n13" type="authorial"><hi rend="italic">Daybooks and Notebooks</hi>, 3: 811.</note>  Yet this was a pose, since Whitman discovered his methods through his own immersion in print culture, even if that prompted him to negate much of what he encountered. Remarkably, Whitman never seemed to doubt the intrinsic importance of his own way of approaching poetry. He was certain that poetry must reach the people and on (what he thought were) their terms. In fact, certainty was the major enabling factor in these first years of creativity. It allowed Whitman to contradict predecessors, to challenge convention, to stand alone in insistence on a democratic norm. It subsumed every difficulty in the name of assertion, innovation, and provocation.</p>
+    
+    
+  </div1>
+</body>
+
+
+</text>
+</TEI>

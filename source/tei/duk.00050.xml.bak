@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00050">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Poem among the Siamese</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="as">Ashlyn Stewart</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00050</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
+            </notesStmt>
+            <sourceDesc>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Notes and Clippings, Chiefly on Eastern Poetry</title> 
+                    <idno type="callnumber">MS 158</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl> 
+                
+                <bibl xml:id="r1" type="pasteon">
+                    <author>unknown</author>
+                    <title level="a">unknown</title>
+                    <title level="j">unknown</title>
+                    <date>unknown</date>
+                    <pubPlace>unknown</pubPlace>
+                    <biblScope type="page">unknown</biblScope>
+                </bibl>
+                
+                <bibl xml:id="r2" type="pasteon">
+                    <author>Henry Mandeville, D.D.</author>
+                    <title level="m">Fourth Reader. For Common Schools and Academies.</title>
+                    <title level="s">Mandeville's Series</title>
+                    <date when="1850">1850</date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="page">144-145</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-02-06" who="#km">corrected image links</change>
+            <change when="2020-01-23" who="#km">proofed</change>
+            <change when="2019-10-25" who="#as">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="annotations">
+        <body>            
+            <pb xml:id="leaf001r" facs="duk.00050.001.jpg" type="recto"/>
+            <ab><hi rend="underline">Poem among the Siamese</hi></ab>
+            
+            <span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
+            <add rend="pasteon" source="#r1" xml:id="p1" next="#p2"><handShift new="#h3"/>
+                <floatingText rend="flat"> 
+                    <body>
+                        <pb xml:id="leaf002r" facs="duk_km.00028.jpg" type="recto"/>
+                        <p>From "A Descriptive Dictionary of the Indian Islands and Adjacent Countries, by John Crawford, F. R. S.," a book very full of knowledge both useful and entertaining, we extract some queer exemplifications of the workings of the Siamese mind.  Proverbs are everywhere alike in kind; in those well translated from barbarous languages there is a certain refreshing quaintness which we do not perceive in our own; a new flavor.</p>
+                    </body>
+                </floatingText>               
+            </add> 
+            
+            <add rend="pasteon" source="#r1" xml:id="p2" prev="#p1" next="#p3"><handShift new="#h3"/>
+                <floatingText rend="flat"> 
+                    <body>
+                        <pb xml:id="leaf003r" facs="duk_km.00029.jpg" type="recto"/>
+                        <p>Then follows a long and denunciatory Siamese poem, describing the future punishment of the wicked; a painstaking enumeration of iron ruffs and fetters, a red-hot iron beds, and such like inflictions.  It ends with a horrid threat against people</p>
+                    </body>
+                </floatingText>               
+            </add> 
+            
+            <add rend="pasteon" source="#r1" xml:id="p3" prev="#p2"><handShift new="#h3"/>
+                <floatingText rend="flat"> 
+                    <body>
+                        <pb xml:id="leaf004r" facs="duk_km.00030.jpg" type="recto"/>
+                        <p>who don't respect the Siamese Constitution.  "He has despised the laws of his forefathers; and on this account, dogs of the size of an elephant, and crows and vultures shall devour his flesh."</p>
+                    </body>
+                </floatingText>               
+            </add> 
+            <anchor xml:id="s2"/>
+            
+            <ab><handShift new="#h1"/>The cast of the southern Asiatic mind, literature, poetry.&#8212;<hi rend="underline">Caste</hi>&#8212;suppleness,&#8212;so much that the Teutonic descendant cannot sympathise with.&#8212;</ab>
+            
+            <ab><hi rend="circled"><handShift new="#h2"/>Zerdusht<lb/>
+                "the Chaldeaus or ancient Persians, with their Zerdusht<lb/> 
+                Carlyle <hi rend="circled">? Zoroaster</hi></hi></ab>
+           
+            
+            <add rend="pasteon" source="#r2" xml:id="p4" next="#p5"><handShift new="#h3"/>
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf005r" facs="duk_km.00031.jpg" type="recto"/>
+                        <head><hi rend="smallcaps">SECT. CLIX.&#8212;ABSURD CHRONOLOGY OF THE HINDOOS.</hi></head>
+                        <list>
+                            <item>1 <hi rend="smallcaps">THE</hi> following is a view of their <hi rend="italic">Chronology</hi>.  There are</item>
+                            <item>2 four <hi rend="italic">yugs</hi> or <hi rend="italic">ages</hi>: the first was the age of innocence or truth, and embraces 1,728,000 years: the second 1,296,000, the third 864,000, and the last 432,000: these are the</item>
+                            <item>3 golden, silver, brazen, and iron ages.  We live in the last</item>
+                            <item>4 or <hi rend="italic">Kali</hi>-yug: age of misery.  A great age, Maha-yug, is</item>
+                        </list>
+                    </body>
+                </floatingText> 
+            </add>
+            
+            <add rend="pasteon" source="#r2" xml:id="p5" prev="#p4"><handShift new="#h3"/>
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf006r" facs="duk_km.00032.jpg" type="recto"/>
+                        <list>
+                        <item>5 equal to these four: 4,320,000 years of mortals. A  solar year is equivalent to a day and night of the gods.  360</item>
+                            <item>6 such days and nights, or 360 solar years, constitute a "year of the gods."  12,000 years of the gods form an "age of</item>
+                            <item>7 the gods," or "divine age," or "great age," which is equal</item>
+                            <item>8 to 4,320,000 of men.  Seventy-one Maha-yugs constitute a period called <hi rend="italic">Manwantara;</hi> during which one Menu with</item>
+                            <item>9 his posterity of sons and grandsons ruled the earth.  There</item>
+                            <item>10 are 14 Menus and 14 Manwantaras.  These 14 Manwantaras are equal to 1000 Maha-yugs or one <hi rend="italic">Kalpa</hi>, or</item>
+                            <item>11 4,320,000,000 solar years.  This is the day of <hi rend="italic">Brahma</hi>.</item>
+                    </list>
+                    </body>
+                </floatingText> 
+            </add>
+            
+            <ab><handShift new="#h2"/>
+            <milestone unit="undeclared" rend="horbar-full"/>
+                Cossacks, fierce, ruthless, sitting round a table drinking brandy, after a battle, singing a song in praise of blood the gallows, the knout, torture, &amp;c.<lb/>&#9757;
+            </ab>
+            
+            <pb xml:id="leaf001v" facs="duk_sd.00001.jpg" type="verso"/>
+            
+            </body>
+    </text>
+</TEI>
+

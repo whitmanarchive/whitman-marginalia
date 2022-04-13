@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02139">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main">Whitman and World Cultures</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Caterina Bernardini</author>
+<respStmt>
+<resp>Transcription and encoding</resp>
+  <persName xml:id="km">Kevin McMullen</persName>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+</titleStmt><editionStmt>
+<edition><date>2020</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>anc.02139</idno> 
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+</address>
+<availability>
+  <p>
+    This text is made available under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    .
+  </p>
+  <p>
+    The text encoding was created and/or prepared by the
+    <title level="m">Walt Whitman Archive</title>
+    and is licensed under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    (CC BY 4.0). Any reuse of these materials should credit the
+    <title level="m">Walt Whitman Archive</title> and Caterina Bernardini.
+  </p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+  <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+  <change when="2020-02-20" who="#km">implemented Matt and Ken's corrections</change>
+  <change when="2020-01-29" who="#km">created page</change>
+</revisionDesc>
+</teiHeader>
+
+<text type="ancillary">
+<body>
+  <head type="main">WHITMAN AND WORLD CULTURES</head>
+  
+  <div1 type="section">
+    <head type="sub">Introduction</head>
+    <p>In his monumental study entitled <hi rend="italic">The Foreground of</hi> Leaves of Grass, Floyd Stovall wrote that, while it is apparent that literature was Whitman's primary interest, his second greatest interest was in history and geography. Whitman's book annotations and marginalia and his cultural geography scrapbook testify to the validity of Stovall's assessment: Whitman was an avid reader and an independent, improvised&#8212;and chaotically organized&#8212;scholar of all things that seemed to him to be somehow connected to, or illuminating of, world history and geography. To a certain degree, though, these documents also show us how it may be useful to transcend a strict disciplinary division of literature, history, and geography when thinking of Whitman's intellectual and creative modus operandi. For Whitman, these disciplines, and his own interest in and dedication to them, were often conflated: ultimately, they all served, in various ways, the poet's ambitious agenda, by which, "with the twirl of my tongue I encompass worlds and volumes of worlds," as audaciously declared by the lyrical I in "Song of Myself."</p>
+  
+    <p>These manuscript notes, which open the Ohio Wesleyan scrapbook, perfectly&#8212;and therefore, in typical Whitmanian fashion, overwhelmingly&#8212;announce the poet's strong desire to acquire knowledge about, as he put it in another manuscript note (see surface 916), "Peoples," from all over the globe, with their customs and history, and about the geological and other natural characteristics of the earth itself.</p>
+    
+      <figure>
+        <graphic url="scrapbook_inside_front_cover.jpg"/>
+        <head>Figure 1.</head>
+        <p>The inside front cover of Whitman's cultural geography scrapbook, held at Ohio Wesleyan University.</p>
+      </figure>
+      
+      <p>An initial note-reminder about the need to study "census reports" is followed by a list of disparate topics that cover, in a clumsy encyclopedic embrace, what appear to be major categories in different places, societies, and civilizations that Whitman thought it would be necessary to consider, describe, and give representation to in the scrapbook. But this manuscript page is also metonymic of Whitman's ample, all-encompassing creative agenda and of the accumulative poetic device related to it: the list, used by Whitman to give expression to what Umberto Eco has called, in his study dedicated to lists and catalogues, "the science of the plural and of the unlimited."</p>
+    
+    <p>Whitman's fever to learn about the world is one and the same with his fever to make, to write the world. These manuscript notes indicate Whitman's closeness to what Milan Kundera has called the writerly ambition to map not reality, but more largely, existence: not the realm of human achievements, but the realm of human possibilities. The geography scrapbook is, therefore, crucial in improving and transforming our knowledge about Whitman's creative impulse and poetic agenda. The scrapbook can be seen as the magmatic origination of Whitman's imagination about the world: a fact is not only relevant for the content of the scrapbook&#8212;for the countries and maps and histories and cultural customs that Whitman appears to be interested in&#8212;but also for the methods of composition that he used in arranging the scrapbook's textual congeries, in selecting materials, deciding in which order they should appear, and pairing descriptions of American states with those of other countries.</p>
+    
+    <p>The scrapbook also represents a treasure trove for scholars interested in Whitman's reception and reinvention around the world, as it offers us a more complete picture of what, precisely, Whitman knew or did not know, or, perhaps more importantly, chose to know or to not know, about foreign lands and cultures. What he knew about them and what he managed to incorporate in his poetry came to influence the ways in which his poetry was capable of speaking to translators, readers, and writers around the world.</p>
+  </div1>
+  
+  <div1>
+    <head type="sub">Poetry as Geography-Making</head>
+  
+    <p>Whitman's imagination was highly geographic and cartographic. It could in fact be argued that Whitman saw writing as a form of geography-making: as put by Marina Camboni, his work had to be isomorphic with America and with the world; it had not only to give expression to them, but to embody them fully. This idea, which obsessed him throughout his creative life, has prompted many readers and scholars to read Whitman's poetry, or part of it, as imperialistic. Walter Grünzweig, who has devoted a number of studies to this subject, has shown that there are many instances in which Whitman's poetry shows an exceptionalist and colonialist side. But other moments, Grünzweig notes, "lift Whitman beyond the imperial framework to that of a positive global vision." The co-presence of these traits is typical of Whitman, as Betsy Erkkila explains: "the paradox of Whitman's poetic democracy is that, at the very moment when he seeks to be most inclusive, universal, and democratic, his poetry becomes most powerful&#8212;and more powerfully dangerous&#8212;in silencing and denying the rights, liberties, and differences of others."</p> 
+    
+    <p>Already in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>, Whitman expressed his belief that for the true American poet, "the other continents arrive as contributions," and that such a poet must "incarnat[e] [ his country's] geography and natural life and river and lakes." He repurposed this principle in the 1856 edition's "Poem of Many in One" (which, in the 1860 <hi rend="italic">Leaves</hi>, became "Chants Democratic, No. 1"), where he wrote: </p>
+    
+    <q>
+      <floatingText>
+        <body>
+          <lg type="extract">
+            <l>These States are the amplest poem [. . .]</l>
+            <l>Race of races, and bards to corroborate!</l>
+            <l>Of them, standing among them, one lifts to the light his west-bred face. [. . .] </l>
+            <l>Used to dispense with other lands, incarnating this land, [. . .]</l>
+            <l>Making its geography, cities, beginnings, events, glories, defections, diversities, vocal in him.</l> 
+            <l>Making its rivers, lakes, bays, embouchure in him. (<hi rend="italic">Leaves of Grass</hi> 1856, 183&#8211;184)</l>
+          </lg>
+        </body>
+      </floatingText>
+    </q>
+    
+    <p>In the 1860 edition, his ambition was explicitly expanded to the whole globe: "I will acknowledge contemporary lands, / I will trail the whole geography of the globe, and / Salute courteously every city large and small." And by 1876, and in the last two editions of <hi rend="italic">Leaves</hi>, the isomorphism had been completed. It was no longer only about vocalizing America and the world, or about symbolically trailing and encompassing their territories, but about fully, physically embodying them. The very face of the poetic persona had not only become "this heart's geography's map, this limitless continent, this soundless sea," but also "this condensation of the universe." It remains the task of scholars and readers to distinguish and continue to signal how "the poet who celebrates diversity, multiple identities, and democratic tolerance, can sometimes seem dangerous and globally hegemonic [and to be aware of] the endless push/pull of imperialism and democratic affection," as Ed Folsom describes it.</p>
+    
+    <p>What is certain is that, if poetry had to be geography, then composing and compiling his cultural geography scrapbook was for Whitman a form of poetic training, and we should look at the scrapbook as a precious testimony of this.</p>   
+  </div1>
+  
+  <div1>
+    <head type="sub">Collating World History to Define America</head>
+    
+    <p>The scrapbook and many manuscripts and annotations, filled with dates, population numbers, and underlined names of crucial historical figures, show that Whitman was urgently trying to educate himself about the main events that had shaken and defined human history in all corners of the world, with all he found and as best as he could, giving particular relevance to a didactic text like Samuel Goodrich's <hi rend="italic">The World As It Is and As It Has Been; A Comprehensive Geography and History, Ancient and Modern</hi> (1855).</p>
+    
+    <p>While a number of the poet's manuscript notes can be read as superficial in their primarily mnemonic task, and while the introductions and "lessons" by Goodrich, if useful, remain scholastic&#8212;and problematic, from today's perspective, in their often stereotypical, condescending depictions of races, genders, and classes&#8212;there are also some salient textual events that shed light on Whitman's historiographic interests, interests that assume a peculiar importance in conjunction with his poetry. One of them is the study of royal families of Europe and feudal systems which Whitman deemed relevant enough to take from the <hi rend="italic">New York Herald</hi> of February 12, 1858, and insert into the scrapbook.</p>
+    
+    <figure>
+      <graphic url="royal_families.jpg"/>
+      <head>Figure 2.</head>
+      <p>A newspaper clipping included in Whitman's cultural geography scrapbook, taken from the February 12, 1858, issue of the <hi rend="italic">New York Herald</hi>.</p>
+    </figure>
+    
+    <p>The placement of the <hi rend="italic">Herald</hi> article within the larger scrapbook is also significant, as Whitman decides to use it as a sort of introduction to Goodrich's section dedicated to Europe. The existence of royal families in Europe seems to be a crucial defining factor in Whitman's mind, perhaps in a direct attempt to contrast European to American history.</p>
+    
+    <p>In this same spirit of comparing Europe to America, Whitman was interested in early Roman history, commenting on how Rome was the result of a variety of races, "a diversity of sources":</p>
+    
+    <figure>
+      <graphic url="duk.00012.010.jpg"/>
+      <head>Figure 3.</head>
+      <p>An annotated page from Whitman's copy of an article on "Early Roman History," from the Trent Collection of Whitmaniana, Duke University Rare Book, Manuscript, and Special Collections Library. The article appeared in the April 1846 issue of the <hi rend="italic">Western Review</hi>.</p>
+    </figure>
+    
+    <p>But while the multiethnic character of Rome, its "confluence of human streams," as put in the above 1846 <hi rend="italic">Western Review</hi> article annotated by Whitman, must have been inspiring for the poet's appreciation of the cosmopolitan nature of United States in general, and of New York, his city, in particular, there was an aspect of what he called an "Asiatic Greek or Roman spirit" that persisted in modern American culture, and that he despised. A manuscript note appears at the end of a paragraph that treats the Etruscan origin of utilitarian public works realized during the Roman monarchy, during the reigns of the last Roman kings that had Etruscan origins. These works, such as, for example, the Cloaca Maxima, one of the world's earliest sewage systems, differed greatly from strictly celebratory pyramids, obelisks, and temples, as the text that Whitman read made clear. Significantly, Whitman not only enthusiastically marked these utilitarian public works as "great," but he also asked: "is not our putting up of 'monuments,' statues to Washington, etc., a poor relic of the old Asiatic Greek or Roman spirit?"</p>
+    
+    <figure>
+      <graphic url="duk.00012.029.jpg"/>
+      <head>Figure 4.</head>
+      <p>Another annotated page from Whitman's copy of an article on "Early Roman History."</p>
+    </figure>
+    
+    <p>The question was crucial in helping to shape the agenda of a poet intent, as Sascha Pöhlmann has said, on writing a poetry of "future founding."</p>
+  </div1>
+  
+  <div1>
+    <head type="sub">Listing and Classifying</head>
+    
+    <p>Whitman's main compositional methodology of listing countries, people, and events in his annotations and marginalia is accompanied by a tendency briefly to describe, classify, and categorize&#8212;sometimes at the risk of oversimplification&#8212;various world cultures, according to their supposed general traits.</p>
+    
+    <p>For example, the following manuscript, which likely used to be part of the scrapbook, reads: "Egypt, (and probably much of the sentiment of the Assyrian empire) represents that phase of development, advanced childhood [. . .] India, represents meditation, oriental rhapsody [. . .]."</p>
+    
+    <figure>
+      <graphic url="duk.00197.001.jpg"/>
+    </figure>
+    
+    <figure>
+      <graphic url="duk.00197.002.jpg"/>
+      <head>Figure 5.</head>
+      <p>A manuscript from the Trent Collection of Whitmaniana, Duke University Rare Book, Manuscript, and Special Collections Library.</p>
+    </figure>
+    
+    <p>This tendency can be observed not only in the scrapbook and the marginalia, but also in Whitman's poetry, and especially in his employment of multilingualism. Often dissatisfied with the expressive capabilities of language, and willing to represent the heightened composite and cosmopolitan linguistic nature of American English, Whitman often resorted to non-English words in his poetry. Analyzing the patterns of Whitman's use of different languages, it is clear that Whitman tended to have a compartmentalized understanding of them: Native American languages were often invoked by him for naming places or natural elements; French was usually employed by the poet as the language of sophistication or for launching political messages; Spanish appeared almost always as the language of the pan-American dream, and so on. But notwithstanding this limitation, Whitman's multilingualism undoubtedly created, overall, a proto-modernist, innovative, and often musically revolutionary effect. And the poet did have a genuine hope for the existence of "one common orbic language."</p>
+  </div1>
+  
+  <div1>
+    <head type="sub">"Are all nations communing? Is there going to be but one heart to the globe?"</head>
+    
+    <p>This same hope reverberated more largely in Whitman's vision of a transnational, global future of togetherness of all nations. Whitman "saw a time when democratic literature would transcend national boundaries," Gay Wilson Allen and Ed Folsom remind us, "and he did his best to encourage an international reaction to his work, to generate a debate on the nature of democratic literature that would eventually produce poets from around the world who would carry on and refine the project he began." Just as he hoped for "one common orbic language," Whitman wondered whether there could ultimately be, one day, "but one heart to the globe," the blood of this beating heart coming from the capacity of literature to cross boundaries, to make nations "commune," as he wrote in "Years of the Modern."</p>
+    
+    <p>In "Five Thousand Poems," a piece he wrote in 1887, he observed:
+    
+    
+    <q type="extract">
+      <floatingText>
+        <body>
+          <p>Without relation as they may seem at first sight, the whole earth's poets and poetry—en masse—the Oriental, the Greek, and what there is of Roman—the oldest myths—the interminable ballad-romances of the Middle Ages—the hymns and psalms of worship—the epics, plays, swarms of lyrics of the British Islands, or the Teutonic old—or new or modern French—or what there is in America, Bryant's, for instance, or Whittier's or Longfellow's—the verse of all tongues and ages, all forms, all subjects, from primitive times to our own day inclusive—really combine in one aggregate and electric globe or universe, with all its numberless parts and radiations held together by a common centre or verteber. To repeat it, all poetry thus has (to the point of view comprehensive enough) more features of resemblance than difference, and becomes essentially, like the planetary globe itself, compact and orbic and whole.</p>
+        </body>
+      </floatingText>
+    </q>
+      
+      But the seed of these ideas was clearly planted in Whitman's mind many years before, while reading and self-educating himself about the world. This manuscript annotation is another proof of his interest in the topic:</p>
+    
+    <figure>
+      <graphic url="florid_rich.jpg"/>
+      <head>Figure 6.</head>
+      <p>A manuscript from the Trent Collection of Whitmaniana, Duke University Rare Book, Manuscript, and Special Collections Library.</p>
+    </figure>
+    
+    <p>"The primitive poets, their subjects, their style, all assimilate," Whitman writes. "Very ancient poetry, of the Hebrew prophets, of Ossian, of the Hindu singers and extatics, of the Greeks, of the American aborigines, of the old Persians and Chinese, and the Scandinavian sagas, all resemble each other."</p>
+    
+  </div1>
+  
+  <div1>
+    <head type="sub">A Solid, Curious Sense of Places and People Unknown</head>
+    
+    <p>Reading Whitman's cultural geography scrapbook, annotations and marginalia, one notices an element that recurs, with force, throughout them. The more Whitman learned about world cultures, the more he perceived that there existed entire empires and cities and people and literatures that remained unknown but that had been, perhaps, "in greater vigor and fluency than the known ones." This sense of loss, of the impossibility of gaining some kinds of knowledge, but also this strong sense of a mysterious and yet certain existence, enormously fascinated him. When the (anonymous) author of the text he was reading, cut from <hi rend="italic">The North British Review</hi> of 1849, assessed that "the destinies of the species appear to have been carried forward almost exclusively by its Caucasian variety," Whitman noted, skeptically: "yes, of late centuries—but how about those 5, 10, or 20 thousand years ago?"</p>
+    
+    <figure>
+      <graphic url="duk.00039.001.jpg"/>
+      <head>Figure 7.</head>
+      <p>An annotated page from Whitman's copy of an article about "The Slavonians and Eastern Europe," which appeared in the August 1849 issue of the <hi rend="italic">The North British Review</hi>. This copy is now held in the Trent Collection of Whitmaniana, Duke University Rare Book, Manuscript, and Special Collections Library.</p>
+    </figure>
+    
+    <p>And again, in this note:</p>
+    
+    <figure>
+      <graphic url="most_immense_part.jpg"/>
+      <head>Figure 8.</head>
+      <p>A manuscript from the Trent Collection of Whitmaniana, Duke University Rare Book, Manuscript, and Special Collections Library.</p>
+    </figure>
+    
+    <p>"The most immense part of Ancient History is altogether unknown," Whitman writes here. "There were busy, populous, and powerful nations, on all the continents of the earth, at intervals [. . .] Through the stretch of time [. . .] there were busy, populous, and powerful nations." He reinforces this last sentence by repeating it twice in this paragraph, like a mantra. Perhaps it is this continual curiosity, this sureness of the most immense part of the unknown existences that had been, that pushed Whitman to write more, embrace more, project more, the most immense part of the unknown existences that were being and had yet to be. For while projecting, Whitman knew, he was also excavating, and vice versa.</p>
+  </div1>
+      
+
+<div1 type="bibliography">
+<head type="main-authorial">Bibliography and Further Reading</head>
+<listBibl>
+  <bibl>Allen, Gay Wilson, and Ed Folsom, eds. <hi rend="italic">Walt Whitman &amp; the World</hi>. Iowa City: University of Iowa Press, 1995.</bibl>
+  
+  <bibl>Camboni, Marina. <hi rend="italic">Il corpo dell'America:</hi> Leaves of Grass <hi rend="italic">1855</hi>. Palermo: Università degli Studi di Palermo, 1990.</bibl>
+  
+  <bibl>Eco, Umberto. <hi rend="italic">La vertigine della lista</hi>. Milano: Bompiani, 2009.</bibl>
+  
+  <bibl>Erkkila, Betsy. "Whitman and American Empire." In <hi rend="italic">Walt Whitman of Mickle Street: A Centennial Collection</hi>, edited by Geoffrey M. Sill. Knoxville: University of Tennessee Press, 1994.</bibl>
+  
+  <bibl>&#8212; and Jay Grossman, eds. <hi rend="italic">Breaking Bounds: Whitman &amp; American Cultural Studies</hi>. Oxford: Oxford University Press, 1996.</bibl>
+  
+  <bibl>Folsom, Ed. "Impact on the World."  In <hi rend="italic">Walt Whitman in Context</hi>, edited by Joanna Levin and Edward Whitley, 383-392. New York: Cambridge University Press, 2018.</bibl>
+  
+  <bibl>Goodrich, Samuel. <hi rend="italic">The World As It Is and As It Has Been; A Comprehensive Geography and History, Ancient and Modern</hi>. New York: J.H. Colton and Company, 1855.</bibl>
+  
+  <bibl>Grünzweig, Walter. "Imperialism and Globalization." In <hi rend="italic">Walt Whitman in Context</hi>, edited by Joanna Levin and Edward Whitley, 249-258. New York: Cambridge University Press, 2018.</bibl>
+  
+  <bibl>Kundera, Milan. <hi rend="italic">The Art of the Novel</hi>. New York: HarperPerennial, 2003.</bibl>
+  
+  <bibl>Pöhlmann, Sascha. <hi rend="italic">Future-Founding Poetry: Topographies of Beginnings from Whitman to the Twenty-First Century</hi>. Rochester: Camden House, 2015.</bibl>
+  
+  <bibl>Stovall, Floyd. <hi rend="italic">The Foreground of</hi> Leaves of Grass. Charlottesville: The University of Virginia Press, 1974.</bibl>
+</listBibl>
+
+
+</div1>
+</body>
+
+
+</text>
+</TEI>

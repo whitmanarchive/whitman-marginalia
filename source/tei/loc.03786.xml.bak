@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03786">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Settlers and Indian Battles</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <author xml:id="hdt">Henry David Thoreau</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="clh">Christy Hyman</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.03786</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. An image of the verso of the blue backing sheet is unavailable.</note>             
+            </notesStmt>
+            <sourceDesc>
+                
+           <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">Settlers and Indian Battles</title> 
+                    <idno type="callnumber">19100</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+               </bibl> 
+                
+               <bibl xml:id="r1" type="pasteon">
+               <author>unknown</author>
+               <title level="a">Letters From The Country</title>
+               <title level="j">Life Illustrated</title>
+                   <date when="1856-03-22" >22 March 1856</date>
+                   <pubPlace>New York</pubPlace>
+                   <biblScope type="page">6</biblScope>
+               </bibl>
+                
+                <bibl xml:id="r2" type="pasteon">
+                    <author>unknown</author>
+                    <title level="a">Indian Census</title>
+                    <title level="j">unknown</title>
+                    <date notBefore="1852-01-01" notAfter="1860-01-01">Between 1850 and 1860</date><!-- This article was seemingly reprinted widely in newspapers, beginning around 1852. It seems to have been reprinted widely again around 1857 and 1858, which is likely when Whitman's copy is from. However, I've been unable to find an exact match for the text in this version. KM -->
+                    <pubPlace>unknown</pubPlace>
+                    <biblScope type="page">unknown</biblScope>
+                </bibl>
+                
+                <bibl xml:id="r3" type="pasteon">
+                    <author>Henry David Thoreau</author>
+                    <title level="m">A Week on the Concord and Merrimack Rivers</title>
+                    <date when="1849">1849</date>
+                    <publisher>James Munroe and Company</publisher>
+                    <pubPlace>Boston</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h4" scribeRef="#hdt" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-10-10" who="#km">proofed</change>
+            <change when="2019-06-11" who="#km">checked</change>
+            <change when="2019-06-03" who="#clh">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+
+            <pb xml:id="leaf001r" facs="loc.03786.001.jpg" type="recto"/>
+            <add rend="pasteon" place="top"><handShift new="#h3"/>
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf002r" facs="loc_km.00046.jpg" type="recto"/>
+<byline>(Written for Life Illustrated)</byline>
+                        
+<head type="main-authorial">LETTERS FROM THE COUNTRY.</head>
+                        
+<head type="sub">I.</head>
+                        
+<dateline>P<hi rend="smallcaps">HALANX</hi>, N<hi rend="smallcaps">EW</hi> J<hi rend="smallcaps">ERSEY</hi>, <hi rend="italic">March</hi> 29, 1856.</dateline>
+                        
+<p>About a week ago, in the course of a ramble along the wood-skirted banks of Trout Brook, we (wife and I) found a cluster of traling arbutus (<hi rend="italic">Epigae repens</hi>) at the brink of a snow-drift, and partially covered by it, but with an abundance of flower-buds considerably developed. This plant, oftener than otherwise called May-flower, and sometimes ground laurel, is a singlular and interesting one. It grows in patches, and stretches vine-like over the woodland hill-sides, hiding itself beneath dry leaves, as if too timid or too modest to meet the eye of any chance comer. How beautiful its clusters of pink and white blossoms are, and how delightfully fragrant! But one unacquainted with its habits might search through the spring-woods all day for it without being rewarded by a single flower, so concealed are its sweet treasures. It often blossoms here early in March, and sometimes even in February, but this year I think it will wait for the showers and sunshine of April. It is the earliest of our wild flowers, blossoming before the snow is fairly gone. Even the snow-drop is less hardy in this country, though in England it flowers in February, and M. de Condolle found it on the mountains of Switzerland with its little starry cups actually pushing themselves through the snow.</p>
+                        
+<p>Nearly as early as the Epigens come the pretty little squirrel caps or liver-leaf (<hi rend="italic">Hepatica</hi>), but I have seen no flower-buds of the latter yet. These early spring flowers have a charm which later blossoms lack. The squirrel cups vary in color, some being white, others pink, and others still bluish or lilac-colored. A woodland walk is not devoid of interest, even at this season, though one searches in vain for flowers, and only here and there a patch of veruder is visible. The chick wintergreen (<hi rend="italic">Trientalis Americana</hi>), with its glossy leaves and bright red berries, abounds in its favorite localities, and near it is generally found the partridge-berry or squaw-vine (<hi rend="italic">Michella repens</hi>), one of the most graceful of our evergreen plants. By the way, what confusion arises whenever we attempt to designate plants and flowers by their common</p>
+                    </body>
+                </floatingText>
+            </add>
+    
+    
+    
+    <add rend="pasteon">
+        <floatingText>
+            <body>
+                <pb xml:id="leaf003r" facs="loc_km.00047.jpg" type="recto"/>
+    <p>names, while if we use botanical ones very few understand us any better. here I have occasion to speak of two common plants, one of which is known in some sections of the country by the same name which in other sections is applied to the other, chick-wintergreen being the partridge-berry of one place and the squaw-vine of another. Our popular nomenclature needs reforming. What a pity we have not a philosophical and universal language, in  which the name of an object should embody a description! But to return to the <hi rend="italic">Michella</hi>. Its branching and threadlike vines, with their small, roundish leaves strung upon them in pairs, interspersed with bright scarlet berrie, make pretty wreaths, and the young girls here often wear them in their hair. Query, did the plant receive the name of squaw-vine from a similar use of it by the Indian women? Its flowers, which come in May or June are deleicate pink bells, pale without, but of rosier hue within, are very fragrant, and possess the singlular characteristic of having two corollas upon one one germ. The berry is marked with two calices. It is eatable but rather insipid in taste.</p>
+                        
+<p>The various species of moss are now in all their beauty, and are by no means unworthy of study. Did you ever examine their tiny and delicate blossoms with a microscope? Try it some pleasant April day! I am always tempted to bring home with me tufts of the bright green and of the soft brown moses which abound on the borders of the</p>
+                        
+</body>
+</floatingText> 
+            </add>
+
+            <add rend="pasteon" source="#r1"><handShift new="#h3"/>
+<floatingText rend="flat"> 
+<body>
+    <pb xml:id="leaf004r" facs="loc_km.00048.jpg" type="recto"/>
+<p>wood-paths which I frequent. It can be preserved for a long time in all its freshness and beauty, by placing it in a shallow vessel and keeping it moistened with water. Did you ever consider the uses of the moss and lichen tribes in the economy of Nature? Their functions are not to be despised. In the winter they protect the naked parts of the earth and the tender roots of others plants hidden in it, from the sudden and too severe action of the cold, and in the summer serve to absorb and retain the moisture of the atmosphere and help to ward off the drouth. They also keep together the soil of the hill-side, and prevent it from being washed away and carried into the valleys. Every thing has its use.</p>
+    
+<p>The blue-birds, the robins, and the sparrows are here in abundance, and on a fine morning fill the air with gushes of melody, but the weather is quite cold most of the time, and the frost still lingers in the fields, so that the first furrow is yet to be plowed. In ordinary seasons potatoes and corn are planted in this month.</p>
+    
+<p>This is one of the finest farming regions in the State. The soil is, much of it, light and sandy, it is true, but it has the advantage of being easily tilled, and the farmer finds the elements of the highest fertility within his reach, in the inexhaustable beds of marl which underlie this part of the country. Sandy soils have heretofore been much underrated.</p>
+    
+<p>I hope to be able to announce in my next the commencement of our agricultural operations.</p>
+    
+<p>E<hi rend="smallcaps">X</hi>-E<hi rend="smallcaps">DITOR</hi>.</p>
+   
+</body>
+</floatingText>
+ 
+</add>
+            
+            <add rend="pasteon" source="#r2"><handShift new="#h3"/>
+<floatingText rend="flat"> 
+<body> 
+    <pb xml:id="leaf005r" facs="loc_km.00049.jpg" type="recto"/>
+    <p>I<hi rend="smallcaps">NDIAN</hi> C<hi rend="smallcaps">ENSUS</hi>.&#8212;According to the cenus returns, the entire number of Indians inhabiting all parts of our country amounts to about 418,000. Of this number, 30,000 is the estimated number of those inhabiting the unexplored territories; 24,100 are the Indians of Texas; 92,130 belong to the tribes living in New Mexico; 32,231 are in California; 22,733 are in Oregon; 11,500 are in Utah.</p>
+</body>
+</floatingText>
+
+</add>
+
+            <ab><add rend="insertion" place="supralinear">Settlers  &amp;</add> Indian battles</ab>
+    
+    
+            <add rend="pasteon" source= "#r3"><handShift new="#h4"/>
+  <floatingText>
+      <body>   
+          <pb xml:id="leaf006r" facs="loc_km.00050.jpg" type="recto"/>
+<p>These battles sound incredible to us. I think posterity will doubt if such things ever were; if our bold ancestors who settled this land were not struggling rather with the forest shadows, and not with a copper colored race of men. They were vapors, fever and ague of the unsettled woods. Now, only a few arrow-heads are turned up by the plow. In the Pelasgic, the Etruscan, or the British story, there is nothing so shadowy and unreal.</p>
+<note type="authorial" place="interlinear" resp="#h1">Thoreau</note>
+      </body>
+  </floatingText>
+ </add>
+           
+        </body> 
+    </text>
+</TEI>
+            
+   
+           
+            
+          
+            
+            
+
+

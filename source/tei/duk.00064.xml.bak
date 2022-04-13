@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00064">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">This list of one week's</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="as">Ashlyn Stewart</persName>
+                    <persName xml:id="clh">Christy Hyman</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00064</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">This list of one week's</title>
+                    <idno type="callnumber">II-7A 182</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                
+                <bibl xml:id="r1" type="pasteon">
+                    <author>unknown</author>
+                    <title level="a">List of patents issued from the United States Patent Office for the week ending May 12, 1857</title>
+                    <title level="j">New York Sun</title>
+                    <date when="1857-05-16">16 May 1857</date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="page">1</biblScope>
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"><persName xml:id="unk">unknown</persName></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-10-02" who="#km">proofed</change>
+            <change when="2019-08-19" who="#clh">first check</change>
+            <change when="2019-07-25" who="#as">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <ab/>
+            <pb xml:id="leaf001r" facs="duk.00064.001.jpg" type="recto"/>
+            <p><handShift new="#h1"/>This list of one week's issue of patents from the National Patent office at Washington illustrates America and American character about as much as any thing I know.&#8212;(Remember the show at the Crystal Palace, and the American Institute Fairs.)</p>
+            
+            <add rend="pasteon" place="top" source="#r1"><handShift new="#h2"/>
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf002r" facs="duk.00064.002.jpg" type="recto"/>
+                        <p>List of Patents Issued from the United States Patent Office for the week ending May 12, 1857&#8212;each bearing that date:</p>
+                        <list>
+                            <item>Iron plate railroad car wheels: G. W. Alden, New York, N. Y.</item>
+                            <item>Apparatus for heating and cooking by gas: R. Snowden Andrews, Baltimore, Md.</item>
+                            <item>Self-indicating balance: Z. W. Avery and Otis Avery, Bethany, Pa.</item>
+                            <item>Signal lamps: R. P. Bailey, Niagara, N. Y.</item>
+                            <item>Rotary shingle cutter: Wm. Bevard, St. Louis, Mo.</item>
+                            <item>Stitch for sewing machines: Chas. F. Bosworth, Petersham, Mass.</item>
+                            <item>Portable barrack: Matthias F. Brantingham, Sangamon Co., Ill.</item>
+                            <item>Bumper railroad car brakes: Louis Brauer, Sommerville, Tenn.</item>
+                            <item>Corn planters: Jno. Broughton, New York, N. Y.</item>
+                            <item>Apparatus for roasting meat: Jno. G. Brown and Jno. P. Derby, South Reading, Mass.</item>
+                            <item>Seed planters: Jno. H. Bruen, Penn Yan, N. Y.</item>
+                            <item>Mode of overcoming the windage in firearms: Ambrose E. Burnside, Bristol, Mass.</item>
+                            <item>Machines for making lozenges: Oliver R. Chase, of Boston Mass., and Silas E. Chase, Charlestown, Mass</item>
+                            <item>Machine for cutting match splints: Thomas Cook, New York, N. Y.</item>
+                            <item>Artificial honey: Zenes Corbin and Gideon Marlett, Syracuse, N. Y.</item>
+                            <item>Horse shoes: David Cumming, Sorrel Horse, Pa.</item>
+                            <item>Hook temples for looms: Warren C. Dutcher, and George Draper, Milford, Mass.</item>
+                            <item>Method of connecting the check piece to the mouth piece of bridle bits: Kesson Frazer, Syracuse, N. Y.</item>
+                            <item>Corn hunkers: E F. French, Franklin, Vt.</item>
+                            <item>Mode of constructing portable houses: Daniel Fitzgerald, New York, N. Y.</item>
+                            <item>Semi-rotative steam engines: C. B. Gallegher, Alleghany City, Pa.</item>
+                            <item>Needles for sewing: Benjamin Garvey, New York, N. Y.</item>
+                            <item>Nail plate feeder: Jno. C. Gould, Boonton, N. J.</item>
+                            <item>Hemp brakes: J. Locke Hardeman, Arrow Rock, Mo.</item>
+                            <item>Seed planters: John Haselton, Orford, N. H.</item>
+                            <item>Propeller blades: Geo. Hibsch, Buffalo, N. Y.</item>
+                            <item>Harvesters: Moses G. Hubbard, Penn Yan, N. Y.</item>
+                            <item>Presses for cottom, &#38;c.: Henry Hughes, Port Gibbon, Miss.</item>
+                            <item>Process of treating raw cotton: Julius C. Hurd, Medway, Mass.</item>
+                            <item>Folding bedsteads: James A. Johnson, Antrim, Ohio.</item>
+                            <item>Bed bottoms: J. F. Keller, Cleveland, Ohio.</item>
+                            <item>Coal stoves: John C Keller, Philadelphia, Pa.</item>
+                            <item>Blacksmiths' strikers: Hartwell Kendall, East Dorset, Vt.</item>
+                            <item>Mortising chisel: Geo. P. Ketchum, Bedford, Ind.</item>
+                            <item>Joiner's plane: Benjamin J. Lane, Newburyport, Mass.</item>
+                            <item>Cartridges: Edw'd Lindner, New York, N. Y.</item>
+                            <item>Machine for boring flue sheets of steam boilers: Sylvanus V. Lowe, Reading, Pa.</item>
+                            <item>Clearing guard of grain elevators: Geo. Mann, Jr., Ottawa, Ill.</item>
+                            <item>Machines for engraving cylinders: Robt. Muckett and Wm. Rigby, Salford, England.</item>
+                            <item>Blasting powder: Antoino Murtineddu, Marseilles, France</item>
+                            <item>Joiner's bench trip: Chas. T. Pearson, Chelsea, Mass.</item>
+                            <item>Locks: Stuart Perry, Newport, N. Y.</item>
+                            <item>Coal cracker: Townsend Poore, Carbondale, Pa.</item>
+                            <item>Devulcanizing India rubber; ante-dated April 1, 1857: Conrad Poppenhusen and Ludwig Held, Brooklyn, N. Y.</item>
+                            <item>Piano-forte bridge: Thos, E, Power, Columbia, Mo.</item>
+                            <item>Fountain pens: Chase. Adolphus Rosefield, Columbus, Ga.</item>
+                            <item>Binding books: Archibald H. Rowand, Alleghany, Pa.</item>
+                            <item>Machine for planing chair seats: Edward Q. Smith, Cincinnati, Ohio.</item>
+                            <item>Heating soldering tools by gas: J. Henry Stimpson, Boston, Mass.</item>
+                            <item>Field fence: Seth C. Tufts, Mainville, O.</item>
+                            <item>Soap substitute for scouring woolens: Louis Wilman, Worcester, Mass.</item>
+                            <item>Rock drills: John D. Hope, Niagara Falls, N. Y., assignor to G. Arthur Gardner, New York. N. Y.</item>
+                            <item>Seed planter: Charles Ketchum, Penn Yan, N. assignor to Charles G Judd, same place.</item>
+                            <item>Sub-marine excavator: William Kennish Brooklyn, N.Y., assignor to Andrew B. Gray, San Diego, Cal.</item>
+                            <item>Copying preses: Wm. Morris Smith, Washington, D. C., assignor to himself and Peter Hannay.</item>
+                            <item>Gas generators. James A. Bruce, Baltimore, Md., assignor to the Maryland Portable Gas Company, same place.</item>
+                            <item>Method of preparing canvass for printing, painting &#38;c., Elisha Lee, Baltimore, Md.</item>
+                            <item><hi rend="italic">Re-issue</hi>&#8212;Hanging shafts in mills.  Pantented October 9, 1849.  Jos. Bancroft, executor of Edward Bancroft, deceased, late of Philadelphia, Pa.</item>
+                        </list>
+                        <milestone unit="undeclared" rend="horbar-short-center"/>
+                    </body>
+                </floatingText>
+             </add>
+           </body>                
+</text>
+</TEI>

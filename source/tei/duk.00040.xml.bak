@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00040">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Prophecy that soon the Atlantic</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="as">Ashlyn Stewart</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00040</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">Prophecy that soon the Atlantic</title>
+                    <idno type="callnumber">MS q 186</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                
+                <bibl xml:id="r1" type="pasteon">
+                    <author>Unknown</author>
+                    <title level="a">A New Era in Shipping</title>
+                    <title level="j">New York Daily Times</title>
+                    <date when="1857-06-24">24 June 1857</date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="page">2</biblScope>
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pen"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"><persName xml:id="unk">unknown</persName></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-01-23" who="#km">proofed</change>
+            <change when="2019-12-08" who="#as">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="annotations">
+        <body>
+         
+            <pb xml:id="leaf001r" facs="duk.00040.001.jpg" type="recto"/>
+            
+            <p><handShift new="#h1"/><hi rend="circled">Prophecy that soon the Atlantic will be sailed nearly altogether by <hi rend="underline">Iron Ships</hi>, and that those will be <hi rend="underline">Screw Propellers</hi></hi></p>
+           
+            <add rend="pasteon" source="#r1" xml:id="p1" next="#p2"><handShift new="#h2"/>
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf002r" facs="duk_km.00026.jpg" type="recto"/>
+
+                            <p>So much for sailing ships, which after all are only one of our weak points.  The following extract from an English pamphlet recently published, will suggest another:</p>
+                        
+                            <q type="extract"><floatingText><body><p>"The indications are too distinct to be misconceived, that a new era in ocean navigation is rapidly approaching.  The proofs have become convincing, to investigating minds, that iron and steam are to supersede wood and canvas, in the movement of the products and passengers between the two hemispheres.  The greater size, strength and security in every respect&#8212;to say nothing of durability of wear&#8212;which may be imparted to iron steamships, combine to render such a result positively certain.  <hi rend="italic">Before the end of this century there will not, probably, be a wooden hull navigating the Atlantic under canvas."</hi></p></body></floatingText></q>
+                        
+                            <p>Now, if "iron and steam are to supersede wood and canvas" on the ocean,&#8212;which position do we find ourselves placed in?  Why in such a position, that if iron and iron ships are not admitted to our ports without change or impost, we may as well make up our minds to be driven ere long from the carrying trade.  The present state of our mercantile marine is thus described in the <hi rend="italic">Journal of Commerce</hi> on Wednesday:</p>
+                        
+                            <q type="extract"><floatingText><body><p>"Such a depression as now exists in the mercantile marine, has been seldom experienced.  Wharves, far up town, usually vacant, are fully occupied by ships laid up in idleness; other vessels, taking their chance in trade, sail in ballast, or otherwise earn an uncomfortable loss to the owners.  Profitable voyages are the exceptions.  Prominent among the causes tending to this result, is the great increase of ocean streamers.  Certainly their abundance aggravates the evil, if it is not an occasion of it.  Their influence has been more perceptible since the close of the Eastern war, by which quite a number of them were released from the transport service.  Now, it is distinctly recognized; and predictions are already made that we only see the beginning of the end; that sailing vessels must gradually yet inevitably disappear from the Atlantic, before the omnipotent power of steam."</p></body></floatingText></q>
+                        
+                            <p>While many of our finest ships are lying <gap reason="covered"/> there are stated to be upwards of eighty <gap reason="covered"/>ers being built in the ports of Great <gap reason="covered"/> alone, all but two are three being screw <gap reason="covered"/>ers; and many of them intended for the</p></body></floatingText></add> 
+            
+            
+            <add rend="pasteon" source="#r1" xml:id="p2" prev="#p1">
+                <floatingText>
+                    <body>
+                        <pb xml:id="leaf003r" facs="duk_km.00027.jpg" type="recto"/>
+                        <p>Atlantic trade. In other words, they are intended to beat our sailing ships out of the market, and they do beat them.</p>
+                        
+                            <p>What is to be done?  If any one still believes that we can build steamers to compete with the iron built steamers of England, we can only refer him to the experience of every company who have navigated the Atlantic. It has been long admitted on all hands that paddle steamers cannot be employed at a profit without a Government subsidy.  Screw-propellers can; and hence the phenomenon now witnessed in England of the all but universal adoption of the screw.  But wooden vessels are too heavy for rapid screw propulsion.  An experiment made by one company of building half their screw steamers of wood has proved a failure, and was abandoned after one or two vessels had been constructed, and iron is now the only material used.</p>
+                        
+                            <p>There is not a single screw propeller on the stocks in this country for the European trade; there are upwards of eighty in England. The obvious and unavoidable conclusion is that we cannot build them without loss.  But screw steamers are absorbing the whole foreign trade, and unless we are prepared to supply ourselves, as the rest of the world does, with iron ships where we can get them cheapest, we may as well abandon the carrying trade at once.  We need, therefore, feel no surprise at the fact, that France, Belgium, and even Spain and Italy are getting up companies which will traverse the Atlantic with innumerable steamers, bring us the goods we consume, and depart laden with our produce, and thus, not simply deprive our merchants of the profits of our carrying trade, but the country of the glory of standing first among maritime nations.</p>
+                            <milestone unit="horbar-short-center"/>
+                    </body>
+                </floatingText>
+             </add>
+
+                <ab><handShift new="#h1"/>N.Y. Times<lb/> '57</ab>
+            
+            <pb xml:id="leaf001v" facs="duk_ap_00167.jpg" type="verso"/>
+           </body>                
+</text>
+</TEI>

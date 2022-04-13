@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nyp.00072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Ethnology</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>nyp.00072</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. This manuscript is pasted down, making the verso inaccessible.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">Ethnology</title>
+                    <idno type="callnumber">b15520479</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="nyp">The Henry W. and Albert A. Berg Collection of English and American Literature, New York Public Library</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
+            <change when="2019-10-02" who="#km">proofed</change>
+            <change when="2019-03-12" who="#km">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <pb xml:id="leaf001r" facs="M_1238145.jpg" type="recto"/>
+            
+            
+               <div1> 
+                   <head>Ethnology</head>
+                   <span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
+                   <p>The tracing of the divisions, parentage, and localities of races,&#8212;as whence they sprang, and what are their typical marks</p>
+                   <anchor xml:id="s2"/>
+               </div1>
+            
+                <div1>
+                    <head>Language</head>
+                    <span rend="curlyBrace-right" xml:id="s3" from="#s3" to="#s4"/>
+                    <anchor xml:id="s4"/>
+                </div1>
+      
+                <div1>
+                    <head>Politics</head>
+                    <p>under this come all of what are called governments, laws, human rights, and the like.&#8212;</p>
+                </div1>
+            
+            <span rend="singleLine-left" xml:id="s5" from="#s5" to="#s6"/>
+            <div1>
+                <head>Religions</head>
+                <span rend="curlyBrace-right" xml:id="s7" from="#s7" to="#s8"/>
+                <anchor xml:id="s8"/>
+            </div1>
+            
+            <div1>
+                <head>Literature</head>
+                <span rend="curlyBrace-right" xml:id="s9" from="#s9" to="#s10"/>
+                <list>
+                    <item>Nibelungen</item>
+                    <item>Iliad, Bible, (Books of Egypt, <add rend="insertion" place="supralinear">Persia</add> and Assyria are lost.)</item>
+                    <item>Ni<subst><del rend="overwrite" seq="1">eb</del><add rend="overwrite" place="over" seq="2">b</add></subst>elungen&#8212;</item>
+                    <item>Shakespeare</item>
+                    <item><choice><sic>Ramanaya</sic><corr>Ramayana</corr></choice></item>
+                    <item>Dante</item>
+                    <item><del rend="overstrike">Tasso</del></item>
+                    <cb/>
+                    <span rend="curlyBrace-left" xml:id="s11" from="#s11" to="#s12"/>
+                    <item>Emerson</item>
+                    <item>Voltaire</item>
+                    <item>Rousseau</item>
+                    <item>Histories</item>
+                    <item>Novels</item>
+                    <item>Essays</item>
+                    <cb/>
+                    <item>Newspapers</item>
+                    <anchor xml:id="s12"/>
+                </list>
+                <anchor xml:id="s10"/>
+            </div1>
+            
+            <div1>
+                <head>Zoology</head>
+                <span rend="curlyBrace-right" xml:id="s13" from="#s13" to="#s14"/>
+                    <p>list of names of all animals</p>                
+                <anchor xml:id="s14"/>
+            </div1>
+            
+            <anchor xml:id="s6"/>
+            
+            
+
+        </body>
+    </text>
+</TEI>

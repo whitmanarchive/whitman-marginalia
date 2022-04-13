@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00072">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nyp.00072">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>nyp.00072</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,7 +31,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -42,7 +39,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>nyp.00072</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. This manuscript is pasted down, making the verso inaccessible.</note>             
             </notesStmt>
@@ -72,7 +69,7 @@
                <div1> 
                    <head>Ethnology</head>
                    <span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
-                   <p>The tracing of the divisions, parentage, and localities of races,&#8212;as whence they sprang, and what are their typical marks</p>
+                   <p>The tracing of the divisions, parentage, and localities of races,—as whence they sprang, and what are their typical marks</p>
                    <anchor xml:id="s2"/>
                </div1>
             
@@ -84,7 +81,7 @@
       
                 <div1>
                     <head>Politics</head>
-                    <p>under this come all of what are called governments, laws, human rights, and the like.&#8212;</p>
+                    <p>under this come all of what are called governments, laws, human rights, and the like.—</p>
                 </div1>
             
             <span rend="singleLine-left" xml:id="s5" from="#s5" to="#s6"/>
@@ -100,7 +97,7 @@
                 <list>
                     <item>Nibelungen</item>
                     <item>Iliad, Bible, (Books of Egypt, <add rend="insertion" place="supralinear">Persia</add> and Assyria are lost.)</item>
-                    <item>Ni<subst><del rend="overwrite" seq="1">eb</del><add rend="overwrite" place="over" seq="2">b</add></subst>elungen&#8212;</item>
+                    <item>Ni<subst><del rend="overwrite" seq="1">eb</del><add rend="overwrite" place="over" seq="2">b</add></subst>elungen—</item>
                     <item>Shakespeare</item>
                     <item><choice><sic>Ramanaya</sic><corr>Ramayana</corr></choice></item>
                     <item>Dante</item>

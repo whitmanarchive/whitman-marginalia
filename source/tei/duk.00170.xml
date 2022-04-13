@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00170">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00170">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00170</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,7 +34,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>                 
+            <idno>duk.00170</idno></publicationStmt>                 
             <notesStmt>                 
                 <note type="project" target="#dat1">Grier speculates that the date of composition is "probably 1856 or 1857" (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, [New York: New York University Press, 1984], 5:1782).</note>
             </notesStmt> 
@@ -80,10 +80,10 @@
             <pb xml:id="leaf001r" facs="duk.00170.001.jpg" type="recto"/>
           <head type="main-authorial"><handShift new="#h1"/>Dryden 1631 to 1701</head>
           <p>Dryden seems to have been of 
-          vigorous make, sharp‑tempered&#8212;used his 
+          vigorous make, sharp‑tempered—used his 
           poetical talent to make money, show 
-          up his enemies,&#8212;those of the opposite 
-          party, noblemen, politicians, &amp;c.&#8212;He 
+          up his enemies,—those of the opposite 
+          party, noblemen, politicians, &amp;c.—He 
           sings a good deal in the inflated, 
           distressingly classical style of those times</p>
             <add source="#r1" rend="plain" place="inline">  <handShift new="#h2"/> 
@@ -93,8 +93,8 @@
                 <body>
                 <pb xml:id="leaf002r" facs="duk.00170.002.jpg" type="recto" rend="col-12"/>
                     <head type="main-authorial">J<hi rend="smallcaps">EREMY</hi> T<hi rend="smallcaps">AYLOR</hi>.</head>
-            <p>[J<hi rend="smallcaps">EREMY</hi> T<hi rend="smallcaps">AYLOR</hi>, Bishop of Down, Connor, and Dromore,&#8212;one of the 
-            greatest of the great Divines of the Church of England,&#8212;was the son of a 
+            <p>[J<hi rend="smallcaps">EREMY</hi> T<hi rend="smallcaps">AYLOR</hi>, Bishop of Down, Connor, and Dromore,—one of the 
+            greatest of the great Divines of the Church of England,—was the son of a 
             barber at Cambridge. He was born in 1613. He says himself that he was 
             <q who="Jeremy Taylor">solely grounded in grammar and mathematics by his father."</q> In his thirteenth 
             year he was admitted a sizar of Caius College, Cambridge. By a sizar 
@@ -112,7 +112,7 @@
             his fold by unremitting love. His period of prosperity was not of long duration. 
             He died of a fever in 1667, in his fifty-fifth year. The character of 
             Taylor's writings which was given by his successor, Dr. Rust, in his funeral 
-            sermon, is not an exaggeration:&#8212;They <q who="Dr. Rust">"will be famous to all succeeding 
+            sermon, is not an exaggeration:—They <q who="Dr. Rust">"will be famous to all succeeding 
             generations for their greatness of wit, and profoundness of judgment, and 
             richness of fancy, and clearness of expression, and copiousness of invention, 
             and general usefulness to all the purposes of a Christian."</q> Reginald Heber, 
@@ -230,7 +230,7 @@
               from the enthusiasm of his temperament, and the ascetic practices of his 
               life. It has been said of him that he knew exactly how to distinguish between 
               the rights of faith and of reason. The passage which we select from his 
-              "Pensées" is thus noticed by Dr. Arnold:&#8212;<q who="Dr. Arnold">"The necessity of faith, arising 
+              "Pensées" is thus noticed by Dr. Arnold:—<q who="Dr. Arnold">"The necessity of faith, arising 
               from the absurdity of scepticism on the one <choice><sic>band</sic><corr>hand</corr></choice>, and of dogmatism on the 
               other, is shown with great power and eloquence in the first article of the 
               second part of Pascal's 'Pensées,' a book of which there is an English translation 

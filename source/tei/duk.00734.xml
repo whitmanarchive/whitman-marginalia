@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00734">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00734">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +24,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00734</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
 
@@ -39,7 +35,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights reserved.
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights reserved.
                         Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -47,7 +43,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00734</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>
             </notesStmt>
@@ -82,7 +78,7 @@
             <pb xml:id="leaf001r" facs="duk_ap_00172.jpg" type="recto"/>
             <div1>
                 <head>ONE THOUSAND HISTORICAL EVENTS,<lb/> WITH THE DATES.</head>
-                <p>NOTE.&#8212;It will be seen that these Events are like so many mile-stones, set
+                <p>NOTE.—It will be seen that these Events are like so many mile-stones, set
                     up in the order of their occurrence, along the stream of time, forming the
                     frame-work of the world's history. The pupil should fill up the spaces between,
                     by his future reading. He will find the Bible, and some good compend of
@@ -96,7 +92,7 @@
             <div1>
                 <head>PERIOD I.</head>
                 <head>From the Creation to the Deluge.</head>
-                <head>ANTEDILUVIAN AGE.&#8212;<del rend="pasteon"><hi rend="italic">Dodge a
+                <head>ANTEDILUVIAN AGE.—<del rend="pasteon"><hi rend="italic">Dodge a
                             Ledge</hi></del>1656.</head>
                 <ab><table>
                         <row role="label">
@@ -124,10 +120,7 @@
                         </row>
                         <row role="data">
                             <cell>4 Death of Adam.</cell>
-                            <cell><supplied reason="covered" source="#">Mask <hi rend="italic">of</hi> war,</supplied><note
-                                    type="authorial" resp="#h1" place="inline"><milestone
-                                        unit="undeclared" rend="horbar-full"
-                                /></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
+                            <cell><supplied reason="covered" source="#">Mask <hi rend="italic">of</hi> war,</supplied><note type="authorial" resp="#h1" place="inline"><milestone unit="undeclared" rend="horbar-full"/></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
                             <cell>3074</cell>
                         </row>
                         <row role="data">
@@ -156,8 +149,7 @@
             <div1>
                 <head>PERIOD II.</head>
                 <head>From the Dulge.</head>
-                <head>CONFUSION OF LANGUAGES.&#8212;<hi rend="italic"
-                    ><supplied reason="covered" source="#">Harangue</supplied>go,</hi> 427.</head>
+                <head>CONFUSION OF LANGUAGES.—<hi rend="italic"><supplied reason="covered" source="#">Harangue</supplied>go,</hi> 427.</head>
                 <ab><table>
                         <row role="data">
                             <cell>9 First Vineyard, planted by Noah.</cell>
@@ -210,7 +202,7 @@
             <div1>
                 <head>PERIOD III.</head>
                 <head>From the call of Abraham to the departure of the Israelites from Egypt.</head>
-                <head>EGYPTIAN BONDAGE.&#8212;<hi rend="italic"><supplied reason="covered" source="#">Remiss,</supplied></hi>
+                <head>EGYPTIAN BONDAGE.—<hi rend="italic"><supplied reason="covered" source="#">Remiss,</supplied></hi>
                     430.</head>
                 <ab><table>
                         <row role="data">
@@ -246,8 +238,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
                         </row>
                         <row role="data">
                             <cell>22 Birth of Ishmael.</cell>
@@ -356,12 +347,12 @@
                         </row>
                         <row role="data">
                             <cell>43 Jacob married Leah and Rachel.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Colony,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Colony,</supplied></cell>
                             <cell>1752</cell>
                         </row>
                         <row role="data">
                             <cell>44 Birth of Joseph.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Cruel,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Cruel,</supplied></cell>
                             <cell>1745</cell>
                         </row>
                         <row role="data">
@@ -376,7 +367,7 @@
                         </row>
                         <row role="data">
                             <cell>47 Joseph sold by his brethren.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Convoy,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Convoy,</supplied></cell>
                             <cell>1728</cell>
                         </row>
                         <row role="data">
@@ -431,7 +422,7 @@
                         </row>
                         <row role="data">
                             <cell>58 Aaron born.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Liquor,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Liquor,</supplied></cell>
                             <cell>1574</cell>
                         </row>
                         <row role="data">
@@ -441,11 +432,9 @@
                         </row>
                         <row role="data">
                             <!-- Walt drew a line through this entry -->
-                            <cell><note place="inline" type="authorial" resp="#h1">&#8212;</note>60
+                            <cell><note place="inline" type="authorial" resp="#h1">—</note>60
                                 Moses born and miraculously preserved.</cell>
-                            <cell><supplied reason="covered" source="#">Delicate,</supplied><note place="inline" type="authorial"
-                                    resp="#h1"><milestone unit="undeclared" rend="horbar-full"
-                                    /></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
+                            <cell><supplied reason="covered" source="#">Delicate,</supplied><note place="inline" type="authorial" resp="#h1"><milestone unit="undeclared" rend="horbar-full"/></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
                             <cell>1571</cell>
                         </row>
                         <row role="data">
@@ -460,7 +449,7 @@
                         </row>
                         <row role="data">
                             <cell>63 Moses fled Jethro, whom he served forty years.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Almighty,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Almighty,</supplied></cell>
                             <cell>1531</cell>
                         </row>
                         <row role="data">
@@ -470,7 +459,7 @@
                         </row>
                         <row role="data">
                             <cell>65 The council of the Amphictyons established.</cell>
-                            <cell><supplied reason="covered" source="#">&#42;Rebuke,</supplied></cell>
+                            <cell><supplied reason="covered" source="#">*Rebuke,</supplied></cell>
                             <cell>1497</cell>
                         </row>
                         <row role="data">
@@ -492,7 +481,7 @@
                             <cell>1491</cell>
                         </row>
                     </table></ab>
-                <p>&#42; The star indicates that the letter which furnishes 1 is wanting in the word.  The figure 1 stands for one thousand, which is left for the pupil's understanding to supply; which gives us some more appropriate indicating words than we could otherwise obtain.  Every indicating word would be regarded as a specimen word, the best that occurred to the writer at the time.  If a better word should occur to the learner, he is at full liberty to displace the one now selected.</p>
+                <p>* The star indicates that the letter which furnishes 1 is wanting in the word.  The figure 1 stands for one thousand, which is left for the pupil's understanding to supply; which gives us some more appropriate indicating words than we could otherwise obtain.  Every indicating word would be regarded as a specimen word, the best that occurred to the writer at the time.  If a better word should occur to the learner, he is at full liberty to displace the one now selected.</p>
             </div1>
 
 
@@ -502,7 +491,7 @@
             <div1>
                 <head>PERIOD IV.</head>
                 <head>From the Departure of the Israelites to the Dedication of the Temple.</head>
-                <head>TROJAN WAR.&#8212;<del rend="overstrike"><hi rend="italic">Revoke</hi></del>,
+                <head>TROJAN WAR.—<del rend="overstrike"><hi rend="italic">Revoke</hi></del>,
                     487</head>
 
                 <ab><table>
@@ -574,11 +563,9 @@
                         </row>
                         <row role="data">
                             <!-- Walt has an extra line along this entry -->
-                            <cell><note type="authorial" resp="#h1" place="left">&#8212;</note>82
+                            <cell><note type="authorial" resp="#h1" place="left">—</note>82
                                 Moses died on Mount Nebo in sight of Canaan.</cell>
-                            <cell><supplied reason="covered" source="#">Dare lead,</supplied><note type="authorial" resp="#h1"
-                                    place="inline"><milestone unit="undeclared" rend="horbar-full"
-                                    /></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
+                            <cell><supplied reason="covered" source="#">Dare lead,</supplied><note type="authorial" resp="#h1" place="inline"><milestone unit="undeclared" rend="horbar-full"/></note><!--In this space, Walt has hand-drawn a horizontal line.  Milestone-horbar?--></cell>
                             <cell>1451</cell>
                         </row>
                         <row role="data">
@@ -622,7 +609,7 @@
                             <cell>1413</cell>
                         </row>
                         <row role="data">
-                            <cell><supplied reason="cutawy" source="#">91</supplied>>First Jubilee celebrated in Israel.</cell>
+                            <cell><supplied reason="cutawy" source="#">91</supplied>&gt;First Jubilee celebrated in Israel.</cell>
                             <cell><supplied reason="covered" source="#">Dumb bush,</supplied></cell>
                             <cell>1396</cell>
                         </row>
@@ -639,9 +626,7 @@
                         </row>
                         <row role="data">
                             <cell>94 Institution of the Olympic Games.</cell>
-                            <cell><!-- Walt hand drew a ?_________? here --><note type="authorial"
-                                    resp="#h1" place="inline"><milestone unit="undeclared"
-                                        rend="horbar-full"/>?</note>
+                            <cell><!-- Walt hand drew a ?_________? here --><note type="authorial" resp="#h1" place="inline"><milestone unit="undeclared" rend="horbar-full"/>?</note>
                                 <supplied reason="covered" source="#">Sweet music,</supplied></cell>
                             <cell>1307<note hand="#h1"/>?</cell>
                         </row>
@@ -691,8 +676,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
                         </row>
                         <row role="data">
                             <cell>1 Carthage built by a colony of Tyrians.</cell>
@@ -707,8 +691,7 @@
                         <row role="data">
                             <cell>3 The destruction of Troy.</cell>
                             <cell><supplied reason="covered" source="#">Hot wood fire,</supplied></cell>
-                            <cell>1184<note type="authorial" resp="#h1" place="inline"
-                                />&#8212;</cell>
+                            <cell>1184<note type="authorial" resp="#h1" place="inline"/>—</cell>
                             <!-- This number has an extra hand-drawn dash after it-->
                         </row>
                         <row role="data">
@@ -739,8 +722,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
                         </row>
                         <row role="data">
                             <cell>8 Sampson carried off the Gates of Gaza.</cell>
@@ -820,7 +802,7 @@
                             <cell>1056</cell>
                         </row>
                         <row role="data">
-                            <cell>23 Saul raised the ghost of Samuel&#8212;witch of Endor.</cell>
+                            <cell>23 Saul raised the ghost of Samuel—witch of Endor.</cell>
                             <cell><supplied reason="covered" source="#">Disloyal,</supplied></cell>
                             <cell>1055</cell>
                         </row>
@@ -927,7 +909,7 @@
             <div1>
                 <head>PERIOD V.</head>
                 <head>From the Dedication of Solomon's Temple to the Founding of Rome.</head>
-                <head>HOMER&#8212;<hi rend="italic">New line,</hi>252.</head>
+                <head>HOMER—<hi rend="italic">New line,</hi>252.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
@@ -1015,8 +997,7 @@
                         <row role="data">
                             <cell>56 Homer flourished.</cell>
                             <cell><supplied reason="covered" source="#">Poetry,</supplied></cell>
-                            <cell>914<note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note><!-- Extra line by this entry, and note above calling it out --></cell>
+                            <cell>914<note type="authorial" resp="#h1" place="inline">—</note><!-- Extra line by this entry, and note above calling it out --></cell>
                         </row>
                         <row role="data">
                             <cell>57 The prophet Elijah fed by ravens in the wilderness.</cell>
@@ -1137,7 +1118,7 @@
                             <cell>807</cell>
                         </row>
                         <row role="data">
-                            <cell>80 Repentance of the Ninevites&#8212;miracle of the gourd.</cell>
+                            <cell>80 Repentance of the Ninevites—miracle of the gourd.</cell>
                             <cell><supplied reason="covered" source="#">Heavy siege,</supplied></cell>
                             <cell>806</cell>
                         </row>
@@ -1149,8 +1130,7 @@
                         <row role="data">
                             <cell>82 Romulus founded Rome upon the Tiber.</cell>
                             <cell><supplied reason="covered" source="#">Colony,</supplied></cell>
-                            <cell>752<note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note></cell>
+                            <cell>752<note type="authorial" resp="#h1" place="inline">—</note></cell>
                             <!-- Extra line by this entry, and note above calling it out -->
                         </row>
                     </table>
@@ -1160,7 +1140,7 @@
             <div1>
                 <head>PERIOD VI.</head>
                 <head>From the Foundation of Rome to the Battle of Marathon.</head>
-                <head>ROMAN KNGS.&#8212;<hi rend="italic">New chain,</hi>262.</head>
+                <head>ROMAN KNGS.—<hi rend="italic">New chain,</hi>262.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
@@ -1190,11 +1170,10 @@
                             <cell>726</cell>
                         </row>
                         <row role="data">
-                            <cell>87 End of the kingdom of Israel&#8212;destroyed by
+                            <cell>87 End of the kingdom of Israel—destroyed by
                                 Salmanazar.</cell>
                             <cell><supplied reason="covered" source="#">Gained,</supplied></cell>
-                            <cell>721<note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note></cell>
+                            <cell>721<note type="authorial" resp="#h1" place="inline">—</note></cell>
                             <!-- Extra line by this entry, and note above calling it out -->
                         </row>
                         <row role="data">
@@ -1203,7 +1182,7 @@
                             <cell>721</cell>
                         </row>
                         <row role="data">
-                            <cell>89 Miracel of the sun-dial&#8212;Hezekiah restored to
+                            <cell>89 Miracel of the sun-dial—Hezekiah restored to
                                 health.</cell>
                             <cell><supplied reason="covered" source="#">Sick time,</supplied></cell>
                             <cell>132</cell>
@@ -1227,8 +1206,7 @@
                         <row role="data">
                             <cell>93 Dojoces founded the Medean empire.</cell>
                             <cell><supplied reason="covered" source="#">Goddess,</supplied></cell>
-                            <cell>710<note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note></cell>
+                            <cell>710<note type="authorial" resp="#h1" place="inline">—</note></cell>
                             <!-- Extra line by this entry -->
                         </row>
                         <row role="data">
@@ -1249,8 +1227,7 @@
                         </row>
                         <row role="data">
                             <cell>97 Tobit recovered his sight by the miracle of Tobias.</cell>
-                            <cell><note type="authorial" resp="#h1" place="inline"><milestone
-                                unit="undeclared" rend="horbar-full"/></note><supplied reason="covered" source="#">Shiver,</supplied></cell>
+                            <cell><note type="authorial" resp="#h1" place="inline"><milestone unit="undeclared" rend="horbar-full"/></note><supplied reason="covered" source="#">Shiver,</supplied></cell>
                             <!-- Handwritten line drawn here, then covered -->
                             <cell>684</cell>
                         </row>
@@ -1286,8 +1263,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
 
                         </row>
                         <row role="data">
@@ -1317,7 +1293,7 @@
                         </row>
                         <row role="data">
                             <!-- Extra line by this entry -->
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note> 6
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note> 6
                                 Pentateuch found by Hilkiah.</cell>
                             <cell>Joiner,</cell>
                             <cell>624</cell>
@@ -1399,7 +1375,7 @@
                         </row>
                         <row role="data">
                             <!-- Extra line by this entry -->
-                            <cell><note type="authorial" place="inline" resp="#h1">&#8212;</note> 22
+                            <cell><note type="authorial" place="inline" resp="#h1">—</note> 22
                                 Daniel interpreted Nebuchadnezzar's dream of the tree.</cell>
                             <cell>Likewise,</cell>
                             <cell>570</cell>
@@ -1440,7 +1416,7 @@
                             <cell>539</cell>
                         </row>
                         <row role="data">
-                            <cell>30 Belshazzar's Feast&#8212;Daniel explains the handwriting</cell>
+                            <cell>30 Belshazzar's Feast—Daniel explains the handwriting</cell>
                             <cell>Low move,</cell>
                             <cell>538</cell>
                         </row>
@@ -1481,7 +1457,7 @@
                         </row>
                         <row role="data">
                             <!-- Extra line by this entry -->
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note> 38
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note> 38
                                 Confucius published his laws in China.</cell>
                             <cell>Almighty,</cell>
                             <cell>531</cell>
@@ -1530,15 +1506,11 @@
 
                         <pb xml:id="leaf004r" facs="duk_nhg.00192.jpg" type="recto"/>
                         <!-- Make a note about how terrible Walt's math is -->
-                        <note type="authorial" resp="#h1" place="top">Hippocrates, <add
-                                rend="insertion" place="superlinear" hand="#h2">271-361
-                            B.C</add>Socrates <add rend="insertion" place="superlinear" hand="#h2"
-                                >339-400</add> Plato <add rend="insertion" place="superlinear"
-                                hand="#h2">268-348</add>
+                        <note type="authorial" resp="#h1" place="top">Hippocrates, <add rend="insertion" place="superlinear" hand="#h2">271-361
+                            B.C</add>Socrates <add rend="insertion" place="superlinear" hand="#h2">339-400</add> Plato <add rend="insertion" place="superlinear" hand="#h2">268-348</add>
                             <lb/>
                             <!-- This right curly bracket groups the preceding two lines -->
-                            <metamark resp="#h1" function="group">&#125;</metamark> Pericles, <add
-                                rend="insertion" place="superlinear" hand="#h2">359-429</add>
+                            <metamark resp="#h1" function="group">}</metamark> Pericles, <add rend="insertion" place="superlinear" hand="#h2">359-429</add>
                             Herodotus, Malachi, <lb/>
                             <choice>
                                 <sic>Thuycidides</sic>
@@ -1549,8 +1521,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
 
                         </row>
                         <row role="data">
@@ -1579,7 +1550,7 @@
                             <cell>499</cell>
                         </row>
                         <row role="data">
-                            <cell>52 First dictator of Rome&#8212;Laerius.</cell>
+                            <cell>52 First dictator of Rome—Laerius.</cell>
                             <cell>Rebuff,</cell>
                             <cell>498</cell>
                         </row>
@@ -1610,7 +1581,7 @@
                             <cell>491</cell>
                         </row>
                         <row role="data">
-                            <cell>58 Battle of Marathon&#8212;the Greeks against the
+                            <cell>58 Battle of Marathon—the Greeks against the
                                 Persians.</cell>
                             <cell>Repose,</cell>
                             <cell>490</cell>
@@ -1622,13 +1593,12 @@
             <div1>
                 <head>PERIOD VII.</head>
                 <head>From the Battle of Marathon to the Birth of Alexander.</head>
-                <head>GRECIAN GLORY.&#8212;<hi rend="italic">Teamer,</hi>134.</head>
+                <head>GRECIAN GLORY.—<hi rend="italic">Teamer,</hi>134.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >B.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">B.C.</note></cell>
 
                         </row>
                         <row role="data">
@@ -1647,19 +1617,19 @@
                             <cell>482</cell>
                         </row>
                         <row role="data">
-                            <cell>62 Battle of Thermopyl&#230;&#8212;Leonidas opposes
+                            <cell>62 Battle of Thermopylæ—Leonidas opposes
                                 Xerexes.</cell>
                             <cell>War office,</cell>
                             <cell>480</cell>
                         </row>
                         <row role="data">
-                            <cell>63 Battle of Salamis&#8212;Themistocles defeated the
+                            <cell>63 Battle of Salamis—Themistocles defeated the
                                 Persians.</cell>
                             <cell>War office,</cell>
                             <cell>480</cell>
                         </row>
                         <row role="data">
-                            <cell>64 Battle of Plat&#230;a, between the Greeks and Persians</cell>
+                            <cell>64 Battle of Platæa, between the Greeks and Persians</cell>
                             <cell>Heroic boy,</cell>
                             <cell>479</cell>
                         </row>
@@ -1724,7 +1694,7 @@
                             <cell>437</cell>
                         </row>
                         <row role="data">
-                            <cell>77 Peloponnesian War&#8212;lasted 27 years.</cell>
+                            <cell>77 Peloponnesian War—lasted 27 years.</cell>
                             <cell>Warmed,</cell>
                             <cell>431</cell>
                         </row>
@@ -1744,7 +1714,7 @@
                             <cell>420</cell>
                         </row>
                         <row role="data">
-                            <cell>81 End of the Peloponnesian war&#8212;thirty tyrants rule
+                            <cell>81 End of the Peloponnesian war—thirty tyrants rule
                                 Athens.</cell>
                             <cell>Arrest,</cell>
                             <cell>401</cell>
@@ -1780,7 +1750,7 @@
                             <cell>390</cell>
                         </row>
                         <row role="data">
-                            <cell>88 Battle of Leuctra&#8212;B&#339;otians and Lacedemonians.</cell>
+                            <cell>88 Battle of Leuctra—Bœotians and Lacedemonians.</cell>
                             <cell>Maggot,</cell>
                             <cell>371</cell>
                         </row>
@@ -1801,7 +1771,7 @@
                         </row>
 
                         <pb xml:id="leaf004v" facs="duk_nhg.00193.jpg" type="verso"/>
-                        <note type="authorial" resp="#h1" place="top">Plato died&#8212;348
+                        <note type="authorial" resp="#h1" place="top">Plato died—348
                             B.C.</note>
                         <fw type="pageNum" place="top">24 MEMORIA TECHNICA.</fw>
                         <row role="label">
@@ -1841,7 +1811,7 @@
             <div1>
                 <head>PERIOD VIII.</head>
                 <head>From the Birth of Alexander the Great to the Destruction of Carthage.</head>
-                <head>ROMAN RENOWN.&#8212;<hi rend="italic">Knights,</hi>210.</head>
+                <head>ROMAN RENOWN.—<hi rend="italic">Knights,</hi>210.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
@@ -1894,12 +1864,12 @@
                             <cell>351</cell>
                         </row>
                         <row role="data">
-                            <cell>2 Battle of Ch&#230;ronea, won by Philip.</cell>
+                            <cell>2 Battle of Chæronea, won by Philip.</cell>
                             <cell>Mimic,</cell>
                             <cell>337</cell>
                         </row>
                         <row role="data">
-                            <cell>3 Plebeians admitted to the Pr&#230;torship of Rome.</cell>
+                            <cell>3 Plebeians admitted to the Prætorship of Rome.</cell>
                             <cell>Whim <hi rend="italic">of</hi> homage,</cell>
                             <cell>336</cell>
                         </row>
@@ -1935,19 +1905,19 @@
                             <cell>327</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>10
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>10
                                 Death of Alexander, aged 32.</cell>
                             <cell>Man <hi rend="italic">of</hi> war,</cell>
                             <cell>324</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>11
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>11
                                 Demosthenes poisoned himself, aged 60.</cell>
                             <cell>Minion,</cell>
                             <cell>322</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>12
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>12
                                 Aristotle the philosopher died, aged 62.</cell>
                             <cell>Humanity,</cell>
                             <cell>321</cell>
@@ -1988,7 +1958,7 @@
                             <cell>279</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>20
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>20
                                 Septuagint translation of the Old Testament.</cell>
                             <cell>Synagogue,</cell>
                             <cell>277</cell>
@@ -2050,7 +2020,7 @@
                             <cell>36</cell>
                         </row>
                         <row role="data">
-                            <cell>13 Battle of Actium&#8212;Antony defeated by Octavius.</cell>
+                            <cell>13 Battle of Actium—Antony defeated by Octavius.</cell>
                             <cell>Emmet,</cell>
                             <cell>31</cell>
                         </row>
@@ -2060,7 +2030,7 @@
                             <cell>30</cell>
                         </row>
                         <row role="data">
-                            <cell>15 Second shutting of the temple of Janus&#8212;universal
+                            <cell>15 Second shutting of the temple of Janus—universal
                                 peace</cell>
                             <cell>Nap,</cell>
                             <cell>29</cell>
@@ -2081,8 +2051,8 @@
                             <cell>20</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>19
-                                Virgil,&#42; as poet, excelled his contemporary.</cell>
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>19
+                                Virgil,* as poet, excelled his contemporary.</cell>
                             <cell>Tibullus,</cell>
                             <cell>19 a.50</cell>
                         </row>
@@ -2127,7 +2097,7 @@
             <div1>
                 <head>PERIOD XI.</head>
                 <head>From the Nativity of Christ to the Reign of Constantine.</head>
-                <head>TEN PERSECUTIONS.&#8212;<hi rend="italic">Message</hi>&#8212;306.</head>
+                <head>TEN PERSECUTIONS.—<hi rend="italic">Message</hi>—306.</head>
 
                 <ab><table>
                         <row role="data">
@@ -2148,8 +2118,7 @@
                         <row role="data">
                             <cell>30 Varus, the Roman General, defeated by Herman..</cell>
                             <cell>Abbey,</cell>
-                            <cell>A.D. 9<note type="authorial" rend="insertion" place="right margin"
-                                    hand="#h1">After Christ</note></cell>
+                            <cell>A.D. 9<note type="authorial" rend="insertion" place="right margin" hand="#h1">After Christ</note></cell>
                         </row>
                         <row role="data">
                             <cell>31 Tiberius became Emperor of Rome..</cell>
@@ -2167,7 +2136,7 @@
                             <cell>27</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>34
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>34
                                 Strabo, geographer and historian.</cell>
                             <cell>Knife,</cell>
                             <cell>28</cell>
@@ -2243,7 +2212,7 @@
                             <cell>64</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>49
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>49
                                 Nero put Seneca to death.</cell>
                             <cell>Jail,</cell>
                             <cell>65</cell>
@@ -2269,7 +2238,7 @@
                             <cell>79</cell>
                         </row>
 
-                        <fw type="note" place="bottom">&#42; The name of the poet Tibullus gives
+                        <fw type="note" place="bottom">* The name of the poet Tibullus gives
                             both the age and death of Virgil.</fw>
 
                         <pb xml:id="leaf005r" facs="duk_nhg.00195.jpg" type="recto"/>
@@ -2293,7 +2262,7 @@
                             <cell>95</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>56
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>56
                                 Quintillian, a celebrated rhetorician, died.</cell>
                             <cell>Bale,</cell>
                             <cell>95</cell>
@@ -2324,7 +2293,7 @@
                             <cell>135</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>62
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>62
                                 Plutarch, the principal biographer of antiquity, died.</cell>
                             <cell>Authors,</cell>
                             <cell>140</cell>
@@ -2335,7 +2304,7 @@
                             <cell>142</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>The
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>The
                                 Saracens first mentioned in history.</cell>
                             <cell>Tribe,</cell>
                             <cell>149</cell>
@@ -2376,7 +2345,7 @@
                             <cell>250</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>72
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>72
                                 Goths invaded the Roman empire.</cell>
                             <cell>Nails,</cell>
                             <cell>250</cell>
@@ -2427,7 +2396,7 @@
                             <cell>318</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>82
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>82
                                 Constantine the Great, sole emperor.</cell>
                             <cell>Moon <hi rend="italic"/> May,</cell>
                             <cell>323</cell>
@@ -2438,23 +2407,23 @@
             <div1>
                 <head>PERIOD XII.</head>
                 <head>From the Reign of Constantine to the Extinction of the Western Empire.</head>
-                <head>NOTHERN INVASION.&#8212;<hi rend="italic">Fox,</hi> 870.</head>
+                <head>NOTHERN INVASION.—<hi rend="italic">Fox,</hi> 870.</head>
                 <ab>
                     <table>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>83
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>83
                                 First Ecclesiastical Council at Nice.</cell>
                             <cell>Manual,</cell>
                             <cell>325</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>84
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>84
                                 Constantine embraced Christianity.</cell>
                             <cell>Mean foe,</cell>
                             <cell>328</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>85
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>85
                                 Removal of the seat of Empire from Rome to Constantinople.</cell>
                             <cell>Many weep,</cell>
                             <cell>329</cell>
@@ -2470,7 +2439,7 @@
                             <cell>337</cell>
                         </row>
                         <row role="data">
-                            <cell>88 Julian, the apostate emperor&#8212;he restores Paganism.</cell>
+                            <cell>88 Julian, the apostate emperor—he restores Paganism.</cell>
                             <cell>Matches,</cell>
                             <cell>360</cell>
                         </row>
@@ -2485,7 +2454,7 @@
                             <cell>390</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>91
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>91
                                 Theodosius divided the empire into Eastern and Western.</cell>
                             <cell>Ample,</cell>
                             <cell>395</cell>
@@ -2532,7 +2501,7 @@
                             <cell>449</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>100
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>100
                                 Atilla defeated at the battle of Chalons.</cell>
                             <cell>Reality,</cell>
                             <cell>451</cell>
@@ -2589,14 +2558,12 @@
             <div1>
                 <head>PERIOD XIII.</head>
                 <head>From the Extinction of the Western Empire to the Flight of Mahomet.</head>
-                <head>JUSTINIAN CODE.&#8212;<del rend="pasteon"><hi rend="italic"
-                    >Trash,</hi></del>146.</head>
+                <head>JUSTINIAN CODE.—<del rend="pasteon"><hi rend="italic">Trash,</hi></del>146.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" resp="#h1" place="inline"
-                                >A.C.</note></cell>
+                            <cell><note type="authorial" resp="#h1" place="inline">A.C.</note></cell>
                         </row>
                         <row role="data">
                             <cell>5 Death of Genseric.</cell>
@@ -2620,8 +2587,7 @@
                             <cell>493</cell>
                         </row>
                         <row role="data">
-                            <cell>9 Clovis converted to Christianity. <note type="authorial"
-                                    resp="#h1" place="inline">(Gaul) France</note></cell>
+                            <cell>9 Clovis converted to Christianity. <note type="authorial" resp="#h1" place="inline">(Gaul) France</note></cell>
                             <cell>Rubbish,</cell>
                             <cell>496</cell>
                         </row>
@@ -2667,7 +2633,7 @@
                         </row>
                         <row role="data">
                             <cell><note type="authorial" resp="#h1" place="inline">?
-                                &#8212;</note>18 Belisarius took Carthage.</cell>
+                                —</note>18 Belisarius took Carthage.</cell>
                             <cell>Lame hero,</cell>
                             <cell>534</cell>
                         </row>
@@ -2687,13 +2653,13 @@
                             <cell>540</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>22
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>22
                                 Arthur, king of Britain, was slain.</cell>
                             <cell>Learn,</cell>
                             <cell>542</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>23
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>23
                                 Totila, the Goth, plundered Rome.</cell>
                             <cell>,</cell>
                             <cell/>
@@ -2749,7 +2715,7 @@
                             <cell>596</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>34
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>34
                                 Papal supremacy and image worship.</cell>
                             <cell>Joyous age,</cell>
                             <cell>606</cell>
@@ -2765,8 +2731,7 @@
                             <cell>613</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note>Hegira, or flight of Mahomet.</cell>
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>Hegira, or flight of Mahomet.</cell>
                             <cell>Genuine,</cell>
                             <cell>622</cell>
                         </row>
@@ -2779,7 +2744,7 @@
             <div1>
                 <head>PERIOD XIV.</head>
                 <head>From the Flight of Mahomet to the Crowning of Charlemagne.</head>
-                <head>SARACEN DOMINION.&#8212;<del rend="pasteon"><hi rend="italic">Take a
+                <head>SARACEN DOMINION.—<del rend="pasteon"><hi rend="italic">Take a
                         vow,</hi></del>178.</head>
                 <ab><table>
                         <row role="label">
@@ -2798,7 +2763,7 @@
                             <cell>634</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>40
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>40
                                 Alexandrian library destroyed.</cell>
                             <cell>Shears,</cell>
                             <cell>640</cell>
@@ -2824,7 +2789,7 @@
                             <cell>659</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>45
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>45
                                 Constantinople besieged by the Saracens.</cell>
                             <cell>Shaken,</cell>
                             <cell>672</cell>
@@ -2876,7 +2841,7 @@
                             <cell>774</cell>
                         </row>
                         <row role="data">
-                            <cell>55 Haroun-Al-Raschid, Caliph&#8212;he did much for science.</cell>
+                            <cell>55 Haroun-Al-Raschid, Caliph—he did much for science.</cell>
                             <cell>Gay voyage,</cell>
                             <cell>786</cell>
                         </row>
@@ -2896,13 +2861,13 @@
                             <cell>787</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>59
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>59
                                 The Danes appear in England.</cell>
                             <cell>Gave <hi rend="italic">a</hi> key,</cell>
                             <cell>787</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>60
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>60
                                 Charlemagne crowned emperor.</cell>
                             <cell>Faces,</cell>
                             <cell>800</cell>
@@ -2913,7 +2878,7 @@
             <div1>
                 <head>PERIOD XV.</head>
                 <head>From the Crowning of Charlemagne to the First Crusade.</head>
-                <head>NEW WESTERN EMPIRE&#8212;<hi rend="italic">Nobly,</hi>295.</head>
+                <head>NEW WESTERN EMPIRE—<hi rend="italic">Nobly,</hi>295.</head>
 
                 <ab><table>
                         <row role="label">
@@ -2937,7 +2902,7 @@
                             <cell>821</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>64
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>64
                                 Egbert united the Saxon heptarchy.</cell>
                             <cell>Event,</cell>
                             <cell>821</cell>
@@ -2948,7 +2913,7 @@
                             <cell>842</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>66
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>66
                                 Unions of the Picts and Scots, forming Scotland.</cell>
                             <cell>Form,</cell>
                             <cell>843</cell>
@@ -3052,7 +3017,7 @@
                             <cell>1035</cell>
                         </row>
                         <row role="data">
-                            <cell>85 Battle of Hastings&#8212;William I. conquered.</cell>
+                            <cell>85 Battle of Hastings—William I. conquered.</cell>
                             <cell>Odious judge,</cell>
                             <cell>1066</cell>
                         </row>
@@ -3073,7 +3038,7 @@
             <div1>
                 <head>PERIOD XVI.</head>
                 <head>From the First Crusade to the Founding of the Turkish Empire.</head>
-                <head>Crusaders&#8212;<hi rend="italic">Answer,</hi>204.</head>
+                <head>Crusaders—<hi rend="italic">Answer,</hi>204.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
@@ -3127,7 +3092,7 @@
                             <cell>1152</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>97
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>97
                                 Genghis Khan, the greatest of murderers.</cell>
                             <cell>Detacher,</cell>
                             <cell>1164</cell>
@@ -3187,7 +3152,7 @@
                         </row>
                         <row role="data">
                             <cell>5 Battle of Tolosa between the Christians and Moors.</cell>
-                            <cell>&#42;Undone,</cell>
+                            <cell>*Undone,</cell>
                             <cell>1212</cell>
                         </row>
                         <row role="data">
@@ -3196,8 +3161,7 @@
                             <cell>1214</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline"
-                                >&#8212;</note>Magna Charta granted by king John.</cell>
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>Magna Charta granted by king John.</cell>
                             <cell>Tin idol,</cell>
                             <cell>1215</cell>
                         </row>
@@ -3272,7 +3236,7 @@
                             <cell>1272</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>20
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>20
                                 Sicilian Vespers, 4000 French massacred.</cell>
                             <cell>Tin vein,</cell>
                             <cell>1282</cell>
@@ -3320,7 +3284,7 @@
                 <head>PERIOD XVII.</head>
                 <head>From the Founding of the Turkish Empire to the Taking of
                     Constantinople.</head>
-                <head>ROMAN SCHISM.&#8212;<hi rend="italic">Tall row,</hi> 154.</head>
+                <head>ROMAN SCHISM.—<hi rend="italic">Tall row,</hi> 154.</head>
                 <ab><table>
                         <row role="label">
                             <cell/>
@@ -3334,17 +3298,17 @@
                             <cell>1302</cell>
                         </row>
                         <row role="label">
-                            <cell>27 Battle of Bannockburn&#8212;Scotland freed.</cell>
+                            <cell>27 Battle of Bannockburn—Scotland freed.</cell>
                             <cell>Diameter</cell>
                             <cell>1314</cell>
                         </row>
                         <row role="label">
-                            <cell>28 Battle of Morgarten&#8212;independence of Switzerland.</cell>
+                            <cell>28 Battle of Morgarten—independence of Switzerland.</cell>
                             <cell>Timidly,</cell>
                             <cell>1314</cell>
                         </row>
                         <row role="label">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>29
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>29
                                 Notes of music invented.</cell>
                             <cell>Time <hi rend="italic">to</hi> muse,</cell>
                             <cell>1330</cell>
@@ -3355,18 +3319,18 @@
                             <cell/>
                         </row>
                         <row role="label">
-                            <cell>31 Union of Frense&#8212;opposition to the Pope.</cell>
+                            <cell>31 Union of Frense—opposition to the Pope.</cell>
                             <cell>Time <hi rend="italic">to</hi> move</cell>
                             <cell/>
                         </row>
                         <row role="label">
                             <cell>32 Cannon invented,</cell>
-                            <cell>&#42;Mars,</cell>
+                            <cell>*Mars,</cell>
                             <cell>1340</cell>
                         </row>
                         <row role="label">
                             <cell>33 Battle of Cressy, gained by the English.</cell>
-                            <cell>&#42;March,</cell>
+                            <cell>*March,</cell>
                             <cell>1346</cell>
                         </row>
 
@@ -3386,12 +3350,12 @@
                             <cell>1355</cell>
                         </row>
                         <row role="label">
-                            <cell>37 Battle of Poictiers&#8212;king John taken prisoner.</cell>
+                            <cell>37 Battle of Poictiers—king John taken prisoner.</cell>
                             <cell>Demolish,</cell>
                             <cell>1356</cell>
                         </row>
                         <row role="label">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>38
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>38
                                 John Wickliffe commenced a reformation.</cell>
                             <cell>Dumb shows,</cell>
                             <cell>1360</cell>
@@ -3403,7 +3367,7 @@
                         </row>
                         <row role="label">
                             <cell>40 Accession of Charles V., of France.</cell>
-                            <cell>&#42;Imagery,</cell>
+                            <cell>*Imagery,</cell>
                             <cell>1364</cell>
                         </row>
 
@@ -3439,7 +3403,7 @@
                             <cell>1410</cell>
                         </row>
                         <row role="label">
-                            <cell>47 Battle of Agincourt&#8212;the English defeated the
+                            <cell>47 Battle of Agincourt—the English defeated the
                                 French.</cell>
                             <cell>Adroitly,</cell>
                             <cell>1415</cell>
@@ -3465,7 +3429,7 @@
                             <cell>1431</cell>
                         </row>
                         <row role="label">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>52
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>52
                                 Cosmo I., of Florence, the father of his country.</cell>
                             <cell>Dreamer,</cell>
                             <cell>1434</cell>
@@ -3477,12 +3441,12 @@
                         </row>
                         <row role="label">
                             <cell>54 Invention of carriages.</cell>
-                            <cell>&#42;War horse,</cell>
+                            <cell>*War horse,</cell>
                             <cell>1440</cell>
                         </row>
                         <row role="label">
                             <cell>55 Invention of printing.</cell>
-                            <cell>&#42;Reward,</cell>
+                            <cell>*Reward,</cell>
                             <cell>1441</cell>
                         </row>
                         <row role="label">
@@ -3492,7 +3456,7 @@
                         </row>
                         <row role="label">
                             <cell>57 Constantinople taken by Mahomet II.</cell>
-                            <cell>&#42;Realm,</cell>
+                            <cell>*Realm,</cell>
                             <cell>1453</cell>
                         </row>
                     </table></ab>
@@ -3504,14 +3468,13 @@
             <div1>
                 <head>PERIOD XVII.</head>
                 <head>From the Taking of Constantinople to the Birth of Cromwell.</head>
-                <head>REFORMATION.&#8212;<hi rend="italic">Torch</hi>&#8212;146.</head>
+                <head>REFORMATION.—<hi rend="italic">Torch</hi>—146.</head>
 
                 <ab><table>
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >A.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">A.C.</note></cell>
 
                         </row>
                         <row role="data">
@@ -3526,7 +3489,7 @@
                         </row>
                         <row role="data">
                             <cell>60 Accession of Louis XI.</cell>
-                            <cell>&#42;Wretched,</cell>
+                            <cell>*Wretched,</cell>
                             <cell>1461</cell>
                         </row>
                         <row role="data">
@@ -3535,7 +3498,7 @@
                             <cell>1469</cell>
                         </row>
                         <row role="data">
-                            <cell>63 Battle of Tewksbury&#8212;Edward IV. defeated his
+                            <cell>63 Battle of Tewksbury—Edward IV. defeated his
                                 enemies.</cell>
                             <cell>Target,</cell>
                             <cell>1471</cell>
@@ -3547,24 +3510,24 @@
                         </row>
                         <row role="data">
                             <cell>65 The Inquisition established at Seville.</cell>
-                            <cell>&#42;Revise,</cell>
+                            <cell>*Revise,</cell>
                             <cell>1480</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>66
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>66
                                 Slave trade began by the Portuguese.</cell>
                             <cell>True vine,</cell>
                             <cell>1482</cell>
                         </row>
                         <row role="data">
-                            <cell>67 Battle of Bosworth&#8212;Henry VII. defeated by Richard
+                            <cell>67 Battle of Bosworth—Henry VII. defeated by Richard
                                 III.</cell>
                             <cell>Trifle,</cell>
                             <cell>1485</cell>
                         </row>
                         <row role="data">
                             <cell>68 Cape of Good Hope, discovered by Bartholomew Diaz.</cell>
-                            <cell>&#42;Refuge,</cell>
+                            <cell>*Refuge,</cell>
                             <cell>1486</cell>
                         </row>
                         <row role="data">
@@ -3639,7 +3602,7 @@
                             <cell>1512</cell>
                         </row>
                         <row role="data">
-                            <cell>83 Battle of Flodden Field&#8212;James IV. slain.</cell>
+                            <cell>83 Battle of Flodden Field—James IV. slain.</cell>
                             <cell>Still time,</cell>
                             <cell>1513</cell>
                         </row>
@@ -3660,7 +3623,7 @@
                             <cell>1515</cell>
                         </row>
                         <row role="data">
-                            <cell>87 Battle of Marignan&#8212;Francis I. defeated the Swiss.</cell>
+                            <cell>87 Battle of Marignan—Francis I. defeated the Swiss.</cell>
                             <cell>Do little,</cell>
                             <cell>1515</cell>
                         </row>
@@ -3680,7 +3643,7 @@
                             <cell>1517</cell>
                         </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>91
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>91
                                 Slaves introduced into America.</cell>
                             <cell>Tall talk,</cell>
                             <cell>1517</cell>
@@ -3737,7 +3700,7 @@
 
             <pb xml:id="leaf008v" facs="duk_nhg.00201.jpg" type="verso"/>
             <note type="authorial" resp="#h1" place="top">Socinius denied the divinity and
-                pre-existence of Christ&#8212;(? a modern Unitarian)</note>
+                pre-existence of Christ—(? a modern Unitarian)</note>
             <!-- Format a line from this to #37 -->
             <fw type="pageNum" place="top">34 MEMORIA TECHNICA.</fw>
             <div1>
@@ -3751,8 +3714,7 @@
                         <row role="label">
                             <cell/>
                             <cell/>
-                            <cell><note type="authorial" place="inline" resp="#h1"
-                                >A.C.</note></cell>
+                            <cell><note type="authorial" place="inline" resp="#h1">A.C.</note></cell>
                         </row>
                         <row role="data">
                             <cell>1 The Turks capture Belgrade.</cell>
@@ -3775,7 +3737,7 @@
                             <cell>1525</cell>
                         </row>
                     <row role="data">
-                        <cell>5 Battle of Pavia&#8212;Francis I. taken prisoner by Charles V.</cell>
+                        <cell>5 Battle of Pavia—Francis I. taken prisoner by Charles V.</cell>
                         <cell>Dull knell,</cell>
                         <cell>1525</cell>
                     </row>
@@ -3786,7 +3748,7 @@
                     </row>
                     <row role="data">
                         <cell>7 Introduction of turkeys into England.</cell>
-                        <cell>&#42;Lean owl,</cell>
+                        <cell>*Lean owl,</cell>
                         <cell>1525</cell>
                     </row>
                     <row role="data">
@@ -3903,7 +3865,7 @@
                     
                     <row role="data">
                         <cell><note type="authorial" resp="#h1" place="inline">?</note>30 Japan discovered by the Portuguese.</cell>
-                        <cell>&#42;Learn,</cell>
+                        <cell>*Learn,</cell>
                         <cell>1542</cell>
                     </row>
                     <row role="data">
@@ -3913,7 +3875,7 @@
                     </row>
                     <row role="data">
                         <cell>32 Mary Stuart born.</cell>
-                        <cell>&#42;Learn,,</cell>
+                        <cell>*Learn,,</cell>
                         <cell>1542</cell>
                     </row>
                     <row role="data">
@@ -3922,18 +3884,18 @@
                         <cell>1542</cell>
                     </row>
                     <row role="data">
-                        <cell>34 Peace of Crespi&#8212;the French gave up Italy.</cell>
+                        <cell>34 Peace of Crespi—the French gave up Italy.</cell>
                         <cell>Duly roar,</cell>
                         <cell>1544</cell>
                     </row>
                     <row role="data">
                         <cell>35 Silver mines of Potosi discovered.</cell>
-                        <cell>&#42;Laurel,</cell>
+                        <cell>*Laurel,</cell>
                         <cell>1545</cell>
                     </row>
                     <row role="data">
                         <cell>36 Massacre of the Vaudois.</cell>
-                        <cell>&#42;Laurel,</cell>
+                        <cell>*Laurel,</cell>
                         <cell>1545</cell>
                     </row>
                     <row role="data">
@@ -3942,7 +3904,7 @@
                         <cell>1545</cell>
                     </row>
                     <row role="data">
-                        <cell><!-- The line in the left margin from initial note ends here --><note type="authorial" resp="#h1" place="inline">&#8212;</note>38 Doctrines of Socinus promulgated.</cell>
+                        <cell><!-- The line in the left margin from initial note ends here --><note type="authorial" resp="#h1" place="inline">—</note>38 Doctrines of Socinus promulgated.</cell>
                         <cell>Idle rush, </cell>
                         <cell>1546</cell>
                     </row>
@@ -3978,12 +3940,12 @@
                     </row>
                     <row role="data">
                         <cell>45 The plough introduced into Peru.</cell>
-                        <cell>&#42;Lawless,</cell>
+                        <cell>*Lawless,</cell>
                         <cell>1550</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>46 Era of the English Puritans.</cell>
-                        <cell>&#42;Lawless,</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>46 Era of the English Puritans.</cell>
+                        <cell>*Lawless,</cell>
                         <cell>1550</cell>
                     </row>
                     
@@ -3994,10 +3956,10 @@
                     <row role="label">
                         <cell/>
                         <cell/>
-                        <cell><note type="authorial" place="inline" resp="#h1" >AC</note></cell>
+                        <cell><note type="authorial" place="inline" resp="#h1">AC</note></cell>
                     </row>
                         <row role="data">
-                            <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>Severtus executed for heresy by the Council of Geneva.</cell>
+                            <cell><note type="authorial" resp="#h1" place="inline">—</note>Severtus executed for heresy by the Council of Geneva.</cell>
                         <cell>Still lamb,</cell>
                         <cell>1553</cell>
                     </row>
@@ -4043,7 +4005,7 @@
                     </row>
                     <row role="data">
                         <cell>56 Peace of Chateau Cambresis.</cell>
-                        <cell>&#42;Lullaby,</cell>
+                        <cell>*Lullaby,</cell>
                         <cell>1559</cell>
                     </row>
                     <row role="data">
@@ -4077,12 +4039,12 @@
                         <cell>1562</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>63 Michael Angelo and Calvin died.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>63 Michael Angelo and Calvin died.</cell>
                         <cell>Tall shore,</cell>
                         <cell>1564</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>64 Shakespeare and Galileo born.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>64 Shakespeare and Galileo born.</cell>
                         <cell>Tall shore,</cell>
                         <cell>1564</cell>
                     </row>
@@ -4107,8 +4069,8 @@
                         <cell>1566</cell>
                     </row>
                     <row role="data">
-                        <cell>69 Second Civil War in France&#8212;Battle of Dennis.</cell>
-                        <cell>&#42;Logic,</cell>
+                        <cell>69 Second Civil War in France—Battle of Dennis.</cell>
+                        <cell>*Logic,</cell>
                         <cell>1567</cell>
                     </row>
                     <row role="data">
@@ -4127,7 +4089,7 @@
                         <cell>1568</cell>
                     </row>
                     <row role="data">
-                        <cell>73 Battle of Jarnie&#8212;the Protestants defeated.</cell>
+                        <cell>73 Battle of Jarnie—the Protestants defeated.</cell>
                         <cell>Idle chap,</cell>
                         <cell>1569</cell>
                     </row>
@@ -4183,7 +4145,7 @@
                     </row>
                     <row role="data">
                         <cell>84 Calendar reformed by Pope Gregory XIII.</cell>
-                        <cell>&#42;Leaven,</cell>
+                        <cell>*Leaven,</cell>
                         <cell>1582</cell>
                     </row>
                     <row role="data">
@@ -4192,7 +4154,7 @@
                         <cell>1584</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>86 Sir Walter Raleigh attempts to colonize Virginia.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>86 Sir Walter Raleigh attempts to colonize Virginia.</cell>
                         <cell>Deliver,</cell>
                         <cell>1584</cell>
                     </row>
@@ -4203,13 +4165,13 @@
                     </row>
                     <row role="data">
                         <cell>88 Potatoes introduced into England.</cell>
-                        <cell>&#42;Lavish,</cell>
+                        <cell>*Lavish,</cell>
                         <cell>1586</cell>
                     </row>
                     <row role="data">
                         <cell>89 Raleigh's colony carried to England by Sir Francis Drake.</cell>
-                        <cell>&#42;Lavish,</cell>
-                        <cell>1586<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>*Lavish,</cell>
+                        <cell>1586<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>90 Mary Stuart, Queen of Scots, executed.</cell>
@@ -4227,9 +4189,9 @@
                         <cell>1588</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8211;&#8211;</note>93 The English Mercury, the first newspaper published.</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">––</note>93 The English Mercury, the first newspaper published.</cell>
                         <cell>Outlive <hi rend="italic">the</hi> wave,</cell>
-                        <cell>1588<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1588<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>94 Henry III. assassinated by Jacques Clement.</cell>
@@ -4238,12 +4200,12 @@
                     </row>
                     <row role="data">
                         <cell>95 Sigismond III. united Poland and Sweden.</cell>
-                        <cell>&#42;Albino,</cell>
+                        <cell>*Albino,</cell>
                         <cell>1592</cell>
                     </row>
                     <row role="data">
                         <cell>96 Presbyterian church government established by act of Parliament.</cell>
-                        <cell>&#42;Albino,</cell>
+                        <cell>*Albino,</cell>
                         <cell>1592</cell>
                     </row>
                     <row role="data">
@@ -4254,7 +4216,7 @@
                     <row role="data">
                         <cell>98 The first European child born in North America.</cell>
                         <cell>Tulip gay,</cell>
-                        <cell>1597<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1597<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     
                     <pb xml:id="leaf009v" facs="duk_nhg.00203.jpg" type="verso"/>
@@ -4266,7 +4228,7 @@
                         <cell><note type="authorial" place="inline" resp="#h1">AC</note></cell>
                     </row>
                     <row role="data">
-                        <cell>99 Edict of Nantes&#8212;toleration to Protestants.</cell>
+                        <cell>99 Edict of Nantes—toleration to Protestants.</cell>
                         <cell>Stale puff,</cell>
                         <cell>1598</cell>
                     </row>
@@ -4287,11 +4249,11 @@
             <div1>
                 <head>PERIOD XIX.</head>
                 <head>From the Birth of Cromwell to the Death of Charles XII.</head>
-                <head>ENGLISH COMMONWEALTH.&#8212;<hi rend="italic">Steady pay</hi>119.</head>
+                <head>ENGLISH COMMONWEALTH.—<hi rend="italic">Steady pay</hi>119.</head>
                 <ab><table>
                     <row role="label">
-                        <cell></cell>
-                        <cell></cell>
+                        <cell/>
+                        <cell/>
                         <cell>AC</cell>
                     </row>
                     <row role="data">
@@ -4300,7 +4262,7 @@
                         <cell>1600</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>2 Union of Scotland with England.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>2 Union of Scotland with England.</cell>
                         <cell>Dashy son,</cell>
                         <cell>1602</cell>
                     </row>
@@ -4350,7 +4312,7 @@
                         <cell>1613</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>12 New York settled by the Dutch.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>12 New York settled by the Dutch.</cell>
                         <cell>Dutch team,</cell>
                         <cell>1613</cell>
                     </row>
@@ -4365,7 +4327,7 @@
                         <cell>1614</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>15 Fort Orange built, (in the State of New York,)</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>15 Fort Orange built, (in the State of New York,)</cell>
                         <cell>Dutch tool,</cell>
                         <cell>1615</cell>
                     </row>
@@ -4385,7 +4347,7 @@
                         <cell>1618</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>19 Discovery of the circulation of the blood, by Harvey.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>19 Discovery of the circulation of the blood, by Harvey.</cell>
                         <cell>Dish tub,</cell>
                         <cell>1619</cell>
                     </row>
@@ -4425,7 +4387,7 @@
                         <cell>1623</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8212;</note>27 The first English settlement in the West Indies.</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">—</note>27 The first English settlement in the West Indies.</cell>
                         <cell>Dutch nail,</cell>
                         <cell>1625</cell>
                     </row>
@@ -4445,7 +4407,7 @@
                         <cell>1630</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8212;</note>31 Boston settled.</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">—</note>31 Boston settled.</cell>
                         <cell>Dutch mice,</cell>
                         <cell>1630</cell>
                     </row>
@@ -4465,13 +4427,13 @@
                         <cell>1632</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>35 Maryland settled by Irish Catholics, under Lord Baltimore.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>35 Maryland settled by Irish Catholics, under Lord Baltimore.</cell>
                         <cell>Dutch mayor,</cell>
                         <cell>1634</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8212;</note>Connecticut settled by the English Puritans.</cell>
-                        <cell>&#42;Ishmael,</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">—</note>Connecticut settled by the English Puritans.</cell>
+                        <cell>*Ishmael,</cell>
                         <cell>1635</cell>
                     </row>
                     
@@ -4482,7 +4444,7 @@
                     <row role="label">
                         <cell/>
                         <cell/>
-                        <cell><note type="authorial" place="inline" resp="#h1" >AC</note></cell>
+                        <cell><note type="authorial" place="inline" resp="#h1">AC</note></cell>
                     </row>
                     <row role="data">
                         <cell>37 Rhode Island settled by Roger Williams.</cell>
@@ -4501,7 +4463,7 @@
                     </row>
                     <row role="data">
                         <cell>40 New Haven settled.</cell>
-                        <cell>&#42;Show map,</cell>
+                        <cell>*Show map,</cell>
                         <cell>1639</cell>
                     </row>
                     <row role="data">
@@ -4511,11 +4473,11 @@
                     </row>
                     <row role="data">
                         <cell>42 The Long Parliament convened.</cell>
-                        <cell>&#42;Shares,</cell>
+                        <cell>*Shares,</cell>
                         <cell>1640</cell>
                     </row>
                     <row role="data">
-                        <cell>43 Montreal founded&#8212;the Jesuits go to convert the Indians.</cell>
+                        <cell>43 Montreal founded—the Jesuits go to convert the Indians.</cell>
                         <cell>Teach <hi rend="italic">a</hi> heresy,</cell>
                         <cell>1640</cell>
                     </row>
@@ -4526,52 +4488,52 @@
                     </row>
                     <row role="data">
                         <cell>45 Coffee introduced into England.</cell>
-                        <cell>&#42;Charity,</cell>
+                        <cell>*Charity,</cell>
                         <cell>1641</cell>
                     </row>
                     <row role="data">
                         <cell>46 Strafford beheaded.</cell>
-                        <cell>&#42;Charity,</cell>
+                        <cell>*Charity,</cell>
                         <cell>1641</cell>
                     </row>
                     <row role="data">
                         <cell>47 Rebellion in Ireland.</cell>
-                        <cell>&#42;Charity,</cell>
+                        <cell>*Charity,</cell>
                         <cell>1641</cell>
                     </row>
                     <row role="data">
                         <cell>48 Civil War in England.</cell>
-                        <cell>&#42;Shrine,</cell>
+                        <cell>*Shrine,</cell>
                         <cell>1642</cell>
                     </row>
                     <row role="data">
                         <cell>49 Sir Isaac Newton born, and <hi rend="underline" resp="#h1">Galileo</hi><!-- "Galileo" has lines above and below the word.  How should I show that?--> died.<note type="authorial" resp="#h1" place="inline">aged 78</note></cell>
-                        <cell>&#42;Shrine,</cell>
+                        <cell>*Shrine,</cell>
                         <cell>1642</cell>
                     </row>
                     <row role="data">
                         <cell>50 Union of the four New England colonies.</cell>
-                        <cell>&#42;Dutch room,</cell>
+                        <cell>*Dutch room,</cell>
                         <cell>1643</cell>
                     </row>
                     <row role="data">
                         <cell>51 Episcopacy abolished by the House of Commons.</cell>
-                        <cell>&#42;Germs,</cell>
+                        <cell>*Germs,</cell>
                         <cell>1643</cell>
                     </row>
                     <row role="data">
                         <cell>52 Battle of Marston Moor.</cell>
-                        <cell>&#42;Charm,</cell>
+                        <cell>*Charm,</cell>
                         <cell>1643</cell>
                     </row>
                     <row role="data">
                         <cell>53 Battle of Naseby and the Canadian war.</cell>
-                        <cell>&#42;Dutch roll,</cell>
+                        <cell>*Dutch roll,</cell>
                         <cell>1645</cell>
                     </row>
                     <row role="data">
                         <cell>54 Charles I. delivered up <del rend="overwrite">by<del rend="overstrike">to</del></del> the Scots.<note type="authorial" resp="#h1" place="inline">by</note></cell>
-                        <cell>&#42;Shark,</cell>
+                        <cell>*Shark,</cell>
                         <cell>1647</cell>
                     </row>
                     <row role="data">
@@ -4581,32 +4543,32 @@
                     </row>                    
                     <row role="data">
                         <cell>56 Treaty of Westphalia.</cell>
-                        <cell>&#42;Sheriff,</cell>
+                        <cell>*Sheriff,</cell>
                         <cell>1648</cell>
                     </row>
                     <row role="data">
                         <cell>57 Charles I. of England beheaded.</cell>
-                        <cell>&#42;Sharp,</cell>
+                        <cell>*Sharp,</cell>
                         <cell>1649</cell>
                     </row>
                     <row role="data">
                         <cell>58 Montrose executed.</cell>
-                        <cell>&#42;Joyless,</cell>
+                        <cell>*Joyless,</cell>
                         <cell>1650</cell>
                     </row>
                     <row role="data">
                         <cell>59 Cape of Good Hope settled by a Dutch colony.</cell>
-                        <cell>&#42;Jealous,</cell>
+                        <cell>*Jealous,</cell>
                         <cell>1650</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>60 North Carolina settled.</cell>
-                        <cell>&#42;Jealous,</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>60 North Carolina settled.</cell>
+                        <cell>*Jealous,</cell>
                         <cell>1650</cell>
                     </row>
                     <row role="data">
-                        <cell>61 Battle of Worcester&#8212;Cromwell defeats the Scots.</cell>
-                        <cell>&#42;Shield,</cell>
+                        <cell>61 Battle of Worcester—Cromwell defeats the Scots.</cell>
+                        <cell>*Shield,</cell>
                         <cell>1651</cell>
                     </row>
                     <row role="data">
@@ -4621,7 +4583,7 @@
                     </row>
                     <row role="data">
                         <cell>64 Christiana abdicated the throne of Sweden.</cell>
-                        <cell>&#42;Jewelry,</cell>
+                        <cell>*Jewelry,</cell>
                         <cell>1654</cell>
                     </row>
                     <row role="data">
@@ -4660,17 +4622,17 @@
                         <cell>1660</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>72 New York taken from the Dutch.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>72 New York taken from the Dutch.</cell>
                         <cell>Dutch Chair,</cell>
                         <cell>1664</cell>
                     </row>
                     <row role="data">
-                        <cell>73 Great Plague in London&#8212;nearly 100,000 victims.<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>73 Great Plague in London—nearly 100,000 victims.<note type="authorial" resp="#h2" place="inline">—</note></cell>
                         <cell>Dutch jail,</cell>
                         <cell>1665</cell>
                     </row>
                     <row role="data">
-                        <cell>74 Great fire in London&#8212;13,000 buildings consumed.<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>74 Great fire in London—13,000 buildings consumed.<note type="authorial" resp="#h2" place="inline">—</note></cell>
                         <cell>Dutch judge,</cell>
                         <cell>1666</cell>
                     </row>
@@ -4691,18 +4653,18 @@
                     </row>
                     <row role="data">
                         <cell>78 The two De Witts murdered by their countrymen.</cell>
-                        <cell>&#42;Shaken,</cell>
-                        <cell>1672<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>*Shaken,</cell>
+                        <cell>1672<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>79 King Philip's War in New England.</cell>
-                        <cell>&#42;Chuckle,</cell>
-                        <cell>1675<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>*Chuckle,</cell>
+                        <cell>1675<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>80 Rebellion of Bacon in Virginia.</cell>
                         <cell>Dutch coach,</cell>
-                        <cell>1676<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1676<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>81 Episcopacy established in Scotland.</cell>
@@ -4712,7 +4674,7 @@
                     <row role="data">
                         <cell>82 William Penn settled Pennsylvania.</cell>
                         <cell>Dutch vane,</cell>
-                        <cell>1682<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1682<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>83 Lord Russell and Algernon Sidney put to death.</cell>
@@ -4722,27 +4684,27 @@
                     <row role="data">
                         <cell>84 Sobieski defeated the Turks.</cell>
                         <cell>Dutch fame,</cell>
-                        <cell>1683<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1683<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>85 James II. sent Sir E. Andros governor-general to New England.</cell>
-                        <cell>&#42;Wishful,</cell>
+                        <cell>*Wishful,</cell>
                         <cell>1685</cell>
                     </row>
                     <row role="data">
                         <cell>86 Edict of Nantes revoked.</cell>
-                        <cell>&#42;Wishful,</cell>
-                        <cell>1685<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>*Wishful,</cell>
+                        <cell>1685<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
                         <cell>87 Newtonian philosophy promulgated.</cell>
                         <cell>Teach <hi rend="italic">on a</hi> voyage,</cell>
-                        <cell>1686<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>1686<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     <row role="data">
-                        <cell>88 The Revolution&#8212;the people deny the divine right of kings.</cell>
-                        <cell>&#42;Chief foe,</cell>
-                        <cell>1688<note type="authorial" resp="#h2" place="inline">&#8212;</note></cell>
+                        <cell>88 The Revolution—the people deny the divine right of kings.</cell>
+                        <cell>*Chief foe,</cell>
+                        <cell>1688<note type="authorial" resp="#h2" place="inline">—</note></cell>
                     </row>
                     
                     <pb xml:id="leaf010v" facs="duk_nhg.00205.jpg" type="verso"/>
@@ -4750,22 +4712,22 @@
                     
                     <row role="data">
                         <cell>89 Accession of William and Mary.</cell>
-                        <cell>&#42;Chief Foe,</cell>
+                        <cell>*Chief Foe,</cell>
                         <cell>1689</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>90 Peter the Great, Czar of Russia.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>90 Peter the Great, Czar of Russia.</cell>
                         <cell>Dutch fop,</cell>
                         <cell>1689</cell>
                     </row>
                     <row role="data">
                         <cell>91 Schenectady burnt by the Indians.</cell>
-                        <cell>&#42;Shops,</cell>
+                        <cell>*Shops,</cell>
                         <cell>1690</cell>
                     </row>
                     <row role="data">
                         <cell>92 The battle of Boyne, in which the Irish were defeated.</cell>
-                        <cell>&#42;Ships,</cell>
+                        <cell>*Ships,</cell>
                         <cell>1890</cell> <!-- Yes, this date seems off.  Yes, it is actually 1890.  Maybe a sic? -->
                     </row>
                     <row role="data">
@@ -4774,17 +4736,17 @@
                         <cell>1691</cell>
                     </row>                    
                     <row role="data">
-                        <cell>94 The battle of La Hogue&#8212;the English victorious.</cell>
+                        <cell>94 The battle of La Hogue—the English victorious.</cell>
                         <cell>Dutch pin,</cell>
                         <cell>1692</cell>
                     </row>                    
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>95 Salem witchcraft.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>95 Salem witchcraft.</cell>
                         <cell>Dish pan,</cell>
                         <cell>1692</cell>
                     </row>                    
                     <row role="data">
-                        <cell>96 Earthquake in Sicily&#8212;100,000 persons destroyed.</cell>
+                        <cell>96 Earthquake in Sicily—100,000 persons destroyed.</cell>
                         <cell>Dutch poem,</cell>
                         <cell>1693</cell>
                     </row>                    
@@ -4830,7 +4792,7 @@
                         <cell>1697</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8212;</note>3 Piracies of Robert Kid.</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">—</note>3 Piracies of Robert Kid.</cell>
                         <cell>Dutch beehive,</cell>
                         <cell>1698</cell>
                     </row>
@@ -4840,7 +4802,7 @@
                         <cell>1699</cell>
                     </row>
                     <row role="data">
-                        <cell>5 Battle of Narva&#8212;Peter the Great defeated.</cell>
+                        <cell>5 Battle of Narva—Peter the Great defeated.</cell>
                         <cell>Taxes,</cell>
                         <cell>1700</cell>
                     </row>
@@ -4870,7 +4832,7 @@
                         <cell>1703</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h2" place="inline">&#8212;</note>11 The first newspaper printed in North America.</cell>
+                        <cell><note type="authorial" resp="#h2" place="inline">—</note>11 The first newspaper printed in North America.</cell>
                         <cell>Talk wiser,</cell>
                         <cell>1704</cell>
                     </row>
@@ -4890,7 +4852,7 @@
                         <cell>1707</cell>
                     </row>
                     <row role="data">
-                        <cell>15 Battle of Oudenarde&#8212;Marlborough against the French.</cell>
+                        <cell>15 Battle of Oudenarde—Marlborough against the French.</cell>
                         <cell>Thick sieve,</cell>
                         <cell>1708</cell>
                     </row>                    
@@ -4940,7 +4902,7 @@
                         <cell>1716</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>25 New Orleans founded.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>25 New Orleans founded.</cell>
                         <cell>Thick tack,</cell>
                         <cell>1717</cell>
                     </row>
@@ -4957,7 +4919,7 @@
             <div1>
                 <head>PERIOD XX.</head>
                 <head>From the Death of Charles XII. to the Present Time.</head>
-                <head>REVOLUTIONS.&#8212;<del rend="overstrike"><hi rend="italic">Heading a foe</hi></del>,
+                <head>REVOLUTIONS.—<del rend="overstrike"><hi rend="italic">Heading a foe</hi></del>,
                     128</head>
                 
                 <ab><table>  
@@ -4987,13 +4949,13 @@
                         <cell>1720</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>32 Inoculation first tried on criminals.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>32 Inoculation first tried on criminals.</cell>
                         <cell>Thick nod,</cell>
                         <cell>1721</cell>
                     </row>
                     <row role="data">
                         <cell>33 The first newspaper printed at New York by William Bradford.</cell>
-                        <cell>&#42;Keenly,</cell>
+                        <cell>*Keenly,</cell>
                         <cell>1725</cell>
                     </row>
                     <row role="data">
@@ -5032,23 +4994,23 @@
                         <cell>1748</cell>
                     </row>
                     <row role="data">
-                        <cell>41 New style adopted&#8212;Franklin's experiment with a kite.</cell>
+                        <cell>41 New style adopted—Franklin's experiment with a kite.</cell>
                         <cell>Thick lion,</cell>
                         <cell>1752</cell>
                     </row>
                     <row role="data">
                         <cell>42 The great earthquake at Lisbon.</cell>
-                        <cell>&#42;Weak <hi rend="italic">and</hi> lowly,</cell>
+                        <cell>*Weak <hi rend="italic">and</hi> lowly,</cell>
                         <cell>1755</cell>
                     </row>
                     <row role="data">
                         <cell>43 Braddock's defeat.</cell>
-                        <cell>&#42;Weak <hi rend="italic">and</hi> lowly,</cell>
+                        <cell>*Weak <hi rend="italic">and</hi> lowly,</cell>
                         <cell>1755</cell>
                     </row>
                     <row role="data">
                         <cell>44 The Seven Year's War began.</cell>
-                        <cell>&#42;Clash,</cell>
+                        <cell>*Clash,</cell>
                         <cell>1756</cell>
                     </row>
                     <row role="data">
@@ -5078,7 +5040,7 @@
                     </row>
                     <row role="data">
                         <cell>50 Battle of Bunker Hill.</cell>
-                        <cell>&#42;Quickly,</cell>
+                        <cell>*Quickly,</cell>
                         <cell>1775</cell>
                     </row>
                     <row role="data">
@@ -5087,7 +5049,7 @@
                         <cell>1776</cell>
                     </row>
                     <row role="data">
-                        <cell>52 Henry Clay born&#8212;Burgoyne surrendered.</cell>
+                        <cell>52 Henry Clay born—Burgoyne surrendered.</cell>
                         <cell>Thick cake,</cell>
                         <cell>1777</cell>
                     </row>
@@ -5102,7 +5064,7 @@
                         <cell>1783</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>55 Federal Constitution adopted by the States.</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>55 Federal Constitution adopted by the States.</cell>
                         <cell>Thick fog,</cell>
                         <cell>1787</cell>
                     </row>
@@ -5113,12 +5075,12 @@
                     </row>
                     <row role="data">
                         <cell>57 Discovery of Galvanism.</cell>
-                        <cell>&#42;Copied,</cell>
+                        <cell>*Copied,</cell>
                         <cell>1791</cell>
                     </row>
                     <row role="data">
                         <cell>58 First railroad in England.</cell>
-                        <cell>&#42;Copied,</cell>
+                        <cell>*Copied,</cell>
                         <cell>1791</cell>
                     </row>
                     <row role="data">
@@ -5128,7 +5090,7 @@
                     </row>
                     <row role="data">
                         <cell>60 Vaccination introduced by Dr. Jenner.</cell>
-                        <cell>&#42;Cow beef,</cell>
+                        <cell>*Cow beef,</cell>
                         <cell>1798</cell>
                     </row>
                     <row role="data">
@@ -5148,7 +5110,7 @@
                     </row>
                     <row role="data">
                         <cell>64 Napoleon crowned emperor of France.</cell>
-                        <cell>&#42;Officer,</cell>
+                        <cell>*Officer,</cell>
                         <cell>1804</cell>
                     </row>
                     <row role="data">
@@ -5173,27 +5135,27 @@
                     </row>
                     <row role="data">
                         <cell>69 Battle of Friedland and Treaty of Tilsit.</cell>
-                        <cell>&#42;Physic,</cell>
+                        <cell>*Physic,</cell>
                         <cell>1807</cell>
                     </row>
                     <row role="data">
                         <cell>70 Aaron Burr tried for conspiracy.</cell>
-                        <cell>&#42;Physic,</cell>
+                        <cell>*Physic,</cell>
                         <cell>1807</cell>
                     </row>
                     <row role="data">
                         <cell>71 King of Portugal emigrated to Brazil.</cell>
-                        <cell>&#42;Physic,</cell>
+                        <cell>*Physic,</cell>
                         <cell>1807</cell>
                     </row>
                     <row role="data">
                         <cell>72 Napoleon married Maria Louisa.</cell>
-                        <cell>&#42;Fates,</cell>
+                        <cell>*Fates,</cell>
                         <cell>1810</cell>
                     </row>
                     <row role="data">
                         <cell>73 Holland annexed to France.</cell>
-                        <cell>&#42;Fates,</cell>
+                        <cell>*Fates,</cell>
                         <cell>1810</cell>
                     </row>
                     
@@ -5202,7 +5164,7 @@
                     
                     <row role="data">
                         <cell>74 Revolution in Caraccas.</cell>
-                        <cell>&#42;Fates,</cell>
+                        <cell>*Fates,</cell>
                         <cell>1810</cell>
                     </row>
                     <row role="data">
@@ -5297,12 +5259,12 @@
                     </row>
                     <row role="data">
                         <cell>93 The Florida War begun.</cell>
-                        <cell>&#42;Family,</cell>
+                        <cell>*Family,</cell>
                         <cell>1835</cell>
                     </row>
                     <row role="data">
-                        <cell><note type="authorial" resp="#h1" place="inline">&#8212;</note>94 Texas declared its independence.</cell>
-                        <cell>&#42;Famish,</cell>
+                        <cell><note type="authorial" resp="#h1" place="inline">—</note>94 Texas declared its independence.</cell>
+                        <cell>*Famish,</cell>
                         <cell>1836</cell>
                     </row>
                     <row role="data">
@@ -5343,7 +5305,7 @@
                 <head>QUESTIONS ON THE ONE THOUSAND HISTORICAL EVENTS.</head>
                 <list>
                     <item>1. How much time is embraced in the Ancient Chronology?  A. The space between the Creation and the Birth of our Saviour.</item>
-                    <item>2. How many years does it embrace? A. 4004.<note type="authorial" resp="#h1" place="inline">&#8212;</note></item>
+                    <item>2. How many years does it embrace? A. 4004.<note type="authorial" resp="#h1" place="inline">—</note></item>
                     <item>3. Into how many <hi rend="smallcaps">PERIODS</hi> is Ancient Chronology divided?</item>
                     <item>4. From what event to what event does the first period extend?</item>
                     <item>5. What is the <hi rend="italic">characteristic</hi> of the first period?</item>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="uva.00085">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00085">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>uva.00085</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,7 +31,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -42,7 +39,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>uva.00085</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
@@ -73,9 +70,9 @@
         <body>
             <pb xml:id="leaf001r" facs="uva.00085.001.jpg" type="recto"/>
             
-            <head><hi rend="underline">Brutish human beings&#8212;Wild men&#8212;the "koboo."&#8212;</hi></head>
+            <head><hi rend="underline">Brutish human beings—Wild men—the "koboo."—</hi></head>
             
-            <p>Elias Pierson <add rend="insertion" place="supralinear">(June '57)</add> describes to me a very low kind of human beings he saw in one of the Ladrone islands&#8212;they were quite hairy, had a few rags for clothing, and lived in earthen shelters, something like ovens, into which they crawled.&#8212;</p>
+            <p>Elias Pierson <add rend="insertion" place="supralinear">(June '57)</add> describes to me a very low kind of human beings he saw in one of the Ladrone islands—they were quite hairy, had a few rags for clothing, and lived in earthen shelters, something like ovens, into which they crawled.—</p>
             
             <milestone unit="undeclared" rend="horbar-short-left"/>
             
@@ -87,16 +84,16 @@
                 <floatingText>
                     <body> 
                         <pb xml:id="leaf002r" facs="uva_km.00001.jpg" type="recto"/>
-                        <p>THE WILD MEN OF BORNEO.&#8212;"At Kenansvill, 24th March, was exhibited the Wild Men of Borneo. They were two in number. About three feet high; weighed between 47 and 50 pounds. Could lift 400 pounds from the floor with ease. Age unknown; supposed to be between 30 and 40. They could not talk. Do you know any thing about them? They are said to have been caught on the island of Borneo, etc. Some contradict it, and say they were raised in this country." We have no data from which to judge, except the statements of the parties interested. We incline to the opinion that they are real Borneoans. <add rend="unmarked" place="bottom"><handShift new="#h1"/>*</add></p>
+                        <p>THE WILD MEN OF BORNEO.—"At Kenansvill, 24th March, was exhibited the Wild Men of Borneo. They were two in number. About three feet high; weighed between 47 and 50 pounds. Could lift 400 pounds from the floor with ease. Age unknown; supposed to be between 30 and 40. They could not talk. Do you know any thing about them? They are said to have been caught on the island of Borneo, etc. Some contradict it, and say they were raised in this country." We have no data from which to judge, except the statements of the parties interested. We incline to the opinion that they are real Borneoans. <add rend="unmarked" place="bottom"><handShift new="#h1"/>*</add></p>
                     </body>
                 </floatingText>
             </add>
             
             <milestone unit="undeclared" rend="horbar-short-left"/>
             
-            <p>*What difference does it make whether they were Borneoans or not?&#8212;Their brutish nature was certain, and that is enough?</p>
+            <p>*What difference does it make whether they were Borneoans or not?—Their brutish nature was certain, and that is enough?</p>
             
-            <p>After all, are not the Rocky Mountain and California aborigines quite as bestial a type of humanity as any?&#8212;</p>
+            <p>After all, are not the Rocky Mountain and California aborigines quite as bestial a type of humanity as any?—</p>
             
             <pb xml:id="leaf001v" facs="uva_jc.00050_large.jpg" type="verso"/>
 

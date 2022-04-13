@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02139">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02139">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -19,7 +16,7 @@
 <edition><date>2020</date></edition>
 </editionStmt><publicationStmt>
 
-<idno>anc.02139</idno> 
+ 
 
 <distributor>The Walt Whitman Archive</distributor>
 <address>
@@ -49,7 +46,7 @@
     <title level="m">Walt Whitman Archive</title> and Caterina Bernardini.
   </p>
 </availability>
-</publicationStmt>
+<idno>anc.02139</idno></publicationStmt>
 
 <sourceDesc>
   <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
@@ -67,9 +64,9 @@
   
   <div1 type="section">
     <head type="sub">Introduction</head>
-    <p>In his monumental study entitled <hi rend="italic">The Foreground of</hi> Leaves of Grass, Floyd Stovall wrote that, while it is apparent that literature was Whitman's primary interest, his second greatest interest was in history and geography. Whitman's book annotations and marginalia and his cultural geography scrapbook testify to the validity of Stovall's assessment: Whitman was an avid reader and an independent, improvised&#8212;and chaotically organized&#8212;scholar of all things that seemed to him to be somehow connected to, or illuminating of, world history and geography. To a certain degree, though, these documents also show us how it may be useful to transcend a strict disciplinary division of literature, history, and geography when thinking of Whitman's intellectual and creative modus operandi. For Whitman, these disciplines, and his own interest in and dedication to them, were often conflated: ultimately, they all served, in various ways, the poet's ambitious agenda, by which, "with the twirl of my tongue I encompass worlds and volumes of worlds," as audaciously declared by the lyrical I in "Song of Myself."</p>
+    <p>In his monumental study entitled <hi rend="italic">The Foreground of</hi> Leaves of Grass, Floyd Stovall wrote that, while it is apparent that literature was Whitman's primary interest, his second greatest interest was in history and geography. Whitman's book annotations and marginalia and his cultural geography scrapbook testify to the validity of Stovall's assessment: Whitman was an avid reader and an independent, improvised—and chaotically organized—scholar of all things that seemed to him to be somehow connected to, or illuminating of, world history and geography. To a certain degree, though, these documents also show us how it may be useful to transcend a strict disciplinary division of literature, history, and geography when thinking of Whitman's intellectual and creative modus operandi. For Whitman, these disciplines, and his own interest in and dedication to them, were often conflated: ultimately, they all served, in various ways, the poet's ambitious agenda, by which, "with the twirl of my tongue I encompass worlds and volumes of worlds," as audaciously declared by the lyrical I in "Song of Myself."</p>
   
-    <p>These manuscript notes, which open the Ohio Wesleyan scrapbook, perfectly&#8212;and therefore, in typical Whitmanian fashion, overwhelmingly&#8212;announce the poet's strong desire to acquire knowledge about, as he put it in another manuscript note (see surface 916), "Peoples," from all over the globe, with their customs and history, and about the geological and other natural characteristics of the earth itself.</p>
+    <p>These manuscript notes, which open the Ohio Wesleyan scrapbook, perfectly—and therefore, in typical Whitmanian fashion, overwhelmingly—announce the poet's strong desire to acquire knowledge about, as he put it in another manuscript note (see surface 916), "Peoples," from all over the globe, with their customs and history, and about the geological and other natural characteristics of the earth itself.</p>
     
       <figure>
         <graphic url="scrapbook_inside_front_cover.jpg"/>
@@ -79,7 +76,7 @@
       
       <p>An initial note-reminder about the need to study "census reports" is followed by a list of disparate topics that cover, in a clumsy encyclopedic embrace, what appear to be major categories in different places, societies, and civilizations that Whitman thought it would be necessary to consider, describe, and give representation to in the scrapbook. But this manuscript page is also metonymic of Whitman's ample, all-encompassing creative agenda and of the accumulative poetic device related to it: the list, used by Whitman to give expression to what Umberto Eco has called, in his study dedicated to lists and catalogues, "the science of the plural and of the unlimited."</p>
     
-    <p>Whitman's fever to learn about the world is one and the same with his fever to make, to write the world. These manuscript notes indicate Whitman's closeness to what Milan Kundera has called the writerly ambition to map not reality, but more largely, existence: not the realm of human achievements, but the realm of human possibilities. The geography scrapbook is, therefore, crucial in improving and transforming our knowledge about Whitman's creative impulse and poetic agenda. The scrapbook can be seen as the magmatic origination of Whitman's imagination about the world: a fact is not only relevant for the content of the scrapbook&#8212;for the countries and maps and histories and cultural customs that Whitman appears to be interested in&#8212;but also for the methods of composition that he used in arranging the scrapbook's textual congeries, in selecting materials, deciding in which order they should appear, and pairing descriptions of American states with those of other countries.</p>
+    <p>Whitman's fever to learn about the world is one and the same with his fever to make, to write the world. These manuscript notes indicate Whitman's closeness to what Milan Kundera has called the writerly ambition to map not reality, but more largely, existence: not the realm of human achievements, but the realm of human possibilities. The geography scrapbook is, therefore, crucial in improving and transforming our knowledge about Whitman's creative impulse and poetic agenda. The scrapbook can be seen as the magmatic origination of Whitman's imagination about the world: a fact is not only relevant for the content of the scrapbook—for the countries and maps and histories and cultural customs that Whitman appears to be interested in—but also for the methods of composition that he used in arranging the scrapbook's textual congeries, in selecting materials, deciding in which order they should appear, and pairing descriptions of American states with those of other countries.</p>
     
     <p>The scrapbook also represents a treasure trove for scholars interested in Whitman's reception and reinvention around the world, as it offers us a more complete picture of what, precisely, Whitman knew or did not know, or, perhaps more importantly, chose to know or to not know, about foreign lands and cultures. What he knew about them and what he managed to incorporate in his poetry came to influence the ways in which his poetry was capable of speaking to translators, readers, and writers around the world.</p>
   </div1>
@@ -87,7 +84,7 @@
   <div1>
     <head type="sub">Poetry as Geography-Making</head>
   
-    <p>Whitman's imagination was highly geographic and cartographic. It could in fact be argued that Whitman saw writing as a form of geography-making: as put by Marina Camboni, his work had to be isomorphic with America and with the world; it had not only to give expression to them, but to embody them fully. This idea, which obsessed him throughout his creative life, has prompted many readers and scholars to read Whitman's poetry, or part of it, as imperialistic. Walter Grünzweig, who has devoted a number of studies to this subject, has shown that there are many instances in which Whitman's poetry shows an exceptionalist and colonialist side. But other moments, Grünzweig notes, "lift Whitman beyond the imperial framework to that of a positive global vision." The co-presence of these traits is typical of Whitman, as Betsy Erkkila explains: "the paradox of Whitman's poetic democracy is that, at the very moment when he seeks to be most inclusive, universal, and democratic, his poetry becomes most powerful&#8212;and more powerfully dangerous&#8212;in silencing and denying the rights, liberties, and differences of others."</p> 
+    <p>Whitman's imagination was highly geographic and cartographic. It could in fact be argued that Whitman saw writing as a form of geography-making: as put by Marina Camboni, his work had to be isomorphic with America and with the world; it had not only to give expression to them, but to embody them fully. This idea, which obsessed him throughout his creative life, has prompted many readers and scholars to read Whitman's poetry, or part of it, as imperialistic. Walter Grünzweig, who has devoted a number of studies to this subject, has shown that there are many instances in which Whitman's poetry shows an exceptionalist and colonialist side. But other moments, Grünzweig notes, "lift Whitman beyond the imperial framework to that of a positive global vision." The co-presence of these traits is typical of Whitman, as Betsy Erkkila explains: "the paradox of Whitman's poetic democracy is that, at the very moment when he seeks to be most inclusive, universal, and democratic, his poetry becomes most powerful—and more powerfully dangerous—in silencing and denying the rights, liberties, and differences of others."</p> 
     
     <p>Already in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>, Whitman expressed his belief that for the true American poet, "the other continents arrive as contributions," and that such a poet must "incarnat[e] [ his country's] geography and natural life and river and lakes." He repurposed this principle in the 1856 edition's "Poem of Many in One" (which, in the 1860 <hi rend="italic">Leaves</hi>, became "Chants Democratic, No. 1"), where he wrote: </p>
     
@@ -100,7 +97,7 @@
             <l>Of them, standing among them, one lifts to the light his west-bred face. [. . .] </l>
             <l>Used to dispense with other lands, incarnating this land, [. . .]</l>
             <l>Making its geography, cities, beginnings, events, glories, defections, diversities, vocal in him.</l> 
-            <l>Making its rivers, lakes, bays, embouchure in him. (<hi rend="italic">Leaves of Grass</hi> 1856, 183&#8211;184)</l>
+            <l>Making its rivers, lakes, bays, embouchure in him. (<hi rend="italic">Leaves of Grass</hi> 1856, 183–184)</l>
           </lg>
         </body>
       </floatingText>
@@ -116,7 +113,7 @@
     
     <p>The scrapbook and many manuscripts and annotations, filled with dates, population numbers, and underlined names of crucial historical figures, show that Whitman was urgently trying to educate himself about the main events that had shaken and defined human history in all corners of the world, with all he found and as best as he could, giving particular relevance to a didactic text like Samuel Goodrich's <hi rend="italic">The World As It Is and As It Has Been; A Comprehensive Geography and History, Ancient and Modern</hi> (1855).</p>
     
-    <p>While a number of the poet's manuscript notes can be read as superficial in their primarily mnemonic task, and while the introductions and "lessons" by Goodrich, if useful, remain scholastic&#8212;and problematic, from today's perspective, in their often stereotypical, condescending depictions of races, genders, and classes&#8212;there are also some salient textual events that shed light on Whitman's historiographic interests, interests that assume a peculiar importance in conjunction with his poetry. One of them is the study of royal families of Europe and feudal systems which Whitman deemed relevant enough to take from the <hi rend="italic">New York Herald</hi> of February 12, 1858, and insert into the scrapbook.</p>
+    <p>While a number of the poet's manuscript notes can be read as superficial in their primarily mnemonic task, and while the introductions and "lessons" by Goodrich, if useful, remain scholastic—and problematic, from today's perspective, in their often stereotypical, condescending depictions of races, genders, and classes—there are also some salient textual events that shed light on Whitman's historiographic interests, interests that assume a peculiar importance in conjunction with his poetry. One of them is the study of royal families of Europe and feudal systems which Whitman deemed relevant enough to take from the <hi rend="italic">New York Herald</hi> of February 12, 1858, and insert into the scrapbook.</p>
     
     <figure>
       <graphic url="royal_families.jpg"/>
@@ -148,7 +145,7 @@
   <div1>
     <head type="sub">Listing and Classifying</head>
     
-    <p>Whitman's main compositional methodology of listing countries, people, and events in his annotations and marginalia is accompanied by a tendency briefly to describe, classify, and categorize&#8212;sometimes at the risk of oversimplification&#8212;various world cultures, according to their supposed general traits.</p>
+    <p>Whitman's main compositional methodology of listing countries, people, and events in his annotations and marginalia is accompanied by a tendency briefly to describe, classify, and categorize—sometimes at the risk of oversimplification—various world cultures, according to their supposed general traits.</p>
     
     <p>For example, the following manuscript, which likely used to be part of the scrapbook, reads: "Egypt, (and probably much of the sentiment of the Assyrian empire) represents that phase of development, advanced childhood [. . .] India, represents meditation, oriental rhapsody [. . .]."</p>
     
@@ -227,7 +224,7 @@
   
   <bibl>Erkkila, Betsy. "Whitman and American Empire." In <hi rend="italic">Walt Whitman of Mickle Street: A Centennial Collection</hi>, edited by Geoffrey M. Sill. Knoxville: University of Tennessee Press, 1994.</bibl>
   
-  <bibl>&#8212; and Jay Grossman, eds. <hi rend="italic">Breaking Bounds: Whitman &amp; American Cultural Studies</hi>. Oxford: Oxford University Press, 1996.</bibl>
+  <bibl>— and Jay Grossman, eds. <hi rend="italic">Breaking Bounds: Whitman &amp; American Cultural Studies</hi>. Oxford: Oxford University Press, 1996.</bibl>
   
   <bibl>Folsom, Ed. "Impact on the World."  In <hi rend="italic">Walt Whitman in Context</hi>, edited by Joanna Levin and Edward Whitley, 383-392. New York: Cambridge University Press, 2018.</bibl>
   

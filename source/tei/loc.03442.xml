@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03442">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03442">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03442</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,7 +35,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>loc.03442</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -43,7 +43,7 @@
                     <title>Anacreon, "The Midnight Visitor"</title>
                     <idno type="callno">Box 42, Folder 54</idno>
                     <date notBefore="1847-01-01" notAfter="1891-12-31">Undated</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
             </sourceDesc>
@@ -68,14 +68,14 @@
         <ab><handShift new="#h1"/>Anacreon's
         <hi rend="underline">Midnight Visitor</hi></ab>
         <pb xml:id="leaf001v" facs="loc_nhg.00221.jpg" type="verso"/>
-        <lg type="linegroup"><l>Ah! aim'd at me&#8212;like flash of flame</l>
+        <lg type="linegroup"><l>Ah! aim'd at me—like flash of flame</l>
         <l>Right to my very soul it came.</l></lg>
-        <lg type="linegroup"><l>"Thanks&#8212;and farewell," I hear him say,</l>
+        <lg type="linegroup"><l>"Thanks—and farewell," I hear him say,</l>
         <l>As, with arch laugh, he soars away;</l>
         <l>"The glow thou gav'st me, back I send,</l>
         <l>Thy books, philosophy to end,</l>
-        <l>To warm thy life&#8212;to break the spell,</l>
-        <l>This, this thou need'st&#8212;Thanks, and farewell!"</l></lg>
+        <l>To warm thy life—to break the spell,</l>
+        <l>This, this thou need'st—Thanks, and farewell!"</l></lg>
         <note type="editorial" resp="#h2" place="bottom">Given to me by Walt
             Whitman &amp; given by me
             to Mildred &amp; Frank Bain
@@ -104,7 +104,7 @@
         <l>His pinions sparkle through the night.</l>
         <l>I know him by his bow and dart;</l>
         <l>(I know him by my fluttering heart:)</l>
-        <l>I take him in&#8212;I quickly raise</l>
+        <l>I take him in—I quickly raise</l>
         <l>The smouldering embers' cheery blaze,</l>
         <l>Press from his dank and clotted hair</l>
         <l>The crystals of the freezing air,</l>
@@ -118,7 +118,7 @@
         <l>For through the rain I've wandered so,</l>
         <l>That much I fear the pouring shower,</l>
         <l>Has injured its elastic power."</l></lg>
-        <lg type="linegroup"><l>I gave assent&#8212;the bow he drew,</l>
+        <lg type="linegroup"><l>I gave assent—the bow he drew,</l>
         <l>Swift from the <gap reason="damage" extent="2" unit="word"/> the arrow flew.</l></lg>
         <pb xml:id="leaf002v" facs="loc_nhg.00223.jpg" type="verso"/>
         <div1 type="verso"><ab> </ab></div1>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00035">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nyp.00035">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>nyp.00035</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +33,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>nyp.00035</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">References here are to George Grote's <hi rend="italic">History of Greece</hi>, published between 1851 and 1859 by Harper's; and C.C. Felton's <hi rend="italic">Greece, Ancient and Modern</hi>, first published in 1866 by Houghton, Mifflin, and Company. Dating this piece is difficult; Grier estimates that the notes were written after 1873 (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1890).</note>
             </notesStmt>
@@ -67,20 +67,20 @@
     <text type="annotations">
         <body>
                 <pb xml:id="leaf001r" facs="nyp.00035.001.jpg" type="recto"/>
-         <ab><handShift new="#h1"/>Æschuylus&#8212;
-             383&#8212;vol. II&#8212;
+         <ab><handShift new="#h1"/>Æschuylus—
+             383—vol. II—
              Grote
-             Felton&#8212;vol I&#8212;207</ab>
+             Felton—vol I—207</ab>
              <milestone unit="undeclared" rend="horbar-short-left"/>
-             <ab>Sophocles&#8212;Grote "<!-- Library stamp "NYPL" in middle of document -->
-             Felton vol I&#8212;p. 218
+             <ab>Sophocles—Grote "<!-- Library stamp "NYPL" in middle of document -->
+             Felton vol I—p. 218
              et seq.</ab>
              <milestone unit="undeclared" rend="horbar-short-left"/>
              <ab>Hesiod
-             Felton&#8212;vol. I&#8212;p. 134-5</ab>
+             Felton—vol. I—p. 134-5</ab>
              <milestone unit="undeclared" rend="horbar-full"/>
              <ab>Tyrtæus
-             Felton&#8212;vol I,
+             Felton—vol I,
              p. 160</ab>
              <milestone unit="undeclared" rend="horbar-full"/>
         </body>

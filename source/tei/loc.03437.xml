@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03437">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03437">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03437</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,7 +35,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>loc.03437</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">This partial transcription of Tennyson's "Ulysses" was folded together with an unsigned invitation dated December 8, 1885.</note>
             </notesStmt>
@@ -45,7 +45,7 @@
                     <title>Tennyson's "Ulysses"</title>
                     <idno type="callno">Box 42, Folder 48</idno>
                     <date notBefore="1885-12-01" notAfter="1892-03-15">After December 1885</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl>
@@ -53,7 +53,7 @@
                     <title>untitled invitation</title>
                     <idno type="callno">Box 42, Folder 48</idno>
                     <date notBefore="1885-12-08" notAfter="1885-12-08">December 8, 1885</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
             </sourceDesc>
@@ -82,7 +82,7 @@
         <l>And see the great Achilles whom we knew.</l>
         <l>Though much is taken, much abides; and though</l>
         <l>We are not now that strength which in old days,</l>
-        <l>Moved earth &amp; heaven&#8212;that which we are, we are,</l>
+        <l>Moved earth &amp; heaven—that which we are, we are,</l>
         <l>One equal temper of heroic hearts,</l>
         <l>Made weak by time &amp; fate, but strong in will</l>
         <l>To strive, to seek, to find, &amp; not to yield.</l></lg>

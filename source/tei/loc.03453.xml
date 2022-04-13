@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03453">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03453">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +24,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03453</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,21 +35,21 @@
                     <addrLine>Ed-Folsom@uiowa.edu</addrLine>
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
-                <availability ><p>The text of the original document is in the public domain. Subject to certain exceptions,
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions,
             public domain works may be freely copied or used in the creation of derivative works
             without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
             by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
             of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>loc.03453</idno></publicationStmt>
             <sourceDesc>
                 <bibl>
                     <author>Walt Whitman</author>
-                    <title>Vindication of the Quakers, &#38;c.</title>
+                    <title>Vindication of the Quakers, &amp;c.</title>
                     <date notBefore="1838-01-01" notAfter="1892-03-26">After 1838</date>
                     <idno type="callno">BX7731.V5 1820</idno>
                     <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman,
-                        1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                        1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="base">
@@ -240,7 +240,7 @@
                             and godly life</hi>, (<hi rend="italic">which was the design and end of
                             God's creating man in the beginning</hi>,) and thereby be a perfect
                         example to such of mankind as should come to the knowledge of him and of his
-                        perfect life. <note type="authorial" resp="#h1" place="inline">(</note><span hand="#h1" xml:id="s081" from="#s081" to="#s082"></span>For
+                        perfect life. <note type="authorial" resp="#h1" place="inline">(</note><span hand="#h1" xml:id="s081" from="#s081" to="#s082"/>For
                         if it was the purpose and will of God, that he <hi rend="underline" hand="#h1">should</hi> die by the hands of wicked men, then the Jews, by
                         crucifying him, would have done God's will, and of course would all have
                         stood justified in his sight, which could not be.<anchor xml:id="s082"/><note type="authorial" resp="#h1" place="inline">)</note> But it was permitted so to be, as <hi rend="italic">it had been</hi> with many of <hi rend="italic">the
@@ -374,7 +374,7 @@
                         friends have received <hi rend="italic">any known benefit</hi> from <hi rend="italic">any outward</hi> sacrifice, I do not envy them their
                         privileges. But surely they would not be willing that I should acknowledge,
                             <hi rend="italic">as a truth</hi>, <hi rend="italic">that which I have
-                                no kind of knowledge of</hi>." &#8211;Ibid.</p>
+                                no kind of knowledge of</hi>." –Ibid.</p>
                     <anchor xml:id="b014"/>
                     <p>We shall now quote some extracts from Elias Hicks' sermons, recently
                         delivered in the city of Philadelphia, and the neighbouring counties, which
@@ -475,7 +475,7 @@
                         tempted and tried. Here the natural propensities which are fixed in man, no
                         doubt for an excellent purpose, rise up and attempt to gain an ascendency
                         over us. Here we find it in all things in us. The propensity to
-                        thirst&#8211;what does it do? It is a gift of God to the children of men. It
+                        thirst–what does it do? It is a gift of God to the children of men. It
                         leads them to do that which might sustain their natural life. But if not
                         regulated and kept under subjection by the immortal soul, which is placed in
                         us to regulate these animal desires and propensities, it will become
@@ -501,7 +501,7 @@
                         <fw type="pageNum" place="top right">xxvii</fw> which man feels, while in a
                         state of probation. It is the way in which divine wisdom speaks of the
                         church.' I will allure her, and draw her into the wilderness, and speak
-                        comfortably unto her.' I will allure her&#8211;see, I will draw her. Now
+                        comfortably unto her.' I will allure her–see, I will draw her. Now
                         what wilderness was this? It was not an outward wilderness; but the same
                         which Jesus was led up into: and here it was that he was tried. Here the
                         tempter <hi rend="italic">led him up to aspire after the glory of the
@@ -572,7 +572,7 @@
                         will not come, but if I go away I will pray the Father, and he will send you
                         another Comforter? Another, in what respect? A spiritual one disencumbered
                         with any thing corporal; <hi rend="italic">entirely spiritual and nothing
-                            else</hi>. <span rend="bracket-left" hand="#h1" xml:id="b025" from="#b025" to="#b026"/> Why?&#8211;Because the soul of man is purely
+                            else</hi>. <span rend="bracket-left" hand="#h1" xml:id="b025" from="#b025" to="#b026"/> Why?–Because the soul of man is purely
                         spiritual, and nothing can have communion with the Father but that which is
                         spiritual, an immortal soul. <hi rend="italic">Every thing then derived from
                             the letter</hi>, must come through the external senses<anchor xml:id="b026"/>, <hi rend="italic">and can only answer for the outward
@@ -620,13 +620,13 @@
                         fathers, what is it? It is worse than nothing. We had better have no faith
                         at all. It is no better than the faith of devils. Thou believest that there
                         is one God; thou dost well: the devils also, believe and tremble." Who are
-                        the devils?&#8211;Apostate men and women, who go contrary to God. They are
+                        the devils?–Apostate men and women, who go contrary to God. They are
                         all devils. Every thing that is in opposition to the will of God is a devil.
                         In short, <hi rend="italic">they are nothing</hi> but what opposes the law
                         of light and the spirit of truth in the heart; <hi rend="italic">nothing</hi> but what is in opposition to the law of God; and that
                         devil is in us all; <hi rend="italic">as sure as the kingdom of God is in
                             us</hi>, so sure the devil is in us. Were you ever tempted by any devil
-                        but one in your own souls? No: you never were.&#8211;There it is that we
+                        but one in your own souls? No: you never were.–There it is that we
                         come to know God, and no where else. It is the only place where he is
                         manifested."</p>
                     <p>Such are the absurd, inconsistent, and antichristian sentiments of Elias
@@ -643,7 +643,7 @@
                         the pamphlet, is, undeniably, a renewal of the often refuted charge against
                         the Society, of denying the doctrines of the christian religion.</p>
 
-                    <p><hi rend="italic">Note</hi>.&#8211;The limits of this work will not admit of
+                    <p><hi rend="italic">Note</hi>.–The limits of this work will not admit of
                         extending our quotations from the Sermons to great length. We can embrace
                             <hi rend="italic">but few</hi> of the objectionable sentiments with
                         which the <hi rend="italic">whole volume</hi> is replete. Those we have
@@ -663,18 +663,18 @@
                         because the Lord ordained the use of instrumental means, was it any reason,
                         why Cornelius should reject the teaching of Peter, as being subordinate to
                         the Spirit? If when Peter came, Cornelius had said to him, I have the Light
-                        in myself&#8211;this is all-sufficient for my direction and government; I
+                        in myself–this is all-sufficient for my direction and government; I
                         "have no need to go to books or men;" thou may go thy way, I have no need of
                         any human teaching; would this have been honouring and reverencing the
                         Light, or is it probable that Cornelius would have been favoured with its
-                        further illuminations ? Certainly not&#8211;it would have been <hi rend="italic">pretending</hi> honour to the Spirit, while at the same
+                        further illuminations ? Certainly not–it would have been <hi rend="italic">pretending</hi> honour to the Spirit, while at the same
                         time, he was despising those very means which the Spirit of Christ had
                         sanctified for his use.</p>
                     <p>Let those in the present day, who are making use of this specious but
                         dangerous and delusive reasoning, against the use of the Sacred Volume,
                         remember, that in all ages and dispensations of the world, it has pleased
                         Almighty God to teach his people not only immediately but
-                        instrumentally&#8211;immediately by his grace and good spirit, and
+                        instrumentally–immediately by his grace and good spirit, and
                         instrumentally by the Holy Scriptures and his faithful servants. Both of
                         these are blessings, sanctified and given for our use; and although the
                         revelations of the Holy Spirit are above all other teachings, yet they are
@@ -689,7 +689,7 @@
                         his 12th section or paragraph, in which he discusses the Guide's first
                         article of true religion; viz. that there is one God, of an infinite,
                         perfect, and spiritual nature, subsisting in <hi rend="italic">three
-                            glorious persons</hi>. To which distinction of <hi rend="italic">persons</hi> William Penn replies&#8211;</p>
+                            glorious persons</hi>. To which distinction of <hi rend="italic">persons</hi> William Penn replies–</p>
                     <p>"As for his strange distinction of the Deity, which he enforces on the faith
                         of all that value their eternal welfare, I cannot find one Scripture that
                         will bear him out; and if they had been of so much credit with this Guide,
@@ -724,11 +724,11 @@
                         is in us the hope of glory. And so when we direct people to this Word,
                         Light, Law, Grace and Spirit, we do not thereby intend, that Christ Jesus,
                         the Light of the World, and Gift of God, is not the true Saviour, Redeemer,
-                        and Reconciler of mankind unto God." &#8211;Works, page 71 to 77. 1673.</p>
+                        and Reconciler of mankind unto God." –Works, page 71 to 77. 1673.</p>
                     <p>In a piece entitled "A Warning unto the Rulers and People of England,
-                        &amp;c." C. Marshall speaks thus&#8211;</p>
+                        &amp;c." C. Marshall speaks thus–</p>
                     <p>"In the tender love of God, unto whose ears the misrepresentations,
-                        vilifications or aspersions underwritten, have or may come&#8211; Give ear, and
+                        vilifications or aspersions underwritten, have or may come– Give ear, and
                         hear, all you rulers and inhabitants of these northern islands: God
                         Almighty, even the God of Abraham, Isaac and Jacob, in this later age of the
                         world is risen and arising, and causing his ancient horn of salvation to be
@@ -753,7 +753,7 @@
                         work, as the old heathens did on the Christians; namely, by putting lions'
                         skins and bearskins on them, that thereby they might cause the dogs to take
                         hold on them: so hath there been an</p>
-                    <note type="authorial" resp="#h1" place="right">Probably torn by a child&#8211;</note>
+                    <note type="authorial" resp="#h1" place="right">Probably torn by a child–</note>
                 </div2>
             </div1>
         </body>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen
-RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch" ?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00038">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml" ?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00038">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +25,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00038</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -51,7 +47,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <p>Permission to reproduce the graphic images in this archive has been granted 
                         by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00038</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
@@ -61,7 +57,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <title>Excerpt from Graham's Illustrated Magazine of Literature, Romance, Art, and Fashion</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1852-01-01" notAfter="1892-03-26">1852 or later</date>
-                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
                     <note type="project">Transcribed from digital images of the original item. Floyd Stovall in <hi rend="italic">The Foreground of Leaves of Grass</hi> points out that this is a revised reprint of an article by the same title published by the <hi rend="italic">American Whig Review</hi> in November 1851 and signed "W. D."</note>
                 </bibl>
                 
@@ -72,7 +68,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <date when="1852-01">January 1852</date>
                     <publisher>G.R. Graham</publisher>
                     <pubPlace>Philadelphia</pubPlace>
-                    <biblScope type="pp">39&#8211;44</biblScope>
+                    <biblScope type="pp">39–44</biblScope>
                 </bibl>
                 
                 <bibl type="pasteon" xml:id="r2">
@@ -111,7 +107,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <floatingText rend="flat">
                         <body>
                             <pb xml:id="leaf002r" facs="duk.00038.001a.jpg" type="recto"/>
-                        <p><hi rend="smallcaps">ENQUIRER</hi>, De Soto.&#8212;<hi rend="italic">"What is meant by the Seven Wonders
+                        <p><hi rend="smallcaps">ENQUIRER</hi>, De Soto.—<hi rend="italic">"What is meant by the Seven Wonders
                             of the World?".... The pyramids of Egypt, the walls
                             and hanging gardens of Babylon, the temple of Diana at
                             Ephesus, the statue of the Olympian Jupiter, the Mausoleum,
@@ -153,16 +149,16 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 </epigraph>
        
             <p><hi rend="smallcaps">PEOPLE</hi> seem to have an idea that facts are every
-            thing in the business of the world&#8212;the only 
+            thing in the business of the world—the only 
             considerations in the philosophy of human progress.
             Opposed to what is merely imaginary, facts are
             allowed to have much dignity. Your practical
             reasoners look for facts; facts "are the jockies for 
-            them"&#8212;such as they can see, hear, handle, or 
+            them"—such as they can see, hear, handle, or 
             demonstrate; while the imaginations are mostly held
             synonymous with the worthless, the unsubstantial
             and the ridiculous. They seem to say in the spirit
-            of one of Congreve's characters&#8212;we forget which&#8212;
+            of one of Congreve's characters—we forget which—
             "fiddle-faddle, don't tell me of this and that and
             every thing in the world; but give me mathematical demonstration; but we
             think "under leave of Brutus and the rest," that
@@ -173,15 +169,15 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             think. Without troubling our heads, in this gossiping 
             paper, with the subtleties of Berkley and others,
             who knock all creation into the compass of a man's 
-            perceptions&#8212;establish the column of the unsubstantial
-            universe on the pentagonal base of the senses&#8212;
+            perceptions—establish the column of the unsubstantial
+            universe on the pentagonal base of the senses—
             we have an idea that a vast amount of the fictitious 
             and imaginary is blended with our regular business
             of being, doing, and suffering. Human nature has, in
             all times, contrived a little gilding, to make the bitter 
-            pill of life go down. Tasso truly says&#8212;in his Invocation
-            to the Virgin Mary for a muse&#8212;at the opening
-            of his "Gerusalemme Liberata"&#8212;</p>
+            pill of life go down. Tasso truly says—in his Invocation
+            to the Virgin Mary for a muse—at the opening
+            of his "Gerusalemme Liberata"—</p>
             
             <q who="Tasso" type="extract">
                 <floatingText>
@@ -194,7 +190,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                             <l>For the most subtle and reluctant thought.</l>
                             <l>Thus, for the sickly child, by friendly wile,</l>
                             <l>The cup's deceptive edge, with sweetness fraught,</l>
-                            <l>Lures to the bitter potion&#8212;he the while</l>
+                            <l>Lures to the bitter potion—he the while</l>
                             <l>Drinks life and health from the judicious guile.</l>
                         </lg>
                     </body>
@@ -213,21 +209,21 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             
             <p>If we take away from the amount of what the
             world possesses that which belongs and is due to the
-            imagination merely&#8212;what is not authentic, and
-            could not be sworn to in a court of justice&#8212;what
-            will be left? Let us take it away&#8212;and what then?
+            imagination merely—what is not authentic, and
+            could not be sworn to in a court of justice—what
+            will be left? Let us take it away—and what then?
             There is a sudden solitude in the world. The beautiful 
             is vanished, and the hard, blank remnant of 
             things is full of gaps, and desert places, disastrous
             flaws and a strange silence. There is nothing now,
             but facts in this macrocosm. But, believe us, 't is a
-            very rude, cold place to live in&#8212;much worse than
-            ever it was before; and that&#8212;in the opinion of the
-            pale pessimist over the way there&#8212;was bad enough
+            very rude, cold place to live in—much worse than
+            ever it was before; and that—in the opinion of the
+            pale pessimist over the way there—was bad enough
             in all conscience. They who first found out this
             world, and roamed about on it, had scarcely called it
             very good when they began to make it better, by
-            peopling its too extensive solitudes&#8212;creating phantasms
+            peopling its too extensive solitudes—creating phantasms
             and imaginations for it, where there were
             none before. The unclothed reality of things was
             too bare and blank, beautiful as it was, for the first
@@ -250,7 +246,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 </floatingText>
             </q>
                    
-            His sister was the goddess of the earth's satellite&#8212;
+            His sister was the goddess of the earth's satellite—
             
             <q type="extract">
                 <floatingText>
@@ -265,24 +261,24 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             </q>
             </p>
                 
-            <p>They heard gods in winds and in fire&#8212;and altars
+            <p>They heard gods in winds and in fire—and altars
                 <span rend="wavyLine-right" hand="#h3" xml:id="s1" from="#s1" to="#s2"/>to these were among the earliest raised. They saw
             a terrible divinity in the vastness or angry billows of
             the sea, and imagined a crowd of lesser beings to
             haunt its caverns and depths. The forests were
-            sacred to the universal Pan&#8212;his fauns, sylvans and
+            sacred to the universal Pan—his fauns, sylvans and
             satyrs; every oak had its hamadryad, every river
             its naiad or potamid; the oreads took charge of the
-            flowery meadows, and the nap&#230;&#230; wandered forever
+            flowery meadows, and the napææ wandered forever
             in the shady valleys. Impatient of mere
             reality, men filled the universe with phantasies and
-            theories&#8212;
+            theories—
             
             <q type="extract">
                 <floatingText>
                     <body>
                         <lg>
-                            <l>"The intelligible forms of ancient poets&#8212;</l>
+                            <l>"The intelligible forms of ancient poets—</l>
                             <l>The fair humanities of old religion,</l>
                         </lg>
                     </body>
@@ -314,9 +310,9 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <p>Suppose we demolish all these graceful fallacies, 
             and the poetry, also, in which they are embalmed. 
             What a throng of splendid deeds, of heroic and beautiful 
-            figures&#8212;demigods, warriors, kings&#8212;bright 
+            figures—demigods, warriors, kings—bright 
             women and brave men, moving in gorgeous panorama 
-            over the vast back-ground of antiquity&#8212;is 
+            over the vast back-ground of antiquity—is 
             extinguished in the darkness! The creations of the 
             ancient poets and imaginative writers have filled up a 
             space in the earlier ages of the world, which without 
@@ -325,7 +321,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             disinheritance it would be to take away the Iliad and 
             Odyssey! to obliterate Hector, the kind-hearted and 
             manly hero; and Priam with his mighty sorrows a 
-            suppliant for his dead son; and the warring Achilles&#8212;
+            suppliant for his dead son; and the warring Achilles—
 
                 <q type="extract">
                 <floatingText>
@@ -371,7 +367,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             persuade him what he is; and Hamlet, so 
             sententious in his antic disposition; the fair Ophelia, and 
             the prosy old courtier, Polonius; and the immortal 
-            bed-presser, and huge hill of flesh&#8212;the greatest liar 
+            bed-presser, and huge hill of flesh—the greatest liar 
             and the greatest favorite in the world; and Macbeth, 
             with his terrible hags on the heath, and his more 
             terrible wife; and Richard, wooing Lady Anne, or 
@@ -391,29 +387,29 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             and Portia, the beautiful, wise young judge; and the<cb/>
             impassioned Juliet, with the southern lightnings in 
             her veins; and Miranda, the enchantress, of an 
-            enchanted island&#8212;and all that magnificent array of 
+            enchanted island—and all that magnificent array of 
             womanhood which reflects for ever the unequaled genius of 
             <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice>.</p>
             
-            <p>We have also the creations of Scott&#8212;coming 
+            <p>We have also the creations of Scott—coming 
             nearest of any to those of the great dramatic poet, 
             and enjoying even a more general popularity. 
             Successive generations prize them as an imperishable 
             legacy, and the memory has a pleasure in conjuring 
-            them up&#8212;so vivid and picturesque in their colors 
-            and outlines: The hall of Cedric, the Saxon&#8212;the 
+            them up—so vivid and picturesque in their colors 
+            and outlines: The hall of Cedric, the Saxon—the 
             swineherd, the templar, the gorgeous tournament at 
             Ashby de la Zouche, Friar Tuck, the storming of 
             Torquilstone, the Black Knight, fighting as if ten 
             men's strength were in his single arm; and the beautiful 
-            Jewess&#8212;what splendid series of images&#8212;
+            Jewess—what splendid series of images—
             bringing back so vividly the old pomp and circumstance 
             of the feudal times! We shall never forget 
             the feelings with which we first read Ivanhoe, and 
             there found all our vague feelings of romance and 
             dreams of knightly doings put into such spirit-stirring 
             expression. Then how true is the picturesque 
-            bravery of Fergus McIvor&#8212;
+            bravery of Fergus McIvor—
             
             
             <q type="extract">
@@ -464,8 +460,8 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             her Majesty or the Duchess of Suffolk are in danger 
             of a random hit from the lips of the unconscious 
             advocate; Monkbarn's discovers the remains of a 
-            Roman <hi rend="italic">pr&#320;torium</hi>, and Edie Ochiltree comes up 
-            and says: "Pr&#230;torium here, pr&#230;torium there; I 
+            Roman <hi rend="italic">prŀtorium</hi>, and Edie Ochiltree comes up 
+            and says: "Prætorium here, prætorium there; I 
             mind the bigging o't!" The Knight of the Leopard 
             and the disguised Soldan fight their chivalrous duel 
             in the desert, and then feast together at the spring, 
@@ -480,12 +476,12 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <fw type="pageNum" place="top right">41</fw>
          
             
-            Sampson exclaims "prodigious!"&#8212;Dirk 
+            Sampson exclaims "prodigious!"—Dirk 
             Hatterick strangles Glossin and shoots Charlotte 
-            Cushman&#8212;Meg Merrilies we should say, but it is all one
-            &#8212;who recognizes young Bertram and dies hard.
+            Cushman—Meg Merrilies we should say, but it is all one
+            —who recognizes young Bertram and dies hard.
             Hal o' the Wynd "fights for his own band" on the
-            Inch of Perth, in the mel&#233;e of the clans Chattan and
+            Inch of Perth, in the melée of the clans Chattan and
             Quhule. Tristram l' Hermit, hangs the trees around
             Plessis les Tours with Zingaris, like acorns. Louis
             and Charles the Bold ride together into Liege by a 
@@ -493,9 +489,9 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             Lamarek secures to the Scottish soldier the hand of
             Isable Croye. The Highland Widow mourns over
             her condemned son with all the tragic truth of 
-            &#198;schylus or nature; the Last Minstrel sings a wild
-            epic of goblin gramarye&#8212;the Leaguer of Branksome
-            &#8212;knights and ladies&#8212;the lists and the festival.
+            Æschylus or nature; the Last Minstrel sings a wild
+            epic of goblin gramarye—the Leaguer of Branksome
+            —knights and ladies—the lists and the festival.
             Roderick and the Knight of Snowdon fight by the 
             ford of Coilantogle; Constance perishes awfully in
             her convent cell, and Marmion dies like a courageous
@@ -505,7 +501,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <floatingText>
                         <body>
                             <lg type="linegroup">
-                                <l>"Charge, Chester, charge; on Stanley, on&#8212;</l>
+                                <l>"Charge, Chester, charge; on Stanley, on—</l>
                                 <l>Where the last words of Marmion!"</l>
                             </lg>
                         </body>
@@ -520,7 +516,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             Primrose and his delightful family, Parson Adams, 
             Sir Roger de Coverley, Evangeline, Ichabod Crane,
             and a thousand others, which every body's memory
-            will distinguish for itself&#8212;just as every eye shapes 
+            will distinguish for itself—just as every eye shapes 
             its proper rainbow. They have all the distinctness
             of reality, and it is by an effort that we draw the
             line between them and <hi rend="italic">bona fide</hi> characters.</p>
@@ -529,7 +525,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             fictions of poets, dramatists and romancers. The
             histories of the venerable Bede, Geoffrey of Monmouth,
             etc. are half imaginative. There are outlines 
-            of truth in them&#8212;
+            of truth in them—
             
             <q type="extract">
                 <floatingText>
@@ -551,26 +547,26 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             down almost every thing he hears from the lying 
             priests of Egypt, or that he can gather from vague
             tradition; and people don't exactly know whether 
-            to call the Cyrop&#230;dia of Xenophon a romance or an
+            to call the Cyropædia of Xenophon a romance or an
             authentic narration. Plutarch romances at times
             like the Scuderis. An old English author, Taylor,
             says, of his fallacies and blunders in the lives of the
-            orators&#8212;<hi rend="italic">mendaxille Plutarchus qui vitas oratorum
+            orators—<hi rend="italic">mendaxille Plutarchus qui vitas oratorum
             dolis et erroribus consutas, olim conscribillavit</hi>.
             Neibuhr has got into our old history of Rome and
             laid about him like an iconoclast. He destroys a
             crowd of our beliefs, and makes a solitude in the first 
-            ages of Rome&#8212;so wonderful and picturesque in our 
+            ages of Rome—so wonderful and picturesque in our 
             school-boy days. He makes a solitude and calls it 
             truth. He demolishes Mars, Rhea Sylvia, Romulus
-            and Remus and the Wolf&#8212;Numitor, Evander, and so
+            and Remus and the Wolf—Numitor, Evander, and so
             forth. Under the flourishing of his pen they make
             <cb/>
             themselves into thin air in which they vanish. Then
             the Tarquins, their insolence and expulsion; Lars
             Porsenna of Clusium, the siege of Rome, Cocles on
-            the Bridge and Sc&#230;vola at the flaming Altar&#8212;all are
-            inventions of Fabius Pictor, Ennius, N&#230;vius, and
+            the Bridge and Scævola at the flaming Altar—all are
+            inventions of Fabius Pictor, Ennius, Nævius, and
             others. This portion of the history of Rome, says
             the German, should be called the Lay of the Tarquins,
             and is just as authentic as the Lay of the Nibelungen!
@@ -586,7 +582,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             creations of fanciful minds; and there does not seem
             to be any very marked difference between Agamemnon
             or Ajax, and Cecrops or Codrus; between
-            &#198;neas or Dido, and Numa or Clelia&#8212;they are all
+            Æneas or Dido, and Numa or Clelia—they are all
             equally distinct or indistinct. Scott's King Richard,
             singing a roundelay and exchanging a buffet with the 
             Clerk of Copmanhurst, is as firm on the canvas as
@@ -606,7 +602,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             tempted, it is said, to throw his History of the 
             World into the fire, in despair of ever being able to
             gather any thing like truth from conflicting authorities.
-            And, certainly, the differences of historians&#8212;
+            And, certainly, the differences of historians—
             their doubts concerning motives, and their disagreements
             concerning facts, tend to give us very unsettled 
             ideas of history in general. Writers have 
@@ -635,7 +631,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 to take up arms and go to war with the king and the
                 nobles for liberty! Their sufferings and and provocations<anchor xml:id="s8"/>
                 were undeniable, and their spirit was certainly heroic
-                &#8212;kindred to that which glowed in the bosoms of
+                —kindred to that which glowed in the bosoms of
                 
             <pb xml:id="leaf004v" facs="duk.00038.003.jpg" type="verso"/>
                 
@@ -650,11 +646,11 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <hi rend="italic">ludibria</hi>, upon the field of history. Poor Tyler and
             Cade were animated by the same kind of blood
             which boiled in the face of a tyrant at Naseby,
-                <span rend="singleLine-left" hand="#h3" xml:id="s9" from="#s9" to="#s10"/>Marston Moor, Dunbar, and elsewhere&#8212;which
+                <span rend="singleLine-left" hand="#h3" xml:id="s9" from="#s9" to="#s10"/>Marston Moor, Dunbar, and elsewhere—which
             warmed the hearts of the exiles on the cold rock
             of Plymouth, and flowed so freely at Lexington and
             Bunker Hill. We should honor these English rebels
-            &#8212;in spite of history, and in spite of <choice>
+            —in spite of history, and in spite of <choice>
                 <orig>Shakspeare.</orig>
                 <reg>Shakespeare.</reg>
             </choice> It
@@ -663,7 +659,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             mass of the lower classes. <hi rend="underline" hand="#h3">But <choice>
                 <orig>Shakspeare</orig>
                 <reg>Shakespeare</reg>
-            </choice> was a man of his era&#8212;to which, with an astonishing and
+            </choice> was a man of his era—to which, with an astonishing and
             happy wizardry, he obliged chronology and human
             nature to conform; he dreamed as little of the later
             evangils of democracy as he did of the Daguerreotype
@@ -675,8 +671,8 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <p>No man can be sure of the lesser details of the
             annals, though he may put faith in some of their
             great facts. We are not indisposed to allow that
-            there was a man named Julius C&#230;sar; though
-            whether he ever said, <hi rend="italic">Quid times? vehis C&#230;zarem</hi>,
+            there was a man named Julius Cæsar; though
+            whether he ever said, <hi rend="italic">Quid times? vehis Cæzarem</hi>,
                 in the boat, or <hi rend="italic">Et tu Brute!</hi><anchor xml:id="s10"/> when the republicans
             set upon him in the senate-house, is not quite so
             credible. Most of these picturesque properties of
@@ -713,26 +709,26 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             Bonaparte, on the field of Marengo, ("Tell the First
             Consul I die regretting I can no farther serve him
             and France,") <hi rend="underline" hand="#h3" xml:id="s17">was fabricated in the bulletin by the</hi><anchor xml:id="s16"/>
-                <note type="authorial" resp="#h3" place="bottom left" target="#s17">&#9757;</note>
+                <note type="authorial" resp="#h3" place="bottom left" target="#s17">☝</note>
                 <cb/>
                 <span rend="singleLine-left" hand="#h3" xml:id="s18" from="#s18" to="#s19"/><span rend="singleLine-right" hand="#h3" xml:id="s20" from="#s20" to="#s21"/>
                 aforesaid consul himself. The story of the Duke of
                 Wellington lying in the hollow square of the Guards 
                 at Waterloo, and, on the advance of the French,
                 crying, "Up, Guards, and at them!" is as untenable
-                as our own famous saying&#8212;"A little more grape,
+                as our own famous saying—"A little more grape,
                 Captain Bragg!" or the military speeches of the
                 great generals of antiquity, as recorded by Tacitus,
-                Sallust, C&#230;sar, and the rest of the writers.<anchor xml:id="s19"/> Then,
+                Sallust, Cæsar, and the rest of the writers.<anchor xml:id="s19"/> Then,
             as regards great facts, different nations give different
             accounts. Ask who gained Waterloo? "We did,"<anchor xml:id="s21"/>
             say the Prussians. "We gave vast assistance," say
             the Belgians. Ask John Bull, or rather, don't; his
                 answer would be rather brief than polite. <hi rend="underline" hand="#h3" xml:id="s22">We should
                 like to see a history of the campaigns in Greece of
-                Darius, Xerxes, and Mardonius, written by Persians.</hi><note type="authorial" place="top right" resp="#h3" target="#s22"><hi rend="circled">Yes&#8212;an ancient history <hi rend="underline">not</hi><lb/>
+                Darius, Xerxes, and Mardonius, written by Persians.</hi><note type="authorial" place="top right" resp="#h3" target="#s22"><hi rend="circled">Yes—an ancient history <hi rend="underline">not</hi><lb/>
                     written by a Greek or Roman<lb/>
-                    &#8212;what a face that would<lb/>
+                    —what a face that would<lb/>
                     put upon old times</hi></note>
                 
                 All history is more or less deserving of Sir Robert
@@ -757,12 +753,12 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 we contemplate nature it enhances what we behold.
                 <hi rend="underline" hand="#h3" xml:id="s27">The mountains, rivers, forests, and the elements that
                 gird them round about, would be only blank conditions of matter, if the mind did not fling its own
-                divinity around them.</hi><note type="authorial" resp="#h3" place="right" target="#s27">&#9756;</note>
+                divinity around them.</hi><note type="authorial" resp="#h3" place="right" target="#s27">☜</note>
                 <note type="authorial" resp="#h3" place="bottom right" target="#s27"><hi rend="circled">This I think is one of<lb/> 
                     the most indicative <lb/>
                     sentences I ever read.</hi></note> 
                 Nature was thus endowed 
-                from the beginning&#8212;when men heard voices in the
+                from the beginning—when men heard voices in the
                 winds, and the supernatural inhabitants of terra
                 firma,<anchor xml:id="s26"/>
                 
@@ -808,7 +804,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             imposes upon facts. <hi rend="underline" hand="#h3">In contemplating cities, works of
             art, ruins, or scenes of nature, we almost always 
             appreciate them for the associations that belong to
-            them&#8212;the imaginations they excite</hi>. Look at a gray
+            them—the imaginations they excite</hi>. Look at a gray
              
             <pb xml:id="leaf005r" facs="duk.00038.004.jpg" type="recto"/>
                 
@@ -821,14 +817,14 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             sea, and you see little to admire. But let somebody
             say, "that is Marathon!" while the blood thrills at
             the name, a flood of glory flashes over the immortal
-            ground; the air is thick with phantoms&#8212;
+            ground; the air is thick with phantoms—
             
             <q type="extract">
                 <floatingText>
                     <body>
                         <lg type="linegroup">
                             <l>To the hearer's eye appear,</l>
-                            <l>The camp, the host, the fight, the conqueror's career&#8212;</l>
+                            <l>The camp, the host, the fight, the conqueror's career—</l>
                             <l>The flying Mede, his shaftless, broken bow;</l>
                             <l>The fiery Greek, his red pursuing spear;</l>
                             <l>Mountains above, earth's, ocean's plain below;</l>
@@ -852,7 +848,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 Campbell says very well, that distance lends 
                 enchantment to the view, and it is generally true of 
                 the human mind that it regards the past with a
-                feeling of tenderness&#8212;a disposition to make the best
+                feeling of tenderness—a disposition to make the best
                 of it. There is a certain charm in Time, whom we
                 regard as the dominator of us all; and the ruins or
                 remnants of any thing speak an impressive warning
@@ -861,7 +857,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                 philosophy of most of us. <hi rend="underline" hand="#h3">We have a thousand proofs
                 that they were rude, bad, ignorant times.</hi> But the
                 poetry of our nature will not be reasoned with, and
-                we believe with the bard&#8212;
+                we believe with the bard—
                 
                 <q type="extract">
                     <floatingText>
@@ -876,7 +872,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             </p><anchor xml:id="s31"/>
             
             <p>Any thing old or historic is appreciated in proportion
-                to the scope it gives to the imagination&#8212;to
+                to the scope it gives to the imagination—to
             point a moral or adorn a tale. We gaze on the
             wild hill, vale, stream or forest of a new country,
             with none of those feelings which fill us in beholding
@@ -896,7 +892,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <cb/>
             
             of whom Wordsworth speaks, so the latter is a
-            stream, a forest, a hill&#8212;nothing more. The nameless
+            stream, a forest, a hill—nothing more. The nameless
             savages had the palce from the beginning, and
             the solitude. The other is a tradition, a romance,
             a memory. <hi rend="underline" hand="#h3">In the valley is the legendary well, and
@@ -912,7 +908,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <floatingText>
                         <body>
                             <lg type="linegroup">
-                                <l>Lived in the old&#233; days of King <choice><orig>Artour</orig><reg>Arthur</reg></choice>.</l>
+                                <l>Lived in the oldé days of King <choice><orig>Artour</orig><reg>Arthur</reg></choice>.</l>
                             </lg>
                         </body>
                     </floatingText>
@@ -944,7 +940,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
                     <reg>Shakespeare</reg>
                 </choice> is inclined to think there is nothing
             that is but thinking makes it so. The practical
-            men, therefore,&#8212;the directors of railways, the
+            men, therefore,—the directors of railways, the
             managers of stock, and the owners of electric telegraphs
             cannot be considered to have matters all to
             themselves. The poet and the romanticist control as 
@@ -966,7 +962,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             
             <gap reason="cut away" extent="rest of the page"/>
             
-            <pb xml:id="leaf005v" facs="duk_ap_00162.jpg" type="verso" />
+            <pb xml:id="leaf005v" facs="duk_ap_00162.jpg" type="verso"/>
             
             <fw type="pageNum" place="top left">44</fw>
             <fw type="header" place="top">GRAHAM'S MAGAZINE.</fw>
@@ -1000,16 +996,16 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             
                 <lg type="linegroup">
                     <l>Hark! from the empty bosom of the grove</l>
-                <l>I hear a sob, as one forlorn might pine&#8212;</l>
+                <l>I hear a sob, as one forlorn might pine—</l>
                 <l>The white-limbed beauty of a god is thine,</l>
                 <l>King of the seasons, and the night that hoods</l>
-                <l>Thy brow majestic, brightest stars enweave&#8212;</l>
+                <l>Thy brow majestic, brightest stars enweave—</l>
                 <l>Thou surely canst not grieve.</l>
                 </lg>
             
             <lg type="linegroup">
                 <l>But only far away</l>
-            <l>Mak'st stormy prophecies&#8212;well lift them higher,</l>
+            <l>Mak'st stormy prophecies—well lift them higher,</l>
             <l>Till morning on the forehead of the day</l>
             <l>Presses a seal of fire.</l>
             <l>Dearer to me the scene</l>
@@ -1019,7 +1015,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             </lg>
             
             <lg type="linegroup">
-                <l>The moon is up&#8212;how still the yellow beams</l>
+                <l>The moon is up—how still the yellow beams</l>
             <l>That slantwise lie upon the stirless air,</l>
             <l>Sprinkled with frost, like pearl-entangled hair,</l>
             <l>O'er beauty's cheek that streams.</l>
@@ -1032,7 +1028,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <cb/>
             <lg type="linegroup">
                 <l>Come, Poesy, and with thy shadowy hands</l>
-            <l>Cover me softly, singing all the night&#8212;</l>
+            <l>Cover me softly, singing all the night—</l>
             <l>In thy dear presence find I best delight;</l>
             <l>Even the saint that stands</l>
             <l>Tending the gate of heaven, involved in beams</l>
@@ -1076,7 +1072,7 @@ RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml" ?>
             <l>I with the gray-haired sire</l>
             <l>May talk of vanished summer-times and springs,</l>
             <l>And harmlessly and cheerfully beguile</l>
-            <l>The long, long hours&#8212;</l>
+            <l>The long, long hours—</l>
             <l>The happier for the snows that drift the while</l>
             <l>About the flowers.</l>
             </lg>

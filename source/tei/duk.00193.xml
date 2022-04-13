@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00193">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00193">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00193</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,7 +35,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>                 
+            <idno>duk.00193</idno></publicationStmt>                 
             <notesStmt>                 
                 <note type="project" target="#dat1">Grier estimates that this was written in the late 1850s (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 6:2034). "The New Jerusalem" was first published in Volume 13.6 of <hi rend="italic">Household Words</hi> (1856): 136-141, edited by Charles Dickens; the excerpt here is an unidentified reprinting. George Hogarth was the father of Dickens’ wife, Catherine Thomson Dickens (née Hogarth); see Kathryn Brigger Kruger, “Walt Whitman’s ‘Who Was Swedenborg?’” <hi rend="italic">Walt Whitman Quarterly Review</hi> 31 (Fall 2013/Winter 2014), 55-68. "Shakspeare versus Sand," anonymously authored, appeared in <hi rend="italic">The American Whig Review</hi> 5.5 (May 1847): 470-481.</note>             
             </notesStmt>
@@ -114,38 +114,38 @@
             <pb xml:id="leaf001r" facs="duk.00193.001.jpg" type="recto"/><!--Grier has some extra part at the top of this page that he says is from Burke's N&F.-->
             <div1 type="notes"><ab><handShift new="#h1"/>He is <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">a</add></subst> precursor, <add rend="insertion" place="supralinear">in some sort</add> of <del rend="overstrike">the</del> great <note type="editorial" place="right" resp="#h4" rend="circled">1</note>
                 differences between past thousands <note type="editorial" resp="#h4" place="right" rend="circled">4</note>
-                of years, and future thousands&#8212;
-                He <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">was</add></subst> little thought of at the time.&#8212;
+                of years, and future thousands—
+                He <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">was</add></subst> little thought of at the time.—
                 <subst><del rend="overstrike" seq="1">What he</del> <add rend="insertion" place="supralinear" seq="2"><hi rend="underline">Only</hi></add> <add rend="lasso" place="supralinear" seq="3">Perhaps only <del rend="overstrike">what he</del></add> <del rend="overstrike">has</del> <del rend="overstrike">gained by</del> <add rend="insertion" place="supralinear">the celebrity of</add></subst> his<!-- Grier agrees with end result of this subst, but he doesn't hazard a guess as to the order either. -->
                 knowledge of minerals, mathe<subst><del rend="overwrite" seq="1">t</del><add rend="overwite" place="over" seq="2">m</add></subst>atics,
                 chemistry and the classics <subst><del rend="overstrike" seq="1">saves</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">stood</add></del> <add rend="unmarked" place="supralinear" seq="4">saved</add></subst> him
-                from being counted a fool; <subst><del rend="overstrike" seq="1">and</del><add rend="unmarked" place="supralinear" seq="2">&#8212;it is wonderful</add></subst>
+                from being counted a fool; <subst><del rend="overstrike" seq="1">and</del><add rend="unmarked" place="supralinear" seq="2">—it is wonderful</add></subst>
                 the king and officers <subst><del rend="overstrike" seq="1">do</del> <add rend="unmarked" place="supralinear" seq="2">did</add></subst> not desert
                 him and leave him to the <add rend="insertion" place="supralinear">usual</add> fate
-                of innovators&#8212;<subst><del rend="overstrike" seq="1">though it is wonderful</del> <add rend="unmarked" place="supralinear" seq="2">but</add></subst>
+                of innovators—<subst><del rend="overstrike" seq="1">though it is wonderful</del> <add rend="unmarked" place="supralinear" seq="2">but</add></subst>
                 they <subst><del rend="overwrite" seq="1">do</del><add rend="overwrite" place="over" seq="2">did</add></subst> not</ab>
             <milestone unit="unknown" rend="horbar-full"/>
-            <ab><add rend="insertion" place="supralinear">Neither</add> Voltaire <del rend="overstrike">a</del> or <choice><orig>Roussea</orig><reg>Rousseau</reg></choice> notice him&#8212;
+            <ab><add rend="insertion" place="supralinear">Neither</add> Voltaire <del rend="overstrike">a</del> or <choice><orig>Roussea</orig><reg>Rousseau</reg></choice> notice him—
                 probably <add rend="unmarked" place="supralinear">they</add> do <add rend="unmarked" place="supralinear">did</add> not know of him;</ab>
             <ab>The English philosophs and literats the
             same; the German the same</ab>
             <milestone unit="unknown" rend="horbar-full"/>
-            <list><item><choice><orig>Swedenborgh</orig><reg>Swedenborg</reg></choice> 1688&#8212;1722
-            <note type="authorial" resp="#h1">&#8212;(aged 85)</note>
-            <note type="authorial" resp="#h1">contemporary of the French <choice><orig>Encyclopoedists</orig><reg>Encyclopedists</reg></choice>&#8212;</note>
+            <list><item><choice><orig>Swedenborgh</orig><reg>Swedenborg</reg></choice> 1688—1722
+            <note type="authorial" resp="#h1">—(aged 85)</note>
+            <note type="authorial" resp="#h1">contemporary of the French <choice><orig>Encyclopoedists</orig><reg>Encyclopedists</reg></choice>—</note>
             </item>
             <cb/><item>Goethe (born 1750)</item>
-                <item>Addison&#8212;1672&#8211;1719</item>
-                <item>S. Johnson 1709&#8211;1784</item><cb/>
-                <item>Pope&#8212;1688&#8211;1744</item>
-                <item>Hume&#8212;1711&#8211;1776</item>
-                <item>Gibbon&#8212;1737</item>
-                <item>Wm Pitt 1708&#8211;1778</item><cb/>
-                <item>&#8212;Franklin</item>
+                <item>Addison—1672–1719</item>
+                <item>S. Johnson 1709–1784</item><cb/>
+                <item>Pope—1688–1744</item>
+                <item>Hume—1711–1776</item>
+                <item>Gibbon—1737</item>
+                <item>Wm Pitt 1708–1778</item><cb/>
+                <item>—Franklin</item>
                 <item>Jefferson</item>
                 <item>Washington</item></list></div1>
             <pb xml:id="leaf002r" facs="duk.00193.002.jpg" type="recto"/>
-            <div1 type="pasteon"><note type="authorial" resp="#h2" place="left">Swedenborg&#8212;</note>
+            <div1 type="pasteon"><note type="authorial" resp="#h2" place="left">Swedenborg—</note>
             <note type="authorial" resp="#h2" place="left">born
                     1688
                     died
@@ -161,7 +161,7 @@
                         <body>
                             <pb xml:id="leaf003r" facs="duk.00193.002a.jpg" type="recto" rend="col-6"/>
                 <head type="main-authorial">The New Jerusalem.</head>
-                <cb/><p xml:id="p1a" next="#p1b"><choice><orig>Emanual</orig><reg>Emanuel</reg></choice> Swedenborg was no vulgar fanatic.&#8212;
+                <cb/><p xml:id="p1a" next="#p1b"><choice><orig>Emanual</orig><reg>Emanuel</reg></choice> Swedenborg was no vulgar fanatic.—
                 He was distinguished by his social position, his
                 eminence in science and literature, his active pursuits
                 as a man of the world, and his high personal
@@ -185,17 +185,17 @@
                     proclaim his celestial mission, which, according
                     to his own account, he had received some years
                     before. In the preface to one of his mystical
-                    treatises (De C&#339;lo et Inferno) he says:&#8212;
+                    treatises (De Cœlo et Inferno) he says:—
                     "I was dining very late one day at my lodgings
                     in London (this was in seventeen hundred
-                    and forty-three)&#8212;and was eating heartily.&#8212;
+                    and forty-three)—and was eating heartily.—
                     When I was finishing my meal I saw a sort of
                     mist around me, and the floor covered with hideous
                     reptiles. They disappeared: the mist cleared
                     up; and I saw plainly, in the midst of a vivid
                     light, a man sitting in the corner of the room,
                     who said with a terrible voice, Don't eat so
-                    much. Darkness again gathered around me&#8212;it
+                    much. Darkness again gathered around me—it
                     was dissipated by degrees, and I found myself
                     alone. The following night the same man, radiant
                     with light, appeared to me and said: I
@@ -232,7 +232,7 @@
                     them, excited curiosity, heightened by the eminence
                     of his name. They began to act upon the
                     imagination and command the belief of many
-                    educated people&#8212;for his books were written in
+                    educated people—for his books were written in
                     Latin; till the Swedish clergy took the alarm
                     and obtained from the government a commission
                     to inquire into his heresies. Nothing, however,
@@ -302,8 +302,8 @@
                     though none of them, we believe, now
                     hold communion with any Christian sect. They
                     are united under the denomination of the New
-                    Jerusalem Church&#8212;a body, which, in Great
-                    Britain alone has several thousand members.&#8212;
+                    Jerusalem Church—a body, which, in Great
+                    Britain alone has several thousand members.—
                     They have places of worship in London and
                     most of the principal towns. Their church has
                     a regular constitution, holds annual conferences
@@ -321,14 +321,14 @@
                     <choice><sic>learing</sic><corr>learning</corr></choice> and literary ability.</p>
                 <p>It is observable that wherever he wanders,
                     though it be into the remotest regions of the
-                    universe&#8212;with whomsoever he holds converse,
+                    universe—with whomsoever he holds converse,
                     though it be with the Supreme Being himself,
                     with his angels, or with the illustrious dead <gap reason="cut-away" extent="1" unit="word"/>
-                    every age and every nation&#8212;all is very commonplace,
+                    every age and every nation—all is very commonplace,
                     and nothing is removed an iota above the
                     level of our ordinary earthly existence.</p>
-                <p xml:id="p2a" next="#p2b">One of his books&#8212;a goodly volume published
-                    by the society aforesaid&#8212;is entitled. "On the
+                <p xml:id="p2a" next="#p2b">One of his books—a goodly volume published
+                    by the society aforesaid—is entitled. "On the
                     Earths in our Solar System which are called
                     Planets, and on the Earths in the Starry <choice><orig>Heavns</orig><reg>Heavens</reg></choice>;
                     with an account of their Inhabitants,</p></body></floatingText></q></add>
@@ -426,7 +426,7 @@
                     with poetry, philosophy, and chastity.
                     A man of sense, accustomed to our
                     grand old poets, and our better novels,
-                    needs to read but one of them&#8212;<hi rend="italic">cannot</hi>
+                    needs to read but one of them—<hi rend="italic">cannot</hi>
                     read more. For with his mind stored
                     with images of real natural beauty, how
                     shall he find room for the false and half-
@@ -504,7 +504,7 @@
                     body the men in the earth Mercury had, whether
                     they were like the men on our earth. Instantly
                     there was presented before my eyes a woman
-                    exactly resembling the women in that earth.&#8212;
+                    exactly resembling the women in that earth.—
                     She had a beautiful face but it was smaller than
                     that of a woman of our earth; her body was
                     more slender, but her height was equal. She
@@ -523,7 +523,7 @@
                     of that immense planet were giants. He
                     tells us that the inhabitants of Jupiter "are distinguished
                     unto nations, families, and houses,
-                    and that no one covets another's property.&#8212;
+                    and that no one covets another's property.—
                     When I would have told them that on this earth
                     there are wars, depredations, and murders, they
                     instantly turned away from me and expressed
@@ -563,7 +563,7 @@
                     as something whitish, like snow in the
                     heavens. As to the people, they are very like
                     ourselves, and are clothed with coarse skins or
-                    coats, 'to' (oddly enough) 'keep out the cold.'&#8212;
+                    coats, 'to' (oddly enough) 'keep out the cold.'—
                     In one of the stars, the wonderful Seer witnessed
                     a scene like the last judgment. 'There was seen
                     an obscure cloud towards the east descending
@@ -612,7 +612,7 @@
                     home.</p>
                 <p>In this way <choice><orig>Emanual</orig><reg>Emanuel</reg></choice> Swedenborg settles conclusively,
                     from his own personal knowledge, the
-                    sublime question of the plurality of worlds&#8212;a
+                    sublime question of the plurality of worlds—a
                     question much mooted of late, and on which
                     some doubts have been raised by learned professors
                     and divines, as if it were heterodox
@@ -620,8 +620,8 @@
                     any inhabited world save our own. How
                     such a doubt can dwell for a moment on the mind
                     of a human being who looks up to the starry
-                    heavens&#8212;sees the myriads of shining orbs which
-                    surround us&#8212;knows that there are myriads
+                    heavens—sees the myriads of shining orbs which
+                    surround us—knows that there are myriads
                     and myriads more stretching into the regions of
                     space and growing in countless numbers as the
                     aids of science extend our powers of vision, and
@@ -670,8 +670,8 @@
                     the same general law) are located in some
                     incomprehensible manner (seeing that they do
                     not exist in space) near the earth which they inhabited
-                    in the body. When men&#8212;that is, the
-                    inhabitants of this and all other worlds&#8212;die,
+                    in the body. When men—that is, the
+                    inhabitants of this and all other worlds—die,
                     they are clothed with a substantial body instead
                     of the material body they throw off. And in
                     these substantial bodies they continue to live in
@@ -697,10 +697,10 @@
                 all. It appears something natural and instinctive,
                 and has been the foundation of all the beliefs
                 and superstitions of the untutored mind,
-                ever since the world began&#8212;the rude notions of
+                ever since the world began—the rude notions of
                 the savage as well as the exquisite dream of the
                 poet. It is the belief <choice><sic>expressad</sic><corr>expressed</corr></choice> by Banquo, when
-                he gazes on the vanishing witches&#8212;
+                he gazes on the vanishing witches—
                 <q who="#unk"><floatingText type="extract"><body><lg type="poem"><l>The earth hath bubbles as the water has,</l>
                 <l>And those are of them.</l></lg></body></floatingText></q>
                 And so beautifully illustrated by Addison in his
@@ -708,7 +708,7 @@
                 into the world of spirits. "This happy
                 region was peopled with innumerable swarms of
                 spirits, who applied themselves to exercises and
-                diversions according as their fancies led them.&#8212;
+                diversions according as their fancies led them.—
                 Some of them were tossing the figure of a quoit;
                 others were pitching the shadow of a bar; others
                 were breaking the apparition of a horse; and
@@ -763,7 +763,7 @@
                             <pb xml:id="leaf009r" facs="duk.00193.005b.jpg" type="recto" rend="col-6 new"/>
                 <cb/><p>He also spoke with Calvin and Luther. "Calvin
                 was accepted in good society in heaven, because
-                he was honest and made no disturbance.&#8212;
+                he was honest and made no disturbance.—
                 Luther is still in the world of spirits, between
                 heaven and hell, where he sometimes undergoes
                 great sufferings." He conversed wtih Louis the
@@ -807,7 +807,7 @@
                     revelation. "Once," says Swedenborg, "Mary,
                     the mother of God, passed by, and appeared
                     clothed in white raiment." She gave the author
-                    some information which we shall not quote&#8212;
+                    some information which we shall not quote—
                     His ideas of a future state may be gathered from
                     the preceding extracts. All those passages of
                     scripture which are generally supposed to refer

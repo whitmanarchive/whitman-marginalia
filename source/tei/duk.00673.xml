@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00673">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00673">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00673</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +33,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00673</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -52,7 +52,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
-            <change who="#nhg" when="2015-03-08"></change>
+            <change who="#nhg" when="2015-03-08"/>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-06-23">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-08-23">Checked, revised.</change>
             <change who="#tra" when="2013-11-06">Checked and revised bibliographical encoding.</change>
@@ -71,18 +71,18 @@
                             <ab>The florid rich,
                             first<add rend="unmarked" place="supralinear">?</add> phases of poetry,
                             as in the Oriental
-                            poems, <add rend="unmarked" place="supralinear">the Bible</add><!--Grier puts this add after the em dash.-->&#8212;Arabian Nights
+                            poems, <add rend="unmarked" place="supralinear">the Bible</add><!--Grier puts this add after the em dash.-->—Arabian Nights
                             Tales of the Genii,
                             Ossian, the Indians
                             of America, (Logan,)</ab>
-                            <ab>&#8212;Song of Spring
+                            <ab>—Song of Spring
                             from the Persian</ab>
                                     </body>
                                 </floatingText>
                             </q>
                         </add>
                         <p>The primitive poets, their <subst><del rend="erasure" seq="1"><gap reason="illegible"/></del><add rend="overwrite" place="over" seq="2">subjects,</add></subst>
-                            their style, all assimilate.&#8212;Very ancient
+                            their style, all assimilate.—Very ancient
                             poetry, <add rend="unmarked" place="supralinear">of</add> the Hebrew prophets, <add rend="unmarked" place="supralinear">of</add> Ossian, <add rend="unmarked" place="supralinear">of</add> the
                             Hindu <subst><del rend="overstrike" seq="1">fathers</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">bar</add></del> <add rend="unmarked" place="supralinear" seq="4">singers  </add> <add rend="insertion" place="supralinear" seq="5">and extatics</add></subst>, <add rend="insertion" place="supralinear">of the Greek<subst><add rend="unmarked" place="inline" seq="2">s</add> <del rend="overstrike" seq="1">states</del></subst>, of</add> the American aborigines,
                             <add rend="unmarked" place="supralinear">of</add> the old  <add rend="insertion" place="supralinear">Persians and Chinese,</add> <add rend="unmarked" place="supralinear">and the Scandinavian sagas,</add> all resemble each other</p>

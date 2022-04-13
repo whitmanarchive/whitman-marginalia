@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03419">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03419">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03419</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,15 +35,15 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>loc.03419</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
                     <author>Walt Whitman</author>
-                    <title>Spring Flowers&#8212;marginalia</title>
+                    <title>Spring Flowers—marginalia</title>
                     <idno type="callno">Box 40, Folder 66</idno>
                     <date notBefore="1881-01-01" notAfter="1892-03-26">Around 1881</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r1">
@@ -81,8 +81,8 @@
             <pb xml:id="leaf001r" facs="loc_nhg.00006.jpg" type="recto"/>
             <head type="main-authorial"><handShift new="#h1"/><hi rend="underline">earliest spring wild flowers</hi></head>
         <ab>bloodroot, arbutus,
-        pepaticas, violets,&#8212;<del rend="overstrike">the g</del>
-        &#8212; <del rend="overstrike">h</del> cultivated
+        pepaticas, violets,—<del rend="overstrike">the g</del>
+        — <del rend="overstrike">h</del> cultivated
             hyacinths, callas, azaleas,
             roses.</ab></div1>
         <add rend="pasteon" source="#r1"><handShift new="#h2"/>

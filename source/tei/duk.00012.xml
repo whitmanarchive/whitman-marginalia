@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00012">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00012">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00012</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -39,7 +39,7 @@
             by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
             of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00012</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>
             </notesStmt>
@@ -49,7 +49,7 @@
                     <title>Early Roman History</title>
                     <idno type="callno">MS q 185</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
-                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="base" xml:id="rd_445">
@@ -57,7 +57,7 @@
                     <title level="a">Early Roman History</title>
                     <title level="j">Western Review</title>
                     <date when="1846-04">April 1846</date>
-                    <pubPlace></pubPlace>
+                    <pubPlace/>
                     <biblScope type="vol">1</biblScope>
                     <biblScope type="issue">1</biblScope>
                     <biblScope type="pp">211-272</biblScope>
@@ -89,7 +89,7 @@
                     <body>
                         <ab><hi rend="underline"><handShift new="#h1"/>See to Roman History</hi></ab>
                         
-                        <p><handShift new="#h1"/>I discover that I need a thorough posting up in what Rome and the &#9758; Romans were</p>
+                        <p><handShift new="#h1"/>I discover that I need a thorough posting up in what Rome and the ☞ Romans were</p>
                 
                     </body>
                 </floatingText>
@@ -245,7 +245,7 @@
                 avoid even an allusion to them, if such a course is possible. The
                 party historian, on the other hand, blinded by prejudice, can see no
                 weakness in the cause he has espoused. His party and its heroes are
-                all sovereigns, who can do no wrong&#8212;who cannot err, even if they
+                all sovereigns, who can do no wrong—who cannot err, even if they
                 would. What, to an impartial observer, are the weak points of his
                 cause, are, in his opinion, its impregnable fortresses, its Valettes and
                 Gibraltars. The motives and the acts of men are so distorted by
@@ -257,7 +257,7 @@
                 
                 <note type="authorial" place="left" resp="#h1">Raleigh 1552 + 1618</note>
                 
-                <note type="authorial" place="bottom" resp="#h1">Of Raleigh&#8212;his History of the World&#8212;written while in prison&#8212;He saw from his window a contest between two parties of disputants&#8212;Afterwards listening to accounts of the same from outsiders, he says "These must be samples of the historians,&#8212;all liars"&#8212;and threw his <choice><sic>compilat<gap reason="torn away" unit="chars" quantity="3"/></sic><corr>compilation</corr></choice> away</note>
+                <note type="authorial" place="bottom" resp="#h1">Of Raleigh—his History of the World—written while in prison—He saw from his window a contest between two parties of disputants—Afterwards listening to accounts of the same from outsiders, he says "These must be samples of the historians,—all liars"—and threw his <choice><sic>compilat<gap reason="torn away" unit="chars" quantity="3"/></sic><corr>compilation</corr></choice> away</note>
                 
                 <pb xml:id="leaf002v" type="verso" facs="duk.00012.004.jpg"/>
                 <fw type="pageNum" place="top left">214</fw>
@@ -325,12 +325,12 @@
                 crime prompted by the real or supposed interests of a ruling class; a
                 precedent for it, and an eloquent defence of the criminals, are to be
                 found in the books from which a vast majority of the world obtain their
-                knowledge of Roman history,&#8212;books which cause our library shelves
+                knowledge of Roman history,—books which cause our library shelves
                 to fall, which constitute the classical nourishment of the people, and
                 which are placed in the hands of our youth, who are expected to draw
                 from them a heart-felt regard for liberty and good morals! A more<anchor xml:id="s10"/>
                 absurd expectation, man in his folly has never yielded to. Its result
-                is to be seen in the prevalent vices of the day,&#8212;<hi rend="underline" hand="#h1">in that regard for <note type="authorial" place="right" resp="#h1">&#9756;</note>
+                is to be seen in the prevalent vices of the day,—<hi rend="underline" hand="#h1">in that regard for <note type="authorial" place="right" resp="#h1">☜</note>
                 conventionalisms, and disregard of abstract right, upon which are based
                 the crying sins of our age.</hi> The poison has thoroughly penetrated our
                 system, and rotten indeed has it rendered our views of duty and right.
@@ -345,12 +345,12 @@
                 have vanished, quite as deeply as they did in the plenitude of their
                 power,</hi> and in their full career of conquest. They aspired to the physical
                 dominion of the earth, and their intellect governs lands of which
-                their wisest men did but dream. The <hi rend="underline" hand="#h1">scholar</hi> and the <hi rend="underline" hand="#h1">jurist</hi>, the <hi rend="underline" hand="#h1">orator</hi><note type="authorial" place="right" resp="#h1">&#9756;</note>
+                their wisest men did but dream. The <hi rend="underline" hand="#h1">scholar</hi> and the <hi rend="underline" hand="#h1">jurist</hi>, the <hi rend="underline" hand="#h1">orator</hi><note type="authorial" place="right" resp="#h1">☜</note>
                 and the <hi rend="underline" hand="#h1">poet</hi>, have accomplished more than generals and legions.
                 They have subdued the world, and made Rome in sober truth an
                 Eternal City. 
             </p>
-                <note type="authorial" place="right" resp="#h1">America <hi rend="underline">now</hi> of all lands has the greatest practical energy&#8212;(But has it not also the highest infusion of <hi rend="underline">pure intellect</hi>?</note>
+                <note type="authorial" place="right" resp="#h1">America <hi rend="underline">now</hi> of all lands has the greatest practical energy—(But has it not also the highest infusion of <hi rend="underline">pure intellect</hi>?</note>
            
                 
                 <p><span xml:id="s11" from="#s11" to="#s12" rend="wavyLine-left" hand="#h1"/>The causes of this continued Roman sway, are varied. Foremost
@@ -373,12 +373,12 @@
                 world. <hi rend="underline" hand="#h1">It was not until the last days of the republic, that men uniting</hi><anchor xml:id="s12"/>
                 
                 
-                <note type="authorial" place="bottom" resp="#h1">&#9757;</note>
+                <note type="authorial" place="bottom" resp="#h1">☝</note>
                 
                 <note type="authorial" place="bottom" resp="#h3">Well, if it has, does it not want something <hi rend="underline" hand="#h3">besides</hi> intellect? What are you after in people? Merely their intellect?</note>
                <!-- Kevin left off proofing here. KM -->
                 <pb xml:id="leaf003v" type="verso" facs="duk.00012.006.jpg"/>
-                    <note type="authorial" place="top" resp="#h1">A man "more resolute in the hour of defeat than in that of triumph"&#8212;</note>
+                    <note type="authorial" place="top" resp="#h1">A man "more resolute in the hour of defeat than in that of triumph"—</note>
                 <fw type="pageNum" place="top left">216</fw>
                 <fw type="header" place="top">Early Roman History</fw> 
                 <hi rend="underline" hand="#h1">genius with energy appeared upon the stage</hi>. But so great has been the
@@ -393,7 +393,7 @@
                 </l> <l>Our spirits from their urns.'</l></lg>
             
             <p><span xml:id="s16" from="#s16" to="#s17" rend="singleLine-left" hand="#h1"/>A great portion of the interest which attaches to Roman history, is
-                <note type="authorial" place="left" resp="#h1">&#9758;</note>the offspring of the republic's military glory. Whatever we may think
+                <note type="authorial" place="left" resp="#h1">☞</note>the offspring of the republic's military glory. Whatever we may think
                 of war in the abstract, no one can deny its immense effect on the human<anchor xml:id="s17"/>
                <span xml:id="s18" from="#s18" to="#s19" rend="singleLine-left" hand="#h1"/> mind. It appeals with overbearing weight to all grades of intellect,
                 and captivates both the humble and the proud. Rome presents
@@ -402,7 +402,7 @@
                 all comparable to her system of war, <hi rend="underline" hand="#h1">whether we consider the ruthless
                 daring and wolf-like perseverance,</hi> which were its principal moral
                 characteristics, or the <hi rend="underline" hand="#h1">admirable training by which it rendered the
-                <note type="authorial" place="left" resp="#h1">&#9758;</note>individual man so capable of bearing the fatigues and cares of a campaign
+                <note type="authorial" place="left" resp="#h1">☞</note>individual man so capable of bearing the fatigues and cares of a campaign
                 and the shock of battle</hi>. The magnitude of the operations, too,
                 were in perfect keeping with the grandeur and fitness of the machinery.
                 The conquest of a world was the object, and the devotion of a powerful
@@ -414,8 +414,8 @@
                 is blunted by the display of tremendous energy, unrivalled skill, and
                 the pomp of arms.</hi> We are awe-struck by the progress of a people,
                 whose course seems to be as relentless, and as much beyond human
-                control, as the Destiny of the Grecian Drama,&#8212;<hi rend="underline" hand="#h1">a people never swerving
-                    from their purpose, and more resolute in the hour of defeat than <note type="authorial" place="right" resp="#h1">&#9756;</note>
+                control, as the Destiny of the Grecian Drama,—<hi rend="underline" hand="#h1">a people never swerving
+                    from their purpose, and more resolute in the hour of defeat than <note type="authorial" place="right" resp="#h1">☜</note>
                 in that of triumph.</hi> So intimately connected is the history of Rome's
                 military exploits with our education and common reading, so vast were
                 they in themselves, and so important in their bearing upon all after
@@ -468,7 +468,7 @@
                 city and embellish it with great and magnificent works; but they add
                 nothing to its institutions; and it was the crime of the last Tarquinius
                 <span xml:id="s22" from="#s22" to="#s23" rend="wavyLine-right" hand="#h1"/>to undo those good regulations which his predecessor had appointed.'
-                <hi rend="underline" hand="#h1">Viewed in connection with the legend of Rome having been originally<note type="authorial" resp="#h1">&#9756;</note>
+                <hi rend="underline" hand="#h1">Viewed in connection with the legend of Rome having been originally<note type="authorial" resp="#h1">☜</note>
                 peopled by a lawless rabble, this reverence for order, and regard
                 for institutions, and so predominant a conservative spirit, are singular
                 facts, and well calculated to excite reflection.</hi><anchor xml:id="s23"/>
@@ -476,7 +476,7 @@
             <p><span xml:id="s24" from="#s24" to="#s25" rend="singleLine-left" hand="#h1"/>The literature of Rome has also had much influence on the world.
                 That it has small claims to originality, is indisputable. <hi rend="underline" hand="#h1">In most that
                 relates to philosophy, oratory, rhetoric, and poetry, Rome was but the
-                scholar of Greece</hi>&#8212;<hi rend="underline" hand="#h1">the pupil of her own slave.</hi> <hi rend="underline" hand="#h1">The captive led his
+                scholar of Greece</hi>—<hi rend="underline" hand="#h1">the pupil of her own slave.</hi> <hi rend="underline" hand="#h1">The captive led his
                     master into captivity</hi>. <hi rend="underline" hand="#h1">In history, however, the Romans were superior
                 to the Greeks.</hi> If we except Thucydides, there is no one among the
                 historians of Greece, at all comparable to the grave, far-seeing, and
@@ -557,7 +557,7 @@
                 period, must ever be better known than those of an age of semibarbarism.
                 Even Niebuhr, who almost worshipped, not precisely the
                 old Romans, but an ideal people, the creation of a warm fancy dwelling
-                long upon a cherished topic, whom he mistook for them,&#8212;even
+                long upon a cherished topic, whom he mistook for them,—even
                 he was forced to partially admit the immorality and the untameable
                 ferocity of his favorites. ' Yet after all,' he says, when speaking of
                 the 'good times of the republic,' 'if we bring those times vividly
@@ -576,8 +576,8 @@
                 something above the reach of nations living within the light of the
                 Christian dispensation.
             </p>
-                <p><hi rend="underline" hand="#h1">In the great literary improvements of the last fifty years,&#8212;the age
-                    of revolutions in all things,&#8212;Roman history has largely shared.</hi> <hi rend="underline" hand="#h1">It
+                <p><hi rend="underline" hand="#h1">In the great literary improvements of the last fifty years,—the age
+                    of revolutions in all things,—Roman history has largely shared.</hi> <hi rend="underline" hand="#h1">It
                 has been better written than formerly, both as respects the accuracy of
                 its facts, and the deductions therefrom.</hi> But the progress of truth, on
                 this as on all other points, has been slow; and the effects of correct
@@ -591,8 +591,8 @@
                 divested their minds of early associations, who have replaced the fables <note type="authorial" place="right" resp="#h1">latest authorities in Roman History</note>
                 of Livy and Plutarch, with the logical deductions of Niebuhr and Arnold,
                 of Wachsmuth and Thirlwall. The constitutions of Athens and
-                Rome, are spoken of now by our mature and practical men,&#8212;quite
-                too practical, it would seem, to acquaint themselves with facts&#8212;just
+                Rome, are spoken of now by our mature and practical men,—quite
+                too practical, it would seem, to acquaint themselves with facts—just
                 as they were almost universally spoken of fifty years since, when the
                 theory of each, and the practices under them, were not known to even
                 the ripest scholars, with but few exceptions, and those exceptions regarding
@@ -633,36 +633,36 @@
             <p><span xml:id="s28" from="#s28" to="#s29" rend="singleLine-left" hand="#h1"/>It would be to waste time, and to misuse space, to enter into a
                 <note type="authorial" place="left" resp="#h1">from a diversity of sources</note>discussion of the origin of the destined mistress of the ancient world.
                 One thing is certain, that Rome was the result of a union of a variety of
-                races&#8212;that she owed her existence, not to one race, but to several
+                races—that she owed her existence, not to one race, but to several
                 peoples; to Etruscans, to Sabines, and to Latins; and that her peculiar
                 character resembles not that of either of those nations. The city was a
                 confluence of human streams, and hence there is a significant truth
                 at the bottom of the story which represents it as a place of refuge
                 for the degraded of all neighboring countries; while the enmity of
                 Rome to the human race, would seem to be foreshadowed in the lawlessness
-                of her original legendary population&#8212;beings against whom
+                of her original legendary population—beings against whom
                 every man's hand was raised, an hostility to be amply repaid in after
                 centuries, when the Roman sword was to be drawn against all the nations
                 of the earth. To those who feel curious in the early real or supposed
                 fortunes of a people so remarkable as the earth's conquerors,
-                Niebuhr's statements and speculations&#8212;statements always well supported,
-                and speculations most ingeniously made&#8212;will ever afford
+                Niebuhr's statements and speculations—statements always well supported,
+                and speculations most ingeniously made—will ever afford
                 much matter for profitable study.<anchor xml:id="s29"/>
             </p>
             <p>Passing over most that relates to the Italian people, and of the early
                 tribes of Rome, we come to the real merits of the recent writers on Roman
                 <note type="authorial" place="left" resp="#h1">Niebuhr stands <hi rend="underline">first</hi></note>history, at the head of whom, so far as learning and ingenuity are
                 concerned, Niebuhr unquestionably stands. They have given form
-                to the Roman constitution&#8212;they have shown what it was&#8212;they
+                to the Roman constitution—they have shown what it was—they
                 have placed the patricians and the plebeians in their proper positions
                 in the Roman state, and defined the powers possessed by the various
-                assemblies&#8212;they have pointed out the true character of the institu-
+                assemblies—they have pointed out the true character of the institu-
                 
                 <pb xml:id="leaf006r" type="recto" facs="duk.00012.011.jpg"/>
                 <fw type="header" place="top">Early Roman History</fw>
                 <fw type="pageNum" place="top right">221</fw>
                 
-                tions commonly attributed to Servius Tullius&#8212;and they have rescued
+                tions commonly attributed to Servius Tullius—and they have rescued
                 from the obloquy of more than twenty centuries, several of those
                 illustrious men, who were sacrificed by the ruling order of the state,
                 as aiming at usurpation, while in truth they were endeavoring to remove
@@ -670,14 +670,14 @@
                 of unmerited fame. To these several points, we shall devote a few
                 pages.
             </p>
-                <p>I. <hi rend="italic">Gentes</hi>&#8212;houses, or clans, as the word is rendered, though
-                    not, as some hold, with sufficient accuracy, in either case&#8212;were
+                <p>I. <hi rend="italic">Gentes</hi>—houses, or clans, as the word is rendered, though
+                    not, as some hold, with sufficient accuracy, in either case—were
                 common to many of the ancient nations. The original Roman people—
-                the <hi rend="italic">populus</hi>&#8212;were composed of three hundred of these
+                the <hi rend="italic">populus</hi>—were composed of three hundred of these
                 <hi rend="italic">gentes</hi>, divided into three tribes, namely, the Ramnenses, the Titienses,
                 and the Lucerenses. To the first, precedence was granted, or rather
                 it was assumed, as the result of circumstances. They were the ' lofty
-                Ramnes'&#8212;<hi rend="italic">Celsi Ramnes</hi>. The Lucerenses were politically inferior,
+                Ramnes'—<hi rend="italic">Celsi Ramnes</hi>. The Lucerenses were politically inferior,
                 and do not appear to have been admitted to the full honors of the state,
                 until a comparatively late period. Each of the <hi rend="italic">gentes</hi> consisted of a
                 union of several families; and though by some it was pretended that
@@ -689,14 +689,14 @@
                 gens, but they were not what would now be called blood relations.
                 They were members of the same house, but not of the same family.
                 The family of which each was a member, belonged to one house, one
-                of the most remarkable in Roman history&#8212;the great gens Cornelia,
+                of the most remarkable in Roman history—the great gens Cornelia,
                 to which also belonged the Scipios, the Lentuli, &amp;c. Each of the three
                 tribes, was divided into ten curies, each of the latter containing ten
                 houses (<hi rend="italic">gentes</hi>). The members of each gens had peculiar privileges,
                 and bore peculiar burdens. They had common religious rites, joined
                 in the same sacrifices, were bound to assist the poor of their number,
                 and to redeem such as were made prisoners in time of war. These
-                three hundred houses formed the state, the body politic&#8212;they alone
+                three hundred houses formed the state, the body politic—they alone
                 having political rights, and all the other inhabitants of the city and its
                 dependencies, being either a community in a condition of political servitude,
                 slaves, or the clients of the houses. They were, in short, politically
@@ -717,16 +717,16 @@
                 <fw type="pageNum" place="top left">222</fw>
                 <fw type="header" place="top">Early Roman History</fw>
                 
-                early Romans, the only people of that name, until events led to what at first was probably a sort of federal union with the Titienses, or Tities. The first tribe was a Latin race, of the Opican stock. Their city was on the Palatine Hill, which, as Niebuhr remarks, ‘all legends agree was the original site of Rome.’ The dominion of this city extended to a distance only towards the sea, being bounded in the direction of Etruria by the Tiber, and by towns on adjacent hills, on other sides. The most important of these towns, was that situated on the Quirinal and Capitoline Hills, and which Niebuhr denominates Quirium, and its inhabitants, Quirites. The Quirites were a Sabine race. These two towns were hostile to each other. Wars occurred between them, and Niebuhr declares that Roma did not escape the common lot of subjection by the Sabines, the befel the Latin or Siculian towns, as of the well known legend of the seizure of the Sabine women, by Romulus and his banditti, is plausible, to say the least of it. ‘Let me not be charged,’ he says, ‘with offering a vapid interpretation of the poetical story, such as I should reject with disgust, if I interpret the rape of the Sabines and the war which broke out in consequence, as representing that at one time there was no right of intermarriage between the two cities, and how the one which had before been in subjection raised itself by arms to an equality of civil rights, and even to a preponderance. The preservation of Romulus and Remus, is a fable, such as may pass from the heroic poetry of one people into that of another, or may revive in several places, as it was told of Cyrus in the East, and of Habis in the West: but the rape of the Sabines relates to traditions of quite another kind.’ To whatever attributable, it is certain that the two cities became one state. They had one king&#8212;their senates were united in one body, and the people thus formed, were call indifferently Quirites or Romans. 
+                early Romans, the only people of that name, until events led to what at first was probably a sort of federal union with the Titienses, or Tities. The first tribe was a Latin race, of the Opican stock. Their city was on the Palatine Hill, which, as Niebuhr remarks, ‘all legends agree was the original site of Rome.’ The dominion of this city extended to a distance only towards the sea, being bounded in the direction of Etruria by the Tiber, and by towns on adjacent hills, on other sides. The most important of these towns, was that situated on the Quirinal and Capitoline Hills, and which Niebuhr denominates Quirium, and its inhabitants, Quirites. The Quirites were a Sabine race. These two towns were hostile to each other. Wars occurred between them, and Niebuhr declares that Roma did not escape the common lot of subjection by the Sabines, the befel the Latin or Siculian towns, as of the well known legend of the seizure of the Sabine women, by Romulus and his banditti, is plausible, to say the least of it. ‘Let me not be charged,’ he says, ‘with offering a vapid interpretation of the poetical story, such as I should reject with disgust, if I interpret the rape of the Sabines and the war which broke out in consequence, as representing that at one time there was no right of intermarriage between the two cities, and how the one which had before been in subjection raised itself by arms to an equality of civil rights, and even to a preponderance. The preservation of Romulus and Remus, is a fable, such as may pass from the heroic poetry of one people into that of another, or may revive in several places, as it was told of Cyrus in the East, and of Habis in the West: but the rape of the Sabines relates to traditions of quite another kind.’ To whatever attributable, it is certain that the two cities became one state. They had one king—their senates were united in one body, and the people thus formed, were call indifferently Quirites or Romans. 
             </p>
-                <p>Of the Lucerenses, or Luceres, the third tribe, it was impossible to speak with even that limited degree of certainty, that we can make use of when treating of the Ramnes and Tities. They were, according to good authority, Pelasgic Latins. Their city was on the C&#230;lian Hill, and was subject to Roma at an early period. According to one account, this city was founded by C&#230;les Vibenna, a Tuscan leader of an armed band, who is said to have assisted Romulus. He is said to have been a Lucumo, the Lucumones of Etruria being in that country, what the patriciians were in Rome; and the name of the third tribe is sometimes derived from this title, which has been mistaken for a proper name. In that system which attributes the establishment of the Ramnes to Romulus, that of the Titienses to Numa, and that of the <hi rend="italic">plebs</hi> to Ancus Marcius; the institution of the Luceres is placed to the account of Tullus Hostilius, the third of the traditionary kings. He is represented as having transferred the Alban houses to Rome, after the total destruction of their city. The meaning of this legend undoubtedly is, that by some monarch, whom it may be convenient to call Tullus Hostilius, the Luceres were raised from a state of mitigated political servitude, to a condition of comparative freedom&#8212;not to positive</p>
+                <p>Of the Lucerenses, or Luceres, the third tribe, it was impossible to speak with even that limited degree of certainty, that we can make use of when treating of the Ramnes and Tities. They were, according to good authority, Pelasgic Latins. Their city was on the Cælian Hill, and was subject to Roma at an early period. According to one account, this city was founded by Cæles Vibenna, a Tuscan leader of an armed band, who is said to have assisted Romulus. He is said to have been a Lucumo, the Lucumones of Etruria being in that country, what the patriciians were in Rome; and the name of the third tribe is sometimes derived from this title, which has been mistaken for a proper name. In that system which attributes the establishment of the Ramnes to Romulus, that of the Titienses to Numa, and that of the <hi rend="italic">plebs</hi> to Ancus Marcius; the institution of the Luceres is placed to the account of Tullus Hostilius, the third of the traditionary kings. He is represented as having transferred the Alban houses to Rome, after the total destruction of their city. The meaning of this legend undoubtedly is, that by some monarch, whom it may be convenient to call Tullus Hostilius, the Luceres were raised from a state of mitigated political servitude, to a condition of comparative freedom—not to positive</p>
 
                     <pb xml:id="leaf007r" type="recto" facs="duk.00012.013.jpg"/>
                     <fw type="header" place="top">Early Roman History</fw>
                 <fw type="pageNum" place="top right">223</fw>
                     
                     
-                <p>equality with the two elder tribes, but to a position greatly superior to that which they had previously occupied in the state. The whole subject, however, is involved in much obscurity; and the most that can be said, with any thing like certainty, is, that the Luceres were looked upon for a considerable length of time, as inferior to the original citizens&#8212;that they were slowly admitted to the honors of the state&#8212;that in the religious institutions of the state, a most important part of the roman polity, their inferiority to the first two tribes is most glaringly apparent&#8212;and that they were called the minor houses, the others being distinguished as the major houses. Among their number, however, were several of the most distinguished families of the republic. They were remarkable for the tenacity with which they opposed the demands of the plebeians to be admitted to the enjoyment of civil rights, and their unrelenting animosity to that order; and as the Julian gens was of their number, they produced the man, the great Julius Pharsalia. The Quinctii and Servilii, who were among the most ruthless of patricians, belonged to the third tribe. According to Niebuhr, the Tarquinii themselves were an Alban house.
+                <p>equality with the two elder tribes, but to a position greatly superior to that which they had previously occupied in the state. The whole subject, however, is involved in much obscurity; and the most that can be said, with any thing like certainty, is, that the Luceres were looked upon for a considerable length of time, as inferior to the original citizens—that they were slowly admitted to the honors of the state—that in the religious institutions of the state, a most important part of the roman polity, their inferiority to the first two tribes is most glaringly apparent—and that they were called the minor houses, the others being distinguished as the major houses. Among their number, however, were several of the most distinguished families of the republic. They were remarkable for the tenacity with which they opposed the demands of the plebeians to be admitted to the enjoyment of civil rights, and their unrelenting animosity to that order; and as the Julian gens was of their number, they produced the man, the great Julius Pharsalia. The Quinctii and Servilii, who were among the most ruthless of patricians, belonged to the third tribe. According to Niebuhr, the Tarquinii themselves were an Alban house.
             </p>
             <p><span xml:id="s30" from="#s30" to="#s31" rend="singleLine-right" hand="#h1"/>Of the clients, it is not possible to speak with any degree of accuracy; ‘how clientship arose, not admitting of an historical exposition any more than the origin of Rome.’ The same view of the Roman constitution that regarded the patricians as a mere nobility, endowed with peculiar privileges, and did not suspect that they were the political<note type="authorial" place="right" resp="#h1">Patron &amp; Clients</note> state, confounded the clients with the plebs, whereas the two bodies were bitter enemies of each other. The clients were the dependents of the patricians, and the parties were bound together by peculiar ties. ‘Those clients were neither gained their livelihood by trade nor had already acquired any property of their own, received grants from their patrons of building ground on their estates, together with two jugers of arable land: not as property, but as a precarious tenement, which the owner might resume if he felt himself injured. But all, however different in rank and consequence, were entitled to paternal protection from their patron; he was bound to relieve their distress, to appear for them in court, to expound the law to them, civil and pontifical. On the other hand, the clients were to be heartily dutiful and obedient to their patron, to promote his honor, to pay his mulcts and fines, to aid him jointly with the members of his house in bearing burthens for the commonwealth and defraying the charges of public offices, to contribute towards portioning his daughters, and to ransom him or any of his family who might fall into the hands of an enemy.’ (Niebuhr, vol. i, p.248) Our author says, that if a client died without heirs, his patron inherited. ‘There was a mutual bond between the patron <note type="authorial" place="right" resp="#h1">? origin of feudality</note> and the client, that neither should bring an accusation or become witness against the other, or give sentence in court against him, or in favor of his enemies: this looks like a mitigated form of the old law of compurgation. The duties of a patron toward the client were more sacred than those than those toward his own kin. Whoever trespassed against clients, was guilty of treason, and devoted to the infernal gods; that is<anchor xml:id="s31"/>
                 
@@ -747,7 +747,7 @@
                 as many are not even to the children of their body, would be a
                 silly dream of a golden age, such as never existed.' (Vol. i, p. 249.)
                 A body of dependents so strongly bound to the ruling power of the
-                state,&#8212;what in the early ages was the state,&#8212;afforded bands of retainers,
+                state,—what in the early ages was the state,—afforded bands of retainers,
                 almost sufficiently powerful to inspire their patrons with the
                 hope of being able to maintain their monopoly, against the assaults of
                 the plebs—a point upon which we shall speak more particularly when
@@ -792,7 +792,7 @@
                 ficer, and not of the senatorian age. Those who disagree with him,
                 hold that each gens appointed an old man to represent it in the senate.
                 The division of the senate was into decuries, of which there were the
-                same number as there were curi&#230; namely, thirty. One of the privileges
+                same number as there were curiæ namely, thirty. One of the privileges
                 of the first tribe, appears in a senatorial arrangement. At the
                 time the senate had but one hundred members, and there were but
                 ten decuries, ten senators, being the first from each cury, constituted
@@ -811,7 +811,7 @@
                 appointment. Of the influence of the body itself in the state, it is
                 not necessary to speak, the very name of the <hi rend="italic">Roman Senate</hi>, conveying
                 to the mind all that it is possible to conceive of the grand and
-                the powerful&#8212;and we may add, of all that is heartless, cruel, and corrupt.
+                the powerful—and we may add, of all that is heartless, cruel, and corrupt.
                 What it was in the time with which we are well acquainted, it
                 was in the first days of Rome, except that it acted on a stage more
                 circumscribed.
@@ -832,14 +832,14 @@
                 ninth day, the king held his court: to his tribunal belonged the adjudication
                 of property and persons, the protection of the legal possession;
                 in a word, every thing that was subsequently included in the jurisdiction
-                of the pr&#230;tor, even the assigning a judge: if he chose however
+                of the prætor, even the assigning a judge: if he chose however
                 to determine causes in person, he might do so. His power over residents
                 within the pale, and over all that did not belong to the houses of
                 the citizens, had no bounds, any more than that of a dictator. Booty
                 and land acquired in war were at his absolute disposal, so far as the
                 claim of the citizens to the usufruct did not stand in his way. A part
                 of the conquered territory fell to the share of the crown; which had 
-                <fw type="sig" place="bottom">W.R.&#8212;Vol.I No.I.  15</fw>
+                <fw type="sig" place="bottom">W.R.—Vol.I No.I.  15</fw>
                 
                 <pb xml:id="leaf008v" type="verso" facs="duk.00012.016.jpg"/>
                 <fw type="pageNum" place="top left">226</fw>
@@ -888,10 +888,10 @@
             </p>
             <p><hi rend="underline" hand="#h1">A popular assembly</hi> was no less an indispensable institution in the
                 civilized republics of antiquity, than a senate. In Rome there was
-                <note type="authorial" place="left" resp="#h1">&#9758;</note>such an assembly&#8212;the <hi rend="underline" hand="#h1"><hi rend="italic">Comitia Curiata</hi></hi>. <hi rend="underline" hand="#h1">This was the meeting of
+                <note type="authorial" place="left" resp="#h1">☞</note>such an assembly—the <hi rend="underline" hand="#h1"><hi rend="italic">Comitia Curiata</hi></hi>. <hi rend="underline" hand="#h1">This was the meeting of
                 the patricians only</hi>, and <hi rend="underline" hand="#h1">not the less a popular assembly on that account</hi>,
                 in the early times, if we bear in mind that in those times there
-                was but one order in the state&#8212;the <hi rend="italic">populus Romanus</hi>: that is to say,
+                was but one order in the state—the <hi rend="italic">populus Romanus</hi>: that is to say,
                 <hi rend="underline" hand="#h1">all the free citizens of Rome were then patricians, and had a right to
                 vote in the comitia curiata, though the plebs were not allowed to vote
                 therein.</hi> A proper understanding of the character of this assembly,
@@ -902,7 +902,7 @@
                 
                 will save the reader of Roman history, from falling into many errors.
                 <hi rend="underline" hand="#h1">In itself, and as related to its own members, a democratical assembly; towards
-                    <note type="authorial" place="left" resp="#h1">&#9758;</note>the other inhabitants and their friends, it was of a nature thoroughly<note type="authorial" place="left" resp="#h1">So it seems the Roman populace was a very different populace from ours.&#8212;</note>
+                    <note type="authorial" place="left" resp="#h1">☞</note>the other inhabitants and their friends, it was of a nature thoroughly<note type="authorial" place="left" resp="#h1">So it seems the Roman populace was a very different populace from ours.—</note>
                 aristocratical</hi>. It was this body before which the consul Valerius
                 caused the fasces to be lowered, and otherwise paid homage, thus gaining
                 his famous surname of Publicola. He was sole consul, in consequence
@@ -910,14 +910,14 @@
                 opinion, on the part of the patricians, that he aimed at absolute power,
                 his success in establishing which, would have destroyed their ascendency.
                 Demonstrating by his conduct the groundlessness of their
-                fears, he became the object of great regard&#8212;<hi rend="underline" hand="#h1">not with the <hi rend="italic">populace</hi></hi>,
-                as the word is now used, but&#8212;with the <hi rend="italic">populus Romanus</hi>, the Roman
+                fears, he became the object of great regard—<hi rend="underline" hand="#h1">not with the <hi rend="italic">populace</hi></hi>,
+                as the word is now used, but—with the <hi rend="italic">populus Romanus</hi>, the Roman
                 people, the members of the three original tribes. It was this assembly
                 of the members of the ruling race, which gave so exquisite a decision
                 in the dispute between the Ardeates and the Aricines, as to the right
                 to certain territory. <hi rend="underline" hand="#h1">They were chosen to <hi rend="italic">arbitrate</hi>, and they awarded
-                the land to themselves.</hi> As monopolists of the public domain,&#8212;
-                none but citizens having any privilege therein,&#8212;they were interested
+                the land to themselves.</hi> As monopolists of the public domain,—
+                none but citizens having any privilege therein,—they were interested
                 in adding to it, which the plebs were not. This decision has often
                 been quoted, as an evidence of the tendency of popular bodies to decide
                 as interest may dictate, regardless of justice. As an aristocratical
@@ -932,7 +932,7 @@
                 him, simply because the place of trial was changed: but when we
                 have learned, that he was condemned by the <hi rend="italic">Comitia Curiata</hi>, the patrician
                 assembly, after having been acquitted by the <hi rend="italic">Comitia Ceniuriata</hi>,
-                a body of comparatively liberal construction, the mystery vanishes,&#8212;
+                a body of comparatively liberal construction, the mystery vanishes,—
                 ' so greatly did the patricians thirst after his blood,' the blood of a true<anchor xml:id="s35"/>
                 popular leader, using the term in its modern sense, though he was patrician
                 born. This discovery has cleared the <hi rend="italic">people</hi> from one of the
@@ -960,7 +960,7 @@
                 important of its duties, were, to confer the imperium, the nature of
                 which we have already explained, when dwelling on the kingly office ;
                 and the choice of priests. It was also held for a number of civil purposes,
-                not necessary to detail. The votes were given by curi&#230;, and
+                not necessary to detail. The votes were given by curiæ, and
                 not by houses. Each cury had its curion, or presiding officer, who
                 performed the religious rites by which its members were bound together;
                 and its hall, called curia, common to all, and in which those
@@ -974,16 +974,16 @@
                 even now the belief of the larger portion of readers, that they were
                 the democratic body in Rome, and contended against the patricians
                 for rights, the enjoyment of which the latter withheld because they
-                were a nobility, and the plebs were a mass of working people&#8212;the
+                were a nobility, and the plebs were a mass of working people—the
                 ' lower orders,' as persons of an exclusive turn, would stigmatize
-                them; ' Jacobinical adventurers,' as a late learned man&#8212;whose strong
+                them; ' Jacobinical adventurers,' as a late learned man—whose strong
                 conservative prejudices led him to look upon the masses with a hostile
-                eye&#8212;would <hi rend="italic">not</hi> call them, and who was a great admirer of the early
+                eye—would <hi rend="italic">not</hi> call them, and who was a great admirer of the early
                 Roman plebs, as distinguished from the body of the laboring people
                 of those times, and from the plebeians of the closing years of the republic. To speak in brief, the great civil contest in Rome which
                 continued so long, has been almost invariably regarded as a contest
                 between a privileged nobility on the one hand, and the mass of the
-                Roman people on the other&#8212;the former known as patricians, and the
+                Roman people on the other—the former known as patricians, and the
                 latter as plebeians. The plebeians were confounded with the clients,
                 or supposed to have sprung from them, and were regarded as a sort of
                 hereditary bondmen. This is now utterly given up, by all who have
@@ -1036,7 +1036,7 @@
                 scantily as they were endowed with rights, were not made up then,
                 any more than in later times, merely of the lower orders: the nobles
                 of the conquered and the ceded towns were among them; as subsequently
-                we find that the Mamilii, the Papii, the Cilnii, the C&#230;cin&#230;,
+                we find that the Mamilii, the Papii, the Cilnii, the Cæcinæ,
                 were all plebeians.' (Niebuhr, vol. i, pp. 313, 314.) He also holds,
                 ' that the plebeian commonalty arose out of the freemen thus incorporated
                 with the state, is sufficiently proved by the tradition that Ancus
@@ -1119,8 +1119,8 @@
                 <fw type="pageNum" place="top right">231</fw>
                 
                 
-                plebeians. But, though plebeians at Rome, the C&#230;cilii were patricians
-                of Pr&#230;meste. Many of the early leaders of the plebs, as, for example,
+                plebeians. But, though plebeians at Rome, the Cæcilii were patricians
+                of Præmeste. Many of the early leaders of the plebs, as, for example,
                 the Licinii and the Icilii, are said by the historian to have been
                 no way inferior, even in birth, to the Quinctii and the Postumii, who
                 were among the proudest and most vindictive of the patricians. It
@@ -1140,13 +1140,13 @@
                 strange to us, that the kings, impressed, as they must have been, with
                 a full knowledge of the value of the plebeians, and not so blinded as
                 were the majority of the other patricians to the importance of conciliating
-                so powerful a class, were disposed to favor their claims&#8212;to the
+                so powerful a class, were disposed to favor their claims—to the
                 extent, at least, of elevating the more wealthy of their number to the
                 patriciate. Niebuhr suggests, leaving the suggestion to rest on its own
                 merits,' that, as in a much later age, M. Manlius was looked up to by
                 the collective plebeian order as its declared patron, so at the first beginning
                 of the commonalty the kings were its patrons.' He subsequently
-                says,&#8212;' whatever may have been the form of the connexion
+                says,—' whatever may have been the form of the connexion
                 between the commonalty and the kings, they protected it against the
                 oligarchy: undoubtedly they could not fail to perceive that the plebeians
                 in a continually increasing proportion formed the most important
@@ -1155,7 +1155,7 @@
                 so, was for its laws to sanction and promote the growth of a great
                 Roman people out of every people of Italy.' The first Tarquin is
                 represented as having conceived the idea of elevating the plebeians to
-                an equality with the patricians&#8212;of making them real citizens. His
+                an equality with the patricians—of making them real citizens. His
                 intention appears to have been, to create three new tribes, to stand
                 alongside the original tribes. The project met with great opposition,
                 and the hostility which it experienced from the augur Attus Navius, is
@@ -1235,7 +1235,7 @@
                 to cede a third of their territory to the victor; and as ten of the
                 plebeian tribes disappear, it is as good as demonstrated, that they,
                 with the territory they occupied, passed under the dominion of Porseima.
-                <hi rend="underline" hand="#h1">The old annalists glossed over the degradation of their country,<note type="authorial" place="right" resp="#h1">&#9756; important note for American historians</note>
+                <hi rend="underline" hand="#h1">The old annalists glossed over the degradation of their country,<note type="authorial" place="right" resp="#h1">☜ important note for American historians</note>
                 after the true Roman fashion, which never hesitated at a falsehood,
                 no matter how egregious, likely to minister to their ambition, their
                 vanity, or their avarice.</hi> The political effect of this cession of territory,
@@ -1261,7 +1261,7 @@
                 of land had been made under former kings; but that was before the
                 plebs had assumed the form of an estate. The difference between
                 the patricians and the plebeians, in respect to the public lands, was
-                this&#8212;that the former had the right to enjoy the profits of those lands
+                this—that the former had the right to enjoy the profits of those lands
                 by what was called <hi rend="italic">possession</hi>, which word must not be understood,
                 however, as it is now used, but simply as a privilege of enjoying their
                 use during the pleasure of the state; while the plebeians received
@@ -1320,7 +1320,7 @@
                 part of the city, and brought at last into one grand trunk which ran
                 down into the Tiber exactly west of the Palatine hill.' This, like the
                 embanking of the Tiber, with which work it is supposed to have been
-                connected,&#8212;each forming a part of one great plan,&#8212;was accomplished
+                connected,—each forming a part of one great plan,—was accomplished
                 by the elder Tarquinius, and was undertaken for the purpose
                 of draining the wet and swampy places which existed in the midst of
                 the city. This great sewer was vaulted, and was on so large a scale,
@@ -1330,7 +1330,7 @@
                 been in the habit of throwing into it, the victims of his innocent
                 relaxations from the cares of state. The material employed in constructing<anchor xml:id="s43"/>
                 the Cloaca, was of a very different character from that made
-                use of in the days of the republic&#8212;being the stone of Rome itself,
+                use of in the days of the republic—being the stone of Rome itself,
                 a volcanic mass, which afterwards went wholly out of use. This is a
                 decisive proof of the antiquity of the work. The lands reclaimed by
                 the great drainage thus carried into effect, were used, one portion for
@@ -1355,7 +1355,7 @@
                 Tarquinius, and remembering that it was his policy to deprive the
                 commons of their lately acquired citizenship, and to treat them like
                 subjects rather than members of the state, the picture given of the
-                wealth and greatness of Jud&#230;a under Solomon, may convey some idea
+                wealth and greatness of Judæa under Solomon, may convey some idea
                 of the state of Rome under its later kings. Powerful amongst surrounding
                 nations, exposed to no hostile invasions, with a flourishing
                 agriculture, and an active commerce, the country was great and prosperous;
@@ -1379,7 +1379,7 @@
                 games. They were in many respects different from those which
                 acquired so much celebrity in Greece; as in Italy the people were
                 spectators only, and the contending parties held to be of a servile
-                character,&#8212;'the charioteer and the player were in no higher esteem
+                character,—'the charioteer and the player were in no higher esteem
                 than the gladiator.'<anchor xml:id="s55"/>
             </p>
             <p><span xml:id="s44" from="#s44" to="#s45" rend="singleLine-left" resp="#h1"/>The connection of Rome with Etruria, is one of those subjects,
@@ -1395,7 +1395,7 @@
                 what may be called the heroic times of the kingdom. The story of
                 the Etruscan chief who assisted Romulus in his war with the Sabines,
                 would seem to point to an early connection between the two races;
-                especially as that chief is said to have settled on the C&#230;lian hill, which<anchor xml:id="s45"/>
+                especially as that chief is said to have settled on the Cælian hill, which<anchor xml:id="s45"/>
                 
                 <pb xml:id="leaf014r" type="recto" facs="duk.00012.027.jpg"/>
                 <fw type="header" place="top">Early Roman History</fw>
@@ -1410,7 +1410,7 @@
                 between the Romans and the Etruscans; and equally true is it, that
                 there is much that can be said by those who are of an opposite opinion.
                 When we see how much the Romans had among them of an
-                Etruscan character&#8212;that their ivory chairs, their robes of triumph,
+                Etruscan character—that their ivory chairs, their robes of triumph,
                 their lictors, and many other things appertaining to their magisterial
                 honors and insignia, were borrowed from Etruria, and that they were
                 of long continuance, ceasing only with an utter change of religion,
@@ -1418,7 +1418,7 @@
                 political object aimed at by the patricians, was to introduce into Rome
                 the same state of society that prevailed in the cities of Etruria, where
                 the government was in the hands of an oligarchy, while the rest of
-                the inhabitants were serfs;&#8212;when we reflect on these things, the
+                the inhabitants were serfs;—when we reflect on these things, the
                 impression left upon the mind is, that Etruria and Rome must have been
                 intimately connected, and that the destined mistress of the world, was
                 probably once an Etruscan city. Nor is this impression affected otherwise
@@ -1433,15 +1433,15 @@
                 or dreaded, at the hands of the same monarch. Certain it is, that the
                 religion of the Romans underwent a great change, and that which
                 made it a most potent state engine, was the introduction of a more
-                mystic creed and a more complex worship&#8212;one much more striking
+                mystic creed and a more complex worship—one much more striking
                 to the imagination, and more susceptible of being <hi rend="italic">used</hi> for the benefit
                 of an exclusive government, than that which previously prevailed.
-                And we know that this religion had a great effect on the Romans&#8212;
+                And we know that this religion had a great effect on the Romans—
                 that it gave character as well to their daily life, as to their public acts
-                &#8212;that its influence is to be seen throughout the whole history of that
+                —that its influence is to be seen throughout the whole history of that
                 <span xml:id="s46" from="#s46" to="#s47" rend="singleLine-right" hand="#h1"/>people. Tarquinius removed the Sabine gods from the Capitoline, to
-                make room for his temple, which was dedicated to the three deities&#8212;<note type="authorial" place="right" resp="#h1">Jupiter</note>
-                Jupiter, Juno, and Minerva&#8212;' whose worship, according to the Etruscan<note type="authorial" place="right" resp="#h1">Juno</note>
+                make room for his temple, which was dedicated to the three deities—<note type="authorial" place="right" resp="#h1">Jupiter</note>
+                Jupiter, Juno, and Minerva—' whose worship, according to the Etruscan<note type="authorial" place="right" resp="#h1">Juno</note>
                 religion, was essential to every city; there could be no city without<note type="authorial" place="right" resp="#h1">Minerva</note>
                 three gates duly consecrated, and three temples to these divinities.'
                 How much of Hellenic influence there was in all this, no one can say,
@@ -1455,7 +1455,7 @@
                 <fw type="pageNum" place="top left">266</fw>
                 <fw type="header" place="top">Early Roman History</fw>
                 
-                to which Polybius ascribes so strong a moral influence over the minds of the Romans, even in his own days. And Etruscan rites and ordinances must have been widely prevalent in the Roman commonwealth, when, as some writers asserted, and Roman nobility were taught habitually the Etruscan language and when the senate provided by a special decree for the perpetual cultivation of the Etruscan discipline by young men of the highest nobility in Etruria; lest a science so important to the commonwealth should be corrupted by falling into the hands of low and mercenary persons.’ Considered in connection with this change from their primitive religion, to one of a more elaborate and recondite character, the story of the discovery of the religious books of Numa, towards the close of the sixth century of the city, and of their destruction by the pr&#230;tor urbanus, ‘because their contents tended to overthrow the religious rites observed in Rome,’ becomes significant. Numa was a Sabine, and the founder of the old religion, which had been displaced by that of Etruria, the latter having endured more than four centuries at the time of the discovery of his books. To have promulgated their contents, would have been to convince the Romans how much they had changed from the creed of their ancestors, and might have led to a religious warfare, to something like the scenes that occurred at the suppression of the bacchanalian sect. The authorities prudently cosigned them to a safer grave than that from which they had been taken. They could not stand the ordeal of fire, unlike some pious works of more recent times. When we consider all these things, we are ready to assert that Etruria and Rome must have stood, at one time, in almost as intimate a relation to each other, as that of parent and child. But there is another point to be regarded, and which is of consequence enough to almost overthrow all the arguments that have been adduced in support of the position that Rome owed much to Etruria. How happens it, if the two countries were at one time so closely allied, there should be no traces&#8212;not the slightest&#8212;of the Etruscan language in that of the Romans? This seems almost sufficient to counterbalance all the proofs that have been adduced in support of the theory, that between the two countries, intimate relations for a considerable length of time subsisted. It does prove, that Rome must have arrived at a considerable height, before those relations commenced, and that, whatever their nature was, they had no power to affect the literature of Rome, at least in a direct manner. 
+                to which Polybius ascribes so strong a moral influence over the minds of the Romans, even in his own days. And Etruscan rites and ordinances must have been widely prevalent in the Roman commonwealth, when, as some writers asserted, and Roman nobility were taught habitually the Etruscan language and when the senate provided by a special decree for the perpetual cultivation of the Etruscan discipline by young men of the highest nobility in Etruria; lest a science so important to the commonwealth should be corrupted by falling into the hands of low and mercenary persons.’ Considered in connection with this change from their primitive religion, to one of a more elaborate and recondite character, the story of the discovery of the religious books of Numa, towards the close of the sixth century of the city, and of their destruction by the prætor urbanus, ‘because their contents tended to overthrow the religious rites observed in Rome,’ becomes significant. Numa was a Sabine, and the founder of the old religion, which had been displaced by that of Etruria, the latter having endured more than four centuries at the time of the discovery of his books. To have promulgated their contents, would have been to convince the Romans how much they had changed from the creed of their ancestors, and might have led to a religious warfare, to something like the scenes that occurred at the suppression of the bacchanalian sect. The authorities prudently cosigned them to a safer grave than that from which they had been taken. They could not stand the ordeal of fire, unlike some pious works of more recent times. When we consider all these things, we are ready to assert that Etruria and Rome must have stood, at one time, in almost as intimate a relation to each other, as that of parent and child. But there is another point to be regarded, and which is of consequence enough to almost overthrow all the arguments that have been adduced in support of the position that Rome owed much to Etruria. How happens it, if the two countries were at one time so closely allied, there should be no traces—not the slightest—of the Etruscan language in that of the Romans? This seems almost sufficient to counterbalance all the proofs that have been adduced in support of the theory, that between the two countries, intimate relations for a considerable length of time subsisted. It does prove, that Rome must have arrived at a considerable height, before those relations commenced, and that, whatever their nature was, they had no power to affect the literature of Rome, at least in a direct manner. 
             </p>
             <p>As respects the character of the age of the Roman monarchy, there are two opinions, each supported by great talent and extensive learning. Muller heads one school, and Niebuhr the other. The former, in his prize work on the Etruscans, supposes that the reigns of the Tarquins and Servius Tullius, represent the rule of the Etruscans in Rome, and all over Latium. The Tarquins he holds to have been Lucumones of the city of Tarquinii, which had acquired supremacy; while he also believes that their rule was for a time interrupted by that of Servius Tullius, or Mastarna, an Etruscan chief from Vulsinii, of a party hostile to the Lucumones, who were the patricians of Etruria. 
                 
@@ -1466,7 +1466,7 @@
                 The Tarquins, according to this theory, were restored by the success of a conspiracy, the main features of which are represented in the poetical account of the assassination of Servius; and the restored house ruled more despotically than ever, as depicted in the history of Tarquin the Proud. The expulsion of the Tarquins represents the decline of Tarquinii, and the restoration to independence of the Latin portion of the kingdom, Rome having been in subjection, as a Latin city to the Etruscan city. Niebuhr, on the contrary, is of opinion that the Tarquinian dynasty were Latins, and he has made use of several strong arguments in support of his position. We cannot follow him in all that he says, as to do him justice would require far more room than we can now command. He conceives that ‘the supposition that the first Tarquinius was an Etruscan owed its origin solely to his name having been deduced from that of the Etruscan city;’ and it may be added, that he has completely demolished the old story by which that sovereign’s family was connected with Corinth. He admits, however, that the several representations respecting the connection of the Etruscans with the Romans, concerning which there are so many traditions, clearly imply ‘the notion that there was a time when Rome received Tuscan institutions from a prince of Etruria, and was the great and splendid capital of a powerful Etruscan state.’
             </p>
             <p>Dr Arnold agrees with Muller, so far as to regard the reigns of the two Tarquinii as a period during which an Etruscan dynasty ruled in Rome, introducing Etruscan rites, arts, and institutions. ‘It is wholly another question,’ he adds, ‘whether these princes regarded Rome as their capital or Tarquinii; but the probability is, that they were kings of Rome, and they may very possibly have received the help of their Latin subjects even to make conquests for them in Etruria; just as the Norman kings of England soon found that England was more than Normandy, and Henry I conquered Normandy from his brother, chiefly by the help of English men and money. And yet we retain the marks of the Norman conquest impressed upon every part of our institutions down this very hour.’ This is very clearly and shrewdly put, and throws much light upon the subject under discussion, by a comparison with an event and its results well known to Americans and to Englishmen.</p>
-                <p><span xml:id="s48" from="#s48" to="#s49" rend="singleLine-right" hand="#h1"/>The character of the public works of the Roman monarchy, is a strong proof in support of the opinion that the last kings were Etruscans. They were not only grand in their conception and execution, but they were also eminent, in many instances, for their usefulness, as the cloac&#230;, for example, and the embanking of the Tiber. Now, similar characteristics also marked the public works of Etruria itself. ‘The works of the Etruscans,’ as Niebuhr remarks, ‘the very ruins of<note type="authorial" place="right" resp="#h1">Great utilitarian Etruscan works</note> which astonish us, cannot, it is perfectly evident, have been executed <span xml:id="s50" from="#s50" to="#s51" rend="singleLine-left" hand="#h1"/>in small states without taskmasters and bondmen: but we must not overlook the great superiority of the Etruscan rulers in this point to the Egyptians. All their works that we are acquainted with, have a great public object: they are not pyramids, obelisks, and temples, multiplied without number: if the people suffered in its hard service,<anchor xml:id="s51"/><anchor xml:id="s49"/><note type="authorial" place="bottom" resp="#h1">&#9757; Is not <subst><del rend="overstrike" seq="1" hand="#h1">the</del><add rend="insertion" place="supralinear" seq="2" hand="#h1">our</add></subst> putting up of "monuments," statues to Washington, &amp;c., a poor relic of the old Asiatic Greek or Roman spirit?</note>
+                <p><span xml:id="s48" from="#s48" to="#s49" rend="singleLine-right" hand="#h1"/>The character of the public works of the Roman monarchy, is a strong proof in support of the opinion that the last kings were Etruscans. They were not only grand in their conception and execution, but they were also eminent, in many instances, for their usefulness, as the cloacæ, for example, and the embanking of the Tiber. Now, similar characteristics also marked the public works of Etruria itself. ‘The works of the Etruscans,’ as Niebuhr remarks, ‘the very ruins of<note type="authorial" place="right" resp="#h1">Great utilitarian Etruscan works</note> which astonish us, cannot, it is perfectly evident, have been executed <span xml:id="s50" from="#s50" to="#s51" rend="singleLine-left" hand="#h1"/>in small states without taskmasters and bondmen: but we must not overlook the great superiority of the Etruscan rulers in this point to the Egyptians. All their works that we are acquainted with, have a great public object: they are not pyramids, obelisks, and temples, multiplied without number: if the people suffered in its hard service,<anchor xml:id="s51"/><anchor xml:id="s49"/><note type="authorial" place="bottom" resp="#h1">☝ Is not <subst><del rend="overstrike" seq="1" hand="#h1">the</del><add rend="insertion" place="supralinear" seq="2" hand="#h1">our</add></subst> putting up of "monuments," statues to Washington, &amp;c., a poor relic of the old Asiatic Greek or Roman spirit?</note>
                 
                     <pb xml:id="leaf015v" type="verso" facs="duk.00012.030.jpg"/>
                     <fw type="pageNum" place="top left">268</fw>
@@ -1486,7 +1486,7 @@
                 ages, and wasted not wealth and human energies on such <hi rend="underline" hand="#h1">absurdities
                 as bodied forth the genius of Egypt.</hi> Had they been equally wise in
                 their political action, Etruria might have successfully contested the
-                world's empire with the Romans&#8212;with the people whose sharp swords,
+                world's empire with the Romans—with the people whose sharp swords,
                 directed by the ruthless Sylla, were destined to cut her up, root and<anchor xml:id="s53"/>
                 branch, and to exterminate all that belonged to her, save her name.
             </p>
@@ -1496,8 +1496,8 @@
                 be doubted. There was an outbreak of the Etruscans against the
                 Latin race, and Rome fell before their leader. Her senate sent him
                 the usual tokens acknowledging the presence of sovereignty in the person
-                receiving them&#8212;the throne of ivory, the sceptre, the triumphal
-                robe, etc.,&#8212;and she was compelled to yield up a portion of her territory,
+                receiving them—the throne of ivory, the sceptre, the triumphal
+                robe, etc.,—and she was compelled to yield up a portion of her territory,
                 to submit to a prohibition from using iron for other than agricultural
                 purposes, and to give herself up as unreservedly to the will
                 of the conqueror, as a plebeian debtor without means to his patrician
@@ -1528,9 +1528,9 @@
                 <fw type="header" place="top">Early Roman History</fw>
                 <fw type="pageNum" place="top right">271</fw>
                 
-                <p>to airy halls, where every thing, while it is great, is simple&#8212;while profound, is comprehensible by even ordinary capacities. There is nothing shallow, either, about Arnold’s work, its philosophy being as sound, and its facts as well authenticated, as any thing in Niebuhr himself. Clearness is not attained at the expense of profundity, nor learning sacrificed to the graces of style. We have all the points of the great philosophic historian, at the same time that we have elegance of expression and beauty of thought. Arnold’s style is, indeed, to us, the realization of the rhetoric of the Proverbs&#8212;words fitly spoken&#8212;‘apples of gold in pictures of silver.’ His chrystal purity is the emanation of a pure mind, and it will ever be admired by readers of taste and judgement. His work is based upon Niebuhr’s, but it has merits peculiarly its own. He is the Aaron of the German Moses, the man who stands up and developes the ideas of the leader of his school. He has been to Niebuhr, what Dumont was to Bentham, the expounder of great truths to the world, which the former had discovered, but could not convey to the common mind;&#8212;what the priestess was to the oracle&#8212;the tongue which conveys to the inquirer after truth, the response of the god, though without any of that mysticism or ambiguity which marked the words of the priestess of Delphi. 
+                <p>to airy halls, where every thing, while it is great, is simple—while profound, is comprehensible by even ordinary capacities. There is nothing shallow, either, about Arnold’s work, its philosophy being as sound, and its facts as well authenticated, as any thing in Niebuhr himself. Clearness is not attained at the expense of profundity, nor learning sacrificed to the graces of style. We have all the points of the great philosophic historian, at the same time that we have elegance of expression and beauty of thought. Arnold’s style is, indeed, to us, the realization of the rhetoric of the Proverbs—words fitly spoken—‘apples of gold in pictures of silver.’ His chrystal purity is the emanation of a pure mind, and it will ever be admired by readers of taste and judgement. His work is based upon Niebuhr’s, but it has merits peculiarly its own. He is the Aaron of the German Moses, the man who stands up and developes the ideas of the leader of his school. He has been to Niebuhr, what Dumont was to Bentham, the expounder of great truths to the world, which the former had discovered, but could not convey to the common mind;—what the priestess was to the oracle—the tongue which conveys to the inquirer after truth, the response of the god, though without any of that mysticism or ambiguity which marked the words of the priestess of Delphi. 
             </p>
-                <p>This difference between the works of the two illustrious men of whom we are speaking, when treating of the same subject, is said to be caused by the difference of political circumstances in which they were placed, and that it is characteristic of the scholars of the two countries&#8212;Niebuhr being the type of Germany, as Arnold is of England. The Englishman is made a practical man, because he is compelled to take no small part in an active life. He knows what men want, what they can understand, and acts accordingly. He also has a public appeal to&#8212;not merely a reading public, but a people of action, who are engaged in constantly superintending the machinery of a great nation governed by a free constitution. The German is in a situation radically different from this. His public duties are extremely limited. He is not brought down into the real world, but lives in a realm of his own creation; and when we know that the tendency of his intellect is to the mystic and dreamy, we can have no difficulty in seeing where he will bring up, when political circumstances give their impulsion to an idiosyncrasy requiring great restraint to keep its possessor from running, not only to the unintelligible, but also into the wild and the grotesque. The German writer has a much greater, a more learned, but a widely different reading public to appeal to, than has the Englishman,&#8212;but it is only a reading public, and not a thinking public, beyond its thoughts being directed merely to what it reads. What is there, in Germany, to give a masculine tone to the understanding, and clearness and vigor to the expression of its conceptions, like the Parliament, the hustings, the municipal and parochial, and other public business of England? Nothing that we are aware of&#8212;and there will be nothing, until the great German race, one of the noblest branches of the human family, shall return to the rock whence they
+                <p>This difference between the works of the two illustrious men of whom we are speaking, when treating of the same subject, is said to be caused by the difference of political circumstances in which they were placed, and that it is characteristic of the scholars of the two countries—Niebuhr being the type of Germany, as Arnold is of England. The Englishman is made a practical man, because he is compelled to take no small part in an active life. He knows what men want, what they can understand, and acts accordingly. He also has a public appeal to—not merely a reading public, but a people of action, who are engaged in constantly superintending the machinery of a great nation governed by a free constitution. The German is in a situation radically different from this. His public duties are extremely limited. He is not brought down into the real world, but lives in a realm of his own creation; and when we know that the tendency of his intellect is to the mystic and dreamy, we can have no difficulty in seeing where he will bring up, when political circumstances give their impulsion to an idiosyncrasy requiring great restraint to keep its possessor from running, not only to the unintelligible, but also into the wild and the grotesque. The German writer has a much greater, a more learned, but a widely different reading public to appeal to, than has the Englishman,—but it is only a reading public, and not a thinking public, beyond its thoughts being directed merely to what it reads. What is there, in Germany, to give a masculine tone to the understanding, and clearness and vigor to the expression of its conceptions, like the Parliament, the hustings, the municipal and parochial, and other public business of England? Nothing that we are aware of—and there will be nothing, until the great German race, one of the noblest branches of the human family, shall return to the rock whence they
                 
                 <pb xml:id="leaf016v" type="verso" facs="duk.00012.031.jpg"/>
                     <note type="authorial" place="top" resp="#h1">Get "History of Literature," by Fr. Schlegel</note>
@@ -1544,7 +1544,7 @@
                 Germans, as all who know the conduct of that large portion of them
                 who have emigrated to the United States, will most readily admit. It
                 is not true, however, that <hi rend="italic">all</hi> German scholars, write in that obscure
-                    style which characterizes some portions of the works of Niebuhr&#8212;
+                    style which characterizes some portions of the works of Niebuhr—
                 that involved manner, which renders reading indeed a task. There are
                 exceptions, and striking ones too, to the rule. Heeren is singularly
                 clear, and easy of being understood, though writing on the most recondite
@@ -1558,7 +1558,7 @@
                 from expressing the wish, that superficiality and shallowness like
                 theirs, were more common. Some of the German military writers, are
                 eminently clear and instructive, as Clausewitz, Plotho, Muffling, and
-                the Archduke Charles,&#8212;but this may be attributed to their lives having
+                the Archduke Charles,—but this may be attributed to their lives having
                 been more practical than those of mere literary men.
             </p>
             <p>We would not be understood as saying that Niebuhr is among those
@@ -1566,7 +1566,7 @@
                 when compared with the higher order of the historical writers of those
                 countries which produce eminently clear-headed men, who nevertheless
                 lack not genius, that we are impressed with the obscurity of his style,
-                &#8212;with the Michelets, the Thierrys, the Bancrofts, the Arnolds, and
+                —with the Michelets, the Thierrys, the Bancrofts, the Arnolds, and
                 the Prescotts. As compared with many of his own countrymen, his
                 writings are models of clearness, absolutely limpid in their nature.
                 He owes this, partly to the wise course of instruction pursued by
@@ -1584,7 +1584,7 @@
                 intellectual supremacy, they should never be allowed to so dazzle our
                 imagination, as to lead us to regard them as any thing other than a
                 band of well organized and most successful robbers, from the first
-                hour to the last day of their existence&#8212;as thorough in their love of
+                hour to the last day of their existence—as thorough in their love of
                 plunder, during the days of Fabricius, as in those of Sylla and Catiline.
                 But to Niebuhr's mind they came through the ivory gate of
             </p></div1>

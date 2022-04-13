@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00642">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00642">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00642</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -36,7 +34,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00642</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -85,17 +83,17 @@
             <note type="authorial" resp="#h2" place="left">[for new Ed?]</note> <note type="authorial" resp="#h2" place="right">["Election day November
             1884"]</note>
             <head type="main-authorial" rend="center"><handShift new="#h1"/><hi rend="underline">Presidential Election</hi></head>
-            <p><hi rend="underline">Oct. 31 '84</hi>&#8212;The political parties
-            are trying <del rend="overstrike">to</del>&#8212;but mostly in vain&#8212;to
+            <p><hi rend="underline">Oct. 31 '84</hi>—The political parties
+            are trying <del rend="overstrike">to</del>—but mostly in vain—to
             get up some <del rend="overstrike">ex</del> fervor of excitement
             on the pending Presidential election. It
             comes off next Tuesday. There is
             no question at issue of any importance. <add rend="unmarked" place="supralinear">I cannot 'enthuse' at all.</add>
             I think of the elections of 30 and 20
             years ago. <add rend="insertion" place="supralinear">Then there <hi rend="underline">was</hi> something to arouse a fellow.</add> But I like well the <hi rend="underline">fact</hi>
-            of <subst><del rend="overstrike" seq="1">this</del> <add rend="unmarked" place="supralinear" seq="2">all</add></subst> these National Elections&#8212;have
+            of <subst><del rend="overstrike" seq="1">this</del> <add rend="unmarked" place="supralinear" seq="2">all</add></subst> these National Elections—have
             written a little poem about it (to order
-            &#8212;published in a Philadelphia daily <ref target="#note1">*</ref>
+            —published in a Philadelphia daily <ref target="#note1">*</ref>
             of 26th instant. One of the <subst><del rend="overstrike" seq="1">reporters</del> <add rend="unmarked" place="supralinear" seq="2">papers</add></subst> <del rend="overstrike">has</del>
             <choice><orig>interview'd</orig><reg>interviewed</reg></choice> me early in the week, and <del rend="overstrike">his</del>
             printed the following yesterday:</p>
@@ -112,7 +110,7 @@
                              to a gentleman connected with T<hi rend="smallcaps">HE</hi> P<hi rend="smallcaps">RESS</hi>,
                              seated in the parlor of his little brown wooden
                              house in Camden the other day, "I may vote
-                             for Blaine&#8212;undoubtedly shall&#8212;and yet I am
+                             for Blaine—undoubtedly shall—and yet I am
                              an out and out opponent of the high tariff
                              system, and respect and admire Governor
                              Cleveland personally. They say Blaine is a
@@ -165,9 +163,9 @@
                             strokes, received in Washington soon after
                             the close of the Secession War, while he was a
                             clerk in the Attorney-General's office under
-                            Grant's administration&#8212;the result of over
+                            Grant's administration—the result of over
                             two years' exhaustive personal labor in the
-                            army hospitals and on the field&#8212;destroyed
+                            army hospitals and on the field—destroyed
                             his activity to some extent, but he has recuperated,
                             and now manages, with the aid of
                             a cane, to take an occasional short walk. He
@@ -226,15 +224,15 @@
                 custodian of the sheets of my
                 Leaves of Grass, &amp; has been <del rend="overstrike"><unclear reason="illegible" resp="#lmg" cert="medium">a</unclear></del>
                 the binder <del rend="overstrike">of them</del> for me.
-                <del rend="overstrike">There is in&#8212;</del> <subst><del rend="overstrike" seq="1">They</del> <add rend="insertion" place="supralinear" seq="2">The sheets</add></subst> are now
+                <del rend="overstrike">There is in—</del> <subst><del rend="overstrike" seq="1">They</del> <add rend="insertion" place="supralinear" seq="2">The sheets</add></subst> are now
                 at his place.</p>
                 <p>I hear that he has become
-                involved&#8212;in fact has failed.
+                involved—in fact has failed.
                 If so, I regret it much.</p>
                 <p>I have been waiting <del rend="overstrike">f</del> now
                 <subst><del rend="overstrike" hand="#h5" seq="1">some</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h5"/>over</add></subst> <handShift new="#h2"/>six weeks for the <choice><sic>ful
                 filment</sic><corr>fulfillment</corr></choice> of orders I have sent
-                <subst><del rend="overstrike" seq="1">on there</del> <add rend="unmarked" place="supralinear" seq="2">him</add></subst> for bound books&#8212;&amp; now,
+                <subst><del rend="overstrike" seq="1">on there</del> <add rend="unmarked" place="supralinear" seq="2">him</add></subst> for bound books—&amp; now,
                 under that state of things, I suppose
                 <del rend="overstrike">I cannot get the work done by him.</del>
                     it will <subst><del rend="overstrike" hand="#h5" seq="1">be impossible</del> <add rend="unmarked" place="supralinear" seq="2">not be possible</add></subst> for him to

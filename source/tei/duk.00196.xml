@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00196">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00196">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00196</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +33,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00196</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">Grier argues that Whitman paraphrases Joseph Gostwick's <hi rend="italic">German Literature</hi> (Philadelphia: Lippincott, 1854). See <hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier (New York: New York University Press, 1984), 5:1816. These two scraps are pasted down, leaving the verso unavailable; Grier says these pages originally were pinned together.</note>
             </notesStmt>
@@ -72,25 +72,25 @@
                 of, is traceable back to the Twelfth
                 Century, when, <add rend="insertion" place="supralinear">or soon after when,</add> it was probably put in the
                 shape transmitted to <del rend="overstrike">us</del> modern times, by
-                some <subst><del rend="overstrike" seq="1">writer or</del> <add rend="unmarked" place="supralinear" seq="2">rhapsodist</add></subst> whose name is  <add rend="insertion" place="supralinear">now</add> unknown.&#8212;
+                some <subst><del rend="overstrike" seq="1">writer or</del> <add rend="unmarked" place="supralinear" seq="2">rhapsodist</add></subst> whose name is  <add rend="insertion" place="supralinear">now</add> unknown.—
                 Yet it is quite certain that this remarkable
                 epic, long antedates even that far off
-                period.&#8212;How much further back, though,
+                period.—How much further back, though,
                 it is impossible to tell, with any certainty.</p>
             <pb xml:id="leaf002r" facs="duk.00196.001a.jpg" type="recto"/>
             <p>Of the many critical theories, <add rend="lasso" place="supralinear">about the construction of the Nibelungen,</add> the
                 most plausible is that <subst><del rend="overstrike" seq="1">these were</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> <del rend="overstrike">many</del>
                 ballads or versions floating about, were
                 collected by the rhapsodist <subst><del rend="overstrike" seq="1">just</del> <add rend="unmarked" place="supralinear" seq="2">before</add></subst> alluded
-                to, <add rend="insertion" place="supralinear">during the Twelfth or Thirteenth Century,</add> and fused into one connected Epic.&#8212;
+                to, <add rend="insertion" place="supralinear">during the Twelfth or Thirteenth Century,</add> and fused into one connected Epic.—
                 The critics say they can tell the connecting
                 passages; and they point to marked differences
-                of style, and contradictions.&#8212;</p><!--NHG: Line connecting this to next paragraph (#p1).--><metamark function="paragraph" rend="circled" place="right" target="#p1">run on</metamark>
+                of style, and contradictions.—</p><!--NHG: Line connecting this to next paragraph (#p1).--><metamark function="paragraph" rend="circled" place="right" target="#p1">run on</metamark>
                 <p xml:id="p1">The Nibelungen is thus, by high
                     authorities, stated to <subst><del rend="overstrike" seq="3">be</del> <add rend="unmarked" place="supralinear">have been</add> <del rend="overstrike" seq="3">a  series of</del> <add rend="insertion" place="supralinear" seq="4">formed from</add></subst> <del rend="overstrike"><add rend="insertion" place="supralinear">this</add></del>  ballads
                     belonging to several ages, but having a general
                     principle of union and character, and <add rend="insertion" place="supralinear">thus comes to be</add> united
-                    upon the thread of one main plot.&#8212;</p>
+                    upon the thread of one main plot.—</p>
         </body>
     </text>
 </TEI>

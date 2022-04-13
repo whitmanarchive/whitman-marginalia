@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00065">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00065">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00065</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -36,7 +33,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -44,7 +41,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00065</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this text likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
@@ -69,7 +66,7 @@
                 
                 <bibl xml:id="r2" type="pasteon">
                     <author>unknown</author>
-                    <title level="a">Which Way?&#8212;Again</title>
+                    <title level="a">Which Way?—Again</title>
                     <title level="j">Life Illustrated</title>
                     <date when="1857-04-18">18 April 1857</date>
                     <pubPlace>New York</pubPlace>
@@ -103,8 +100,8 @@
                     <body>
                         <pb xml:id="leaf002r" facs="duk.00065.002.jpg" type="recto"/>
                         
-                        <p><hi rend="italic">Origin and unchangeable nature of Plants and Animals.</hi>&#8212;<hi rend="smallcaps">D</hi>r. <hi rend="smallcaps">WATERBURY</hi> read a most interesting, lengthy paper upon the above subject, of which we cannot even give a synopsis, only noting here and there a point of interest.  Improvements in plants and animals he concedes, and apparent changes, and also production of mules and hybrids, but he also contends that there is no upward progression into another of any species&#8212;that all are as they were originally created.  He instanced the sugar and soft maple.  Both alike, both different, yet never mixing.  All discoveries of ancient plants and animals are exactly identical with the living species.  Even the medical qualities of plants show that no change has taken place in any single species&#8212;there is no such thing as mutation of species.  Circumstances may modify but never change; the same animal is the same animal still, just as he was at first created.  Upon the subject of feeding, every farmer knows that high-fed horses must be worked, or they will become diseased.  Therefore food and exercise must correspond.  Of course feeding changes forms, but it does not alter the nature of the animal fed.  Look at the effect of feeding on the grub of the bee intended for the queen.  Her form is altered, but she is still a bee.  Where two calves from different herds of various character, are mated and fed together they become alike.  As to climate, it is a well-known fact that there has been in the same locality no change since creation, or rather since creation became fixed; so that change in the character of man is not attributable to climate&#8212;it is solely to change in food.  The negro shows this in a pointed degree&#8212;he has greatly improved upon a change of food, not climate.  Egypt was once a great grain-growing country, and then her people built pyramids.  In the Crimean war, the French took a common-sense view of the influence of food; they fed their soldiers well, and they fought well.  Bread is an emblem of the highest state of civilization.  No non-bread-eating nation was ever a civilized one.  The most advanced nations of the earth in intellectual capacity are those who live most upon the highest order of all cereals&#8212;wheat.  Humboldt says that the highest order of civilization is confined to a comparatively-small portion of the earth's surface; it is confined to the temperate or cereal-growing regions.  Improvement of food improves races, and the contrary is true.  The North American Indian, as he was found here by our ancestors, was a carnivorous animal, as untamable as others of the same dietetic propensities; but, although he could not be subjected to their control, he had to succumb to a bread-eating people.  Their diet of cereals gave them a superiority over the savage; and so it is everywhere all over the world.  The difference in food is everything; climate is nothing.  Great nations, great men, or generations of them, and great animals&#8212;improved breeds of animals&#8212;are made so by the food upon which they live.</p>
-                        <p>Look at stage-horses, they must eat grain, they cannot sustain their labor upon hay and roots.  In Summer and Winter, their feed is the same, yet the climate varies from 30&#176; below zero to 100&#176; above.  The most valuable analytical character of soils, is to be found in the plants that naturally grow upon any locality. <choice><sic>Setlers</sic><corr>Settlers</corr></choice> of new lands always practice upon this principle.  They judge the character of the soil as to what it will produce for man, from what it has produced for nature.  Certain growth of trees indicate land best suited for corn, most unerringly.  For medicinal purposes wild plants are always more valuable than the same species in a cultivated state, because, owing to partaking in different food, their condition is changed.  There is a tendency in all plants to change, to suit circumstances.  Thus the <choice><sic>s im</sic><corr>slim</corr></choice> <choice><sic>st aight</sic><corr>straight</corr></choice> oak of the forest becomes pyramidical in the open field.  The means that encourage the growth of woody fibre in plants, are not those that encourage the growth of fruit.  Hence men apply special manures.</p>
+                        <p><hi rend="italic">Origin and unchangeable nature of Plants and Animals.</hi>—<hi rend="smallcaps">D</hi>r. <hi rend="smallcaps">WATERBURY</hi> read a most interesting, lengthy paper upon the above subject, of which we cannot even give a synopsis, only noting here and there a point of interest.  Improvements in plants and animals he concedes, and apparent changes, and also production of mules and hybrids, but he also contends that there is no upward progression into another of any species—that all are as they were originally created.  He instanced the sugar and soft maple.  Both alike, both different, yet never mixing.  All discoveries of ancient plants and animals are exactly identical with the living species.  Even the medical qualities of plants show that no change has taken place in any single species—there is no such thing as mutation of species.  Circumstances may modify but never change; the same animal is the same animal still, just as he was at first created.  Upon the subject of feeding, every farmer knows that high-fed horses must be worked, or they will become diseased.  Therefore food and exercise must correspond.  Of course feeding changes forms, but it does not alter the nature of the animal fed.  Look at the effect of feeding on the grub of the bee intended for the queen.  Her form is altered, but she is still a bee.  Where two calves from different herds of various character, are mated and fed together they become alike.  As to climate, it is a well-known fact that there has been in the same locality no change since creation, or rather since creation became fixed; so that change in the character of man is not attributable to climate—it is solely to change in food.  The negro shows this in a pointed degree—he has greatly improved upon a change of food, not climate.  Egypt was once a great grain-growing country, and then her people built pyramids.  In the Crimean war, the French took a common-sense view of the influence of food; they fed their soldiers well, and they fought well.  Bread is an emblem of the highest state of civilization.  No non-bread-eating nation was ever a civilized one.  The most advanced nations of the earth in intellectual capacity are those who live most upon the highest order of all cereals—wheat.  Humboldt says that the highest order of civilization is confined to a comparatively-small portion of the earth's surface; it is confined to the temperate or cereal-growing regions.  Improvement of food improves races, and the contrary is true.  The North American Indian, as he was found here by our ancestors, was a carnivorous animal, as untamable as others of the same dietetic propensities; but, although he could not be subjected to their control, he had to succumb to a bread-eating people.  Their diet of cereals gave them a superiority over the savage; and so it is everywhere all over the world.  The difference in food is everything; climate is nothing.  Great nations, great men, or generations of them, and great animals—improved breeds of animals—are made so by the food upon which they live.</p>
+                        <p>Look at stage-horses, they must eat grain, they cannot sustain their labor upon hay and roots.  In Summer and Winter, their feed is the same, yet the climate varies from 30° below zero to 100° above.  The most valuable analytical character of soils, is to be found in the plants that naturally grow upon any locality. <choice><sic>Setlers</sic><corr>Settlers</corr></choice> of new lands always practice upon this principle.  They judge the character of the soil as to what it will produce for man, from what it has produced for nature.  Certain growth of trees indicate land best suited for corn, most unerringly.  For medicinal purposes wild plants are always more valuable than the same species in a cultivated state, because, owing to partaking in different food, their condition is changed.  There is a tendency in all plants to change, to suit circumstances.  Thus the <choice><sic>s im</sic><corr>slim</corr></choice> <choice><sic>st aight</sic><corr>straight</corr></choice> oak of the forest becomes pyramidical in the open field.  The means that encourage the growth of woody fibre in plants, are not those that encourage the growth of fruit.  Hence men apply special manures.</p>
                         
                         <p>The doctor was listen to with deep attention, by a large attendance of regular members of the Club and strangers.</p>
                     </body>
@@ -112,7 +109,7 @@
              </add>
             
             
-            <p><handShift new="#h1"/><hi rend="circled">Every age probably <del rend="overstrike">points</del> reverts back to a supposed time when men were better than now.&#8212;</hi></p>
+            <p><handShift new="#h1"/><hi rend="circled">Every age probably <del rend="overstrike">points</del> reverts back to a supposed time when men were better than now.—</hi></p>
             
             <add rend="pasteon" source="#r2"><handShift new="#h2"/>
     
@@ -137,7 +134,7 @@
                 <p>As a nation we look, justly, with emotions of the deepest gratitude and reverence to the fathers of the Revolution, who achieved for themselves and posterity the noble boon of independence, and, forgetful of themselves, laid deep and broad the foundations of a great Republic.  All honor to them!  Their deeds form one of the brightest pages in human history.  Yet when we suppose the age was faultless, or that all were actuated by pure and patriotic motives, or that there was no lobbying, nor log-rolling, nor bitter hatred, nor opposition, we commit a great mistake.</p>
                 
                 <p>Human nature was the same in 1776 that it is now, whatever our Fourth-of-July orators may say to the contrary.  The true men of that time met with the same obstacles they would meet now, under similar circumstances.  Washington found himself misunderstood, opposed, misrepresented.</p>
-                <p></p>
+                <p/>
             </body>
         </floatingText>
     

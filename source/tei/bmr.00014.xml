@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen
-RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"
-?>
-<?oxygen
-SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
-?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bmr.00014">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"
+?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
+?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bmr.00014">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +23,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                 <edition>2015</edition>
             </editionStmt>
             <publicationStmt>
-                <idno>bmr.00014</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -50,7 +45,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     <p>Permission to reproduce the graphic images in this archive has been granted 
                         by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>bmr.00014</idno></publicationStmt>
             <sourceDesc>
                 <bibl>
                     <author>Walt Whitman</author>
@@ -101,8 +96,8 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     THE LAW OF NATURE,</titlePart>
                 </docTitle>
                 <byline>BY<docAuthor> C.F. VOLNEY</docAuthor>,<lb/>
-                    C<hi rend="smallcaps">OMTE ET</hi> P<hi rend="smallcaps">AIR DE</hi> F<hi rend="smallcaps">RANCE</hi>, C<hi rend="smallcaps">OMMANDEUR DE LA</hi> L<hi rend="smallcaps">&#201;GION D'</hi>H<hi rend="smallcaps">ONNEUR</hi>, M<hi rend="smallcaps">EMBRE 
-                    DE L</hi>'A<hi rend="smallcaps">CAD&#201;MIE</hi> F<hi rend="smallcaps">RAN&#199;AISE, ET DE PLUSIEURS AUTRES</hi> S<hi rend="smallcaps">OCI&#201;T&#201;S SAVANTES.</hi> 
+                    C<hi rend="smallcaps">OMTE ET</hi> P<hi rend="smallcaps">AIR DE</hi> F<hi rend="smallcaps">RANCE</hi>, C<hi rend="smallcaps">OMMANDEUR DE LA</hi> L<hi rend="smallcaps">ÉGION D'</hi>H<hi rend="smallcaps">ONNEUR</hi>, M<hi rend="smallcaps">EMBRE 
+                    DE L</hi>'A<hi rend="smallcaps">CADÉMIE</hi> F<hi rend="smallcaps">RANÇAISE, ET DE PLUSIEURS AUTRES</hi> S<hi rend="smallcaps">OCIÉTÉS SAVANTES.</hi> 
                     D<hi rend="smallcaps">EPUTY TO THE</hi> N<hi rend="smallcaps">ATIONAL</hi> A<hi rend="smallcaps">SSEMBLY OF 1789, AND AUTHOR OF</hi> "T<hi rend="smallcaps">RAVELS IN</hi> 
                     E<hi rend="smallcaps">GYPT AND</hi> S<hi rend="smallcaps">YRIA</hi>," " N<hi rend="smallcaps">EW</hi> R<hi rend="smallcaps">ESEARCHES ON</hi> A<hi rend="smallcaps">NCIENT</hi> H<hi rend="smallcaps">ISTORY," ETC.</hi></byline>
                 <note type="authorial" resp="#h3">
@@ -114,7 +109,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                 <milestone unit="undeclared" rend="horbar-short"/>
                 <note type="authorial" resp="#h3">I will cherish in remembrance the love of man, I will employ myself on
                 the means of effecting good for him, and build my own happiness on
-                the promotion of his.&#8212;<hi rend="italic">Volney</hi>.</note>
+                the promotion of his.—<hi rend="italic">Volney</hi>.</note>
                 <milestone unit="undeclared" rend="horbar-short"/>
                 <docImprint>
                     <pubPlace>NEW YORK:</pubPlace>
@@ -142,7 +137,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             and unjust, vice and virtue; and nations have wandered in a 
             labyrinth of errors and calamities.</p>
         <span rend="singleLine-left" hand="#h1" xml:id="b1" from="#b1" to="#b2"/>
-            <p>The cupidity of man and his ignorance,&#8212;these are the evil 
+            <p>The cupidity of man and his ignorance,—these are the evil 
             genii which have wasted the earth! These are the decrees 
             of fate which have overthrown empires! These are the 
             celestial anathemas which have smitten these walls once so 
@@ -247,14 +242,14 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
            sabbath; the Persian would endure suffocation, before he 
            would blow the fire with his breath; the Indian places 
            supreme perfection in besmearing himself with cow-dung, and 
-           pronouncing mysteriously the word A&#251;m; <ref target="#n1" xml:id="ref1">&#42;</ref> the Mussulman</p>
+           pronouncing mysteriously the word Aûm; <ref target="#n1" xml:id="ref1">*</ref> the Mussulman</p>
            <note xml:id="n1" target="#ref1" type="footnote" place="bottom">
               * This word is, in the religion of the Hindoos, a sacred emblem of the Divinity. 
            It is only to be pronounced in secret, without being heard by any one. It is 
            formed of three letters, of which the first, <hi rend="italic">a</hi>, signifies the principal of all, the 
-           creator, Brama; the second, &#251;, the conservator, Vichenou; and the last, <hi rend="italic">m</hi>, the 
+           creator, Brama; the second, û, the conservator, Vichenou; and the last, <hi rend="italic">m</hi>, the 
            destroyer, who puts an end to all, Chiven. It is pronounced like the monosyllable 
-           &#244;m, and expresses the unity of those three Gods. The idea is precisely that 
+           ôm, and expresses the unity of those three Gods. The idea is precisely that 
            of the Alpha and Omega mentioned in the New Testament.</note>
             </div1>
             <pb xml:id="leaf005r" facs="bmr_nhg.00356.jpg" type="recto"/>
@@ -333,15 +328,15 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             privileged class, who have our laws, customs, and rights, peculiar 
             to ourselves.</p>
                 <span rend="singleLine-left" hand="#h1" xml:id="j1" from="#j1" to="#j2"/>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;And what labor do you perform in our society?</p>
-                <p>P<hi rend="smallcaps">RIVILEGED</hi> C<hi rend="smallcaps">LASS</hi>.&#8212;None; we are not made to work.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;How, then, have you acquired these riches?</p>
-                <p>P<hi rend="smallcaps">RIVILEGED</hi> C<hi rend="smallcaps">LASS</hi>&#8212;By taking the pains to govern you.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;What! is this what you call governing? We toil
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—And what labor do you perform in our society?</p>
+                <p>P<hi rend="smallcaps">RIVILEGED</hi> C<hi rend="smallcaps">LASS</hi>.—None; we are not made to work.</p>
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—How, then, have you acquired these riches?</p>
+                <p>P<hi rend="smallcaps">RIVILEGED</hi> C<hi rend="smallcaps">LASS</hi>—By taking the pains to govern you.</p>
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—What! is this what you call governing? We toil
             and you enjoy! we produce and you dissipate! Wealth proceeds
             from us, and you absorb it. Privileged men! class who
             are not the people; form a nation apart, and govern yourselves.<anchor xml:id="j2"/>
-            <ref target="#3" xml:id="ref3">&#42;</ref></p>
+            <ref target="#3" xml:id="ref3">*</ref></p>
                 <span rend="singleLine-left" hand="#h1" xml:id="k1" from="#k1" to="#k2"/>
                 <note xml:id="n3" target="#ref3" type="footnote" place="bottom">
                   * This dialogue between the people and the indolent classes, is applicable to 
@@ -351,7 +346,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                 and exclusive privileges of wealth and indolence. Compare the Mamlouks of 
                 Egypt, the nobility of Europe, the Nairs of India, the Emirs of Arabia, the patricians 
                 of Rome, the Christian clergy, the Imans, the Bramins, the Bonzes, the 
-                Lamas, etc., etc., and you will find in all the same characteristic feature :&#8212;Men
+                Lamas, etc., etc., and you will find in all the same characteristic feature :—Men
                 living in idleness at the expense of those who labor.<anchor xml:id="k2"/> 
                 </note>
             </div1>
@@ -359,12 +354,12 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             <fw type="pageNum" place="top left">66</fw>
             <fw type="header" place="top">THE RUINS OF EMPIRES.</fw>
             <div1>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Kings are inseperable from their nations. Our 
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Kings are inseperable from their nations. Our 
             king cannot be with you; you possess only his phantom.</p>
                 <p>And the military governors came forward. The people are 
             timorous, said they; we must threaten them; they will submit 
             only to force. Soldiers, chastise this insolent multitude.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Soldiers, you are of our blood! Will you strike 
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Soldiers, you are of our blood! Will you strike 
             your brothers, your relatives? If the people perish who will 
             nourish the army?</p>
                 <p>And the soldiers, grounding their arms, said to the chiefs: 
@@ -374,16 +369,16 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             them with the names of God and religion.</p>
                 <span rend="singleLine-left" hand="#h1" xml:id="l1" from="#l1" to="#l2"/><p>Our dear brethren! our children! God has ordained us to 
                     govern you.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Show us your credentials from God!</p>
-                <p>P<hi rend="smallcaps">RIESTS</hi>&#8212;You must have faith; reason leads astray.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Do you govern without reason?</p>
-                <p>P<hi rend="smallcaps">RIESTS</hi>.&#8212;God commands peace! Religion prescribes
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Show us your credentials from God!</p>
+                <p>P<hi rend="smallcaps">RIESTS</hi>—You must have faith; reason leads astray.</p>
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Do you govern without reason?</p>
+                <p>P<hi rend="smallcaps">RIESTS</hi>.—God commands peace! Religion prescribes
             obedience.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Show us the example.</p>
-                <p>P<hi rend="smallcaps">RIESTS</hi>.&#8212;Would you live without gods or kings?</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;We would live without oppressors.</p>
-                <p>P<hi rend="smallcaps">RIESTS</hi>.&#8212;You must have mediators, intercessors.</p>
-                <p>P<hi rend="smallcaps">EOPLE</hi>.&#8212;Mediators with God and with the king! courtiers
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Show us the example.</p>
+                <p>P<hi rend="smallcaps">RIESTS</hi>.—Would you live without gods or kings?</p>
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—We would live without oppressors.</p>
+                <p>P<hi rend="smallcaps">RIESTS</hi>.—You must have mediators, intercessors.</p>
+                <p>P<hi rend="smallcaps">EOPLE</hi>.—Mediators with God and with the king! courtiers
             and priests, your services are too expensive : we will henceforth manage our own affairs.</p>
                 <p>And the little group said : We are lost! the multitude are
             enlightened.</p>
@@ -401,9 +396,9 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             pointed bonnets, and the Santons with dishevelled hair. Behold 
             with what vehemence they recite their professions of 
             faith! They are now beginning a dispute about the greater 
-            and lesser impurities,&#8212;about the matter and the manner of 
-            ablutions,&#8212;about the attributes of God and his perfections,&#8212; 
-            about the Chaitan, and the good and wicked angels,&#8212;about 
+            and lesser impurities,—about the matter and the manner of 
+            ablutions,—about the attributes of God and his perfections,— 
+            about the Chaitan, and the good and wicked angels,—about 
             death, the resurrection, the interrogatory in the tomb, the 
             judgment, the passage of the narrow bridge not broader than 
             a hair, the balance of works, the pains of hell, and the joys of 
@@ -519,7 +514,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             their form and their application, the case is different, and the 
             Christians are here condemned by their own arguments. For 
             they cannot deny that we are the original source from which 
-            they are derived&#8212;the primitive stock on which they are 
+            they are derived—the primitive stock on which they are 
             grafted; and hence the reasoning is very short: Either our 
             law is from God, and then theirs is a heresy, since it differs 
             from ours, or our law is not from God, and then theirs falls at 
@@ -548,7 +543,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     When our king Cyrus had delivered them from slavery, their 
                     heart was won to us by gratitude; they became our disciples 
                     and imitators; and they admitted our dogmas in the revision 
-                    of their books;<ref target="#4" xml:id="ref4">&#42;</ref> for your Genesis, in particular, was never the 
+                    of their books;<ref target="#4" xml:id="ref4">*</ref> for your Genesis, in particular, was never the 
                     work of Moses, but a compilation drawn up after the return 
                     from the Babylonian captivity, in which are inserted the 
                     Chaldean opinions of the origin of the world.</p>
@@ -558,7 +553,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     ultimately prevailed, and our doctrine, modified by your ideas, 
                     gave rise to a new sect.</p>
                 <note xml:id="n4" target="#ref4" type="footnote" place="bottom">
-                    <p>&#42; In the first periods of the Christian church, not only the most learned of those 
+                    <p>* In the first periods of the Christian church, not only the most learned of those 
                         who have since been denominated heretics, but many of the orthodox conceived 
                         Moses to have written neither the law nor the Pentateuch, but that the work was 
                         a compilation made by the elders of the people and the Seventy, who, after the 
@@ -588,17 +583,17 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     <p>Then, retorting the pretensions of the Christians against 
                         themselves: "Prove to us," said the Lama, "that you are not 
                         Samaneans degenerated, and that the man you make the 
-                        author of your sect is not F&#244;t himself disguised. Prove to us 
+                        author of your sect is not Fôt himself disguised. Prove to us 
                         by historical facts that he even existed at the epoch you 
-                        pretend; for, it being destitute of authentic testimony,<ref target="#6" xml:id="ref6">&#42;</ref> we absolutely 
+                        pretend; for, it being destitute of authentic testimony,<ref target="#6" xml:id="ref6">*</ref> we absolutely 
                         deny it; and we maintain that your very gospels are 
                         only the books of some Mithriacs of Persia, and the Essenians 
-                        of Syria, who were a branch of reformed Samaneans."<ref target="#7" xml:id="ref7">&#8224;</ref></p>
+                        of Syria, who were a branch of reformed Samaneans."<ref target="#7" xml:id="ref7">†</ref></p>
                     <note xml:id="n5" type="footnote" place="bottom" resp="#h3">
                         <p>Chaman, still preserved in Tartary, China, and India. The interpretation given 
                         to it is, man of the woods, a hermit mortifying the flesh, such being the characteristic 
-                        of this sect; but its literal meaning is, celestial (Sam&#226;oui) and explains the 
-                        system of those who are called by it. &#8212; The system is the same as that of the 
+                        of this sect; but its literal meaning is, celestial (Samâoui) and explains the 
+                        system of those who are called by it. — The system is the same as that of the 
                         sectaries of Orpheus, of the Essenians, of the ancient Anchorets of Persia, and the whole
                         eastern country. See Porphyry, de <hi rend="italic">Abstin</hi>. <hi rend="italic">Animal</hi>.</p>
                         <p>These celestial and penitent men carried in India their insanity to such an 
@@ -613,7 +608,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                             page 30; <hi rend="italic">Hist. de Huns</hi>, 2 vols, and preface to the <hi rend="italic">Ezour-Vedam</hi>.</p>
                     </note>
                     <note xml:id="n6" target="#ref6" type="footnote" place="bottom">
-                        <p>&#42; There are absolutely no other monuments of the existence of Jesus Christ 
+                        <p>* There are absolutely no other monuments of the existence of Jesus Christ 
                             as a human being, than a passage in Josephus (<hi rend="italic">Antiq. Jud. lib, 18, c.3</hi>,) a single 
                             phrase in Tacitus (<hi rend="italic">Annal. lib. 15, c. 44</hi>,) and the Gospels. But the passage in 
                             <span rend="singleLine-left" hand="#h1" xml:id="q1" from="#q1" to="#q2"/>
@@ -630,12 +625,12 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                             contemporary apostles." See <hi rend="italic">Beausob</hi>. vol. i. and <hi rend="italic">Hist. des Apologistes de la Relig. 
                             Chret. par Burigni</hi>, a sagacious writer, who has demonstrated the absolute 
                             uncertainty of those foundations of the Christian religion; so that the existence of 
-                            Jesus is no better proved than that of Osiris and Hercules, or that of F&#244;t or<anchor xml:id="q2"/> 
+                            Jesus is no better proved than that of Osiris and Hercules, or that of Fôt or<anchor xml:id="q2"/> 
                             Beddou, with whom, says M. de Guignes, the Chinese continually confound him, 
-                            for they never call Jesus by any other name than F&#244;t. <hi rend="italic">Hist. de Huns</hi>.</p>
+                            for they never call Jesus by any other name than Fôt. <hi rend="italic">Hist. de Huns</hi>.</p>
                     </note>
                     <note xml:id="n7" target="#ref7" type="footnote" place="bottom">
-                        <p>&#8224; That is to say, from the pious romances formed out of the sacred legends of 
+                        <p>† That is to say, from the pious romances formed out of the sacred legends of 
                             the mysteries of Mithra, Ceres, Isis, etc., from whence are equally derived the 
                             books of the Hindoos and the Bonzes. Our missionaries have long remarked a 
                             striking resemblance between those books and the gospels. M. Wilkins expressly</p>
@@ -651,15 +646,15 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     said that they would settle the whole controversy. And one 
                     of them speaking for the whole exclaimed: "It is time to put 
                     an end to these frivolous contests by drawing aside the veil 
-                    from the interior doctrine that F&#244;t himself revealed to 
-                    his disciples on his death bed.<ref target="#8" xml:id="ref8">&#42;</ref></p>
+                    from the interior doctrine that Fôt himself revealed to 
+                    his disciples on his death bed.<ref target="#8" xml:id="ref8">*</ref></p>
                 <p>"All these theological opinions," continued he, "are but 
                     chimeras. All the stories of the nature of the gods, of their 
                     actions and their lives, are but allegories and mythological 
                     emblems, under which are enveloped ingenious ideas of 
                     morals, and the knowledge of the operations of nature in the 
                     action of the elements and the movement of the planets.</p>
-                <p>"The truth is, that all is reduced to nothing&#8212;that all is 
+                <p>"The truth is, that all is reduced to nothing—that all is 
                     illusion, appearance, dream; that the moral metempsychosis 
                     is only the figurative sense of the physical metempsychosis, 
                     or the successive movement of the elements of bodies which 
@@ -674,17 +669,17 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     a wandering imagination, perhaps agreeable enough, but 
                     really chimerical.</p>
                 <p>God itself is nothing more than the moving principle, the 
-                    occult force inherent in all beings&#8212;the sum of their laws and</p>
+                    occult force inherent in all beings—the sum of their laws and</p>
                 <!-- Below is a continued note from the previous page, 106. -->
                 <span rend="singleLine-left" hand="#h1" xml:id="z1" from="#z1" to="#z2"/>
                 <note xml:id="n7a" target="#ref7" type="footnote" place="bottom">
-                    mentions it in a note in the <hi rend="italic">Bhagvat Geeta</hi>. All agree that Krisna, F&#244;t, and Jesus 
+                    mentions it in a note in the <hi rend="italic">Bhagvat Geeta</hi>. All agree that Krisna, Fôt, and Jesus 
                     have the same characteristic features: but religious prejudice has stood in 
                     the way of drawing from this circumstance the proper and natural inference. To 
                     time and reason must it be left to display the truth.<anchor xml:id="z2"/>
                 </note>
                 <note xml:id="n8" target="#ref8" type="footnote" place="bottom">
-                    &#42;The Budsoists have two doctrines, the one public and ostensible, the other 
+                    *The Budsoists have two doctrines, the one public and ostensible, the other 
                     interior and secret, precisely like the Egyptian priests. It may be asked, why 
                     this distinction? It is, that as the public doctrine recommends offerings, expiations, 
                     endowments, etc., the priests find their profit in preaching it to the people; 
@@ -714,16 +709,16 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                         erected therein a real theatre of action, and their notions of 
                         astronomy and geography served to strengthen, if not to 
                         originate, this illusion.</p>
-                    <p>"On the one hand, the Ph&#339;nician navigators who passed 
+                    <p>"On the one hand, the Phœnician navigators who passed 
                         the pillars of Hercules, to fetch the tin of Thule and the amber 
                         of the Baltic, related that at the extremity of the world, 
                         the end of the ocean (the Mediterranean), where the sun sets 
                         for the countries of Asia, were the Fortunate Islands, the 
                         abode of eternal spring; and beyond were the hyperborean 
                         regions, placed under the earth (relatively to the tropics) 
-                        where reigned an eternal night.<ref target="#9" xml:id="ref9">&#42;</ref> From these stories, 
+                        where reigned an eternal night.<ref target="#9" xml:id="ref9">*</ref> From these stories, 
                         misunderstood, and no doubt confusedly related, the imagination of 
-                        the people composed the Elysian fields,<ref target="#10" xml:id="ref10">&#8224;</ref> regions of delight, 
+                        the people composed the Elysian fields,<ref target="#10" xml:id="ref10">†</ref> regions of delight, 
                         placed in a world below, having their heaven, their sun, and 
                         their stars; and Tartarus, a place of darkness, humidity, mire, 
                         and frost. Now, as man, inquisitive of that which he knows 
@@ -736,10 +731,10 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                         subterranean world, that life which it was too painful for him 
                         to lose; and these lower regions seemed commodious for the</p>
                     <note xml:id="n9" target="#ref9" type="footnote" place="bottom">
-                        &#42; Nights of six months duration.
+                        * Nights of six months duration.
                     </note>
                     <note xml:id="n10" target="#ref10" type="footnote" place="bottom">
-                        &#8224; <hi rend="italic">Aliz</hi>, in the Ph&#339;nician or Hebrew language signifies dancing and joyous.
+                        † <hi rend="italic">Aliz</hi>, in the Phœnician or Hebrew language signifies dancing and joyous.
                     </note>
                 </div2>
             </div1>
@@ -756,9 +751,9 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     no means that perfection which you ascribe to them; it is not 
                     true that they have introduced into the world new and 
                     unknown virtues: for example, the equality of men in the sight 
-                    of God,&#8212;that fraternity and that benevolence which follow 
+                    of God,—that fraternity and that benevolence which follow 
                     from it, were formal doctrines of the sect of the Hermatics or 
-                    Samaneans,<ref target="#n11" xml:id="ref11">&#42;</ref> from whom you descend. As to the forgiveness 
+                    Samaneans,<ref target="#n11" xml:id="ref11">*</ref> from whom you descend. As to the forgiveness 
                     of injuries, the Pagans themselves had taught it; but in the 
                     extent that you give it, far from being a virtue, it becomes an 
                     immorality, a vice. Your so much boasted precept of turning 
@@ -785,7 +780,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     your crusades against us, and of those sacrilegious associations, 
                     still subsisting, of men who take an oath to continue</p>
                 <note xml:id="n11" target="#ref11" type="footnote" place="bottom">
-                    &#42; The equity of mankind in a state of nature and in the eyes of God was one
+                    * The equity of mankind in a state of nature and in the eyes of God was one
                     of the principal tenets of the Samaneans, and they appear to be the only ancients
                     that entertained this opinion.
                 </note>
@@ -795,7 +790,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             <fw type="pageNum" place="top right">167</fw>
             <div1>
                 <span rend="singleLine-left" hand="#h1" xml:id="u1" from="#u1" to="#u2"/>
-                <p>them? <ref target="#n12" xml:id="ref12">&#42;</ref> We ask you whether it be gospel charity which has 
+                <p>them? <ref target="#n12" xml:id="ref12">*</ref> We ask you whether it be gospel charity which has 
                     made you exterminate whole nations in America, to annihilate 
                     the empires of Mexico and Peru; which makes you 
                     continue to dispeople Africa and sell its inhabitants like 
@@ -836,7 +831,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     souls of the dead. With your indulgences and your absolutions 
                     you have usurped the power of God himself; and</p>
             <note xml:id="n12" target="#ref12" type="footnote" place="bottom">
-                &#42; The oath taken by the knights of the Order of Malta, is to kill, or make the 
+                * The oath taken by the knights of the Order of Malta, is to kill, or make the 
                 Mahometans prisoners, for the glory of God. 
             </note>
             </div1>
@@ -848,34 +843,34 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                 <p>making a traffic of his favors and pardons, you have put 
                     heaven at auction; and by your system of expiations you 
                     have formed a tariff of crimes, which has perverted all 
-                    consciences." <ref target="#n13" xml:id="ref13">&#42;</ref></p>
+                    consciences." <ref target="#n13" xml:id="ref13">*</ref></p>
                 <p>"Add to this," said the Imans, "that these men have 
-                    invented the most insidious of all systems of wickedness,&#8212;the<anchor xml:id="x2"/> 
+                    invented the most insidious of all systems of wickedness,—the<anchor xml:id="x2"/> 
                     absurd and impious obligation of recounting to them the 
                     most intimate secrets of actions and of thoughts (confessions); 
                     so their insolent curiosity has carried their inquisition even 
-                    into the sanctuary of the marriage bed,<ref target="#n14" xml:id="ref14">&#8224;</ref> and the inviolable 
+                    into the sanctuary of the marriage bed,<ref target="#n14" xml:id="ref14">†</ref> and the inviolable 
                     recesses of the heart."</p>
                 <p>Thus by mutual reproaches the doctors of the different sects 
-                    began to reveal all the crimes of their ministry&#8212;all the vices 
+                    began to reveal all the crimes of their ministry—all the vices 
                     of their craft; and it was found that among all nations the 
                     spirit of the priesthood, their system of conduct, their actions, 
                     their morals, were absolutely the same :</p>
-                <p>That they had everywhere formed secret associations and corporations at enmity with the rest of society: <ref target="#n15" xml:id="ref15">&#8225;</ref></p>
+                <p>That they had everywhere formed secret associations and corporations at enmity with the rest of society: <ref target="#n15" xml:id="ref15">‡</ref></p>
                 <span rend="singleLine-left" hand="#h1" xml:id="w1" from="#w1" to="#w2"/>
                 <note xml:id="n13" target="#ref13" type="footnote" place="bottom">
-                    &#42; As long as it shall be possible to obtain purification from crimes and exemption 
+                    * As long as it shall be possible to obtain purification from crimes and exemption 
                     from punishment by means of money or other frivolous practices; as long as 
                     kings and great men shall suppose that building temples or instituting foundations, 
                     will absolve them from the guilt of oppression and homicide; as long as 
                     individuals shall imagine that they may rob and cheat, provided they observe fast 
                     during Lent, go to confession, and receive extreme unction, it is impossible there 
                     should exist in society any morality or virtue; and it is from a deep conviction 
-                    of truth, that a modern philosopher has called the doctrine of expiations <hi rend="italic">la v&#233;rola 
-                    des soc&#237;&#233;t&#233;s</hi>.
+                    of truth, that a modern philosopher has called the doctrine of expiations <hi rend="italic">la vérola 
+                    des socíétés</hi>.
                 </note>
                 <note xml:id="n14" target="#ref14" type="footnote" place="bottom">
-                    <p>&#8224; Confession is a very ancient invention of the priests, who did not fail to avail<anchor xml:id="w2"/> 
+                    <p>† Confession is a very ancient invention of the priests, who did not fail to avail<anchor xml:id="w2"/> 
                     themselves of that means of governing. It was practised in the Egyptian, Greek, 
                     Phrygian, Persian mysteries, etc. Plutarch has transmitted us the remarkable 
                     answer of a Spartan whom a priest wanted to confess. "Is it to you or to God 
@@ -894,7 +889,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                         on the other hand, how can an honest woman consent to reveal them?</p>
                 </note>
                 <note xml:id="n15" target="#ref15" type="footnote" place="bottom">
-                    &#8225; That we may understand the general feelings of priests respecting the rest of 
+                    ‡ That we may understand the general feelings of priests respecting the rest of 
                     mankind, whom they always call by the name of the people, let us hear one of the
                 </note>
             </div1>

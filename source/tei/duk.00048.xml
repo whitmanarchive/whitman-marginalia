@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00048">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00048">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +25,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00048</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -39,7 +37,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt> 
+            <idno>duk.00048</idno></publicationStmt> 
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
@@ -114,7 +112,7 @@
                     <head type="main">B<hi rend="smallcaps">OOKS</hi> M<hi rend="smallcaps">ENTIONED IN THE</hi> B<hi rend="smallcaps">IBLE NOW</hi> 
                         L<hi rend="smallcaps">OST OR</hi> U<hi rend="smallcaps">NKNOWN</hi>.</head>
                         
-                        <p>&#8212;At your request I have copied
+                        <p>—At your request I have copied
                         out, from the collection I have made, the ten unwritten
                         (I think) lost books, but should be glad
                         to see the rights by better information:</p>
@@ -155,7 +153,7 @@
                         See 1 Kings iv. 37.</item>
                     <item>XI. You may add the 15th Psalm. I have it
                         somewhere in the house, but I <choice><orig>can not</orig><reg>cannot</reg></choice> at present
-                        find it.&#8212;<hi rend="italic">Mr. Ames to Mr. Da Costa</hi>.</item>
+                        find it.—<hi rend="italic">Mr. Ames to Mr. Da Costa</hi>.</item>
                     </list>
                     <p>[What has become of these Books of the Hebrew
                         Scriptures? Their discovery and history
@@ -181,10 +179,10 @@
                     <list>
                         <head type="sub"><hi rend="italic">Years before Christ.</hi></head>
                     <item>Origin of Mankind................................20,000</item>
-                    <item>Flood in Northern Asia&#8212;Emigration of the Arians
+                    <item>Flood in Northern Asia—Emigration of the Arians
                     from the valley of the Oxus and Jaxartes, and of
                     the Shemites from the valley of the Tigris and
-                    Euphrates&#8212;between...............10,000 and 11,000</item>
+                    Euphrates—between...............10,000 and 11,000</item>
                     <item>Egyptian nomes (provinces) under republican form 10,000</item>
                     <item>But, the use of hieroglyphical writing already probable
                     at about.........................................12,000</item>
@@ -194,10 +192,10 @@
                     <item>[About this time Nimrod, and a Turanian empire
                     in Mesopotamia, &amp;c.]</item>
                     <item>Elective kings in Egypt, from............7,230 to 5,41<gap reason="fold" quantity="1" unit="chars"/></item>
-                    <item>Hereditary kings in Upper and Lower Egypt&#8212;a
+                    <item>Hereditary kings in Upper and Lower Egypt—a
                     double empire, from......................5,413 to 3,62<gap reason="fold" quantity="1" unit="chars"/></item>
                     <item>Menes, King of United Egypt............B. C. 3623</item>
-                    <item>Great Chald&#230;an empire begins in Babalonia.... " 3784</item>
+                    <item>Great Chaldæan empire begins in Babalonia.... " 3784</item>
                     <item>Zoroaster, between........................3500 and " 3000</item>
                     <item>Foundation of Babylon............................. " 3250</item>
                     <item>Tyrian chronology begins.......................... " 2760</item>
@@ -220,14 +218,14 @@
                         <pb xml:id="leaf005r" facs="duk_km.00022.jpg" type="recto"/>
                     <head type="main">T<hi rend="smallcaps">HE</hi> D<hi rend="smallcaps">ISCOVERY OF</hi> A<hi rend="smallcaps">MERICA</hi>.</head>
                         
-                        <p>&#8212;John Hanley, a
+                        <p>—John Hanley, a
                     Chinese interpreter, in California, says that Chinese
                     history shows that the continent of America
                     was discovered by Buddhist priests one thousand
                     four hundred years ago, or in the year 459
                     A. D. They called the country Fusang, from a
                     tree which is very prolific in Mexico, and which
-                    served the inhabitants with food and raiment.&#8212;
+                    served the inhabitants with food and raiment.—
                     The historian does not designate the Chinese Columbus.
                 </p>
                     <milestone unit="undeclared" rend="horbar-short-center"/>

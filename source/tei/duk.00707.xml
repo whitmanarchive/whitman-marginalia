@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00707</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,9 +34,9 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00707</idno></publicationStmt>
             <notesStmt>
-                <note type="project" target="#dat1">The printed text on the paste-on is a translation from Cicero's "de natura deorum" that originates in Edward Everett's widely reprinted lecture commemorating the inauguration of the Dudley Observatory, delivered at Albany on August 28, 1856. The lecture was reprinted in the November 1856 issue of <hi rend="italic">The Eclectic Magazine</hi> as "The Utilities of Astronomy" (Volume 39), pp. 374&#8211;392. The whole item is pasted down, making the verso unavailable.</note>
+                <note type="project" target="#dat1">The printed text on the paste-on is a translation from Cicero's "de natura deorum" that originates in Edward Everett's widely reprinted lecture commemorating the inauguration of the Dudley Observatory, delivered at Albany on August 28, 1856. The lecture was reprinted in the November 1856 issue of <hi rend="italic">The Eclectic Magazine</hi> as "The Utilities of Astronomy" (Volume 39), pp. 374–392. The whole item is pasted down, making the verso unavailable.</note>
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -81,7 +81,7 @@
                 theme Be happy
                 <milestone unit="unknown" rend="horbar-full"/></note>
             <note type="authorial" resp="#h1">going forth, seeing all the beautiful
-                perfect things&#8212;
+                perfect things—
                 <milestone unit="unknown" rend="horbar-full"/></note>
             <add rend="pasteon" source="#r1">
                 <q who="unknown" type="written">
@@ -92,9 +92,9 @@
                 beings who had always lived under ground, in convenient,
                 nay, in magnificent dwellings, adorned with
                 statues and pictures, and everything which belongs
-                to prosperous life&#8212;but who had never come above
-                ground,&#8212;who had heard, however, by fame and report,
-                of the being and power of the gods,&#8212;if at a
+                to prosperous life—but who had never come above
+                ground,—who had heard, however, by fame and report,
+                of the being and power of the gods,—if at a
                 certain time, the portals of the earth being thrown
                 open, they had been able to emerge from those hidden
                 abodes to the regions inhabited by us; when

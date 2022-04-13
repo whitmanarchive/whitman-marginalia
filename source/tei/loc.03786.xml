@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03786">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.03786">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +24,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03786</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,7 +34,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -45,7 +42,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>loc.03786</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. An image of the verso of the blue backing sheet is unavailable.</note>             
             </notesStmt>
@@ -56,7 +53,7 @@
                     <title rend="bracketed">Settlers and Indian Battles</title> 
                     <idno type="callnumber">19100</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                </bibl> 
                 
@@ -64,7 +61,7 @@
                <author>unknown</author>
                <title level="a">Letters From The Country</title>
                <title level="j">Life Illustrated</title>
-                   <date when="1856-03-22" >22 March 1856</date>
+                   <date when="1856-03-22">22 March 1856</date>
                    <pubPlace>New York</pubPlace>
                    <biblScope type="page">6</biblScope>
                </bibl>
@@ -161,7 +158,7 @@
 <floatingText rend="flat"> 
 <body> 
     <pb xml:id="leaf005r" facs="loc_km.00049.jpg" type="recto"/>
-    <p>I<hi rend="smallcaps">NDIAN</hi> C<hi rend="smallcaps">ENSUS</hi>.&#8212;According to the cenus returns, the entire number of Indians inhabiting all parts of our country amounts to about 418,000. Of this number, 30,000 is the estimated number of those inhabiting the unexplored territories; 24,100 are the Indians of Texas; 92,130 belong to the tribes living in New Mexico; 32,231 are in California; 22,733 are in Oregon; 11,500 are in Utah.</p>
+    <p>I<hi rend="smallcaps">NDIAN</hi> C<hi rend="smallcaps">ENSUS</hi>.—According to the cenus returns, the entire number of Indians inhabiting all parts of our country amounts to about 418,000. Of this number, 30,000 is the estimated number of those inhabiting the unexplored territories; 24,100 are the Indians of Texas; 92,130 belong to the tribes living in New Mexico; 32,231 are in California; 22,733 are in Oregon; 11,500 are in Utah.</p>
 </body>
 </floatingText>
 
@@ -170,7 +167,7 @@
             <ab><add rend="insertion" place="supralinear">Settlers  &amp;</add> Indian battles</ab>
     
     
-            <add rend="pasteon" source= "#r3"><handShift new="#h4"/>
+            <add rend="pasteon" source="#r3"><handShift new="#h4"/>
   <floatingText>
       <body>   
           <pb xml:id="leaf006r" facs="loc_km.00050.jpg" type="recto"/>
@@ -183,12 +180,3 @@
         </body> 
     </text>
 </TEI>
-            
-   
-           
-            
-          
-            
-            
-
-

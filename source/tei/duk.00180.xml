@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00180</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +33,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00180</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -66,29 +66,29 @@
             <head type="sub" rend="right">Madame D'Arus<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="2" unit="char"/></del><add rend="overwrite" place="over" seq="2">mo</add></subst>nt</head>
             <note type="authorial" resp="#h1" place="right">(talk with Mrs. Rose Feb. 9th, '57</note>
             <ab>Frances Wright was born in Scotland, of
-            gentle lineage&#8212;parents died early&#8212;educated by
-            uncles,&#8212;noblemen; was talented early&#8212;of free
-            enquiring disposition&#8212;republican&#8212;wrote
-            "A few Days in Athens" when 20 years old&#8212;<lb/>
-            &#8212;Came to America&#8212;lectured&#8212;had to do with
-            the "Free Enquirer," an atheistical weekly&#8212;<lb/>
-            &#8212;was a noble, (but much scorned) woman<lb/>
-            &#8212;married D'Arusmont&#8212;the great error
-            of her life&#8212;he coveted her property&#8212;
-            thwarted her&#8212;kept exclusive possession
+            gentle lineage—parents died early—educated by
+            uncles,—noblemen; was talented early—of free
+            enquiring disposition—republican—wrote
+            "A few Days in Athens" when 20 years old—<lb/>
+            —Came to America—lectured—had to do with
+            the "Free Enquirer," an atheistical weekly—<lb/>
+            —was a noble, (but much scorned) woman<lb/>
+            —married D'Arusmont—the great error
+            of her life—he coveted her property—
+            thwarted her—kept exclusive possession
             of her child, a daughter; Frances
             had great wealth (Mrs. Rose says $150,000)<lb/>
-            &#8212;D'A. obtained all&#8212;even a second
+            —D'A. obtained all—even a second
             bequest left to Frances by a Scotch
-            aunt&#8212;Frances had even to sue
+            aunt—Frances had even to sue
             for a maintenance out of her own
-            property.&#8212; Judge allowed her $1000 a year<lb/>
-            &#8212;Frances died somewhere about 1853&#8212;
-            a heart‑broken, harassed woman&#8212;
+            property.— Judge allowed her $1000 a year<lb/>
+            —Frances died somewhere about 1853—
+            a heart‑broken, harassed woman—
             all her philanthropic schemes and
-            ideas, coming to nought&#8212;(I like much
-            her portrait-engraving&#8212;where she is
-            represented seated&#8212;)</ab>
+            ideas, coming to nought—(I like much
+            her portrait-engraving—where she is
+            represented seated—)</ab>
             <pb xml:id="leaf001v" facs="duk_ap_00131.jpg" type="verso"/>
         </body>
     </text>

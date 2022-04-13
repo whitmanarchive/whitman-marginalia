@@ -24,7 +24,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>mid.00006</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -36,7 +36,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>mid.00006</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -143,10 +143,10 @@
                 Germany is kept in a state of fermentation,
                 as ignorant as the rest of the world
                 of what are her constitutional rights, and
-                who are her real masters. Even Turkey&#8212;
-                alas for Europe!&#8212;has too much humanity
+                who are her real masters. Even Turkey—
+                alas for Europe!—has too much humanity
                 for the oppressed, for the security of the
-                European powers. Italy&#8212;softly Italy has
+                European powers. Italy—softly Italy has
                 departed; resurrection, not revolution, is the
                 only hope for her. What shall be said of
                 France? She presents the paradox of elective
@@ -183,8 +183,8 @@
                 whatever struggle gathers in the eventful
                 future.</p><anchor xml:id="zztop"/>
             <pb xml:id="leaf002r" facs="mid.00006.001.jpg" type="recto"/>
-            <note type="authorial" resp="#h2" place="top">[D]ec. 1856&#8212;Aurora Leigh, a new poem<lb/>
-            by Mrs. Browning&#8212;</note>
+            <note type="authorial" resp="#h2" place="top">[D]ec. 1856—Aurora Leigh, a new poem<lb/>
+            by Mrs. Browning—</note>
             <fw type="pageNum" place="top left"><handShift new="#h1"/>462</fw>
             <fw type="header" place="top" rend="italic">Modern English Poets.</fw>
             <fw type="date" place="top right">December,</fw>
@@ -273,8 +273,8 @@
             <l>To issues of harmonious covenant."</l></lg>
             <p>We have in this the germ of much of Mrs.
             Browning's poetry; for, without harping too
-            much upon one string&#8212;for her lyre is fully
-            strung&#8212;we may yet observe that very much
+            much upon one string—for her lyre is fully
+            strung—we may yet observe that very much
             of her music is set in one key, which at
             times gives a monotony to her verse which
             really belongs more to its <hi rend="italic">sound</hi> than its

@@ -24,7 +24,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>mid.00010</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -36,7 +36,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>mid.00010</idno></publicationStmt>
             <notesStmt>
                 <note type="project">On each of the final two surfaces, in an unknown hand, "x"</note>
             </notesStmt>
@@ -133,7 +133,7 @@
             about
             A.D. 1000</note>
             and the band of celestial musicians, are engaged in studying
-            the primary code."&#8212;"A number of glosses or comments
+            the primary code."—"A number of glosses or comments
             on Menu were composed by the Munis, or old
             philosophers, whose treatises, together with that before us,</p>
             <note type="authorial" place="right" resp="#h2" rend="circled">over</note>
@@ -271,7 +271,7 @@
                     <p>That fair water lies there in the sun thus revealed, so
                     much the prouder and fairer because its beauty needed
                     not to be seen. It seems yet lonely, sufficient to itself,
-                    and superior to observation.&#8212;So are these old sentences
+                    and superior to observation.—So are these old sentences
                     like serene lakes in the south-west, at length revealed to
                     us, which have so long been reflecting our own sky in
                     their bosom.</p>
@@ -297,7 +297,7 @@
                     <p>As for the tenets of the Brahmans, we are not so much
                     concerned to know what doctrines they held, as that they
                     were held by any. We can tolerate all philosophies, Atomists,
-                    Pneumatologists, Atheists, Theists,&#8212;Plato, Aristotle,
+                    Pneumatologists, Atheists, Theists,—Plato, Aristotle,
                     Leucippus, Democritus, Pythagorus, Zoroaster and
                     Confucius. <hi rend="underline" hand="#h2">It is the attitude of these men, more than
                     any communication which they make, that attracts us.</hi>

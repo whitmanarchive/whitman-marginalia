@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.03399</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,7 +34,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>loc.03399</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -42,7 +42,7 @@
                     <title>Lincoln's Picture</title>
                     <idno type="callno">Box 39, Folder 12</idno>
                     <date when="1865-03-17">March 17, 1865</date>
-                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
             </sourceDesc>
@@ -77,11 +77,11 @@
                 <note type="authorial" resp="#h3" place="top"><hi rend="underline">keep</hi> <hi rend="underline">carefully</hi></note>
                 <head type="main-authorial" rend="centered"><handShift new="#h1"/><hi rend="underline">Lincoln's</hi> <hi rend="underline">Picture</hi></head>
             <ab>one of the latest taken
-            before he was shot&#8212;
+            before he was shot—
             <del rend="overstrike">th</del> the most satisfactory
             picture of A. L. I have
             ever seen, <add rend="unmarked" place="inline"><handShift new="#h3"/>(</add><handShift new="#h1"/>and I have seen
-            hundreds of different ones<add rend="unmarked" place="inline"><handShift new="#h3"/>)</add><handShift new="#h1"/>&#8212;looks
+            hundreds of different ones<add rend="unmarked" place="inline"><handShift new="#h3"/>)</add><handShift new="#h1"/>—looks
             just like I saw him last on the balcony
             at the National Hotel</ab>
             </div1>

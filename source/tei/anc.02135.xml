@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02135">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02135">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -20,7 +17,7 @@
 <edition><date>2020</date></edition>
 </editionStmt><publicationStmt>
 
-<idno>anc.02135</idno> 
+ 
 
 <distributor>The Walt Whitman Archive</distributor>
 <address>
@@ -50,7 +47,7 @@
     <title level="m">Walt Whitman Archive</title> and Matt Cohen and Zainab Saleh.
   </p>
 </availability>
-</publicationStmt>
+<idno>anc.02135</idno></publicationStmt>
 
 <sourceDesc>
   <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
@@ -70,7 +67,7 @@
   <div1 type="section">
     <head type="sub">Introduction</head>
     
-    <p>Since the earliest years of Whitman's poetic career, readers have noticed the resonance of Persian mysticism in the Good Gray Poet's work&#8212;the Sufic strains of Khwāja Shams-ud-Dīn Muhammad Ḥāfeẓ-e Shīrāzī (Hafiz), Jalāl ad-Dīn Muhammad Rumi (Rumi), Abū-Muhammad Muslih al-Dīn bin Abdallāh Shīrāzī (Sa'di), and others. Time and again since 1866, when the critics Moncure Conway and the Viscount Strangford noted it in their reviews of his poetry, Whitman's readers have re-discovered this apparent inheritance. Because mainstream education in the United States has not engaged the history of Islam or even of the complex development of Muslim presence in North America, it is perhaps to be expected that Whitman's relations with Islam are a recurring surprise in the land that produces the most Whitman criticism. But even considered broadly, the phenomenon prompts questions: How, indeed, did Whitman learn about Islam? and how much did he learn?</p>
+    <p>Since the earliest years of Whitman's poetic career, readers have noticed the resonance of Persian mysticism in the Good Gray Poet's work—the Sufic strains of Khwāja Shams-ud-Dīn Muhammad Ḥāfeẓ-e Shīrāzī (Hafiz), Jalāl ad-Dīn Muhammad Rumi (Rumi), Abū-Muhammad Muslih al-Dīn bin Abdallāh Shīrāzī (Sa'di), and others. Time and again since 1866, when the critics Moncure Conway and the Viscount Strangford noted it in their reviews of his poetry, Whitman's readers have re-discovered this apparent inheritance. Because mainstream education in the United States has not engaged the history of Islam or even of the complex development of Muslim presence in North America, it is perhaps to be expected that Whitman's relations with Islam are a recurring surprise in the land that produces the most Whitman criticism. But even considered broadly, the phenomenon prompts questions: How, indeed, did Whitman learn about Islam? and how much did he learn?</p>
     
     <p>Whitman's marginalia and annotations speak to these questions in many ways. Whitman read about the history of Islam in a range of contemporary sources, and took notes on that history alongside those of other religions and cultures. He also read contemporary editions of "oriental" poetry and orientalist commentary, and engaged Henry David Thoreau's discussions of Eastern writing, including that of the Persian mystics, in <hi rend="italic">A Week on the Concord and Merrimack Rivers</hi>.</p>
     
@@ -124,13 +121,13 @@
             sing for themselves,</l>
             <l>Accepting the rough deific sketches to fill out better in myself . . . . bestowing them 
             freely on each man and woman I see,</l>
-            <l>Discovering as much or more in a framer framing a house. . . . (<hi rend="italic">Leaves of Grass</hi> 1855, 45&#8211;46)</l>
+            <l>Discovering as much or more in a framer framing a house. . . . (<hi rend="italic">Leaves of Grass</hi> 1855, 45–46)</l>
           </lg>
         </body>
     </floatingText>
     </q>
       
-    <p>The great religions past and present are thrown into radical equality by this passage, which would be enough to offend most monotheists. But in the case of Islam, the use of the metaphor of visual reproduction&#8212;"Allah on a leaf"&#8212;is a blasphemous flaunting of the injunction against graven images.</p>
+    <p>The great religions past and present are thrown into radical equality by this passage, which would be enough to offend most monotheists. But in the case of Islam, the use of the metaphor of visual reproduction—"Allah on a leaf"—is a blasphemous flaunting of the injunction against graven images.</p>
     
     <p>But then again: in "Democratic Vistas," Whitman includes the Quran in a list of religious works that demonstrate what he considers to be the grounding coevalness of poetry and religion. The statement is also characteristic of Whitman's understanding of religion as a fundamental urge behind <hi rend="italic">Leaves of Grass</hi>:</p>
     
@@ -167,7 +164,7 @@
       <p>In this annotation, from Duke University's Rare Books and Special Collections, Whitman notes the definition of "alcoran" and statistics on the worldwide percentages of worshippers of different religions.</p>
     </figure>
     
-    <p>Both denominations follow similar Islamic rituals, such as valuing travel to Mecca and following the five pillars of Islam: Shahadah, Salah, Zakat, Hajj, and Fasting; which are believing in Allah and Muhammad, praying five times a day, giving to charity, making a pilgrimage to Mecca, and fasting during the holy month of Ramadan. Sufism, however, follows a more spiritual, mystical form of Islam, heavily focused on remembering Allah, that Allah's presence is to be noticed wherever one may be and whatever one may be doing. Sufism resembles the two main denominations of Islam in that Sufis recite passages of the Quran and devote time to prayer, but Sufis relate differently to its core description of piety. They release their inner desire for materialism and remove themselves from seeking money or prestige, seeking to devote themselves to Allah, the remembrance of Allah, in complete renunciation. They often adopt practices, such as singing or dancing, to remember God, decenter the self, and enter the transcendent stream of divine being. (The Mevlevi Order of whirling dervishes, to which Whitman refers in "Proud Music of the Storm," is among the most famous, founded by followers of Rumi after his death.) For Sufis, the unquenchable desire for unity with the divine can only be pursued through devotion and love, not materialism or logic. Sufi poetry, consequently, de-emphasizes rituals and turns profoundly inward, to the workings of the mind on its path through reciprocity and beneficence and toward utter renunciation of desire (an embodiment of the surrender to Allah indicated in the name of Islam). It is a poetry&#8212;often originally sung or chanted&#8212;designed not to train one in or reinforce rituals or theological precision, but to challenge readers' sensibilities, their very perceptions of the world and the self.</p>
+    <p>Both denominations follow similar Islamic rituals, such as valuing travel to Mecca and following the five pillars of Islam: Shahadah, Salah, Zakat, Hajj, and Fasting; which are believing in Allah and Muhammad, praying five times a day, giving to charity, making a pilgrimage to Mecca, and fasting during the holy month of Ramadan. Sufism, however, follows a more spiritual, mystical form of Islam, heavily focused on remembering Allah, that Allah's presence is to be noticed wherever one may be and whatever one may be doing. Sufism resembles the two main denominations of Islam in that Sufis recite passages of the Quran and devote time to prayer, but Sufis relate differently to its core description of piety. They release their inner desire for materialism and remove themselves from seeking money or prestige, seeking to devote themselves to Allah, the remembrance of Allah, in complete renunciation. They often adopt practices, such as singing or dancing, to remember God, decenter the self, and enter the transcendent stream of divine being. (The Mevlevi Order of whirling dervishes, to which Whitman refers in "Proud Music of the Storm," is among the most famous, founded by followers of Rumi after his death.) For Sufis, the unquenchable desire for unity with the divine can only be pursued through devotion and love, not materialism or logic. Sufi poetry, consequently, de-emphasizes rituals and turns profoundly inward, to the workings of the mind on its path through reciprocity and beneficence and toward utter renunciation of desire (an embodiment of the surrender to Allah indicated in the name of Islam). It is a poetry—often originally sung or chanted—designed not to train one in or reinforce rituals or theological precision, but to challenge readers' sensibilities, their very perceptions of the world and the self.</p>
     
     <p>Certainly, when Whitman utters lines like these, he approaches the claims to divinity that famously got the Sufi Mansur Al-Hallaj imprisoned and executed in 922:</p>
     
@@ -231,7 +228,7 @@
             <l>"It is the central urge in every atom,</l>
             <l>(Often unconscious, often evil, downfallen,)</l>
             <l>To return to its divine source and origin, however distant,</l>
-            <l>Latent the same in subject and in object, without one exception." (<hi rend="italic">Leaves of Grass</hi> 1891-92, 418&#8211;19)</l>
+            <l>Latent the same in subject and in object, without one exception." (<hi rend="italic">Leaves of Grass</hi> 1891-92, 418–19)</l>
           </lg>
         </body>
       </floatingText>
@@ -251,7 +248,7 @@
       <p>Contained in Whitman's cultural geography scrapbook is this flyer for the lecturer Christopher Oscanyan, advertising a lecture on "Turkey and Her Institutions" that includes a description of "the musical chant of the Muezzin from the Minaré," which Whitman mentions in his poem "Salut au Monde!"</p>
     </figure>
     
-    <p>However invested in Sufism Whitman might seem, he was no Sufi. Ever-conscious of his image as a writer in the marketplace and in literary history, Whitman famously created a sense of himself as an organic literary sage, rough and self-taught but tapped into ageless streams of aesthetic creativity. In several surviving documents, Whitman drafts lists of books to be found in his home&#8212;a kind of mini-canon, meant to evoke a vision of the world-historical literary company in which the Good Gray Poet traveled.</p>
+    <p>However invested in Sufism Whitman might seem, he was no Sufi. Ever-conscious of his image as a writer in the marketplace and in literary history, Whitman famously created a sense of himself as an organic literary sage, rough and self-taught but tapped into ageless streams of aesthetic creativity. In several surviving documents, Whitman drafts lists of books to be found in his home—a kind of mini-canon, meant to evoke a vision of the world-historical literary company in which the Good Gray Poet traveled.</p>
     
     
     <figure>
@@ -273,7 +270,7 @@
       <p>A passage from Omar Khayyam's <hi rend="italic">Rubáiyát</hi> (trans. Edward FitzGerald, London: Quaritch, 1872) marked in Whitman's copy, held at the Harry Ransom Center at the University of Texas at Austin.</p>
     </figure>
     
-    <p>Another book Whitman owned, perhaps more fundamentally significant for his knowledge of Hafiz, Rumi, and other mystical writers, was William R. Alger's <hi rend="italic">Poetry of the East</hi> (later retitled <hi rend="italic">Poetry of the Orient</hi>). While the location of Whitman's copy is unknown, Whitman's disciple Horace Traubel reported in 1898 that the poet's marginalia in the book specify that he was gifted a copy by the author in 1860. Whitman also noted in the front of his copy that he read from it, not just silently to himself but out loud to others, on multiple occasions, both during his time in Civil War hospitals in Washington, D.C. and subsequently to Horace Traubel and perhaps other visitors to his home in Camden, New Jersey. Unfortunately, the poems reprinted in Alger are simply listed as examples of gems of poetry from "the East," not distinguished by religion, author, or even language of origin&#8212;a classically Orientalist editorial decision.</p>
+    <p>Another book Whitman owned, perhaps more fundamentally significant for his knowledge of Hafiz, Rumi, and other mystical writers, was William R. Alger's <hi rend="italic">Poetry of the East</hi> (later retitled <hi rend="italic">Poetry of the Orient</hi>). While the location of Whitman's copy is unknown, Whitman's disciple Horace Traubel reported in 1898 that the poet's marginalia in the book specify that he was gifted a copy by the author in 1860. Whitman also noted in the front of his copy that he read from it, not just silently to himself but out loud to others, on multiple occasions, both during his time in Civil War hospitals in Washington, D.C. and subsequently to Horace Traubel and perhaps other visitors to his home in Camden, New Jersey. Unfortunately, the poems reprinted in Alger are simply listed as examples of gems of poetry from "the East," not distinguished by religion, author, or even language of origin—a classically Orientalist editorial decision.</p>
     
     <p>But Whitman is reported to have marked the introductory passage describing the Sufis (63) and a passage about Rumi ("Dschelaleddin") as well (67). Particularly interesting, however, for considering the boundaries of Whitman's identification with Sufi thinking, is a passage he marked in the introduction that suggests a key distinction. "Nothing more distinguishes Eastern from Western thought than this passionate desecration of individuality" (82). Certainly Whitman embraces not just individuality but the complex intermediation of individual with individual, and individual with society. In his notation of this passage, then, is a reminder not just of a departure we can detect in Whitman's poetry and prose from that of the Sufi mystics, but a suggestion that this departure took place as a self-conscious engagement with what Whitman thought mystical Islam had to offer.</p>
     
@@ -305,7 +302,7 @@
   
   <bibl>Fomeshi, Behnam Mirzababazadeh. <hi rend="italic">Constructing the Persian Whitman</hi>. Forthcoming from Leiden University Press.</bibl>
   
-  <bibl>&#8212;. "'Something Foreign in It': A Study of an Iranian Translation of Whitman's Image." <hi rend="italic">Transfer</hi> 14.1-2 (2019): 49-72.</bibl>
+  <bibl>—. "'Something Foreign in It': A Study of an Iranian Translation of Whitman's Image." <hi rend="italic">Transfer</hi> 14.1-2 (2019): 49-72.</bibl>
   
   <bibl>Ford, Arthur L. "The Rose-Garden of the World: Near East Imagery in the Poetry of Walt Whitman." <hi rend="italic">Walt Whitman Quarterly Review</hi> 5 (1987): 12-20.</bibl> 
   
@@ -323,7 +320,7 @@
   
   <bibl>Sharma, Roshan Lal. "Sufic Interpretations of Walt Whitman's 'Song of Myself.'" <hi rend="italic">Studies in Humanities and Social Sciences: IIAS journal of the Inter-University Centre for Humanities and Social Sciences</hi> 12.2 (2005): 61-74.</bibl>
   
-  <bibl>&#8212;. "Walt Whitman and Sufism." <hi rend="italic">Spring Magazine on English Literature</hi> 2.2. (17 February 2017). <ref target="http://www.springmagazine.net/walt-whitman-sufism/">http://www.springmagazine.net/walt-whitman-sufism/</ref></bibl>
+  <bibl>—. "Walt Whitman and Sufism." <hi rend="italic">Spring Magazine on English Literature</hi> 2.2. (17 February 2017). <ref target="http://www.springmagazine.net/walt-whitman-sufism/">http://www.springmagazine.net/walt-whitman-sufism/</ref></bibl>
   
   <bibl>Smith, Jane I. <hi rend="italic">Islam in America</hi>. New York: Columbia University Press, 2009.</bibl>
   

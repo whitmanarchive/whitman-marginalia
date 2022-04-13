@@ -22,7 +22,7 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <idno>loc.03782</idno>
+        
         <distributor>The Walt Whitman Archive</distributor>
         <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,13 +33,13 @@
           <addrLine>Ed-Folsom@uiowa.edu</addrLine>
           <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
         </address>
-        <availability ><p>The text of the original document is in the public domain. Subject to certain exceptions,
+        <availability><p>The text of the original document is in the public domain. Subject to certain exceptions,
             public domain works may be freely copied or used in the creation of derivative works
             without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
             by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
             of the originals for this publication only.</p></availability>
-      </publicationStmt>
+      <idno>loc.03782</idno></publicationStmt>
       <notesStmt>
         <note type="project">On the title page, in the hand of Thomas P. Teale, "To W. Whitman Esq with the compliments of the writer"</note>
       </notesStmt>
@@ -49,7 +49,7 @@
           <title>Report…on Ferry and Water Rights</title>
           <idno type="callno">Box 48, folder 13</idno>
           <date notBefore="1849-03-26" notAfter="1892-03-26">After March 26, 1849</date>         
-          <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+          <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
           <note type="project">Transcribed from digital images of the original item.</note>
         </bibl>
         <bibl type="base" xml:id="r1">
@@ -608,7 +608,7 @@
           city, and instructions how it should be administered, and who were
           qualified and who not.</p>
     <pb xml:id="leaf009v" facs="loc.03782.013.jpg" type="verso"/>
-        <note type="authorial" resp="#h2" place="top" anchored="true">&#8212;is this the first
+        <note type="authorial" resp="#h2" place="top" anchored="true">—is this the first
           of the ferry?</note>
         <fw type="pageNum" place="top">30</fw>
         <span from="#s21" to="#s22" hand="#h2" rend="singleLine-left" xml:id="s21"/><p>This charter of Dongan's <add rend="insertion" place="supralinear"><handShift new="#h2"/>1686</add> <handShift new="#h1"/>" establishes one ferry to Long Island,

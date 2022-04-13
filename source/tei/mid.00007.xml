@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>mid.00007</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,7 +35,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>mid.00007</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -92,8 +92,8 @@
                 this rule, and <hi rend="underline" hand="#h2">in proportion as an author is
                     abased by some, he is lauded by others,
                     not only personally but poetically.</hi> There are,
-                of course, the usual exceptions,&#8212;some one
-                way, as Walter Scott,&#8212;some the other, as in
+                of course, the usual exceptions,—some one
+                way, as Walter Scott,—some the other, as in
                 the case of Southey; but action and reaction
                 is a principle of nature.</p>
             <p>We doubt if there ever were a writer so
@@ -137,11 +137,11 @@
                 that logical and creative phrenzy (if we may
                 like Willis or Emerson coin on our own account)
                 which <hi rend="italic">our</hi> great Anglo-Saxon poet
-                calls "a fine phrenzy"&#8212;(we advisedly say <hi rend="italic">our</hi>,
+                calls "a fine phrenzy"—(we advisedly say <hi rend="italic">our</hi>,
                 for <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice> as much belongs to the American
                 people as he does to the English, seeing
                 that <hi rend="italic">our</hi> ancestors claimed him as a fellow-citizen)
-                &#8212;that Southey was deficient in this
+                —that Southey was deficient in this
                 godlike faculty is evident to any who has
                 read all or even any of his voluminous
                 poems; that he was destitute of <hi rend="italic">bonhomie</hi>
@@ -236,7 +236,7 @@
                 is to the picturesque, variety of mind is to
                 the intellectual world.<anchor xml:id="s6"/> If all men thought
                 alike, human nature would soon become a
-                putrefaction of bigotry&#8212;a dead sea of idiocy.
+                putrefaction of bigotry—a dead sea of idiocy.
                 <hi rend="underline" hand="#h2">Heresy seems to be the gastric juice of the
                     human race. The first utterance of a new
                     doctrine is considered an offense; but in
@@ -409,7 +409,7 @@
             conscientiousness, or rectitude.</p>
             <p>After this little sketching, let us introduce
             the hero of the present drama.</p>
-            <p>Southey thus records his own birth:&#8212;
+            <p>Southey thus records his own birth:—
             "My birthday was Friday, 12th August,
             1774; the time, half-past eight in the
             morning, according to the family Bible.
@@ -541,7 +541,7 @@
                 <l>Lifting the shroud that Time had cast</l>
                 <l>O'er buried hopes."</l></lg>
             <p>We now and then come upon pithy
-                axioms, such as&#8212;(Southey is talking of his
+                axioms, such as—(Southey is talking of his
                 schoolmaster): "When his ill circumstances
                 pressed upon him, he gave way perhaps
                 more readily to impulses of anger; because
@@ -576,7 +576,7 @@
                 <p>We have, however, a most serious charge
                     against the author of Kehama, and one of
                     his own convicting: we quote verbatim his
-                    very words:&#8212;</p>
+                    very words:—</p>
             <p>"One of them (evidently by his name of French
                 extraction) was, however, the most thoroughly
                 fiendish human being that I have ever known.
@@ -1160,8 +1160,8 @@
                 <p>His industry was the most untiring of
                     any author's of modern times. In March,
                     1804, he thus wrote to his friend John
-                    Rickman:&#8212;"I have more in hand than
-                    Bonaparte, or Marquis Wellesley&#8212;digesting
+                    Rickman:—"I have more in hand than
+                    Bonaparte, or Marquis Wellesley—digesting
                     Gothic Law; gleaning moral history from<cb/>
                     monkish Legends; conquering India, or
                     rather Asia, with Albuquerque; filling up
@@ -1187,7 +1187,7 @@
                     Coleridge had been now for some time at
                     Malta, as secretary to Sir Alexander Ball,
                     and Southey's letters to him are full of
-                    hints, which afterwards ripened into works&#8212;
+                    hints, which afterwards ripened into works—
                     Coleridge had always great theories to propound,
                     and was a most suggestive companion
                     and correspondent, as Southey and
@@ -1216,7 +1216,7 @@
             <floatingText rend="flat">
                 <body>
                     <pb xml:id="leaf007r" facs="mid.00007.005.jpg" type="recto"/>
-                    <p>This Scotch Poet was born in 175<subst><del rend="overstrike" hand="#h2" seq="1"><gap reason="illegible" extent="1" unit="number"/></del><add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>9</add></subst><handShift new="#h1"/>.&#8212;Though
+                    <p>This Scotch Poet was born in 175<subst><del rend="overstrike" hand="#h2" seq="1"><gap reason="illegible" extent="1" unit="number"/></del><add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>9</add></subst><handShift new="#h1"/>.—Though
                     a ploughman originally, he rose to high poetical
                     fame. He has been called the greatest
                     untaught genius since <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice>. His poems
@@ -1239,13 +1239,13 @@
                 and to his own robust natu<gap reason="cut off" extent="2" unit="letter"/>
             He was <add rend="insertion" place="supralinear"><handShift new="#h2"/>often</add><handShift new="#h3"/> hard up, an
             improvident, free handed
-            man&#8212;his poems succeeded&#8212;
+            man—his poems succeeded—
             he made £500, an immense
-            sum.&#8212; He took a farm,
-            was appointed exciseman&#8212;
-            (£75 a year)&#8212;lived two or
+            sum.— He took a farm,
+            was appointed exciseman—
+            (£75 a year)—lived two or
             three years in that way,
-            drank, sickened, died.&#8212;</note>
+            drank, sickened, died.—</note>
         </body>
     </text>
 </TEI>

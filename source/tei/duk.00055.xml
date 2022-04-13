@@ -26,7 +26,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00055</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -43,7 +43,7 @@
             by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
             of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00055</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
@@ -51,7 +51,7 @@
                     <title>Magazine Articles and Clippings</title>
                     <idno type="callno">Frey Bibl. III, p. 71</idno>
                     <date notBefore="1851-01-01" notAfter="1892-03-26">After January 1, 1851</date>                   
-                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="base" xml:id="r1">
@@ -62,7 +62,7 @@
                     <publisher>Wiley and Putnam</publisher>
                  <date>January 1851</date>  
                  <biblScope type="vol">13</biblScope>
-                 <biblScope type="pp">21&#8211;26</biblScope>
+                 <biblScope type="pp">21–26</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>

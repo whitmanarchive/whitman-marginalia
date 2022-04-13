@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00087">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00087">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00087</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,7 +33,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -45,7 +41,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00087</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../transcriptions/owu.00090">Whitman's cultural geography scrapbook</ref>. An image of the verso of the backing sheet is unavailable.</note>             
             </notesStmt>
@@ -66,7 +62,7 @@
                     <title level="j">unknown</title>
                     <date>unknown</date>
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page"></biblScope><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
+                    <biblScope type="page"/><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
                 </bibl>
 
             </sourceDesc>
@@ -108,7 +104,7 @@
                         <pb xml:id="leaf003r" facs="duk_km.00019.jpg" type="recto"/>
                         <milestone unit="horbar-short-center"/>
                         
-                        <p><hi rend="smallcaps">AN ENORMOUS APE.</hi>&#8212;In a lecture recently delivered before the British Association for the Advancement of Science, Prof. Owen described a new species of ape, discovered on the western coast of Africa, named the Gorilla species, the adults of which attain the height of five feet five inches, and are three feet broad across the chest.  Its head is double the size of a man's, and its extremities are enormously developed.  They exist in some numbers in the interminable forests of the Gambia river.  The negroes of the country, in their excursions into the forests in search of ivory, exhibited little fear of the lion, as it slunk away from man, but they dreaded the gorilla, for when he saw man advancing he came down out of the trees to the attack, and could strangle a man with the greatest ease. The strength of this man-ape is enormous; his jaw is as powerful as that of a lion, and his canine teeth equally formidable. To this species&#8212;the great Gorilla&#8212;those reports and notices related of the much dreaded, ape-like animal of the African wilds, that were met with in the records of travellers, from old Rattell down to Mrs. Bowditch's reminiscences of Ashantee.</p>
+                        <p><hi rend="smallcaps">AN ENORMOUS APE.</hi>—In a lecture recently delivered before the British Association for the Advancement of Science, Prof. Owen described a new species of ape, discovered on the western coast of Africa, named the Gorilla species, the adults of which attain the height of five feet five inches, and are three feet broad across the chest.  Its head is double the size of a man's, and its extremities are enormously developed.  They exist in some numbers in the interminable forests of the Gambia river.  The negroes of the country, in their excursions into the forests in search of ivory, exhibited little fear of the lion, as it slunk away from man, but they dreaded the gorilla, for when he saw man advancing he came down out of the trees to the attack, and could strangle a man with the greatest ease. The strength of this man-ape is enormous; his jaw is as powerful as that of a lion, and his canine teeth equally formidable. To this species—the great Gorilla—those reports and notices related of the much dreaded, ape-like animal of the African wilds, that were met with in the records of travellers, from old Rattell down to Mrs. Bowditch's reminiscences of Ashantee.</p>
                         
                         <milestone unit="horbar-short-center"/>
                     </body>
@@ -117,4 +113,3 @@
             </body>
     </text>
 </TEI>
-

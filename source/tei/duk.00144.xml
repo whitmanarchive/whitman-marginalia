@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00144</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +33,7 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00144</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">Grier claims that Whitman paraphrased Joseph Gostwick's literal translation of the Nibelungenlied in <hi rend="italic">German Literature</hi> (Philadelphia, 1854) probably "in 1858 or slightly later" (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1818).</note>
             </notesStmt>
@@ -76,21 +76,21 @@
                 mens</orig><reg>specimens</reg></choice>, a glimpse of the old verses, by a free
             translation of them, we refer those who <del rend="overstrike">a</del> desire
                 a <del rend="overstrike">fuller</del> complete resumé of the Nibelungen, to
-            Carlyle's <subst><del rend="overstrike" seq="1">article</del> <add rend="unmarked" place="supralinear" seq="2">essay</add></subst> of that name&#8212;to which, however, we
-            are <hi rend="underline">not</hi> indebted for our own article in any particular.&#8212;
-            The translations we give are original in this article.&#8212;</p>
+            Carlyle's <subst><del rend="overstrike" seq="1">article</del> <add rend="unmarked" place="supralinear" seq="2">essay</add></subst> of that name—to which, however, we
+            are <hi rend="underline">not</hi> indebted for our own article in any particular.—
+            The translations we give are original in this article.—</p>
             <pb xml:id="leaf002r" facs="duk.00144.001.jpg" type="recto"/><!-- Grier says these are two scraps, formerly pinned together. -->
             <p>Like all the <subst><del rend="overstrike" seq="1">poems</del> <add rend="unmarked" place="supralinear" seq="2">productions</add></subst> of the <subst><del rend="overwrite" seq="1">n</del><add rend="overwrite" place="over" seq="2">earlier</add></subst> northern
             bards, German or Scandinavian, the
             poem is not subjective but eminently
-            objective.&#8212;<subst><del rend="overwrite" seq="1">T</del><add rend="overwrite" place="over" seq="2">It</add></subst> gives <add rend="insertion" place="supralinear">definite</add> characters, <subst><del rend="overwrite" seq="1">&#8212;</del><add rend="insertion" place="supralinear" seq="2">good or bad,&#8212;</add></subst> it relate<unclear reason="illegible" resp="#lmg" cert="medium">s</unclear>
-                what is done or said.&#8212;All is narrative;
-            no sentiment, or reflection, or corollary.&#8212;
+            objective.—<subst><del rend="overwrite" seq="1">T</del><add rend="overwrite" place="over" seq="2">It</add></subst> gives <add rend="insertion" place="supralinear">definite</add> characters, <subst><del rend="overwrite" seq="1">—</del><add rend="insertion" place="supralinear" seq="2">good or bad,—</add></subst> it relate<unclear reason="illegible" resp="#lmg" cert="medium">s</unclear>
+                what is done or said.—All is narrative;
+            no sentiment, or reflection, or corollary.—
                 <metamark function="paragraph" place="left">¶</metamark> We have said that the spinal <del rend="overstrike">chara strength
                 of the</del> connection of the piece is Pagan;
             yet, <del rend="overstrike">in</del> as we have it, <del rend="overstrike">many of</del> a clumsy
             attempt is made to Christianize <del rend="overstrike">the</del>
-            many of the characters.&#8212; <del rend="overstrike">Some of</del> The
+            many of the characters.— <del rend="overstrike">Some of</del> The
             knights go to mass; and there is, in
             general, the same change as <subst><del rend="overstrike" seq="1">has been</del> <add rend="unmarked" place="supralinear" seq="2">that</add></subst>
                 attempted with some of the old <choice><orig>archi‑<lb/>
@@ -98,14 +98,14 @@
             chopping off a little here and there,
             and <subst><del rend="overstrike" seq="1">changing</del> <add rend="unmarked" place="supralinear" seq="2">altering</add></subst> the names from Jupiter
                 <subst><del rend="overstrike" hand="#h2" seq="1">and</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>or</add></subst> <handShift new="#h1"/>Mars <add rend="insertion" place="supralinear"><subst><add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>or</add> <del rend="overstrike" seq="1" hand="#h2"><handShift new="#h1"/>and</del></subst> Minerva</add> to St. Peter and <del rend="overstrike">St.</del> Michael<!--There may be a comma or a period here; Grier doesn't note it.-->
-                and the Virgin Mary.&#8212;</p>
+                and the Virgin Mary.—</p>
             <pb xml:id="leaf002v" facs="duk_ap_00001.jpg" type="verso"/>
             <pb xml:id="leaf003r" facs="duk.00144.002.jpg" type="recto"/>
             <note type="editorial" resp="#h3" place="top">2</note>
             <l>Before the vesper hour, lo! a great movement
             of knights in the court‑yard,</l>
             <l>To engage in a tournament, for the
-            royal pastime.&#8212;</l>
+            royal pastime.—</l>
             <l>Looking on, among the rest, there sat the
             two wealthy queens,</l>
             <l>And talked of the heroes <del rend="overstrike">most</del> worthy
@@ -115,9 +115,9 @@
             right this kingdom, and the rule
             of it, is his."</l>
             <l>Then said the lady Brunhilde, "Nay,</l>
-            <l>The King, <add rend="insertion" place="supralinear">your brother,</add> is most noble&#8212;If none were
+            <l>The King, <add rend="insertion" place="supralinear">your brother,</add> is most noble—If none were
             living but you and your man,</l>
-            <l>Then <subst><del rend="overstrike" seq="1">it</del> <add rend="insertion" place="supralinear" seq="2">what you say</add></subst> might be&#8212;but not while
+            <l>Then <subst><del rend="overstrike" seq="1">it</del> <add rend="insertion" place="supralinear" seq="2">what you say</add></subst> might be—but not while
             Gunther lives."</l>
             <pb xml:id="leaf003v" facs="duk_ap_00002.jpg" type="verso"/>
             <pb xml:id="leaf004r" facs="duk.00144.003.jpg" type="recto"/>
@@ -133,7 +133,7 @@
             treasure shall remain buried,</l>
             <l>As long as <subst><del rend="overstrike" seq="1">any</del> <add rend="unmarked" place="supralinear" seq="2">one</add></subst> of Gunther's royal family
             is alive;</l>
-            <l>Therefore ask me no more&#8212;but do with
+            <l>Therefore ask me no more—but do with
             me what you will."</l>
             <l>Then turning to a follower, Kriemhilde
             commanded him</l>
@@ -146,9 +146,9 @@
             head of Kriemhilde's brother.</l>
             <l>He looked at it a moment, and then with
             stern resolution, to the queen</l>
-            <l>"Gunther," said he, "is dead&#8212;and Gernot
+            <l>"Gunther," said he, "is dead—and Gernot
             and Giselher, thy brothers all, are dead,</l>
-            <l>And I shall soon follow them&#8212;yet,
+            <l>And I shall soon follow them—yet,
             she‑wolf,</l>
             <l>I tell you not the hiding‑place of
             the gold and gems."</l>
@@ -183,7 +183,7 @@
             <l>Thus love doth evermore bring dole
             and sorrow,</l>
             <l>And thus ends the Song of the
-            Nibelungen.&#8212;</l>
+            Nibelungen.—</l>
             <pb xml:id="leaf005v" facs="duk_ap_00004.jpg" type="verso"/>
         </body>
     </text>

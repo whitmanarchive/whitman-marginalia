@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02140">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02140">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -19,7 +16,7 @@
 <edition><date>2020</date></edition>
 </editionStmt><publicationStmt>
 
-<idno>anc.02140</idno> 
+ 
 
 <distributor>The Walt Whitman Archive</distributor>
 <address>
@@ -49,7 +46,7 @@
     <title level="m">Walt Whitman Archive</title> and Kenneth M. Price.
   </p>
 </availability>
-</publicationStmt>
+<idno>anc.02140</idno></publicationStmt>
 
 <sourceDesc>
   <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
@@ -84,9 +81,9 @@
     </floatingText>
     </q>
     
-    To neutralize the daunting achievements of the British literary heritage, Whitman contended that Britain was tired, on the decline, spent.  In contrast, he claimed that the U.S. was raw, rank, vibrant, young, vital, and full of possibilities. These characteristics would be all the more apparent if American writers ceased being fettered by British models and politics that were all awry: "Of the leading British poets many who began with the rights of man, abj[i?]ured their beginning and came out for king[c]raft priestcraft, obedience, and so forth.&#8212;Southey, Coleridge, and Wordsworth, did so."<note xml:id="n4" type="authorial"><ref target="https://whitmanarchive.org/manuscripts/marginalia/annotations/duk.00169.html">"What are inextricable from the British poets,"</ref> in the <hi rend="italic">Walt Whitman Archive</hi>.</note></p>
+    To neutralize the daunting achievements of the British literary heritage, Whitman contended that Britain was tired, on the decline, spent.  In contrast, he claimed that the U.S. was raw, rank, vibrant, young, vital, and full of possibilities. These characteristics would be all the more apparent if American writers ceased being fettered by British models and politics that were all awry: "Of the leading British poets many who began with the rights of man, abj[i?]ured their beginning and came out for king[c]raft priestcraft, obedience, and so forth.—Southey, Coleridge, and Wordsworth, did so."<note xml:id="n4" type="authorial"><ref target="https://whitmanarchive.org/manuscripts/marginalia/annotations/duk.00169.html">"What are inextricable from the British poets,"</ref> in the <hi rend="italic">Walt Whitman Archive</hi>.</note></p>
     
-    <p>What remains surprising is Whitman's remarkable confidence in the face of the British poetic tradition. This confidence was not a result of a thorough mastery of their writings but instead of a journalist's rough and ready understanding based on a cursory&#8212;but perceptive&#8212;analysis. As noted, he gained his understanding of their accomplishments primarily by reading reviews of their writings in any number of periodicals.<note xml:id="n5" type="authorial">Whitman also had access to the poetry of various British writers through Ludwig Herrig's anthology <hi rend="italic">British Classical Authors</hi> (Brunswick: George Westermann, 1851) and through volumes on some individual writers, including Percy Shelley.  Whitman's copy of Shelley is in the Bryn Mawr College library and, interestingly, shows more interest in Shelley's prose than in his poetry. See Kenneth M. Price, "Whitman's Anthology of English Literature," <hi rend="italic">Library Notes</hi> [Duke University] 50 (1982), 33-34, and Peter Van Egmond, "Bryn Mawr College Library Holdings of Whitman Books," <hi rend="italic">Walt Whitman Review</hi> 20 (June 1974), 41-50. The most thorough recent study of Whitman and the British writers is Gary Schmidgall, <hi rend="italic">Containing Multitudes: Walt Whitman and the British Literary Tradition</hi> (New York: Oxford University Press, 2014). An earlier study that remains useful is Floyd Stovall, <hi rend="italic">The Foreground of</hi> Leaves of Grass (Charlottesville: University Press of Virginia, 1974).</note>  In his marginalia he displays an aggressive engagement with this material, clarifying how he challenged virtually all of his foreign predecessors. These responses were vital in shaping Whitman's poetics, but so too was his encounter with less lofty material. When a reviewer suggested one should read only difficult writers, Whitman argued with him in the margin: "Still all kinds of light reading, novels, newspapers, gossip etc, serve as manure for the few great productions, and are indispensable or perhaps are premises to something better."<note xml:id="n6" type="authorial">"Thoughts on Reading, " <hi rend="italic">American Whig Review</hi> 1 (1845), 485.</note></p>
+    <p>What remains surprising is Whitman's remarkable confidence in the face of the British poetic tradition. This confidence was not a result of a thorough mastery of their writings but instead of a journalist's rough and ready understanding based on a cursory—but perceptive—analysis. As noted, he gained his understanding of their accomplishments primarily by reading reviews of their writings in any number of periodicals.<note xml:id="n5" type="authorial">Whitman also had access to the poetry of various British writers through Ludwig Herrig's anthology <hi rend="italic">British Classical Authors</hi> (Brunswick: George Westermann, 1851) and through volumes on some individual writers, including Percy Shelley.  Whitman's copy of Shelley is in the Bryn Mawr College library and, interestingly, shows more interest in Shelley's prose than in his poetry. See Kenneth M. Price, "Whitman's Anthology of English Literature," <hi rend="italic">Library Notes</hi> [Duke University] 50 (1982), 33-34, and Peter Van Egmond, "Bryn Mawr College Library Holdings of Whitman Books," <hi rend="italic">Walt Whitman Review</hi> 20 (June 1974), 41-50. The most thorough recent study of Whitman and the British writers is Gary Schmidgall, <hi rend="italic">Containing Multitudes: Walt Whitman and the British Literary Tradition</hi> (New York: Oxford University Press, 2014). An earlier study that remains useful is Floyd Stovall, <hi rend="italic">The Foreground of</hi> Leaves of Grass (Charlottesville: University Press of Virginia, 1974).</note>  In his marginalia he displays an aggressive engagement with this material, clarifying how he challenged virtually all of his foreign predecessors. These responses were vital in shaping Whitman's poetics, but so too was his encounter with less lofty material. When a reviewer suggested one should read only difficult writers, Whitman argued with him in the margin: "Still all kinds of light reading, novels, newspapers, gossip etc, serve as manure for the few great productions, and are indispensable or perhaps are premises to something better."<note xml:id="n6" type="authorial">"Thoughts on Reading, " <hi rend="italic">American Whig Review</hi> 1 (1845), 485.</note></p>
     
     <figure>
       <graphic url="duk_nhg.00317.jpg"/>

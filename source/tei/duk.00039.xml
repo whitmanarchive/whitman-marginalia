@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00039">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00039">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +22,7 @@
                 <edition>2015</edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00039</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -48,7 +44,7 @@
                     <p>Permission to reproduce the graphic images in this archive has been granted 
                         by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00039</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
@@ -58,7 +54,7 @@
                     <title>Excerpt from North British Review, American Edition, vol. VI</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1849-08-01" notAfter="1892-03-26">August 1849 or later</date>
-                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="base" xml:id="r1">
@@ -66,7 +62,7 @@
                     <title level="a">The Slavonians and Eastern Europe" and "The Railway System of Great Britain</title>
                     <title level="j">The North British Review</title>
                     <date>August 1849</date>
-                    <publisher>Leonard Scott &#38; Co.</publisher>
+                    <publisher>Leonard Scott &amp; Co.</publisher>
                     <pubPlace>New York</pubPlace>
                     <biblScope type="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
                 </bibl>
@@ -88,7 +84,7 @@
 <text type="marginalia">
     <body>
         <pb xml:id="leaf001r" facs="duk.00039.001.jpg" type="recto"/>
-        <note type="authorial" place="top" resp="#h1"><hi rend="underline">Valuable resum&#233;</hi></note>
+        <note type="authorial" place="top" resp="#h1"><hi rend="underline">Valuable resumé</hi></note>
         <fw type="date" place="top left">1849.</fw>
         <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
         <fw type="pageNum" place="top right">283</fw>
@@ -119,7 +115,7 @@
             most of the grosser errors by which 
             the work is disfigured. As for the other 
             book, what we have already said, we say 
-            once more:&#x2014;It is a bushel of chaff, from 
+            once more:—It is a bushel of chaff, from 
             which those who think it worth their while, 
             and who have sufficient patience and skill, 
             may contrive to extract a few grains of 
@@ -127,11 +123,11 @@
         <milestone unit="undeclared" rend="horbar-short"/>
         <div1>
             <list>
-                <item><hi rend="smallcaps">ART.</hi> IX&#x2014;1. <hi rend="italic">Eastern Europe and the
+                <item><hi rend="smallcaps">ART.</hi> IX—1. <hi rend="italic">Eastern Europe and the
                 Emperor Nicholas</hi>. By the Author of "Revelations
-                of Russia," &#38;c. 2 Vols. London,
+                of Russia," &amp;c. 2 Vols. London,
                 1846.</item>
-                <item>2. <hi rend="italic">Histoire de la Langue et de la Litt&#233;rature 
+                <item>2. <hi rend="italic">Histoire de la Langue et de la Littérature 
                 des Slaves</hi>. Par F.G. E<hi rend="smallcaps">ICHHOFF</hi>. Paris,
                 1839.</item>
                 <item>3. <hi rend="italic">Dalmatia and Montenegro; with a Journey
@@ -174,7 +170,7 @@
             and all but beardless face, oblique eyes, and 
             square skull; and the <hi rend="smallcaps">CAUCASIAN</hi> of Western 
                 Asia and Europe, with his fair skin, oval 
-                face, full brow, and rounded skull;&#8212;such, 
+                face, full brow, and rounded skull;—such, 
                 as every school-boy knows, are the three 
                 great types or varieties into which naturalists 
                 have divided the inhabitants of our planet. 
@@ -183,8 +179,8 @@
                 with these three varieties of human 
                 beings or their combinations, the historian 
                 is able, in virtue of it, to announce one 
-                important fact at the very outset,&#8212;to wit, that, <span rend="singleLine-left" hand="#h1" xml:id="l1" from="#l1" to="#l2"/><note type="authorial" place="right" resp="#h1">? yes, of late<lb/>
-                    centuries&#8212;<lb/>
+                important fact at the very outset,—to wit, that, <span rend="singleLine-left" hand="#h1" xml:id="l1" from="#l1" to="#l2"/><note type="authorial" place="right" resp="#h1">? yes, of late<lb/>
+                    centuries—<lb/>
                     but how<lb/>
                     about<lb/>
                     those<lb/>
@@ -199,14 +195,14 @@
                 variety.</hi> In the broad field and long duration 
                 of Ethiopic or Negro life, only one native 
                 and spontaneous civilisation appears to 
-                have presented itself&#8212;that of the ancient 
-                and almost mythical kingdom of Mer&#246;e on 
+                have presented itself—that of the ancient 
+                and almost mythical kingdom of Meröe on 
                 the sources of the Nile. Mongolian humanity, 
                 on the other hand, if we except the 
                 two abortive beginnings of the native 
             Mexicans and Peruvians in America, has been
             able as yet to produce but one great 
-            civilisation&#8212;that of the Chinese and Japanese. 
+            civilisation—that of the Chinese and Japanese. 
             With this Ethiopic retrogression, and this 
             Mongolian uniformity, compare Caucasian 
             progress, as exhibited in the splendid 
@@ -222,7 +218,7 @@
                 and philological differences observable 
                 within its field, he is able, in the first place, 
                 to separate it into two great families of 
-                nations, essentially distinct&#8212;the <hi rend="italic">Semitic</hi> family, 
+                nations, essentially distinct—the <hi rend="italic">Semitic</hi> family, 
                 consisting of men having the Arabic 
                 physiognomy, and speaking a class of 
                 languages, of which the Arabic is the type;</p>
@@ -251,7 +247,7 @@
             marked and important. Schlosser, whose 
             scheme on this subject is the best that we 
             have seen, enumerates four leading 
-            subdivisions of the Indo-European family:&#8212;
+            subdivisions of the Indo-European family:—
             1. The Armenian race, whose seat is in the 
             vicinity of the Caspian, and whose part in 
             history has hitherto been small; 2. The 
@@ -260,14 +256,14 @@
             Europe, and of Central Asia, to the confines of 
             the Mongolian countries; 3. The Pelasgic 
             race, diffused, in the remotest ages, through 
-            Asia Minor, the &#230;gean Islands, Greece, 
+            Asia Minor, the ægean Islands, Greece, 
             Italy, and other parts of Southern Europe; 
             and the mother-race of the great Greek and 
             Roman peoples; and 4. The Indo-Persic 
             race proper, stretching in Asia from the 
             Caspian to the Bay of Bengal; and the 
             parent, in the west, of the two great modern races, 
-            the Celts of Gaul, Britain, Spain, &#38;c., and 
+            the Celts of Gaul, Britain, Spain, &amp;c., and 
             the Germans of central Europe and the 
             Scandinavian peninsulas. All these races 
             scattered as they are geographically, and 
@@ -280,7 +276,7 @@
             distinctions as these, the student of history 
             ought to take care at the same time thoroughly 
             to digest and appropriate the positive 
-            notion that is wrapped up in them,&#8212;to wit, 
+            notion that is wrapped up in them,—to wit, 
             that our species is not a huge collection of 
             perfectly similar human beings, but an aggregation 
             of a number of separate groups or 
@@ -324,7 +320,7 @@
             differences craniological; or whether, in the 
             spirit of a deeper physiology, we adjourn the 
             question by refusing to connect them with 
-            aught less than the whole corporeal organism&#8212;bone, chest, limb, skin, muscle, and 
+            aught less than the whole corporeal organism—bone, chest, limb, skin, muscle, and 
             nerve; they are, at all events, real and 
             substantial; and Englishmen will never conceive 
             the world as it is, will never be intellectually 
@@ -355,7 +351,7 @@
             movement, including the whole of Greek 
             and Roman activity; to this succeeded the<cb/></p>
             <pb xml:id="leaf002r" facs="duk.00039.002.jpg" type="recto"/>
-            <note type="authorial" place="top" resp="#h2"><gap reason="illegible"></gap> [Great?] Commencement of <hi rend="underline">Russia</hi><lb/>
+            <note type="authorial" place="top" resp="#h2"><gap reason="illegible"/> [Great?] Commencement of <hi rend="underline">Russia</hi><lb/>
             a.d. 850</note>
             <fw type="date" place="top left">1849.</fw>
             <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
@@ -390,10 +386,10 @@
                 Carpathian mountains; the Tchekhes or 
                 Slavonians of the three independent states or 
                 kingdoms of Bohemia, Moravia, and 
-                Hungary; and the medley of Gr&#230;co-Slavonian 
+                Hungary; and the medley of Græco-Slavonian 
                 nations, Croats, Servians, Bulgarians, 
-                Slavonians proper, Dalmatians, &#38;c., attached to 
-                the Greek Empire&#8212;such, in the ninth 
+                Slavonians proper, Dalmatians, &amp;c., attached to 
+                the Greek Empire—such, in the ninth 
                 century, were the four leading divisions of the 
                 Slavonic family. A great change was produced 
                 in the condition of these four Slavonian 
@@ -401,7 +397,7 @@
                 mutual relations, by the introduction among 
                 them of Christianity. There were two 
                 quarters, it is evident, from which Christianity 
-                might reach the Slavonic nations&#8212;
+                might reach the Slavonic nations—
                 the Latin world on the west, spiritually 
                 subject to the Roman pontiffs; or the Greek 
                 world on the east, spiritually subject to the 
@@ -413,7 +409,7 @@
                 from the West, (<hi rend="smallcaps">a.d.</hi> 700-1000,) and 
                 consequently became, for the most part, 
                 adherents of the Latin or Roman Catholic 
-                Church; the Gr&#230;co-Slavonians, and the 
+                Church; the Græco-Slavonians, and the 
                 Muscovites or Great Russians, on the other 
                 hand, were converted chiefly by Greek 
                 missionaries, (<hi rend="smallcaps">a.d.</hi> 640-1100,) and consequently 
@@ -426,7 +422,7 @@
                 <cb/>
                 very fact members of the great confederacy 
                 of the Western nations; while the Russians, 
-                the Bulgarians, &#38;c., fell back, as it were, 
+                the Bulgarians, &amp;c., fell back, as it were, 
                 into the arms of the East. This distinction 
                 was perpetuated by certain corresponding 
                 differences in the written characters used by 
@@ -441,7 +437,7 @@
                 the Latin character and the Latin form of 
                 service triumphed among all the Slavonian 
                 Romanists, with the exception of some 
-                Romanist communities among the Gr&#230;co-Slavonians 
+                Romanist communities among the Græco-Slavonians 
                 of the Adriatic, for whom an 
                 expressly new character was invented, 
                 called the Glagolitic, and who were allowed, 
@@ -452,7 +448,7 @@
                 as between two opposite pressures, we have 
                 seen the Slavonian populations struggling 
                 and gradually moulding themselves from 
-                the fourth to the tenth century&#8212;to wit, the 
+                the fourth to the tenth century—to wit, the 
                 encroachments of the German powers on the 
                 west, and the indefatigable irruptions of the 
                 Asiatic race from the east, did not yet cease 
@@ -543,7 +539,7 @@
                assigned it as fief to his eldest son Albert, it 
                gradually acquired, by marriage, inheritance, 
                or conquest, (1273-1560,) dominion 
-               over Bohemia, Moravia, Hungary, &#38;c., thus 
+               over Bohemia, Moravia, Hungary, &amp;c., thus 
                absorbing into itself the whole of the Tchekh 
                portion of the Slavonian family. It was in 
                consequence of this "Very extension of its 
@@ -615,10 +611,10 @@
                of Geysa, assuming the title of King of 
                Hungary, became known as a warlike 
                potentate; and his successors following in his 
-               footsteps, added the Gr&#230;co-Slavonian territories 
+               footsteps, added the Græco-Slavonian territories 
                of Croatia (1100), Slavonia proper,</p>
             <pb xml:id="leaf004r" facs="duk.00039.004.jpg" type="recto"/>
-            <note type="authorial" place="top" resp="#h2">&#9759;</note>
+            <note type="authorial" place="top" resp="#h2">☟</note>
             <note type="authorial" place="top" resp="#h2">original Slavonians</note>
             <fw type="date" place="top left">1849.</fw>
             <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
@@ -626,7 +622,7 @@
             <cb/>
             <span rend="singleLine-left" hand="#h2" xml:id="e1" from="#e1" to="#e2"/>
             <p>nal condition, when they were but a vast aggregation of barbaric tribes, adoring Sviantovid, drinking mead, and dancing to the sound 
-            of the gusla&#8212;might have been led to form of 
+            of the gusla—might have been led to form of 
             them. It had been from no want of real
                 <hi rend="italic">stamina</hi> in themselves, but rather from an 
             accumulation of irresistible circumstances<anchor xml:id="e2"/>
@@ -693,9 +689,9 @@
             the thirteenth century; its northern districts 
             are one continued manufactory of linens; 
             and its calicoes, woollens, china-ware, 
-            cutlery, &#38;c., employ thousands of hands. From 
+            cutlery, &amp;c., employ thousands of hands. From 
             the rich adjoining country of Moravia, the 
-            capital of which is Br&#252;nn, a town of about 
+            capital of which is Brünn, a town of about 
             35,000 inhabitants, there is a large export 
             trade to various parts of Germany. 
             Hungary, whose commercial capital is Pesth, 
@@ -746,8 +742,8 @@
             Slavonian territory lying between the Venetians 
             and the Croats, is the growing Austrian sea-</p>
             <pb xml:id="leaf005r" facs="duk.00039.005.jpg" type="recto"/>
-            <note type="authorial" place="top" resp="#h2">&#9759;</note>
-            <note type="authorial" place="top" resp="#h2">Slavonic songs,<!-- might say "souls" instead of songs. Would appreciate editorial input. -->&#8212;poetry</note>
+            <note type="authorial" place="top" resp="#h2">☟</note>
+            <note type="authorial" place="top" resp="#h2">Slavonic songs,<!-- might say "souls" instead of songs. Would appreciate editorial input. -->—poetry</note>
             <fw type="date" place="top left">1849.</fw>
             <fw type="header" place="top"><hi rend="italic">The Slavonians and Eastern Europe.</hi></fw>
             <fw type="pageNum" place="top right">295</fw>
@@ -791,7 +787,7 @@
                 <span rend="singleLine-left" hand="#h2" xml:id="k1" from="#k1" to="#k2"/>also from the consciousness of a difference 
                 of character, there prevails a certain <hi rend="underline">large 
                 and melancholy</hi> wildness, as we occidentals 
-                <hi rend="underline">would call it&#8212;a wildness as of a sacred 
+                <hi rend="underline">would call it—a wildness as of a sacred 
                 horseman in a great desert,</hi> urging his steed 
                 <hi rend="underline">through the winds,</hi> with the far horizon in 
                 <hi rend="underline">his eye.</hi> Nay, were we to allow the author<anchor xml:id="k2"/>
@@ -820,7 +816,7 @@
             however, to a clearer day, what eye does 
             not rest fondly on one hour at least in the 
             European past, made memorable by 
-            Slavonian courage&#8212;the hour of Huss, of 
+            Slavonian courage—the hour of Huss, of 
             Jerome of Prague, and of Ziska, those three 
             Bohemian patriots, who, seized at a distance 
             by the spirit of the English Wycliffe, first 
@@ -960,7 +956,7 @@
             judges of the worth of nations. "A 
             wrangling pack of some 200,000 nobles, with 
             millions of serfs under them, uneducated and 
-            ill-fed: such was the Polish nation&#8212;a 
+            ill-fed: such was the Polish nation—a 
             nation that deserved to die, if ever nation did!" 
             Quick reasoning; very summary justice! 
             Was Poland, under the Jagellons, in a worse 
@@ -968,7 +964,7 @@
             Even in her worst days, were her serfs more 
             degraded beings than those of Russia now? 
             Did not Poland, even in her later days, 
-            accomplish some things that were great&#8212;
+            accomplish some things that were great—
             produce a Copernicus; give birth to a Sobieski? 
             Was her crime of a bad constitution one 
             unparalleled in the history of nations that have 
@@ -987,7 +983,7 @@
             and insurrections under Nicholas that have 
             scattered the Slavonic physiognomy over the 
             earth, and filled our cities with men the types 
-            of energy&#8212;are they of no account? Above 
+            of energy—are they of no account? Above 
             all, was the punishment a doom, or only a 
             probation? Is there no pardon? has there 
             been no repentance? Has not Poland, 
@@ -1001,7 +997,7 @@
             <p>The following is a survey of the present
             arrangement of the Slavonic race, as quoted
             by Count Krasinski from the Slavonian
-            Ethnography of Schaffarik:&#8212;</p>
+            Ethnography of Schaffarik:—</p>
             <pb xml:id="leaf006r" facs="duk.00039.006.jpg" type="recto"/>
             <fw type="date" place="top left">1849.</fw>
             <fw type="header" place="top"><hi rend="italic">The Railway System of Great Britain.</hi></fw>
@@ -1014,7 +1010,7 @@
             immediately conferred a high command. 
             Such were the visible signs of preparation;
             of the invisible and unknown reality who
-            shall speak&#8212;of the thoughts, prayers, and
+            shall speak—of the thoughts, prayers, and
             fears of ten millions of human beings, as fit
             for liberty as the people of England, and
             spread over a country twice as large?
@@ -1027,7 +1023,7 @@
             themselves Magyars!</p>
             <p>In December, 1848, the war was begun. 
             An Imperial army of 130,000 men under 
-            Windischgr&#228;tz as commander-in-chief, and 
+            Windischgrätz as commander-in-chief, and 
             Jellachich and other generals of note as his 
             subordinates, entered Hungary. The movements 
             of the various divisions of this army, 
@@ -1050,9 +1046,9 @@
             lion-like courage, from fierce hard obstinacy, 
             from perfect soundness of head joined to 
                 <span rend="doubleLine-left" hand="#h2" xml:id="i1" from="#i1" to="#i2"/>
-                strength of heart, <hi rend="underline">from unwearied and successful perseverance in a course once begun</hi>&#8212;a title more respected by the world in general, and by Englishmen in particular, than 
+                strength of heart, <hi rend="underline">from unwearied and successful perseverance in a course once begun</hi>—a title more respected by the world in general, and by Englishmen in particular, than 
             any arising from mere historic or metaphysic<anchor xml:id="i2"/>
-            right&#8212;this the Hungarians showed themselves 
+            right—this the Hungarians showed themselves 
             most unmistakably to possess. In one 
             other respect, too, they proved the superior 
             temper of their race. Fighting against generals 
@@ -1112,14 +1108,14 @@
         <milestone unit="undeclared" rend="horbar-short"/>
         <div1>
             <list>
-                <item>A<hi rend="smallcaps">RT.</hi> X.&#8212;1. <hi rend="italic">
+                <item>A<hi rend="smallcaps">RT.</hi> X.—1. <hi rend="italic">
                     The Railways of the United 
                     Kingdom Statistically considered, in relation
                     to their Extent, Capital, Amalgamation,
                     Debentures, Financial Position, Acts
                     of Parliament by which Regulated, 
                     Creation and Appropriation of Shares, Calls,
-                    Dividends, &#38;c., concisely arranged from
+                    Dividends, &amp;c., concisely arranged from
                     Authentic Documents.</hi> By H<hi rend="smallcaps">ARRY</hi> S<hi rend="smallcaps">CRIVENOR</hi>,
                 Secretary to the Liverpool Stock Exchange. London, 1849. 8vo. Pp. 840.</item>
                 <item>2. <hi rend="italic">The Railways of Great Britain and
@@ -1163,8 +1159,8 @@
             which the sentiment had been surrounded. 
             Poetry acknowledges no boundary to its domains. 
             Its strains are breathed throughout 
-            the physical as well as the moral world&#8212;its 
-            music is heard among the spheres&#8212;it chaunts 
+            the physical as well as the moral world—its 
+            music is heard among the spheres—it chaunts 
             its lays over the loves of the plants, and its 
             sympathies are entwined even round the 
             sufferings and enjoyments of irrational 
@@ -1176,7 +1172,7 @@
             of the mathematical sage. What a 
             melodrame is exhibited on our own globe, while 
             it speeds in ether its annual and its daily 
-            round;&#8212;on our earth-home&#8212;the stage upon 
+            round;—on our earth-home—the stage upon 
             which man has so long strutted his brief 
             hour, emblazoning his vices and his crimes, 
             and rioting in giddy frivolity above burning 
@@ -1187,7 +1183,7 @@
             treads and slumbers, he witnesses the tragedy 
             of the pre-Adamite age, in which all the 
             characters have perished, without leaving a 
-            seed behind;&#8212;while on its surface is played 
+            seed behind;—while on its surface is played 
             the comedy of modern life, in which intellectual 
             and immortal man eats, and drinks, and 
             dies; and exhibited the farce, in which kings 
@@ -1217,12 +1213,12 @@
             <p>The poetry of mechanism is one of the 
             most interesting departments of the poetry of 
             science, and that of railways cannot fail to 
-            be regarded as the Iliad of its productions&#8212;
+            be regarded as the Iliad of its productions—
             embracing the account of works the most 
-            expensive and gigantic&#8212;the description of 
+            expensive and gigantic—the description of 
             engines the most ingenious and complex, and 
             the history of social ameliorations which are 
-            now altering the very condition of man&#8212;
+            now altering the very condition of man—
             virtually extending the very term of his 
             existence, and opening new and extensive fields 
             for the exercise of his holiest and noblest 
@@ -1230,24 +1226,24 @@
             <p>It is not our design in the following 
             Article to amuse the reader with any account of 
             those singularly curious and interesting 
-            arrangements&#42; which have been rendered 
+            arrangements* which have been rendered 
             necessary by the great and rapid extension 
             of the railway system, for the comfort and 
             security of the millions whom it accommodates. 
             Our object is to give the general 
             reader some idea of the origin, progress, and 
-            extent of the railway system&#8212;of the ingenious 
+            extent of the railway system—of the ingenious 
             inventions and stupendous works which 
-            it has called into existence&#8212;of the social 
-            triumphs which it has achieved&#8212;of the 
+            it has called into existence—of the social 
+            triumphs which it has achieved—of the 
             improvements of which it is susceptible, and 
             which are necessary for the security of life 
-            and property&#8212;of its present state and prospects 
+            and property—of its present state and prospects 
             as a commercial speculation, and of 
             the necessity of protecting it as a great 
-            national institution,&#8212;by the development of 
-            the whole traffic of the empire&#8212;by the grant 
-            of public aid&#8212;by placing all the railways 
+            national institution,—by the development of 
+            the whole traffic of the empire—by the grant 
+            of public aid—by placing all the railways 
             in the kingdom under the management of 
             Government, and by preventing in 
             future that enormous expenditure of railway 
@@ -1256,7 +1252,7 @@
             existence, and which has led to the ruin of 
             many of those enterprising capitalists to</p>
             <milestone unit="undeclared" rend="horbar-full"/>
-            <note type="footnote" resp="#h3" place="bottom">&#42; This has been already beautifully done by the 
+            <note type="footnote" resp="#h3" place="bottom">* This has been already beautifully done by the 
             distinguished author of "Stokers and Pokers," a
             work well worthy of the reader's perusal and
             study.</note>

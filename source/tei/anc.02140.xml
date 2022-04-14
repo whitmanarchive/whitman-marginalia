@@ -9,7 +9,7 @@
 <respStmt>
 <resp>Transcription and encoding</resp>
   <persName xml:id="km">Kevin McMullen</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <funder>The National Endowment for the Humanities</funder>
 </titleStmt><editionStmt>
@@ -52,7 +52,7 @@
   <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2020.</p>
 </sourceDesc>
 </fileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
   <change when="2020-02-05" who="#km">formatted footnotes and added captions</change>
   <change when="2020-01-29" who="#km">created page</change>
 </revisionDesc>

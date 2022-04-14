@@ -73,7 +73,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-10-10" who="#km">proofed</change>
             <change when="2019-06-12" who="#as">transcribed, encoded</change>
         </revisionDesc>

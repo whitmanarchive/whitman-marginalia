@@ -12,7 +12,7 @@
   <persName xml:id="nhg">Nicole Gray</persName>
   <persName xml:id="mc">Matt Cohen</persName>
   <persName xml:id="km">Kevin McMullen</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
 <sponsor>Duke University</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -43,7 +43,7 @@
   <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2015.</p>
 </sourceDesc>
 </fileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
   <change when="2019-01-28" who="#km">implemented Matt's edits</change>
   <change when="2015-12-01" who="#nhg">updated acknowledgments list</change>
   <change when="2015-03-16" who="#nhg">converted to P5</change>

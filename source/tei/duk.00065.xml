@@ -80,7 +80,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"><persName xml:id="unk">unknown</persName></handNote>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-07" who="#km">corrected placement of image link for second pasteon</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-07" who="#km">proofed</change>

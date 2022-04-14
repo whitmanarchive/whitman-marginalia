@@ -14,6 +14,7 @@
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="ano">Alejandro Omidsalar</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
+                <persName xml:id="as">Ashlyn Stewart</persName>
                 </respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -73,6 +74,7 @@
                 </handNotes>
         </profileDesc>
             <revisionDesc>
+                <change when="2022-04-14" who="#as">Regularized Name</change>
                 <change when="2015-10-24" who="#ano">Transcribed; encoded</change>
                 <change when="2015-11-04" who="#mc">Proofed</change>
             </revisionDesc>

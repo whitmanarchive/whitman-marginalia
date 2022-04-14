@@ -14,7 +14,7 @@
                     <persName xml:id="tra">Ty Alyea</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -57,7 +57,7 @@
                 <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2019-11-22">proofed</change>
             <change who="#nhg" when="2015-03-10">added notesStmt and moved date note into it</change>
             <change who="#nhg" when="2015-02-24">completed date information</change>

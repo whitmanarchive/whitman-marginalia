@@ -73,7 +73,7 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#as" when="2020-01-16">proofed</change>
             <change who="#as" when="2019-09-03">added transcription, proofed</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change>

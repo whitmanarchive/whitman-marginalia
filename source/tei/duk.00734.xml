@@ -66,7 +66,7 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="brown pen"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-13" who="#km">implemented Matt's corrections; further proofing</change>
             <change when="2020-02-13" who="#mc">partially proofed</change>
             <change when="2019-07-17" who="#as">Updated header information</change>

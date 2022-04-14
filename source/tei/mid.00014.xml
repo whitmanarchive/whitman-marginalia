@@ -12,7 +12,7 @@
                     <persName xml:id="lmg">Lauren Grewe</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -57,6 +57,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
+            <change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-16">corrected</change>
             <change who="#lmg" when="2013-06-27">Transcribed and encoded.</change>
             <change who="#lmg" when="2014-02-05">Checked.</change>

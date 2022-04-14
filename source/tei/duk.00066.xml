@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="m" type="main" rend="bracketed">Chronological</title>
             <title level="m" type="sub">a machine readable transcription</title>
-            <author>Walt Whitman</author>
+            <author xml:id="ww">Walt Whitman</author>
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
             <respStmt>
@@ -47,7 +47,7 @@
          </notesStmt>
          <sourceDesc>
             <bibl>
-               <author>Walt Whitman</author>
+               <author sameAs="#ww">Whitman, Walt</author>
                <title>[Chronological]</title>
                <date xml:id="dat1" cert="medium" notBefore="1854" notAfter="1860">Between 1854 and 1860</date>
                <idno type="callno">MS q 187</idno>

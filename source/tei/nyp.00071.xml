@@ -4,7 +4,7 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">Mathematics</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Mathematics</title>
                     <idno type="callnumber">b15520479</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>

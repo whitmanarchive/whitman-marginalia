@@ -4,7 +4,7 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">The English Masses</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -48,7 +48,7 @@
             <sourceDesc>
 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The English Masses</title>
                     <idno type="callno">MS 98</idno>
                     <date notBefore="1850" notAfter="1860" cert="medium" xml:id="dat1">Between 1850

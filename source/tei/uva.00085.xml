@@ -4,7 +4,7 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">Brutish human beings</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Brutish human beings</title>
                     <idno type="callnumber">MSS 3829, Box 1, Folder 12</idno>
                     <date xml:id="dat1" notBefore="1857-06" notAfter="1858" cert="high">1857</date>

@@ -63,7 +63,7 @@
                <title level="j">Life Illustrated</title>
                    <date when="1856-03-22">22 March 1856</date>
                    <pubPlace>New York</pubPlace>
-                   <biblScope type="page">6</biblScope>
+                   <biblScope unit="page">6</biblScope>
                </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -72,7 +72,7 @@
                     <title level="j">unknown</title>
                     <date notBefore="1852-01-01" notAfter="1860-01-01">Between 1850 and 1860</date><!-- This article was seemingly reprinted widely in newspapers, beginning around 1852. It seems to have been reprinted widely again around 1857 and 1858, which is likely when Whitman's copy is from. However, I've been unable to find an exact match for the text in this version. KM -->
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page">unknown</biblScope>
+                    <biblScope unit="page">unknown</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r3" type="pasteon">

@@ -54,8 +54,8 @@
                     <date>1853</date>
                     <publisher>John Wiley</publisher>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="pp">90, 324, 350-51, 391</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="pp">90, 324, 350-51, 391</biblScope>
                     
                 </bibl>  
                  </sourceDesc>

@@ -50,8 +50,8 @@
                     <title level="a">"Webfoots"</title>
                     <title level="j">unknown periodical</title>
                     <date>1870</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Whitman notes that this article is printed from a letter from Oregon, October 1870.</note>
                 </bibl>
             </sourceDesc>

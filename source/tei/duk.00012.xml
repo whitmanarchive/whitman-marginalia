@@ -58,9 +58,9 @@
                     <title level="j">Western Review</title>
                     <date when="1846-04">April 1846</date>
                     <pubPlace/>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="issue">1</biblScope>
-                    <biblScope type="pp">211-272</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="issue">1</biblScope>
+                    <biblScope unit="pp">211-272</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>

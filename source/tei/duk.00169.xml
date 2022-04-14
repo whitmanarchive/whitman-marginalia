@@ -66,9 +66,9 @@
                     <title level="j">Harper's Weekly. Journal of Civilization</title>
                     <date when="1857-01-17">January 17, 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="issue">3</biblScope>
-                    <biblScope type="pp">37</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="issue">3</biblScope>
+                    <biblScope unit="pp">37</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

@@ -49,9 +49,9 @@
                     <author>unknown author</author>
                     <title level="a">unknown title</title>
                     <title level="j">unknown publication</title>
-                    <biblScope type="vol"/>
+                    <biblScope unit="vol"/>
                     <date notBefore="1870"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="pp"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>

@@ -61,7 +61,7 @@
                     <title level="j">New York Sun</title>
                     <date when="1857-05-16">16 May 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">1</biblScope>
+                    <biblScope unit="page">1</biblScope>
                 </bibl>
                 
             </sourceDesc>

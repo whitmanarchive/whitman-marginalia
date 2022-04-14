@@ -56,8 +56,8 @@
                     <title level="a">How America was Peopled</title>
                     <title level="j">unknown periodical</title>
                     <date/>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>

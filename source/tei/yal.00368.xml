@@ -52,9 +52,9 @@
                     <title level="a">The Fair Pilot of Loch Uribol: A Yachting Episode</title>
                    
                     <title level="j">The Saint Paul's Magazine</title>
-                    <biblScope type="vol">11</biblScope>
+                    <biblScope unit="vol">11</biblScope>
                     <date notBefore="1872-07-01" notAfter="1872-12-31">July to December, 1872</date>
-                    <biblScope type="pp">47-53</biblScope>
+                    <biblScope unit="pp">47-53</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

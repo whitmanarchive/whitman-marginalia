@@ -61,7 +61,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1857-04-22">22 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">7</biblScope>
+                    <biblScope unit="page">7</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -70,7 +70,7 @@
                     <title level="j">Life Illustrated</title>
                     <date when="1857-04-18">18 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">196</biblScope>
+                    <biblScope unit="page">196</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

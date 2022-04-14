@@ -62,7 +62,7 @@
                     <title level="a">Chevalier Bunsen's Chronology</title>
                     <title level="j">New York Herald</title>
                     <date when="1857-04-22">22 April 1857</date>
-                    <biblScope type="pp">4</biblScope>
+                    <biblScope unit="pp">4</biblScope>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r3">
@@ -70,7 +70,7 @@
                     <title level="a">The Discovery of America</title>
                     <title level="j">Brooklyn Daily Eagle</title>
                     <date when="1857-04-22">22 April 1857</date>
-                    <biblScope type="pp">2</biblScope>
+                    <biblScope unit="pp">2</biblScope>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r4">

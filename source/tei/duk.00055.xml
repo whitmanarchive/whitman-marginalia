@@ -61,8 +61,8 @@
                     <pubPlace>New York</pubPlace>
                     <publisher>Wiley and Putnam</publisher>
                  <date>January 1851</date>  
-                 <biblScope type="vol">13</biblScope>
-                 <biblScope type="pp">21–26</biblScope>
+                 <biblScope unit="vol">13</biblScope>
+                 <biblScope unit="pp">21–26</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>

@@ -56,8 +56,8 @@
                     <title level="a">Christopher under Canvass</title>
                     <title level="j">Edinburgh Magazine</title>
                     <date>June 1849</date>
-                    <biblScope type="vol">65</biblScope>
-                    <biblScope type="pp">763–766</biblScope>
+                    <biblScope unit="vol">65</biblScope>
+                    <biblScope unit="pp">763–766</biblScope>
                     <note type="project"/>
                 </bibl>
                 </sourceDesc>

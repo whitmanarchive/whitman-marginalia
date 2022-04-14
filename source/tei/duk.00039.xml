@@ -64,7 +64,7 @@
                     <date>August 1849</date>
                     <publisher>Leonard Scott &amp; Co.</publisher>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
+                    <biblScope unit="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

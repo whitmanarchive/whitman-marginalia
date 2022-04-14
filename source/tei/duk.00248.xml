@@ -55,9 +55,9 @@
                     <title level="a">The Vanity and the Glory of Literature</title>
                     <title level="j">The Edinburgh Review</title>
                     <date>April 1849</date>
-                    <biblScope type="vol">89</biblScope>
-                    <biblScope type="issue">180</biblScope>
-                    <biblScope type="pp">149–168</biblScope>
+                    <biblScope unit="vol">89</biblScope>
+                    <biblScope unit="issue">180</biblScope>
+                    <biblScope unit="pp">149–168</biblScope>
                     <note type="project">American Edition</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">

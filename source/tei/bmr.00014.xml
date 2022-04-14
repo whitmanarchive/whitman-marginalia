@@ -61,7 +61,7 @@
                     <date>1890</date>
                     <publisher>Peter Eckler</publisher>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="pp">title page, 26, 35, 45, 53, 64, 66, 79, 93, 94, 97, 106, 107, 136, 166-168</biblScope>
+                    <biblScope unit="pp">title page, 26, 35, 45, 53, 64, 66, 79, 93, 94, 97, 106, 107, 136, 166-168</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

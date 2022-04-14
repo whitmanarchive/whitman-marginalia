@@ -62,7 +62,7 @@
                     <title level="j">unknown</title>
                     <date>unknown</date>
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page">unknown</biblScope>
+                    <biblScope unit="page">unknown</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -71,7 +71,7 @@
                     <title level="s">Mandeville's Series</title>
                     <date when="1850">1850</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">144-145</biblScope>
+                    <biblScope unit="page">144-145</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

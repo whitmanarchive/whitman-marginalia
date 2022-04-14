@@ -53,10 +53,10 @@
                     <author>George Joseph Bell</author>
                     <title level="a">Mrs. Siddons as Lady Macbeth: From Contemporary Notes by George Joseph Bell</title>
                     <title level="j">The Nineteenth Century: A Monthly Review</title><!--Edited by James Knowles.-->
-                    <biblScope type="vol">3</biblScope>
+                    <biblScope unit="vol">3</biblScope>
                     <pubPlace>London</pubPlace>
                     <date when="1878-02">February 1878</date>
-                    <biblScope type="pp">296–313</biblScope>
+                    <biblScope unit="pp">296–313</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

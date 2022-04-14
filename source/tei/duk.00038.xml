@@ -68,7 +68,7 @@
                     <date when="1852-01">January 1852</date>
                     <publisher>G.R. Graham</publisher>
                     <pubPlace>Philadelphia</pubPlace>
-                    <biblScope type="pp">39–44</biblScope>
+                    <biblScope unit="pp">39–44</biblScope>
                 </bibl>
                 
                 <bibl type="pasteon" xml:id="r2">
@@ -78,7 +78,7 @@
                     <date>Unknown</date>
                     <publisher>Uknown</publisher>
                     <pubPlace>Unknown</pubPlace>
-                    <!--<biblScope type="pp"></biblScope>-->
+                    <!--<biblScope unit="pp"></biblScope>-->
                 </bibl>
             </sourceDesc>
         </fileDesc>

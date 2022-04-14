@@ -62,7 +62,7 @@
                     <title level="j">unknown</title>
                     <date>unknown</date>
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page"/><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
+                    <biblScope unit="page"/><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
                 </bibl>
 
             </sourceDesc>

@@ -60,7 +60,7 @@
                     <date/>
                     <publisher/>
                     <pubPlace/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="pp"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>

@@ -52,8 +52,8 @@
                     <title level="a">"The Utilities of Astronomy"</title>
                     <title level="j">The Eclectic Magazine of Foreign Literature</title>
                     <date>November 1856</date>
-                    <biblScope type="vol">39</biblScope>
-                    <biblScope type="pp">391</biblScope>
+                    <biblScope unit="vol">39</biblScope>
+                    <biblScope unit="pp">391</biblScope>
                     
                 </bibl>
             </sourceDesc>

@@ -51,8 +51,8 @@
                     <title level="a">unknown title</title>
                     <title level="j">unknown journal</title>
                     <date>1881</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     
                 </bibl>
             </sourceDesc>

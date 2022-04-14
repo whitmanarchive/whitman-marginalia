@@ -62,7 +62,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1857-04-07">7 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">7</biblScope>
+                    <biblScope unit="page">7</biblScope>
                 </bibl>
 
             </sourceDesc>

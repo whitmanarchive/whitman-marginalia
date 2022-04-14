@@ -55,8 +55,8 @@
                     <date>1853</date>
                     <pubPlace>New York</pubPlace>
                     <publisher>John Wiley</publisher>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="pp">155</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="pp">155</biblScope>
                     <note type="project">Charles Knight's editorial gloss on Buffon introduces Buffon's "The First Man."</note>
                 </bibl>
             </sourceDesc>

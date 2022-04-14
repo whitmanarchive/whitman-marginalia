@@ -54,8 +54,8 @@
                     <title level="a">Unknown article title,</title>
                     <title level="j"><!-- Journal title, if known. --></title>
                     <date>[possibly 1857]</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Whitman notes "early in '57"</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -65,7 +65,7 @@
                     <title level="j">Fourth reader: for common schools and academies</title><!--From the Henry Mandeville series.-->
                     <publisher>D. Appleton &amp; Co.</publisher>
                     <date>1851</date>
-                    <biblScope type="pp">255</biblScope>
+                    <biblScope unit="pp">255</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

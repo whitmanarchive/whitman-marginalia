@@ -60,7 +60,7 @@
                     <title level="j">New York Daily Times</title>
                     <date when="1857-06-24">24 June 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">2</biblScope>
+                    <biblScope unit="page">2</biblScope>
                 </bibl>
                 
             </sourceDesc>

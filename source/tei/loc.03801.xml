@@ -56,9 +56,9 @@
                     <title level="a">The Poet Laureate as Philosopher and Peer</title>
                     <title level="j">To-Day: The Monthly Magazine of Scientific Socialism</title>
                     <date when="1884">1884</date>
-                    <biblScope type="pp">135–147</biblScope>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="issue">2</biblScope>
+                    <biblScope unit="pp">135–147</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="issue">2</biblScope>
                     <publisher>The Modern Press</publisher>
                     <pubPlace>London</pubPlace>
                 </bibl>
@@ -67,9 +67,9 @@
                     <title level="a">"The Sun-Maiden"</title>
                     <title level="j">To-Day: The Monthly Magazine of Scientific Socialism</title>
                     <date when="1884">1884</date>
-                    <biblScope type="pp">148</biblScope>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="issue">2</biblScope>
+                    <biblScope unit="pp">148</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="issue">2</biblScope>
                     <publisher>The Modern Press</publisher>
                     <pubPlace>London</pubPlace>
                 </bibl>

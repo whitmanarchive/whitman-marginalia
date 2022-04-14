@@ -56,8 +56,8 @@
                     <title level="j">The American Review: A Whig Journal</title>
                     <date>December 1846</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">4</biblScope>
-                    <biblScope type="pp">580–587</biblScope>
+                    <biblScope unit="vol">4</biblScope>
+                    <biblScope unit="pp">580–587</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>

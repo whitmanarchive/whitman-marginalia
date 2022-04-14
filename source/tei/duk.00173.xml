@@ -53,8 +53,8 @@
                     <title level="a">unknown title</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -62,8 +62,8 @@
                     <title level="a">Shakspere as a Man.</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r3">
@@ -71,8 +71,8 @@
                     <title level="a">Shakspeare's Stage</title>
                     <title level="j"/>
                     <date>after 1856</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Reprinted from G.W. Thornbury's <hi rend="italic">Shakspere's England; or Sketches of our Social History in the Reign of Elizabeth</hi> (London, 1856).</note>
                 </bibl>
             </sourceDesc>

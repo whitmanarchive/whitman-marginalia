@@ -53,8 +53,8 @@
                     <title level="j"><!-- Unable to locate the exact typescript, probably a reprint from this book.--></title>
                     <date>After 1850</date>
                     <pubPlace/>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>

@@ -51,8 +51,8 @@
                     <title level="a">The True Character of Goethe.</title>
                     <title level="j">unknown periodical</title>
                     <date>circa 1857</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Clipping includes a quote first printed in <hi rend="italic">Titan</hi> magazine in 1857: "Perthes the Publisher, and Literary Germany." The "Perthes" essay also appeared in <hi rend="italic">The Eclectic Magazine</hi>'s April 1857 issue.</note>
                 </bibl>
             </sourceDesc>

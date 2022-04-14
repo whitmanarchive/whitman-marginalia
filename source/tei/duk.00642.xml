@@ -50,8 +50,8 @@
                     <title level="a">"A Poet on Politics"</title>
                     <title level="j">unknown periodical</title>
                     <date>October 1884</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"> Whitman claims in this note dated October 31, 1884, that the article referenced appeared, possibly in <hi rend="italic">The Philadelphia Press</hi>, on the day before (October 30, 1884).</note>
                 </bibl>
             </sourceDesc>

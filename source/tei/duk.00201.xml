@@ -51,8 +51,8 @@
                     <title level="j">Life Illustrated</title>
                     <pubPlace>New York</pubPlace>
                     <date>May 31, 1856</date>
-                    <biblScope type="vol">2</biblScope>
-                    <biblScope type="pp">33</biblScope>
+                    <biblScope unit="vol">2</biblScope>
+                    <biblScope unit="pp">33</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>

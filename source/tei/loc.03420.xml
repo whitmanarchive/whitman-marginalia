@@ -56,8 +56,8 @@
                     <title level="a">Typical American Canoes at the Annual Meet in Peconic Bay</title>
                     <title level="j">Harper's Weekly</title>
                     <date when="1890-08-16">August 16, 1890</date>
-                    <biblScope type="vol">34</biblScope>
-                    <biblScope type="pp">641</biblScope>
+                    <biblScope unit="vol">34</biblScope>
+                    <biblScope unit="pp">641</biblScope>
                     <pubPlace>New York</pubPlace>
                     <publisher>Harper &amp; Brothers</publisher>
                 </bibl>
@@ -66,8 +66,8 @@
                     <title level="a">"Modesty"</title>
                     <title level="j">Harper's Weekly</title>
                     <date when="1890-08-16">August 16, 1890</date>
-                    <biblScope type="vol">34</biblScope>
-                    <biblScope type="pp">642</biblScope>
+                    <biblScope unit="vol">34</biblScope>
+                    <biblScope unit="pp">642</biblScope>
                     <pubPlace>New York</pubPlace>
                     <publisher>Harper &amp; Brothers</publisher>
                 </bibl>

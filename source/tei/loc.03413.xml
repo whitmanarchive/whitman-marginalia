@@ -55,7 +55,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The States and Their Resources</title>
                     <idno type="callno">Box 40, Folder 32</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

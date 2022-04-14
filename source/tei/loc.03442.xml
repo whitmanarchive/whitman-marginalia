@@ -39,7 +39,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Anacreon, "The Midnight Visitor"</title>
                     <idno type="callno">Box 42, Folder 54</idno>
                     <date notBefore="1847-01-01" notAfter="1891-12-31">Undated</date>

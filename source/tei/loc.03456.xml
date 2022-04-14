@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The History of Long Island</title>
                     <idno type="callno">F127.L8 T4 Copy 4 Vol. 1-2</idno>
                     <date notBefore="1843-01-01" notAfter="1892-03-26">After 1842</date>

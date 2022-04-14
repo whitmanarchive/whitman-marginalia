@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Manuscripts</title>
                     <idno type="callno"/>
                     <date notBefore="1856-01-01" notAfter="1892-05-26">After 1856</date>

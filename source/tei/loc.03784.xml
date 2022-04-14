@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Brooklyn Churches: Marginalia in Pamphlet</title>
                     <idno type="callno">Box 48, Folder 13</idno>
                     <date notBefore="1851-07-27" notAfter="1892-03-26">After July 27, 1851</date>                   

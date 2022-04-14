@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Early Roman History</title>
                     <idno type="callno">MS q 185</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

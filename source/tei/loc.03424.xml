@@ -38,7 +38,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The English Circle</title>
                     <idno type="callno">Box 41, Folder 19</idno>
                     <date notBefore="1847-01-01" notAfter="1891-12-31">Undated</date>

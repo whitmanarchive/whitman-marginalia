@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Tennyson's "Ulysses"</title>
                     <idno type="callno">Box 42, Folder 48</idno>
                     <date notBefore="1885-12-01" notAfter="1892-03-15">After December 1885</date>

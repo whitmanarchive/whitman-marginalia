@@ -43,7 +43,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Miscellaneous Notes, Chiefly Literary</title>
                     <idno type="callno">II-5 101</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

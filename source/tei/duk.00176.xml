@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Lafontaine, born about 1621 lived 73 years</title>
                     <idno type="callno">MS 78</idno>
                     <date notBefore="1853-01-01" notAfter="1892-03-26">1853 or later</date>

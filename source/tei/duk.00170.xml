@@ -40,7 +40,7 @@
             </notesStmt> 
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Dryden 1631 to 1701</title>
                     <idno type="callno">MS 4to 72</idno>
                     <date notBefore="1853-01-01" notAfter="1892-03-26">Undated</date>

@@ -39,7 +39,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Notes on Africa and Asia</title>
                     <idno type="callno">II-5 103</idno>
                     <date notBefore="1854-01-01" notAfter="1892-03-26">Undated</date>

@@ -47,7 +47,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Mountain-visiting in East Tennessee</title>
                     <idno type="callnumber">MSS18630, Box 48, Folder 14</idno>
                     <idno type=""/>

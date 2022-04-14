@@ -43,7 +43,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>"Magazine Articles and Clippings"</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1840-05-31" notAfter="1892-03-26">Undated</date>

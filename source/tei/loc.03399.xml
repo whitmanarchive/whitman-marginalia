@@ -38,7 +38,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Lincoln's Picture</title>
                     <idno type="callno">Box 39, Folder 12</idno>
                     <date when="1865-03-17">March 17, 1865</date>

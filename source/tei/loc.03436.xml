@@ -40,7 +40,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Montaigne on Art</title>
                     <idno type="callno">Box 42, Folder 46</idno>
                     <date notBefore="1883-03-14" notAfter="1891-12-31">Around 1883</date>

@@ -49,7 +49,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">One Thousand Historical Events</title>
                     <idno type="callnumber">MS q 188</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

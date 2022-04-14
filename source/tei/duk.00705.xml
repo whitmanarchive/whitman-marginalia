@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Magazine Articles and Clippings</title>
                     <idno type="callno">See Frey III:p. 71</idno>
                     <date notBefore="1846-12-01" notAfter="1892-03-26">After December 1, 1846</date>                   

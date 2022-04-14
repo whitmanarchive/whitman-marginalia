@@ -38,7 +38,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Webfoots</title>
                     <idno type="callno">Box 39, Folder 14</idno>
                     <date notBefore="1870-10-01" notAfter="1891-12-31">Around 1870</date>

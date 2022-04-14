@@ -45,7 +45,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The Trapper's Bride</title>
                     <idno type="callno">Box 39, Folder 7</idno>
                     <date notBefore="1856-01-01" notAfter="1892-03-26">After January 1, 1856</date>

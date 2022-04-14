@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                <author>Walt Whitman</author>
+                <author sameAs="#ww">Whitman, Walt</author>
                     <title>Churches</title>
                     <idno type="callno">Box 39, Folder 41</idno>
                     <date notBefore="1850-01-01" notAfter="1892-03-26">Undated</date>

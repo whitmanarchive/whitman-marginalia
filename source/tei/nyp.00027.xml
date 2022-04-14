@@ -43,7 +43,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Tacitus—of the Germans</title>
                     <idno type="callno">580214</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

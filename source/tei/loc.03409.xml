@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Long Island</title>
                     <idno type="callno">Box 39, Folder 71</idno>
                     <date notBefore="1838-05-31" notAfter="1892-03-26">Undated</date>

@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Tomb of the Martyrs.</title>
                     <idno type="callno">Box 41, Folder 45</idno>
                     <date notBefore="1841-01-01" notAfter="1891-12-31">After 1841</date>                   

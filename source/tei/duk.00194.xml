@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Even now Jasmund, the people's poet</title>
                     <idno type="callno">MS 4to 86</idno>
                     <date notBefore="1850-05-31" notAfter="1892-03-26">1850s</date>

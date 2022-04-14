@@ -44,7 +44,7 @@
             <idno>loc.03453</idno></publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Vindication of the Quakers, &amp;c.</title>
                     <date notBefore="1838-01-01" notAfter="1892-03-26">After 1838</date>
                     <idno type="callno">BX7731.V5 1820</idno>

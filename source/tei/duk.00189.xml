@@ -40,7 +40,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Frederick Schlegel 1772–1829</title>
                     <idno type="callno">MS 93</idno>
                     <date notBefore="1854-01-01" notAfter="1892-03-26">After 1854</date>

@@ -39,7 +39,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Trees, Lumberman, Indian</title>
                     <idno type="callno">Box 39, Folder 9</idno>
                     <date notBefore="1835-05-31" notAfter="1892-03-26">Undated</date>

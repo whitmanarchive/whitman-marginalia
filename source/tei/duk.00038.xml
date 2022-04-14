@@ -53,7 +53,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Excerpt from Graham's Illustrated Magazine of Literature, Romance, Art, and Fashion</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1852-01-01" notAfter="1892-03-26">1852 or later</date>

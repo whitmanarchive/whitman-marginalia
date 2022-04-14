@@ -43,7 +43,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>[Untitled]</title>
                     <idno type="callno">MS 12mo 89<!--This information is taken from Grier, p. 1785.--></idno>
                     <date when="1857-01-01">Around 1857</date>

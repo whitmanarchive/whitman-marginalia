@@ -39,7 +39,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Walt Whitman's Manuscript Notes on Southey, Browning and Others</title>
                     <idno type="callno"/>
                     <date notBefore="1847-09-25" notAfter="1892-05-26">After 1847</date>

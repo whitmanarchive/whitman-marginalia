@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Ferdusi, and the primeval mythologists of Hindostan.</title>
                     <idno type="callno">580219</idno>
                     <date notBefore="1838-05-31" notAfter="1892-03-26">Undated</date>

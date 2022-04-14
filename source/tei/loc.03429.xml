@@ -40,7 +40,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Book about Louis XIV owned by Whitman</title>
                     <idno type="callno">Box 41, Folder 70</idno>
                     <date notBefore="1889-02-28" notAfter="1889-12-31">1889</date>

@@ -48,7 +48,7 @@
             <idno>bmr.00014</idno></publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Excerpt from Volney's Ruins</title>
                     <idno type="callno">RBR 901 V88rE</idno>
                     <date notBefore="1890-01-01" notAfter="1892-03-26">1890 or later</date>

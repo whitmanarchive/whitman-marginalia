@@ -40,7 +40,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Lincoln Essay (DCN90)</title>
                     <idno type="callno">Box 40, Folder 65</idno>
                     <date notBefore="1885-01-01" notAfter="1892-03-26">After 1885</date>

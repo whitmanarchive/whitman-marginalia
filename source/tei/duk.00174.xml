@@ -40,7 +40,7 @@
                 <note type="project" target="#dat1">Clipping is reprinted from Volume 2 of Julia Kavanaugh's <hi rend="italic">Woman in France During the Eighteenth Century</hi>, first published in 1850.</note></notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Rousseau's Confessions</title>
                     <idno type="callno">MS 79</idno>
                     <date notBefore="1850-01-01" notAfter="1892-03-26">After 1850</date>

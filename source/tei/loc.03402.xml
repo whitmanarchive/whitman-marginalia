@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Emerson ("No patriotism in him")</title>
                     <idno type="callno">Box 39, Folder 22</idno>
                     <date notBefore="1838-01-01" notAfter="1892-03-26">Undated</date>

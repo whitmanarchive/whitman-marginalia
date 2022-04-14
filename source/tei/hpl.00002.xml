@@ -46,7 +46,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>we know of no beginning in universal literature</title>
                     <idno type="callno"/><!-- Need call no. -->
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

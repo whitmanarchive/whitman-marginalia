@@ -39,7 +39,7 @@
                 <note type="project" target="#dat1">Grier estimates that this was written in late 1856 (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1827). The clipping includes a quotation first printed in <hi rend="italic">Titan</hi> magazine in 1857: "Perthes the Publisher, and Literary Germany." The "Perthes" essay also appeared in <hi rend="italic">The Eclectic Magazine</hi>'s April 1857 issue.</note>             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Goethe—from about 1750</title>
                     <idno type="callno">MS 4to 80</idno>
                     <date notBefore="1855-01-01" notAfter="1892-03-26">Undated</date>

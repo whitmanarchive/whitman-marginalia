@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>His earliest printed plays 1597 Romeo and Juliet</title>
                     <idno type="callno">MS 90</idno>
                     <date notBefore="1850-01-01" notAfter="1893-03-26">1844 or later</date>

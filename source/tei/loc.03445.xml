@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Excerpt from Thoreau's Week on the Concord</title>
                     <idno type="callno">F72.C5 T4 Copy 5</idno>
                     <date notBefore="1849-01-01" notAfter="1892-03-26">After 1849</date>                   

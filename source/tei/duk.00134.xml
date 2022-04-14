@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Found a new American Religion (? No Religion)</title>
                     <idno type="callno">MS 64</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>

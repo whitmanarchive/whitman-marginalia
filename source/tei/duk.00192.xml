@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Memory.—</title>
                     <idno type="callno">MS q 84</idno>
                     <date notBefore="1835-05-31" notAfter="1892-03-26">Undated</date>

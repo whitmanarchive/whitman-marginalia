@@ -38,7 +38,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Walt Whitman's Books (DCN139)</title>
                     <idno type="callno">Box 41, Folder 46</idno>
                     <date notBefore="1890-08-25" notAfter="1892-03-30">Between 1890 and 1892</date>

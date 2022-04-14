@@ -36,7 +36,7 @@
             <idno>duk.00109</idno></publicationStmt>               
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Notes on Literature</title>
                     <idno type="callno">II-5 102</idno>
                     <date notBefore="1850-01-01" notAfter="1859-12-31">1850s</date>  

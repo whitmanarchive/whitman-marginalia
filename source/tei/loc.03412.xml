@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Poetry of the Future</title>
                     <idno type="callno">Box 40, Folder 18</idno>
                     <date notBefore="1839-05-31" notAfter="1892-03-26">Undated</date>

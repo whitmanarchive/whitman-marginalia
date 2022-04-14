@@ -39,7 +39,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Notes on Literature</title>
                     <idno type="callno">II-5 102</idno>
                     <date notBefore="1854-01-01" notAfter="1892-03-26">1854 or later</date>

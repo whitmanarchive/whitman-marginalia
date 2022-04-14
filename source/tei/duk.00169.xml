@@ -53,7 +53,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>What are inextricable from the British poets</title>
                     <idno type="callno">MS 4to 70</idno>
                     <date notBefore="1855-01-01" notAfter="1892-03-26">Around 1857</date>

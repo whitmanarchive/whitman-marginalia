@@ -39,7 +39,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The Only American Poet</title>
                     <idno type="callno">Box 42, Folder 43</idno>
                     <date notBefore="1867-09-21" notAfter="1891-12-31">After 1867</date>

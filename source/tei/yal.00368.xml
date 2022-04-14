@@ -40,7 +40,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>"The Fair Pilot of Loch Uribol"</title>
                     <idno type="callno">YCAL MSS 202, Folder 200</idno>
                     <date notBefore="1872-07-01" notAfter="1892-03-01">After 1872</date>

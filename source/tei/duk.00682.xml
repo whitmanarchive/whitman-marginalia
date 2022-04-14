@@ -53,7 +53,7 @@
                 </note> </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Photograph, 1872</title>
                     <idno type="callno">II-5 102</idno>
                     <date when="1880-06-23">June 23, 1880</date>

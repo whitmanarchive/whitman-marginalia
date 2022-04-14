@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>He is a precursor, in some sort of great differences</title>
                     <idno type="callno">MS 4to 85</idno>
                     <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or later</date>

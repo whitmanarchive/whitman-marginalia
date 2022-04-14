@@ -38,7 +38,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Trees I Am Familiar with Here</title>
                     <idno type="callno">Box 39, Folder 18</idno>
                     <date notBefore="1876-01-01" notAfter="1876-12-31">1876</date>

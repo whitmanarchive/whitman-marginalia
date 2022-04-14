@@ -43,7 +43,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Egypt...</title>
                     <idno type="callno">MS 96</idno>
                     <date notBefore="1855" notAfter="1860">Between 1855 and 1860</date> 

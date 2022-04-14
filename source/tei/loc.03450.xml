@@ -44,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The tragedies of Euripides</title>
                     <idno type="callno">PA3975.A1 1857 Copy 2 vol. 2</idno>
                     <date when="1889-11-14">November 14, 1889</date>

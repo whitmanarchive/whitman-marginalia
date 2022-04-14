@@ -44,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Twenty-Nine Newspaper and Magazine Items</title>
                     <idno type="callno">MS 4to 188</idno>
                     <date notBefore="1854-03-23" notAfter="1892-03-26">After March 23, 1854</date>

@@ -40,12 +40,12 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
-  end
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
 
-  def subcategory
+  def category2
     "marginalia"
   end
 

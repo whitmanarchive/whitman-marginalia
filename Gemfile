@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "datura", git: "https://github.com/CDRH/datura.git", tag: "v0.2.0-beta"
+gem "datura", git: "https://github.com/CDRH/datura.git", branch: "whitman_habeas_schema"
+
 gem "byebug"
 # using stanford supported version of iiif-presentation gem
 # locking to commit since they have no releases yet

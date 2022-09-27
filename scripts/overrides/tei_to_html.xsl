@@ -18,7 +18,232 @@
   <!-- add overrides for this section here -->
   
   <xsl:variable name="top_metadata">
-    <ul><li>Metadata for Marginalia goes here</li></ul>
+    <ul>
+      <li><strong>Title: </strong> <xsl:value-of select="//title[@type='main']"/></li>
+      <li><strong>Creator(s): </strong> <xsl:value-of separator=", " select="//titleStmt/author"/></li>
+     
+     <!-- date -->
+      <xsl:choose>
+        <xsl:when test="/TEI/text/@type = 'annotations'">
+          <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')]/date">
+            <li><strong>Date: </strong>
+              <xsl:value-of
+                select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1][not(@type='pasteon')]/date"/>
+            </li>
+          </xsl:if>
+        </xsl:when>
+        <xsl:when test="/TEI/text/@type = 'marginalia'">
+          <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')]/date">
+            <li>
+              <strong>Annotation Date: </strong>
+                <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1][not(@type='pasteon') and not(@type='base')]/date"/>
+            </li>
+          </xsl:if>
+        </xsl:when>
+        <xsl:otherwise>no date</xsl:otherwise>
+      </xsl:choose>
+     
+      <!-- base document cition -->
+      <!-- I think this only applies to marginalia -->
+      <xsl:if test="/TEI/text/@type = 'marginalia'">
+        <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']">
+          <xsl:choose>
+            <xsl:when test="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/title[@level='j']">
+              <li><strong>Base Document Citation: </strong>
+              <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/author"/>
+                <xsl:text>, "</xsl:text>
+                <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/title[@level='a']"/>
+                <xsl:text>," </xsl:text>
+                <em><xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/title[@level='j']"/></em>
+                <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/biblScope[@type='vol']">
+                  <xsl:text> </xsl:text>
+                  <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/biblScope[@type='vol']"/>
+                </xsl:if>
+                <xsl:text> (</xsl:text>
+                <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/date"/>
+                <xsl:text>)</xsl:text>
+                <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/biblScope[@type='pp']">
+                  <xsl:text>, </xsl:text>
+                  <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/biblScope[@type='pp']"/>
+                </xsl:if>
+                <xsl:text>.</xsl:text>
+              </li>
+            </xsl:when>
+            <xsl:otherwise>
+              <li><strong>Base Document Citation: </strong>
+              <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/author"/>
+                <xsl:text>, </xsl:text>
+                <em><xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/title"/>
+                </em>
+                <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/editor">
+                  <xsl:text>, ed. </xsl:text>
+                  <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/editor"/>
+                </xsl:if>
+                <xsl:text> (</xsl:text>
+                <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/pubPlace"/>
+                <xsl:text>, </xsl:text>
+                <xsl:value-of select="descendant::sourceDesc/bibl[not(@type='pasteon')][@type='base']/date"/>
+                <xsl:text>).</xsl:text>
+              </li>
+            </xsl:otherwise>
+          </xsl:choose>
+        </xsl:if>
+      </xsl:if>
+      
+      
+      <li><strong>Whitman Archive ID: </strong> <xsl:value-of select="//teiHeader/fileDesc/publicationStmt/idno"/></li>
+      
+      <li><strong>Source: </strong> 
+        
+        <xsl:choose>
+          <xsl:when test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct[not(@type='supplied')]">
+            <xsl:text>The transcription presented here is derived from </xsl:text> 
+            <!-- if author -->
+            <xsl:if test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/author">
+              <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/author"/>
+              <xsl:text>, </xsl:text>
+            </xsl:if>
+            <!-- monograph title -->
+            <em><xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title"/></em>
+            <!-- if editor // todo: simplify, should work if more than 2 editors -->
+            <xsl:if test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/editor">
+              <xsl:text>, ed. </xsl:text>
+              <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/editor[1]"/>
+              <xsl:if test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/editor[2]">
+                <xsl:text> and </xsl:text>
+                <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/editor[2]"/>
+              </xsl:if>
+            </xsl:if>
+            <!-- publisher and date -->
+            <xsl:text> (</xsl:text>
+            <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//pubPlace"/>
+            <xsl:text>: </xsl:text>
+            <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//publisher"/>
+            <xsl:text>, </xsl:text>
+            <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//date"/>
+            <xsl:text>)</xsl:text>
+            <xsl:text>, </xsl:text>
+            <!-- if volume -->
+            <xsl:if test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//biblScope[@type='volume']">
+              <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//biblScope[@type='volume']"/>
+              <xsl:text>:</xsl:text>
+            </xsl:if>
+            <!-- page -->
+            <xsl:value-of select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr//biblScope[@unit='page']"/>
+            <xsl:text>. </xsl:text>
+            <!-- project -->
+            <xsl:if test="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/note[@type='project']">
+              <xsl:apply-templates select="TEI/teiHeader/fileDesc/sourceDesc/biblStruct/note[@type='project']"/>
+            </xsl:if>
+            <xsl:text> </xsl:text>
+            <!-- orgname // dodo: simplify -->
+            <xsl:value-of select="TEI//sourceDesc//bibl[1]/orgName"/>
+            <xsl:if test="TEI//sourceDesc//bibl[2]/orgName">
+              <xsl:text>; </xsl:text>
+              <xsl:value-of select="TEI//sourceDesc//bibl[2]/orgName"/>
+            </xsl:if>
+          </xsl:when>
+          <!-- orgname // not sure if this will ever hit for manuscripts -->
+          <xsl:otherwise>
+            <xsl:value-of select="//TEI//sourceDesc//bibl[1]/orgName"/>
+            <xsl:if test="TEI//sourceDesc//bibl[2]/orgName">
+              <xsl:text>; </xsl:text>
+              <xsl:value-of select="TEI//sourceDesc//bibl[2]/orgName"/>
+            </xsl:if>
+          </xsl:otherwise>
+        </xsl:choose>
+        
+        <!-- orgname // todo: simplify -->
+        <xsl:choose>
+          <xsl:when test="count(//TEI//sourceDesc//bibl) > 1 and //tei//sourceDesc//bibl[2]/orgname">
+            <xsl:if test="not(ends-with(//TEI//sourceDesc//bibl[2]/orgName, '.'))">
+              <xsl:text>.</xsl:text>
+            </xsl:if>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:if test="not(ends-with(//TEI//sourceDesc//bibl[1]/orgName, '.'))">
+              <xsl:text>.</xsl:text>
+            </xsl:if>
+          </xsl:otherwise>
+        </xsl:choose>
+        <xsl:text>  </xsl:text>
+        
+        <!-- project -->
+        <xsl:apply-templates select="//TEI//sourceDesc//bibl[1]/note[@type = 'project'][not(@target)]"/>
+        
+        <!-- editorial statement -->
+        <xsl:text> For a description of the editorial rationale behind our treatment of the manuscripts, see our </xsl:text>
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="$site_url"/>
+            <xsl:text>/about/editorial</xsl:text>
+          </xsl:attribute>
+          <xsl:text>statement of editorial policy</xsl:text>
+        </a>
+        <xsl:text>.</xsl:text>
+      </li>
+      
+      <xsl:if test="//teiHeader/fileDesc/notesStmt/note[@type='project']">
+        <li><strong>Editorial note: </strong><xsl:apply-templates select="//teiHeader/fileDesc/notesStmt/note[@type='project']"/> </li>
+      </xsl:if>
+      
+      <!-- pulled from notebooks P5 tylesheet and refactored original comment: relatedItem section (updated 4/28/17)-->
+      <xsl:if test="//sourceDesc//relatedItem">
+        <li><strong>Related Item(s): </strong>
+          <ul>
+            <xsl:for-each select="//relatedItem[@type = 'text']">
+              <li>
+                <xsl:variable name="note_target"><xsl:text>#</xsl:text><xsl:value-of select="@xml:id"/></xsl:variable>
+                <!-- if there is a note with a matching target, display -->
+                <xsl:apply-templates select="//note[@target=$note_target]"/>
+                <xsl:text> See </xsl:text>
+                <a>
+                  <xsl:attribute name="href" select="@target"/>
+                  <xsl:value-of select="@target"/>
+                </a>
+                <xsl:text>.</xsl:text></li>
+            </xsl:for-each>
+            
+            <xsl:for-each select="//relatedItem[@type = 'document']">
+              <li>
+                <xsl:text> See </xsl:text>
+                <a>
+                  <xsl:attribute name="href" select="@target"/>
+                  <xsl:value-of select="@target"/>
+                </a>
+                <xsl:text>.</xsl:text>
+              </li>
+            </xsl:for-each>
+          </ul>          
+        </li>
+      </xsl:if>
+      
+      <xsl:if test="//text//note[@type='editorial']">
+        
+        <li><strong>Notes written on manuscript: </strong>
+          
+          <xsl:for-each select="//text//note[@type='editorial']">
+            <xsl:choose>
+              <xsl:when test="following::note[@type='editorial'] and not(preceding::note[@type='editorial'])">On surface <xsl:value-of select="count(preceding::pb)"/><xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#ht']/@xml:id">, in the hand of Horace Traubel</xsl:if>
+                <xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#unk']/@xml:id">, in an unknown hand</xsl:if><xsl:text>: "</xsl:text><xsl:apply-templates/><xsl:text>"; </xsl:text>
+              </xsl:when>
+              <xsl:when test="following::note[@type='editorial'] and preceding::note[@type='editorial']">on surface <xsl:value-of select="count(preceding::pb)"/><xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#ht']/@xml:id">, in the hand of Horace Traubel</xsl:if>
+                <xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#unk']/@xml:id">, in an unknown hand</xsl:if><xsl:text>: "</xsl:text><xsl:apply-templates/><xsl:text>"; </xsl:text>
+              </xsl:when>
+              <xsl:when test="preceding::note[@type='editorial']">on surface <xsl:value-of select="count(preceding::pb)"/><xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#ht']/@xml:id">, in the hand of Horace Traubel</xsl:if>
+                <xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#unk']/@xml:id">, in an unknown hand</xsl:if><xsl:text>: "</xsl:text><xsl:apply-templates/><xsl:text>"</xsl:text>
+              </xsl:when>
+              <xsl:otherwise>
+                On surface <xsl:value-of select="count(preceding::pb)"/><xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#ht']/@xml:id">, in the hand of Horace Traubel</xsl:if>
+                <xsl:if test="substring-after(@resp,'#')=preceding::handNote[@scribeRef='#unk']/@xml:id">, in an unknown hand</xsl:if><xsl:text>: "</xsl:text><xsl:apply-templates/><xsl:text>"</xsl:text>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:for-each>
+        </li>
+      </xsl:if>
+      
+      <li><strong>Contributors to digital file: </strong> <xsl:value-of separator=", " select="//teiHeader/fileDesc/titleStmt/respStmt/persName"></xsl:value-of></li>
+    </ul>
   </xsl:variable>
 
     <!-- PB's -->
@@ -47,24 +272,11 @@
         <xsl:text>hr </xsl:text>
         <xsl:call-template name="add_attributes"></xsl:call-template>
       </xsl:attribute>
-      &#160;
-      <!-- if pb/@xml:id begins with "leaf" add language that looks like leaf 1 recto, leaf 1 verso, leaf 2 recto, etc -->
-      <xsl:if test="starts-with(@xml:id,'leaf')">
-        <xsl:variable name="id" select="@xml:id"/>
-        <xsl:variable name="page"><xsl:value-of select="xs:decimal(substring(substring-after(@xml:id,'leaf'),1,3))"/></xsl:variable>
-        <xsl:variable name="last_character" select="substring(@xml:id,8,8)"/>
-        <xsl:variable name="rectoverso">
-          <xsl:choose>
-            <xsl:when test="$last_character = 'r'">recto</xsl:when>
-            <xsl:when test="$last_character = 'v'">verso</xsl:when>
-          </xsl:choose>
-        </xsl:variable>
-        <xsl:text>[begin leaf </xsl:text>
-        <xsl:value-of select="$page"></xsl:value-of>
-        <xsl:text> </xsl:text>
-        <xsl:value-of select="$rectoverso"/>
-        <xsl:text>]</xsl:text>
-      </xsl:if>
+      <xsl:text>[begin surface </xsl:text>
+      <!--<xsl:value-of select="count(//pb)"/>-->
+      <xsl:number format="1" level="any"/>
+      <xsl:text>]</xsl:text>
+      
     </span>
     <xsl:if test="$figure_id != ''">
       <span>

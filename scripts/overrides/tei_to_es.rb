@@ -32,7 +32,11 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "manuscripts"
+    "In Whitman's Hand"
+  end
+
+  def category2
+    "In Whitman's Hand / Marginalia"
   end
 
   def language
@@ -44,10 +48,6 @@ class TeiToEs
   #   # TODO verify that none of these are multiple languages
   #   [ "en" ]
   # end
-
-  def category2
-    "marginalia"
-  end
 
   def topics
     get_text(@xpaths["topics"])

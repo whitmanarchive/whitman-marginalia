@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00248">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Vanity and the Glory of Literature</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="hr">Henry Rogers</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions,
+            public domain works may be freely copied or used in the creation of derivative works
+            without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
+            by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
+            of the originals for this publication only.</p></availability>
+            <idno>duk.00248</idno></publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>The Vanity and the Glory of Literature</title>
+                    <idno type="callno">MS 175</idno>
+                    <date notBefore="1849-04-01" notAfter="1892-03-26">After April 1, 1849</date>                   
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Henry Rogers</author>
+                    <title level="a">The Vanity and the Glory of Literature</title>
+                    <title level="j">The Edinburgh Review</title>
+                    <date>April 1849</date>
+                    <biblScope type="vol">89</biblScope>
+                    <biblScope type="issue">180</biblScope>
+                    <biblScope type="pp">149–168</biblScope>
+                    <note type="project">American Edition</note>
+                </bibl>
+                <bibl type="pasteon" xml:id="r2">
+                    <author>Unknown author</author>
+                    <title>THE MUSES</title>
+                    <date>Date unknown</date>
+                    <note type="project"/>
+                </bibl>
+                <bibl type="pasteon" xml:id="r3">
+                    <author>Unknown author</author>
+                    <title>SOCRATIC PHILOSOPHY</title>
+                    <date>Date unknown</date>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h4" scribeRef="#unk" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2011-08-12">Transcribed and encoded.</change>
+            <change who="#nhg" when="2012-03-12">Transcribed and encoded.</change>
+            <change who="#lmg" when="2013-09-07">Checked.</change>
+            <change who="#tra" when="2013-12-09">Checked and revised bibliographical encoding and handnote encoding.</change>
+            <change who="#lmg" when="2014-03-08">Added dimensions to pasteons, checked cbs, footnotes.</change>
+            <change who="#mc" when="2014-10-19">Proofed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            
+                
+                
+                
+                
+            <p><hi rend="underline" resp="#h2">If genius would attain its uttermost longevity,
+            another condition it must submit to
+            is, that of despising an <hi rend="italic">ad captandum</hi> compliance<anchor xml:id="s54"/>
+            with transient tastes, and the affectation
+            of peculiarities for the purpose and
+            in the hope of forming, as it were, a school.
+            It is not to be denied that literary fashions,
+            like others, may be extensive and prevalent
+            for a time—but they expire with the age.
+            Great genius for awhile will consecrate
+            almost any eccentricities, and even acquire
+            for them great temporary popularity. <span rend="singleLine-right" resp="#h2" xml:id="s55" from="#s55" to="#s56"/>But
+            it may well be questioned whether, where
+            there <hi rend="italic">is</hi> great genius and where it has
+            succeeded by such artifices, it might not,
+            <span rend="bracket-left" resp="#h3" xml:id="s57" from="#s57" to="#s58"/><hi rend="underline" hand="#h3">even among its contemporaries, have gained
+            equal applause at a less cost than that of
+            <span rend="bracket-left" resp="#h3" xml:id="s59" from="#s59" to="#s60"/>simplicity and nature</hi> But, at all events,<anchor xml:id="s60"/>
+            let the writer who attempts to attain fame<anchor xml:id="s58"/>
+            by any such fantastic methods, recollect
+            how ridiculous a reigning fashion looks a
+            century afterwards; for not less ridiculous
+            will then appear every thing that bears the
+            mark of affectation and mannerism, however
+            successful for a time. The Euphuism of
+            Elizabeth's day is now viewed only with
+            contemptuous wonder: and even Dr. Johnson,
+            though he still retains a large measure
+            of popularity, would have retained far more
+            had it not been for his antitheses and his
+            Latinisms.</hi><anchor xml:id="s56"/> Addison, though nearly a century
+            earlier, is still more admired, and
+            without any deductions.</p>
+          
+           
+            
+            
+            
+            
+            
+            
+            
+            
+            <span rend="bracket-left" resp="#h2" xml:id="s63" from="#s63" to="#s64"/><p>How singular has been the destiny of
+            Aristotle! After having been lost to the
+            world for ages, we see him making a second
+            and wider conquest, and founding the most
+            <note type="authorial" resp="#h2" place="left">Aris‑<lb/>
+            totle</note>durable and absolute despotism of mind the
+            world has ever seen! After a second dethronement,
+            he is now fighting his way back
+            to no mean empire,—an empire promising
+            to be all the more permanent, that it is
+            founded in a juster estimate of his real
+            claims on the gratitude and reverence of
+            mankind, and that he is invited to wield the
+            sceptre, not of a despot, but of a constitutional
+            monarch.</p><anchor xml:id="s64"/>
+            
+       
+       
+       
+       
+       
+       
+       
+            <p><span rend="bracket-right" resp="#h2" xml:id="s65" from="#s65" to="#s66"/><span rend="bracket-left" resp="#h2" xml:id="s67" from="#s67" to="#s68"/>But, without a gibe, the destiny of the
+            honest writer, even though but moderately
+            successful, and much more if long and
+            widely popular, is surely glorious and enviable.
+            It may be true that he is to die,—for
+            we do not count the record of a name when
+            the works are no longer read as anything
+            better than an epitaph, and even that may
+            vanish; yet, to come into contact with other
+            minds, even though for limited periods,—to
+            move them by a silent influence—to cooperate
+            in the construction of character—to
+            mould their habits of thought—to promote
+            the dominion of truth and virtue—to exercise
+            a spell over those we have never seen
+            and never can see,—in other climes,—at
+            the extremity of the globe,—and when the
+            hand that wrote is still for ever,—is surely a
+            most wonderful and even awful prerogative.
+            It comes nearer to the idea of the immediate
+            influence of spirit on spirit than anything
+            else which this world presents us. It<anchor xml:id="s68"/>
+            is of a purely moral nature; it is also silent
+            as the dew—invisible as the wind!<anchor xml:id="s66"/> We
+            can adequately conceive of such an influence
+            only by imagining ourselves.</p>
+           
+            
+            <span rend="bracket-left" resp="#h2" xml:id="s69" from="#s69" to="#s70"/><p>Plato, in a well-known passage of his
+            Phædrus, describes Socrates as contending
+            for the superiority of oral instruction, by representing
+            books as <hi rend="italic">silent</hi>. The inferiority
+            of the written word to the living voice is in
+            many respects undeniable; but surely it is
+            more than compensated by the advantage of
+            its diffusive and permanent character. <hi rend="underline" resp="#h2">Great
+            as has been the influence of Socrates, he
+            owes it almost entirely to the books he refused
+            to write! and it might have been
+            greater still, had he condescended to write
+            some of his own.</hi><anchor xml:id="s70"/></p>                  
+        </body>
+    </text>
+</TEI>

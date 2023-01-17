@@ -37,7 +37,7 @@ class TeiToEs
   end
 
   def category2
-    "In Whitman's Hand / Marginalia"
+    "In Whitman's Hand / Annotations and Marginalia"
   end
 
   def language

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00015">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Words"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00015</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"Words"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1845-02">Feb 1845</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="ink"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-10-24">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00045.jpg" type="recto"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/>Words.</note>
+            <note type="authorial" resp="#h2" place="top left">+</note>
+            <note type="authorial" resp="#h2" place="top right">13)</note>
+            <note type="authorial" resp="#h2" place="top right">2</note>
+            <fw type="date" place="top left">1845.]</fw>
+            <fw type="pageNum" place="top right">177</fw>
+            <fw type="header" place="top"><hi rend="italic">Sonnet.</hi></fw>
+            <div1>
+                <delSpan rend="hashmark" spanTo="#ds001" hand="#h2"/>
+                <p>did also its share of good, in holding up before despots a mirror in which they
+                    might read their own fate, and teaching the world that oppression has a limit,
+                    and buried freedom its resurrection day; and that just so deep as human rights
+                    and hopes are sunk, just so high will the tide of vengeance swell at last;</p>
+
+                <l>"Truth crushed to earth will rise again;</l>
+                <l>The eternal years of God are hers." </l>
+
+                <p>The fate of our own republic, which Mr. Alison reads so prophetically, is by no
+                    means yet decided; and even should we fall, we do not consider the question of
+                    the durability of a republican government settled. Had our population been
+                    suffered to increase, by the natural laws which govern it, and all those who
+                    control our interests been educated in the principles of true freedom, and been
+                    bound together by the common ties of kindred and country, and the whole glorious
+                    fabric of our constitution steadily strengthened as bulwark after bulwark was
+                    reared around it by the jealous watchfulness of an intelligent people, had we
+                    been left to try out the experiment, by ourselves, on our own soil, then we
+                    should consider the question of the expediency of a republican form of
+                    government fixed for ever.</p>
+
+                <p>But now we are compelled not only to struggle with the evils that gather
+                    around<cb/> every new undertaking, but to blend and incorporate into the very
+                    heart of our system the ignorance and degradation and crime of the despotisms of
+                    Europe. From such materials as tyranny sends us we are asked to rear our
+                    structure, and if it ever sways and totters, from the heterogeneous mass we are
+                    compelled to pile so hastily into it, we are tauntingly asked&#8212;How goes the
+                    doctrine of equality? The tens of thousands of hungry, half naked, and miserable
+                    beings, that are precipitated yearly upon our bosom, and enter almost
+                    immediately upon the work of reforming our system, come from a government where
+                    all their sorrows have sprung from the oppression of the upper classes. Knowing
+                    the " wormwood and the gall," and retaining the old hatred against the rich that
+                    has strengthened with their sufferings, they are easily led, like the mobs of
+                    Paris, by unscrupulous leaders, to act against their own permanent interests.
+                    So, also, the convicts and famine-struck wretches, that the prisons and
+                    almshouses of Europe disgorge yearly on our shores, swell the records of crime
+                    and pauperism in our land, while the acts they commit and the sufferings they
+                    engender, are charged over to republicanism. "<hi rend="italic">Laissez
+                        faire</hi>" is a just request; and could the world but have granted it to us
+                    we should have been content. </p>
+
+
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+                <lg>
+                    <head type="main-authorial" rend="smallcaps">SONNET.</head>
+                    <lg type="linegroup">
+                        <l>Many I love to gaze on, or to hear</l>
+                        <l>Carol melodious notes of young delight&#8212;</l>
+                        <l>But there is One, with blue eye soft and clear,</l>
+                        <l>Who haunts my thoughts by day, my dreams by night.</l>
+                        <l>And her, I love: her face to me is fair</l>
+                        <l>As early dawn; like a translucent veil</l>
+                        <l>It overshades a soul&#8212;how pure and bright</l>
+                        <l>And beautiful no features could declare,</l>
+                        <l>Nor yet could any features half conceal!</l>
+                        <l>A gentle spirit is thine, sweet maiden, thine</l>
+                        <l>A timid, fawn-like nature, and we fear</l>
+                        <l>Almost to love thee, lest a wreath we twine</l>
+                        <l>Too heavy for they greatness to bear,</l>
+                        <l>As for the gentlest flowers even dew-drops are!</l>
+                    </lg>
+                </lg>
+
+                <p>
+                    <hi rend="smallcaps">PENSEROSO.</hi></p>
+                <anchor xml:id="ds001"/>
+            </div1>
+            <div1>
+                <pb xml:id="leaf001v" facs="rut_nhg.00046.jpg" type="verso"/>
+                <fw type="date" place="top right">[Feb.,</fw>
+                <fw type="pageNum" place="top left">178</fw>
+                <fw type="header" place="top"><hi rend="italic">Words.</hi></fw>
+                <head type="main-authorial" rend="smallcaps">WORDS</head>
+                <p><hi rend="smallcaps">WORDS</hi> we are told, are the signs of ideas. This
+                    definition at best is faulty, and, in a majority of cases, untrue. Nothing is
+                    more common than to see words without any sign of ideas at all. Besides, those
+                    who understand the nature of language, and wield uncontrolled dominion over all
+                    its powers, have been careful to tell us that the true use of words is not to
+                    express but to conceal ideas. Words, moreover, are of such inherent value in
+                    themselves, and in the concerns of the world exercise such untrammeled
+                    influence, that it is unjust to degrade them from sovereigns into
+                    representatives. It would be much more modest for lovers of definition to say,
+                    not that words <hi rend="italic">are</hi>, but that they <hi rend="italic">should</hi> be the signs of ideas. The moralist is more philosophical. He
+                    distinguishes carefully between qualities and their application. He defines the
+                    laws of ethics, and informs us that men should obey them, not that they do.</p>
+                <p> The true ruler of this big, bouncing world is the Lexicon. Every new word added
+                    to its accumulated thousands, is a new element of servitude to mankind. We
+                    should therefore look sharply at all axioms which seem to fix the signification
+                    of these little substantives and sovereigns. The notion that they are the signs
+                    of thought can be disposed of without any train of tedious argument; because the
+                    originators and defenders of that notion are found instantly inconsistent, when
+                    we unite any two of their propositions. For instance, the remark is often heard
+                    that certain words in certain connections are "full of sound and fury,
+                    signifying nothing." Now if words be full of sound, they must necessarily be
+                    sound words, and if words are the signs of ideas, sound words must represent
+                    sound thoughts. Here is a logical dilemma for these axiomatic gentlemen.</p>
+                <p>Indeed words, in themselves, are nothing more than " mouthfuls of spoken wind,"
+                    the sons and daughters of the tongue and lungs. They are hardened into
+                    consistency by a process of pens, ink and paper. In this state they take form.
+                    But naturally they are immaterial substances like thoughts. The sculptor
+                    embodies an idea in marble, and we discriminate between the essence and the
+                    form. Why should we not also distinguish between <cb/> a word printed or written
+                    and a word spoken or conceived&#8212;between the body and the soul of an
+                    expulsion of air? Words, in truth, are entities, real existences, immortal
+                    beings; and though I would not go the whole length of Enthusiast Hazlitt, in
+                    saying that they are the only things that live forever, I would vindicate their
+                    title to a claim in the eternities of this world, and defend them from the
+                    cavils of presumption and ignorance.</p>
+                <p><choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, speaking through Lorenzo, regrets with much feeling the thickness of
+                    ear which prevents us from drinking in the music of the spheres. But how much
+                    more, in a moral and intellectual point of view, should we lament that hard
+                    condition of our faculty of hearing, by which we are prevented from enjoying all
+                    the sweet noises of the past and compelled to hear only the harsh <choice>
+                        <orig>gutterals</orig>
+                        <reg>gutturals</reg>
+                    </choice>of the present. Every disturbance of the atmosphere, caused by the
+                    ejection of a word, does not cease with our perception of it, but is
+                    everlastingly active. All around us now are the words of Noah, and Moses, and
+                    Plato, and Socrates, and <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, and Milton; and if our ears were only delicate enough to convey the
+                    sounds into our minds, we might hear, with our outward organ, Plato converse
+                    with Phrædros on the soul's immortality, Socrates gravel a sophist with his
+                    interrogative logic, <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> sting Ben Johnson or Master Dekkar with a joke worthy of Thersites,
+                    and Milton ask quaker Ellwood to read Homer to him, or rebuke his daughters for
+                    unkindness and inattention. The air is a more faithful chronicler of words than
+                    books. Every whisper of wickedness, which has fallen from the white lips of a
+                    tyrant or murderer, and which has never passed into but one human heart, is
+                    still alive in the air, and circling the earth in company with the song of
+                    Miriam, and the thunder of Luther, and the low prayer of Ridley, and the scoff
+                    of D'Holbach, and the profaneness of Rochester, and the denunciations of Burke.
+                    Truly are we surrounded with Voices. The sacredness and awful responsibilities
+                    of speech&#8212;the latent importance of idle words&#8212;consist in ever
+                    present existence. No sound that goes from the lip into the <pb xml:id="leaf002r" facs="rut_nhg.00047.jpg" type="recto"/>
+                    <fw type="date" place="top left">1845.]</fw>
+                    <fw type="pageNum" place="top right">179</fw>
+                    <fw type="header" place="top"><hi rend="italic">Words.</hi></fw> air, can ever
+                    die, even in a sensual sense, until the atmosphere, which wraps our planet in
+                    its huge embrace, has passed into nothingness. Words, then, have a being of
+                    their own; they exist after death, or rather they continue to exist after all
+                    memory of them has departed from the minds into which they originally
+                    entered.</p>
+                <p>Leaving, however, these logical and lofty notions of words, and coming down to
+                    the everyday world of books and men, we observe many queer developments of the
+                    cozenage of language. The most fluent man seems the most influential. All
+                    classes appear to depend upon words. Principles are nothing in comparison with
+                    speech. A politician is accused of corruption, inconsistency, and loving number
+                    one more than number ten thousand. Straightway he floods the country with words,
+                    and he is honorably acquitted. A gentleman of far-reaching and purse-reaching
+                    intelligence concocts twenty millions of pills, and " works" them off to agents,
+                    and, in the end, transfers the whole from his laboratory to the stomachs of an
+                    injured and oppressed people, by means of&#8212;words. Miss A. stabs the
+                    spotless name of Mrs. P. with a word-stiletto. The poisonous breath of a
+                    venomous fanatic moulds itself into syllables, and, lo! a sect of christians is
+                    struck with leprosy. An author wishes to be sublime, but has no fire in him to
+                    give sparkle and heat to his compositions. His ideas are milk and
+                    water-logged,&#8212; feeble, common-place, nerveless, witless, and soulless; or
+                    his thoughts are ballasted with lead instead of being winged with inspiration.
+                    "What shall I do!" he cries, in the most plaintive terms of aspiring stupidity.
+                    Poor poetaster! do not despair! take to thy dictionary&#8212;drench thy thin
+                    blood with gin&#8212;learn the power of words. Pile the Pelion of Rant on the
+                    Ossa of Hyperbole, and thy small fraction of the Trite shall be exalted to the
+                    heights of the Sublime and the admiring gaze of many people shall be fixed upon
+                    it, and the coin shall jingle in thy pocket, and thou shalt be denominated
+                    Great! But if thy poor pate be incapable of the daring, even in expression, then
+                    grope dubiously in the dismal swamps of verbiage, and let thy mind's fingers
+                    feel after <choice>
+                        <orig>spungy</orig>
+                        <reg>spongy</reg>
+                    </choice> and dropsical words, out of which little sense can be squeezed, and
+                    arrange the oozy epithets and unsubstantial substantives into lines, and out of
+                    the very depths of Bathos, thou shalt arise a sort<cb/> of mud-Venus, and men
+                    shall mistake thee for her that rose from the sea, and the coin shall still
+                    clink in thy fob, and thou shalt be called Beautiful! Such is the omnipotence of
+                    words! They can exalt the little; they can depress the high; a ponderous
+                    polysyllable will break the chain of an argument, or crack the pate of a
+                    thought, as a mace or a battle-axe could split the crown of a soldier in the
+                    elder time.</p>
+                <p>To cover a man with contempt or obloquy, it is only necessary to apply to him
+                    some catchword of theology or politics. Society will say with the sagacious
+                    Polonious, that such a word is good or bad, and judge of the living noun by the
+                    character of verbal tin-pail, that wit or malice has appended to its tail. A man
+                    or woman, who has had certain impertinent or degrading adjectives applied to his
+                    or her name will feel their sting and rattle long after they have been proved
+                    false and malignant. "A person with a bad name is already half hanged," saith
+                    the old Proverb.</p>
+                <p>Words are most effective when arranged in that order which is called style. The
+                    great secret of a good style, we are told, is to have proper words in proper
+                    places. To marshal one's verbal battalions in such order, that they may bear at
+                    once upon all quarters of a subject, is certainly a great art. This is done in
+                    different ways. Swift, Temple, Addison, Hume, Gibbon, Johnson, Burke, are all
+                    great generals in the discipline of their verbal armies, and the conduct of
+                    their paper wars. Each has a system of tactics of his own, and excels in the use
+                    of some particular weapon. The tread of Johnson's style is heavy and sonorous,
+                    resembling that of an elephant or a mail-clad warrior. He is fond of leveling an
+                    obstacle by a polysyllabic battering-ram. Burke's words are continually
+                    practicing the broad-sword exercise, and sweeping down adversaries with every
+                    stroke. Arbuthnot "plays his weapon like a tongue of flame." Addison draws up
+                    his light infantry in orderly array, and marches through sentence after
+                    sentence, without having his ranks disordered or his line broken. Luther is
+                    different. His words are "half battle;" " his smiting idiomatic phrases seem to
+                    cleave into the very secret of the matter." Gibbon's legions are heavily armed,
+                    and march with precision and dignity to the music of their own tramp. They are
+                    splendidly equipped, but a nice eye can discern a little rust <pb xml:id="leaf002v" facs="rut_nhg.00048.jpg" type="verso"/>
+                    <note type="authorial" resp="#h3" place="top left"><handShift new="#h3"/>Style
+                        is not to be shackled by sweeping rules.</note>
+                    <note type="authorial" resp="#h3" place="top right" target="#dl001" anchored="true">There is no model style ☟ </note>
+                    <fw type="date" place="top right">[Feb.,</fw>
+                    <fw type="pageNum" place="top left">180</fw>
+                    <fw type="header" place="top"><hi rend="italic">Words.</hi></fw> beneath their
+                    fine apparel, and there are <choice>
+                        <orig>suttlers</orig>
+                        <reg>sutlers</reg>
+                    </choice> in his camp who lie, cog and talk gross obscenity. Macauley, brisk,
+                    lively, keen and energetic, runs his thoughts rapidly through his sentence, and
+                    kicks out of the way every word which obstructs his passage. He reins in his
+                    steed only when he has reached his goal, and then does it with such celerity
+                    that he is nearly thrown backwards by the suddenness of his stoppage. Gifford's
+                    words are moss-troopers, that waylay innocent travelers and murder them for
+                    hire. Jeffrey is a fine "lance," with a sort of Arab swiftness in his movement,
+                    and runs an iron-clad horseman through the eye before he has had time to close
+                    his helmet. John Wilson's camp is a disorganized mass, who might do effectual
+                    service under better discipline, but who under his lead are suffered to carry on
+                    a rambling and predatory warfare, and disgrace their general by flagitious
+                    excesses. Sometimes they steal, sometimes swear, sometimes drink and sometimes
+                    pray. Swift's words are porcupine's quills, which he throws with unerring aim at
+                    whoever approaches his lair. All of Ebenezer Elliot's words are gifted with huge
+                    fists, to pummel and bruise. Chatham and Mirabeau throw hot shot into their
+                    opponents' magazines. Talfourd's forces are orderly and disciplined, and march
+                    to the music of the Dorian flute; those of Keats keep time to the tones of the
+                    pipe of Phoebus; and the hard, harsh-featured battalions of Maginn, are always
+                    preceded by a brass band. Hallam's word-infantry can do much execution, when
+                    they are not in each other's way. Pope's phrases are either daggers or rapiers.
+                    Willis's words are often tipsy with the champaign of the fancy, but even when
+                    they reel and stagger they keep the line of grace and beauty, and though
+                    scattered at first by a fierce onset from graver cohorts, soon reunite without
+                    wound or loss. John Neal's forces are multitudinous and fire briskly at
+                    everything. They occupy all the provinces of letters, and are nearly useless
+                    from being spread over too much ground. Everett's weapons axe ever kept in good
+                    order, and shine well in the sun, but they are little calculated for warfare,
+                    and rarely kill when they strike. Webster's words are thunder-bolts, which
+                    sometimes miss the Titans at whom they are hurled, but always leave ensuring
+                    marks when they strike. Hazlitt's verbal army is sometimes drunk and surly,
+                    sometimes foaming with passion,<cb/> sometimes cool and malignant, but drunk or
+                    sober are ever dangerous to cope with. Some of Tom Moore's words are shining
+                    dirt, which he flings with excellent aim. This list might be indefinitely
+                    extended, and arranged with more regard to merit and chronology. My own words,
+                    in this connection, might be compared to ragged, undisciplined militia, which
+                    could be easily routed by a charge of horse, and which are apt to fire into each
+                    other's faces.</p>
+                <p><span rend="singleLine-left" hand="#h2" xml:id="dl001" from="#dl001" to="#dl002"/>There is a great amount of critical nonsense talked about style. One prim
+                    Aristarchus in a stiff cravat, tells us that no manner of expression is so good
+                    as that of Addison; another contends for Carlyle; and both would have words
+                    arrayed according to their own models, without regard to individual mental bias
+                    or <choice>
+                        <orig>idiosyncracies</orig>
+                        <reg>idiosyncrasies</reg>
+                    </choice>. <hi rend="underline" hand="#h2">If style be good, just in proportion
+                        as it enables an author to express his thoughts, it should be shackled by
+                        few general rules. Every style formed elaborately on any model, must be
+                        affected and strait-laced.</hi> Every imitator of Byron and Pope has been
+                    damned and forgotten. The nature of a man can only squeal out, when it is
+                    hampered by artificial environments. Some thoughts, in a cramped style, look
+                    like Venus improved by the addition of busk and bustle. The selection and
+                    arrangement of a writer's words should be as characteristic as his ideas and
+                    feelings. <hi rend="underline" hand="#h2">There is no model style. What is
+                        pleasing in the diction of one author disgusts us in a copyist. If a person
+                        admires a particular method of arranging words, that arrangement will occur
+                        naturally in his own diction,</hi> without malice aforethought. Some writers
+                    unconsciously fall into the mode of expression adopted by others. This
+                    illustrates a similarity of disposition, and is not imitation. As a style, when
+                    it is natural, comes rather from the heart than the head; men of similar tastes
+                    and feelings will be likely to fall into a similar form of expression. Leigh
+                    Hunt's easy slip-shod is pleasant enough to read, as his nature is easy and
+                    slip-shod; but only to think of Carlyle running into that way of writing? Sidney
+                    Smith, concise, brisk and brilliant, has a manner of composition which exactly
+                    corresponds to those qualities; but how could Lord Bacon look on Smith's
+                    sentences? How grandly the soul of Milton rolls and winds through the arches and
+                    labyrinths of his involved and magnificent diction, waking musical echoes at
+                    every new turn and variation of <anchor xml:id="dl002"/><pb xml:id="leaf003r" facs="rut_nhg.00049.jpg" type="recto"/>
+                    <fw type="date" place="top left">1845.]</fw>
+                    <fw type="pageNum" place="top right">181</fw>
+                    <fw type="header" place="top"><hi rend="italic">Words.</hi></fw>
+                    <span rend="singleLine-right" hand="#h2" xml:id="dl003" from="#dl003" to="#dl004"/> its progress&#8212;but how could the thought of such a light
+                    trifler as Cibber travel through so glorious a maze without being loot or
+                    crushed in the journey? The plain, manly language of John Locke could hardly be
+                    translated into the terminology of Kant&#8212;would look out of place in the
+                    rapid and sparkling movement of Cousin's periods&#8212;and would appear mean in
+                    the cadences of Dugald Stewart. Every writer, therefore, is his own standard.
+                    The law by which we judge of his sentences must be deduced <hi rend="italic">from</hi> his sentences. If we can discover what the man is, we know what
+                    his style ought to be. If it indicate his character, it is, relatively, good; if
+                    it contradict his character, though its cadences are faultless, it is still bad
+                    and not to be endured. To condemn Carlyle and Macauley because they do not run
+                    their thoughts into the moulds of Addison or Burke, is equivalent to condemning
+                    a bear because he does not digest stones like an ostrich, or a chicken, because
+                    it goes on two legs instead of four. <hi rend="underline" hand="#h2">The alleged
+                        faults belong to organization.</hi> We may quarrel with a writer if we
+                    please, for possessing a bad or tasteless nature, but not with the style, which
+                    takes from that nature its form and movement.</p>
+                <p><span rend="singleLine-left" hand="#h2" xml:id="dl005" from="#dl005" to="#dl006"/>It is singular that Macauley and Carlyle, continually protesting against
+                    affectation in the mode of expressing thought, should be themselves considered
+                    the high priests at the shrine of affectation. In truth, no writers are less
+                    open to the charge. <hi rend="underline" hand="#h2">Their styles are exact
+                        mirrors of their minds.</hi> Any other form of expression, would in them, be
+                    gross affectation.<anchor xml:id="dl006"/> When they change their dispositions
+                    and modes of thinking, and preserve their way of writing, they will then be
+                    justly liable to rebuke, and would be justly punished with neglect.</p>
+                <anchor xml:id="dl004"/>
+                <p>Words have generally been termed the dress of thought. We recollect of hearing a
+                    lecturer on elocution give a minute description of the manner in which this
+                    curious tailoring of ideas was effected. He appareled an abstract conception of
+                    the Intellect in stockings, shirt, <choice>
+                        <orig>trowsers</orig>
+                        <reg>trousers</reg>
+                    </choice>, vest, coat and bright buttons, and showed us those closets and
+                    drawers in the brain's chamber, where such articles of clothing were deposited.
+                    This notion of words being the dress of thought is indeed curious. Let us
+                    suppose a case. An Imagination rises from the soft bed of Ideality, on hearing
+                    the tinkle of Master Reason's or Master Volition's bell. Of course<cb/> it does
+                    not desire to appear before company in a state of nudity, and it accordingly
+                    trips lightly into the dressing-room of the Noddle, and overhauls the mind's
+                    wardrobe. Now this wardrobe in some heads is scanty and poor, in others
+                    overflowing with rich and costly apparel. At any rate our Imagination slips on
+                    the most shining and flaring suit of clothes it can find, and then slides along
+                    a number of nerves into the lungs, and sails out of the mouth on a stream of
+                    sound, to delight the world with its presence. In the verbal wardrobe of
+                    Wordsworth there would be few rich garments: consequently most of his thoughts
+                    or fancies would be compelled to appear in peasants' frocks or suits of "homely
+                    russet brown." All of Byron's ideas aspired to be clad in regal splendor; and,
+                    as they were in the custom of crowding thick and fast into the dressing-room,
+                    there must have been some jostling and fighting among them, for the most costly
+                    and showy suits. Vice and Falsehood would crave fine apparel as well as Virtue
+                    and Truth; and, in his case, they must often have succeeded in bullying the
+                    latter out of their rights and "tights." There are a class of authors who have
+                    rich garments but no thoughts to put into them. The garments, however, please
+                    the eye of the multitude, and few discover that they are stuffed with brass
+                    instead of brains. Some poets have nothing but ragged clothes in their wardrobe,
+                    and their poor shivering Ideas go sneaking about the alleys of letters, ashamed
+                    to be seen by their more richly-dressed relations. Others, though in rags, have
+                    a certain quick impudence, like that of Robert Macaire, which enables them to
+                    bustle about among their betters, and seem genteel though in rags. We sometimes
+                    observe Thoughts in the prim coats and broad hats of quakers; but they are not
+                    admitted to the " West End,"&#8212;excepting, of course, " the West End of the
+                    Universe." Sir Charles Sedley was distinguished for writing poems of
+                    considerable impurity of idea and considerable purity of language. His
+                    biographer therefore is careful to inform us that though the sentiments of Sir
+                    Charles were as foul as those of Rochester, they were not so immodest, because
+                    they were covered with clean linen. Dryden's wardrobe, we are told, was like
+                    that of a Russian noble,&#8212;" all filth and diamonds, dirty linen and
+                    inestimable sables." To such speculations and fancies as these are we led, when
+                    we acknowledge the <pb xml:id="leaf003v" facs="rut_nhg.00050.jpg" type="verso"/>
+                    <note type="authorial" resp="#h2" place="top right"><handShift new="#h2"/>+</note>
+                    <fw type="date" place="top right">[Feb.,</fw>
+                    <fw type="pageNum" place="top left">182</fw>
+                    <fw type="header" place="top"><hi rend="italic">Words.</hi></fw> truth of the
+                    maxim, that words are the dress of thought.</p>
+                <p><span rend="singleLine-left" hand="#h3" xml:id="dl007" from="#dl007" to="#dl008"/>Words, however, even in the common meaning, are not, when used by a
+                    mastermind, the mere dress of thought. Such a definition degrades them below
+                    their sphere, and misconceives their importance. They are, as Wordsworth has
+                    happily said, the <hi rend="italic">incarnation</hi> of thought. They bear the
+                    same relation to ideas, that the body bears to the soul. Take the most beautiful
+                    and sincere poetry, which has ever been written, and its charm is broken as soon
+                    as the words are disturbed or altered. If any expression can be employed except
+                    that which is used, the poet is a bungling rhetorician or writes on the surface
+                    of his theme. <hi rend="underline" hand="#h2">A Thought embodied and <hi rend="italic">embrained</hi> in fit words, walks the earth a living
+                        being. No part of its body can be stricken from it, or injured, without
+                        disfiguring the beauty of its form or spoiling its grace of motion.</hi>
+                    Such Thoughts, perhaps, are few in number; but <choice>
+                        <orig>wo</orig>
+                        <reg>woe</reg>
+                    </choice> upon those tasteless critics, who would meddle with those few, and
+                    dare to alter their organization, on the plea of improvement!<anchor xml:id="dl008"/></p>
+
+                <p>Words in a few " eminent hands" are servile ministers; but generally, even in
+                    great writers, they are kings who rule, not subjects who obey. In some minds
+                    they obtain "sovereign sway and masterdom" over the whole domain of thought and
+                    emotion. <span rend="singleLine-left" hand="#h3" xml:id="dl009" from="#dl009" to="dl010"/><hi rend="underline" hand="#h3">This servitude</hi> to words <hi rend="underline" hand="#h3">often produces</hi> injurious results to the
+                    writer. It is the parent of many fallacies and inconsistencies. For
+                    instance&#8212;a reasoner desires to argue closely and logically; a word often
+                    leads him astray into a sophism, or tempts him, by its winning looks, to slide
+                    into episodes. A critic wishes to analyze a book; but instead of analysis he
+                    gives his readers eulogy or denunciation; for certain words which sprang up,
+                    like flowers or thistles, in his path, were too sweet or too sharp for him to
+                    avoid. To give point to a period, some writers will throw in a word which will
+                    stab innocence or mediocrity like a <choice>
+                        <orig>poignard</orig>
+                        <reg>poniard</reg>
+                    </choice>; to make a sentence end harmoniously, others will <hi rend="italic">pad</hi> it with <anchor xml:id="dl010"/><cb/>
+                    <span rend="singleLine-right" hand="#h3" xml:id="dl011" from="#dl011" to="#dl012"/> words, which are meaningless or out of place. In describing
+                    characters or scenery, the general custom is to employ language which is
+                    beautiful or strong, rather than what is applicable. <hi rend="underline" hand="#h2">Nothing is rarer than the use of a word in its exact
+                        meaning.</hi> Amplitude of comprehension is a much finer phrase than good
+                    reasoning powers; and consequently every respectable thinker is made a Bacon;
+                    vivid imagination sounds better than moderate talent, and of course, every
+                    rhyme-stringer is a Byron; miserable drivelling has a sharper edge than mediocre
+                        merit,<anchor xml:id="dl012"/> and all common-place writers are therefore to
+                    be fools or dunces. Lord Byron, in alluding to the supposed cause of Keats's
+                    death, said&#8212;</p>
+
+                <l>"Strange that the soul, that very fiery particle,<lb/> Should let itself be
+                    snuffed out by an article."</l>
+
+                <p>Hunt told him that Keats was not killed in this way. Byron promised to strike it
+                    out. But the smartness and the rhyme, were temptations stronger than his
+                    conscience, and he allowed the couplet to remain.</p>
+                <span rend="singleLine-right" hand="#h3" xml:id="dl013" from="#dl013" to="#dl014"/>
+                <p>It would be an easy matter to mention some words which have exercised greater
+                    influence, and swayed with more absolute power, than Alexander or Napoleon. Any
+                    one can pick up in a newspaper the sovereigns of our own country. <hi rend="underline" hand="#h2">A word often keeps its seat in the mind of a
+                        people, after the thought to which originally it was nominally attached, has
+                        disappeared. Words head armies, overthrow dynasties, man ships, separate
+                        families, cozen cozeners, and steal hearts and purses.</hi> And if
+                    physiologists and metaphysicians are driven into a corner, and are compelled to
+                    give the real distinction between human beings and animals, they are almost sure
+                    to say it consists in the power of speech&#8212;in the capacity to frame, use
+                    and multiply at discretion, these omnipotent "mouthfuls of spoken wind."
+                    Words&#8212;words&#8212;words!</p>
+                <anchor xml:id="dl014"/>
+                <milestone rend="horbar-short-center" unit="undeclared"/>
+            </div1>
+        </body>
+    </text>
+</TEI>

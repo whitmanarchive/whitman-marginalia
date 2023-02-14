@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen
+RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"
+?>
+<?oxygen
+SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
+?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07368">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Consuelo, vol. 1</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="cv">George Sand</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="ano">Alejandro Omidsalar</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>2015</edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.07368</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be 
+                        freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">
+                            Creative Commons Attribution 4.0 International License
+                        </ref>
+                        (CC BY 4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted 
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Consuelo</title>
+                    <idno type="callno">PQ2400.A37 1848</idno>
+                    <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or later</date>
+                    <orgName xml:id="bmr">Feinberg-Whitman Collection, Library of Congress</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>George Sand</author>
+                    <title level="a">Consuelo</title>
+                    <date>1847</date>
+                    <publisher>William H. Graham</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="pp">title page, vi, vii, 11, 13, 19-22, 24, 27, 34, 35, 50-53</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#gs" medium="typescript"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="ink"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-11-27" who="#ano">Transcribed; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+<text type="marginalia">
+    <front>
+        <pb xml:id="leaf001r" facs="loc_mc_02592.jpg" type="recto"/>
+        <titlePage>
+            <note type="authorial" resp="#h3">Walt Whitman</note>
+            <docTitle>
+                <titlePart>CONSUELO:</titlePart>
+            </docTitle>
+            <byline>BY<docAuthor>GEORGE SAND.</docAuthor></byline>
+            <note type="authorial" resp="#h2">IN THREE VOLUMES:
+            VOL. 1</note>
+            <milestone unit="undeclared" rend="horbar-short"/>
+            <byline>TRANSLATED BY 
+            FRANCIS G. SHAW.</byline>
+            <milestone unit="undeclared" rend="horbar-short"/>
+            <note type="authorial" resp="#h2">Third Edition.</note>
+            <docImprint>
+                <pubPlace>NEW YORK:</pubPlace>
+                <publisher>WILLIAM <gap reason="unspecified damage"/> GRAHAM, TRIBUNE BUILDINGS</publisher>
+                <docDate>M DCCC XLVII</docDate>.
+            </docImprint>
+        </titlePage>
+    </front>
+    <body>
+        <pb xml:id="leaf002v" facs="loc_mc_00951.jpg" type="verso"/>
+        <p>Entered according to Act of Congress, in the year 1846, by
+        FRANCIS G. SHAW,
+        the Clerk's Office of the District Court of Massachusetts.</p>
+        <milestone unit="undeclared" rend="horbar-short"/>
+        <p>Stereotyped by
+        GEORGE A. CURTIS;
+        <hi rend="smallcaps">NEW ENGLAND TYPE AND STEREOTYPE FOUNDRY></hi></p>
+        <pb xml:id="leaf003v" facs="loc_mc_02594.jpg" type="verso"/>
+        <fw type="pageNum" place="top left">vi</fw>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <p>book, out of any weak disgust for the experiences through which the 
+            author may have had to work her way up to this serene and heavenly 
+            <span rend="singleLine-right" hand="#h1" xml:id="a1" from="a1" to="a2"/>
+            elevation? Whoever does so is himself the loser. It is the way of 
+            Providence, that loftiest character is reared not in the timid paths of 
+            outward innocence alone; and that purest wisdom sometimes comes 
+            from knowledge of both good and evil, that so it may speak the more 
+            wisely, convincingly, inspiringly, to them that are fallen.<anchor xml:id="a2"/></p>
+        <p>We shall take occasion hereafter to speak more at length of the 
+            book and its author. At present we can only sum up its merits. 
+            "Consuelo" is its name, and the name of the heroine&#8212;a Spanish 
+            word, which means <hi rend="italic">Consolation</hi>. No word could better describe the 
+            peculiar influence of the book. It is consoling to the depths of every 
+            tried and weary soul. As surely as you read, you are in a clearer 
+            and more loving mood. Every sentence seems to have proceeded 
+            from a very rare union of Wisdom and Love; such serenity and such 
+            mild warmth are from no other source. It throws around you the 
+            sphere of an ideal person, a character so truly conceived, and so 
+            thoroughly sustained, that almost you are persuaded it has bodily 
+            existence, and that a " Consuelo" lives for <hi rend="italic">you</hi> too.</p>
+        <p>Consuelo is a poor Spanish Gipsy girl; at first a gifted pupil in 
+            one of the musical conservatories of Venice under old Porpora, the 
+            master of Haydn; then the wonder of all Italy, of the courts of 
+            Maria-Theresa, and of Frederic-the-Great, by her inspired singing 
+            in theatre and church; then a countess; and always, from first to 
+            last, sublime as an artist, a woman, and a child of God. In no work 
+            of fiction do we find so high a character. It is gentleness grown 
+            strong by purity; it is beauty perpetually renewed from the inward 
+            living springs of beauty; it is genius sanctified by piety and justified 
+            by use; it is the very height of liberty and frankness, yet its freest 
+            motions rounded with the grace of reverence; it is innocence great 
+            through all experiences, too great for vanity or fear, and humble in 
+            its greatness; it is high, heavenly womanhood, a female incarnation 
+            <span rend="singleLine-right" hand="#h1" xml:id="b1" from="b1" to="b2"/>
+            of the Godlike. Notable personages of history, monarchs, states-
+            men, artists, philosophers, poets, spiritual mystics, coarser fanatics 
+            and charlatans, shine in their truest colors in this book, <hi rend="underline">as they only<anchor xml:id="b2"/> 
+            could do by the side of her.</hi></p>
+        <p>Consuelo is an artist, a wondrous child of song; as loyal to nature, 
+            as she is conscientious in art. In her inspirations, in her studies, in 
+            her public performances, she is the ideal of that character. To her, 
+            Music is the medium through which the soul may with all delicacy, 
+            publish to the world its deepest, inmost life. To glorify music, to 
+            proclaim its heavenly origin and power, its mystic sense, is her reli-</p>
+        <pb xml:id="leaf004r" facs="loc_mc_02595.jpg" type="recto"/>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <fw type="pageNum" place="top right">vii</fw>
+        <p>gious mission. mission. In it all thought of self is lost. Music is the meaning 
+            of her life; music is the outpouring of all her soul to humanity, 
+            her highest duty, her confession of faith, her acknowledgment of 
+            God, her dedication of herself to holiest ends. Here again, amid so 
+            many vain displays of heartless skill, the forms of art without the 
+            soul, in operas and concerts and cathedral choirs, she is " Consuelo," 
+            Consolation&#8212;a refreshing sunbeam of reality amid cold glittering 
+            shams. It is perhaps the primary end of this novel, to hold up an 
+            ideal of the artist's character, especially in music, which is <hi rend="italic">the</hi> art 
+            of this age; and to show how genuine Art flows only from, and 
+            leads always to, the moral; how all inspiration, alike of saint or 
+            artist, must come from devotion to the "<hi rend="underline">first good, first fair.</hi>"</p>
+        <p>It is because the author not only has an intellectual apprehension 
+            of this idea, but actually feels and lives it, that her book itself is a 
+            noble work of Art. The character of Consuelo inspires it all. Like 
+            the "Voice, which first to light gave being," she pervades with a 
+            quickening presence, shaping and harmonizing the whole book, 
+            through all its more general arrangements, through all its shifting 
+            scenes and interacting characters, down to the very choice of words, 
+            and slightest turn of every sentence. The style, for graphic clearness, 
+            warmth, and musical flow, is almost unrivalled.</p>
+        <p>To expect all this in any English version would be too much. 
+            But our translation is by one eminently qualified for the work, who 
+            is both filled with enthusiasm for the beauty of the original, and who 
+            deeply appreciates its spirit and purpose. The work with him is 
+            truly one of love. We can with all confidence offer it to our readers 
+            as a faithful, spirited and graceful version of a book, which needs 
+            no other commendation but to be read.</p>
+        <pb xml:id="leaf005r" facs="loc_mc_02596.jpg" type="recto"/>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <fw type="pageNum" place="top right">11</fw>
+        <p>inevitable, had sometimes admitted to the course of musical 
+            lessons, the children of poor artists, whose wandering life did 
+            not permit a long residence at Venice. Of this class was the 
+            little Consuelo, born in Spain, and arriving thence in Italy, by 
+            the way of St. Petersburg, Constantinople, Mexico, or Archangel, 
+            or by some other route even more direct, travelled by 
+            the Bohemians alone.</p>
+        <p>Bohemian, however, she was not, except by profession and 
+            figure of speech; for by race she was neither Gypsy nor 
+            Indian, nor Israelitish even, in any manner. She was of good 
+            Spanish blood, no doubt Moorish in its origin, for she was 
+            tolerably brown, and her whole person had a tranquillity which 
+            announced nothing of the wandering races. Not that I wish 
+            to speak ill of those races. If I had created the character of 
+            Consuelo, I do not assert that I should not have made her 
+            descend from Israel, or even from a more ancient race; but she 
+            was formed from the rib of Ishmael, everything in her organization 
+            declared it. I never saw her, for I am not yet a hundred 
+            years old, but I have been told this, and cannot contradict it. 
+            She had not the feverish petulance, interrupted by fits of a 
+            pathetic languor, which distinguishes the <hi rend="italic">Zingarelle</hi>. She had 
+            not the insinuating curiosity, and the obstinate mendicity of an 
+            <span rend="singleLine-right" hand="#h1" xml:id="c1" from="c1" to="c2"/>
+            indigent <hi rend="italic">Ebbrea</hi>. She was as calm as the water of the lagunes, 
+            and at the same time as active as the light gondolas which 
+            incessantly furrow its surface.<anchor xml:id="c2"/></p>
+        <p>As she grew very fast, and her mother was very poor, her 
+            clothes were always too short by a year, which gave to her 
+            long legs of fourteen, accustomed to show themselves in public, 
+            a sort of savage grace and springing gait, the sight of which 
+            caused both pleasure and pity. If her foot was small, she was 
+            so badly shod that you could not be sure of it. On the other 
+            hand, her figure, confined in a waist which had become too 
+            small, and was bursting at every seam, was light and flexible 
+            as a palm tree, but without form, without roundness, and 
+            without any attractiveness. The poor girl thought nothing 
+            of this, accustomed as she was to be called ape, monkey, and 
+            gypsy, by the blonde, white and plump girls of the Adriatic.</p>
+        <pb xml:id="leaf006r" facs="loc_mc_02597.jpg" type="recto"/>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <fw type="pageNum" place="top right">13</fw>
+        <p>me, my dear master," cried he, " which of your pupils has 
+            just sung the <hi rend="italic">Salve Regina</hi>?"</p>
+        <p>"Why do you wish to know, count Zustiniani!" answered 
+            the professor, leaving the church with him.</p>
+        <p>"In order to compliment you," replied the patrician. "For 
+            a long time I have attended, not only your vespers, but even 
+            your lessons; for you know how much I am <hi rend="italic">dilettante</hi> of 
+            sacred music. Well, this is the first time that I have heard 
+            Pergolese's music sung in so perfect a manner; as regards 
+            the voice, it is certainly the most beautiful I have ever met 
+            with in my life."</p>
+        <p>"By the Christ! I believe you!" returned the professor, 
+            relishing a huge pinch of snuff with complaisance and dignity.</p>
+        <p>"Then tell me the name of the celestial creature who has 
+            thrown me into such ecstasies. Notwithstanding your 
+            severities and your continual complaints, it may be said that 
+            you have made your school one of the best in all Italy; your 
+            choruses are excellent, and your solos very commendable; 
+            but the music which you oblige them to execute is so grand, 
+            so austere, that young girls can rarely cause all its beauties 
+            to be felt&#8212;"</p>
+        <p><span rend="singleLine-right" hand="#h1" xml:id="d1" from="d1" to="d2"/>
+            "They do not cause them to be felt," said the professor 
+            with sadness, "because they themselves never feel them!<anchor xml:id="d2"/>
+            For fine, fresh and powerful voices and of«great compass, we 
+            do not want, thank God! but for truly musical organizations, 
+            alas! how rare and incomplete they are."</p>
+        <p>"At least you have one that is admirably endowed; the 
+            instrument is magnificent, the sentiment perfect, the knowledge 
+            remarkable. Tell me her name."</p>
+        <p>"It is true, then," said the professor, eluding the question, 
+            "that she gave you pleasure?"</p>
+        <p>"She seized me by the heart, she drew tears from my 
+            eyes, and by means so simple, by effects so little labored, that 
+            at first I could not understand how it was done. Then I 
+            called to mind what you had so often told me, in teaching me 
+            your divine art, my dear master; and for the first time I felt 
+            how right you were<anchor xml:id="e1"/>.</p>
+        <note type="authorial" resp="#h2" place="infralinear" target="e1">2</note> 
+        <!-- Not sure why there is a 2 hovering beneath "were" on the last line, so I coded it as a note. -->
+        <pb xml:id="leaf007v" facs="loc_mc_00952.jpg" type="verso"/>
+        <fw type="pageNum" place="top left">14</fw>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <span rend="singleLine-left" hand="#h1" xml:id="f1" from="f1" to="f2"/>
+        <p>"And what did I tell you?" asked the master again, with an air of triumph.</p>
+        <p>"You used to tell me," answered the count, "that <hi rend="underline" hand="#h1">the 
+            grand, the true, the beautiful in art, was the simple."</hi></p><anchor xml:id="f2"/>
+        <p>"I also told you that there was the brilliant, the difficult, 
+            the skilful, and that there was often reason for remarking and 
+            praising these qualities. Did I not?"</p>
+        <p>"Without doubt; but between these secondary qualities 
+            and the true manifestation of genius, there is an abyss, said 
+            you. Well, my dear master! your songstress is alone on 
+            one side, and all the rest are on the other."</p>
+        <p>"It is true, and it is well said," observed the professor, 
+            rubbing his hands.</p>
+        <p>"Her name?" insisted the count.</p>
+        <p>"What name?" asked the roguish professor.</p>
+        <p>"Oh! <hi rend="italic">per Dio santo!</hi> that of the siren, or rather of the
+        archangel whom I have just heard &#8212;"</p>
+        <p>"And what do you wish to do with her name, my lord
+        count?" replied Porpora, in a severe tone.</p>
+        <p>"Sir professor, why do you wish to keep it a secret from
+        me?"</p>
+        <p>"I will tell you why, if you will first tell me, why you ask
+        it with so much earnestness."</p>
+        <p>"Is not the desire to know, to name, and to see the objects
+        of our admiration, a natural and truly irresistible sentiment?"</p>
+        <p>"Yes! But that is not your only motive! allow me, my 
+            dear count, to contradict you. You are a great amateur and 
+            good connoisseur in music, I know; but you are above all, 
+            proprietor of the Saint Samuel theatre. You make it your 
+            glory, even more than your interest, to draw thither the finest 
+            talents and the most beautiful voices of all Italy. You know 
+            that we give good lessons; that in our school alone are 
+            severe studies prosecuted and great musicians formed. You 
+            have already carried Corilla away from us; and as she will 
+            probably be taken from you, at the first opportunity, by an 
+            engagement with some other theatre, you come prowling 
+            about our school, to'see if we have not formed some other</p>
+        <pb xml:id="leaf008r" facs="loc_mc_02598.jpg" type="recto"/>
+        <fw type="header" place="top">CONSUELO.</fw>
+        <fw type="pageNum" place="top right">19</fw>
+        <span rend="singleLine-left" hand="#h1" xml:id="g1" from="g1" to="g2"/>
+        <p>"She, that dirty child? that lean black grasshopper? im-
+            possible, maestro!"</p><anchor xml:id="g2"/>
+        <p>"She herself, my lord count; would not she make a most 
+            attractive prima donna?"</p>
+        <p>The count stopped, returned, examined Consuelo again 
+            from a little distance, then clasping his hands with a despair 
+            that was truly comic;&#8212;</p>
+        <p>"Just Heavens !" cried he, " how can you make such 
+            mistakes, and pour the fire of genius into heads so roughly 
+            wrought?"</p>
+        <p>"Then you renounce your wicked project?" said the professor.</p>
+        <p>"Certainly."</p>
+        <p>"Do you promise me?" added Porpora.</p>
+        <p>"Oh! I swear it to you," answered the count.</p>
+        <pb xml:id="leaf008v" facs="loc_mc_02599.jpg" type="verso"/>
+        <fw type="pageNum" place="top">20</fw>
+        <div1 type="chapter">
+            <head>CHAPTER III</head>
+            <p><hi rend="smallcaps">Born</hi> under the sky of Italy, reared by chance like a bird 
+                of the sea-shore, poor, orphan, abandoned, and yet happy in 
+                the present, and sanguine for the future, like a love-child, 
+                which he doubtless was; Anzoleto, that handsome boy of 
+                nineteen, who passed all his days with the little Consuelo, in 
+                the most complete liberty, upon the flag-stones of Venice, had 
+                long since had, as may well be imagined, his first experiences 
+                of love. Initiated into the easy pleasures, which had more 
+                than once presented themselves to him, he would already 
+                have been worn out and perhaps corrupted, had he lived in 
+                our sombre climate, and if nature had endowed him with a 
+                less rich organization. But, developed early in life, and 
+                destined to a long and powerful manhood, he still had his 
+                heart pure, and his senses restrained by the will. By chance 
+                he had met with the little Spanish girl before the Madonettes, 
+                singing canticles from pure devotion; and he, for the pleasure 
+                of exercising his voice, had sung with her to the stars during 
+                whole evenings. And then they had met upon the sands of 
+                Lido, gathering shell-fish, he, for the purpose of eating, she, to 
+                make chaplets and ornaments. And still again they had met 
+                in the church, she praying to the good God with all her heart, 
+                he looking at the beautiful ladies with all his eyes. And in 
+                all these meetings, Consuelo had seemed to him so good, so 
+                sweet, so obliging, so gay, that he had made himself her 
+                friend, her inseparable companion, without knowing why or 
+                wherefore. Anzoleto, as yet, knew nothing of love in its 
+                higher forms. He felt friendship for Consuelo; and as he 
+                <span rend="singleLine-right" hand="#h1" xml:id="i1" from="i1" to="i2"/>
+                was of a country and people where the passions rule more 
+                than the attachments, he knew not how to give to this friend-<anchor xml:id="i2"/>
+                ship any other name than that of love. Consuelo accepted 
+                this manner of speaking, after she had made to Anzoleto the</p>
+        <pb xml:id="leaf009r" facs="loc_mc_02600.jpg" type="recto"/>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <fw type="pageNum" place="top right">21</fw>
+            <p>following observation: "If you call yourself my lover, it is 
+                because you wish to marry me!" he had answered, " Most 
+                certainly, if you are willing, we will be married together." 
+                And thenceforth it was an understood thing. Perhaps Anzoleto 
+                thought it a good joke, while Consuelo believed in it with 
+                the best faith in the world. But it is certain that his young 
+                heart already experienced those contradictory sentiments and 
+                complicated emotions, which agitate and disjoin the existence 
+                of men worn by dissipation.</p>
+            <p>Abandoned to violent instincts, greedy of pleasures, loving 
+                only that which conduced to his happiness, hating and flying 
+                all that opposed his enjoyments, artist even to the bones, that 
+                is, seeking and feeling life with a frightful intensity, he found 
+                that his mistresses imposed upon him the sufferings and dangers 
+                of passions which he himself did not feel profoundly. Still 
+                he saw them from time to time, recalled as he was by his 
+                desires, but soon repelled by satiety or disgust. And when 
+                this strange child had thus expended without imagination and 
+                without dignity the superabundance of his life, he felt the 
+                necessity of a sweet society, and of a chaste and serene 
+                expansion. He might already have said with Jean Jacques: 
+                <span rend="singleLine-left" hand="#h1" xml:id="j1" from="j1" to="j2"/>
+                "So true it is that what attaches us most to women is less 
+                libertinism than a certain delight in living near them." Then,<anchor xml:id="j2"/>
+                without understanding the charm which attracted him towards 
+                Consuelo, not having as yet even the sense of the beautiful, 
+                and not knowing whether she was ugly or pretty; child himself 
+                enough to be amused with her by plays beneath his age; 
+                man enough, scrupulously to respect her fourteen years; he 
+                led with her in public, upon the marbles, the tiles, and the 
+                waves of Venice, a life as happy, as pure, as secret and 
+                almost as poetic, as that of Paul and Virginia under the moss-
+                covered trees of the desert. Though they had a liberty the 
+                most absolute and the most dangerous, no family, no vigilant 
+                and tender mothers to form them to virtue, no devoted servant 
+                to search after them in the evening, and conduct them to the 
+                fold, not even a dog to warn them of danger, they met with 
+                no sort of accident. They sailed over the lagunes in an open</p>
+            <pb xml:id="leaf009v" facs="loc_mc_02601.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">22</fw>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <p>boat, at all hours and in all weathers, without oars and 
+                without a pilot; they wandered over the marshes, without guide, 
+                without compass, and without care of the rising tide; they 
+                sang before the chapels raised under a vine at the corner of 
+                the streets, without thinking of the late hour, and without 
+                needing any bed till morning, other than the white flag-stone 
+                still warm with the heat of the day. They stopped before the 
+                theatre of Pulcinella, and followed with a passionate attention 
+                the fantastic drama of the beautiful Corisanda, queen of 
+                the Marionettes, without remembering the absence of breakfast, 
+                and the little probability of supper. They gave themselves 
+                up to the unbridled amusements of the carnival; having 
+                for all disguise and all ornament, he, his vest turned inside 
+                out, and she, a great bow of old ribbons above her ear. They 
+                made sumptuous repasts upon the balustrade of a bridge, or 
+                the steps of a palace, with fruits of the sea,&#42;<anchor xml:id="k1"/> leaves of raw
+                <span rend="singleLine-right" hand="#h1" xml:id="l1" from="l1" to="l2"/>
+                fennel, or rinds of citron. In fine, they led a joyous and free 
+                life, without more perilous caresses or amorous sentiments, 
+                than would have been exchanged by two virtuous children of 
+                one age and one sex. Days, years, passed by; Anzoleto had<anchor xml:id="l2"/> 
+                other mistresses; Consuelo did not even know that there 
+                could be another love than that of which she was the object. 
+                She became a young woman without feeling herself obliged 
+                to more reserve with her betrothed; and he saw her grow 
+                and change, without experiencing any impatience, and without 
+                desiring any alteration in this intimacy, without cloud, 
+                without scruple, without mystery, and without remorse.</p>
+            <p>Four years had already passed since professor Porpora 
+                and count Zustiniani had presented to each other their <hi rend="italic">little 
+                musicians</hi>, and since that time, the count had thought no 
+                more of the young singer of sacred music; since that time 
+                also the professor had equally forgotten the handsome Anzoleto, 
+                inasmuch as he did not find him, after a first examination, 
+                endowed with any of the qualities which he required in 
+                a pupil; primarily, a nature of serious and patient intelligence,</p>
+            <note type="authorial" resp="#h2" place="bottom" target="k1">&#42; Divers kinds of shell-fish, very large and very cheap, of which the
+            people of Venice are quite fond.</note>
+            <pb xml:id="leaf010v" facs="loc_mc_02602.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">24</fw>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <p>It need not be asked if Anzoleto was affected internally; at 
+                any rate it appeared but little; and hardly had his piercing eyes, 
+                stealthily interrogating those of the ladies, divined that secret 
+                approbation which is rarely refused to so handsome a young 
+                man; hardly had the amateurs, surprised at such power of 
+                tone, and such a facility of vocalization, caused favorable 
+                murmurs to be heard around them, than joy and hope inundated 
+                his whole being. Then also, for the first time in his life, 
+                Anzoleto, until then vulgarly comprehended and vulgarly 
+                taught, felt that he was not a vulgar man; transported by the 
+                necessity and the feeling of triumph, he sang with an energy, 
+                an originality, and a rapture which were remarkable. It is 
+                true, his taste was not always pure, nor his execution faultless, 
+                in all parts of the piece; but he always knew how to recover 
+                himself by strokes of boldness, by flashes of intelligence, and 
+                transports of enthusiasm. He missed the effects which the 
+                composer had arranged, but he found others of which no one 
+                had thought, neither the author who traced them, nor the 
+                professor who interpreted them, nor any of the <hi rend="italic">virtuosi</hi> who 
+                had rendered them. This boldness seized and carried with 
+                him all the world. For one innovation they pardoned him 
+                ten mistakes; for one individual sentiment, ten rebellions
+                <span rend="singleLine-left" hand="#h1" xml:id="m1" from="m1" to="m2"/>
+                against method. So true is it, that in art, the least flash of 
+                genius, the least soaring towards new conquests, exercises 
+                more fascination upon men than all the resources and all the 
+                lights of science within the limits of the known.<anchor xml:id="m2"/></p>
+            <p>No one perhaps understood the causes, and no one escaped 
+                the effects of this enthusiasm. Corilla had opened the meeting 
+                by a grand air, finely sung and vigorously applauded; but the 
+                success of the young debutant so completely effaced hers, 
+                that she felt a movement of rage. But at the moment when 
+                Anzoleto, covered with praises and caresses, returned to the 
+                harpsichord where she was seated, he said, bending towards 
+                her with a compound of submission and audacity: "And you, 
+                queen of song, queen of beauty, have you not one look of 
+                encouragement for the poor unfortunate, who fears and adores 
+                you?"</p>
+            <pb xml:id="leaf011r" facs="loc_mc_02603.jpg" type="recto"/>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <fw type="pageNum" place="top right">27</fw>
+            <p>between us? I know you not. Carry elsewhere your beautiful 
+                smiles and your perfidious warblings."</p>
+            <p>"See, he softens," said Corilla, seizing with one hand the 
+                arm of the debutant, while the other continued toying with 
+                the ample white cravat of the professor.&#8212;" Come here, <hi rend="italic">Zoto</hi>,&#42;<anchor xml:id="n1"/> 
+                and bend your knee before the most learned professor of vocal 
+                music in all Italy. Humble yourself, my child, and disarm
+                <span rend="singleLine-right" hand="#h1" xml:id="o1" from="o1" to="o2"/>
+                his severity. One word from him, if you can obtain it, should 
+                be more precious to you than all the trumpets of fame."<anchor xml:id="o2"/></p>
+            <p>"You have been very severe with me, signor professor," 
+                said Anzoleto, bending before him with a modesty that had 
+                somewhat of mockery; "nevertheless my only desire for 
+                four years has been to induce you to revoke so cruel a judgment; 
+                and if I have not succeeded this evening, I doubt if I 
+                shall have courage to re&#228;ppear before the public, bowed down 
+                as I am with the weight of your anathema."</p>
+            <p>"Boy," said the professor, rising with a vivacity and speaking 
+                with a conviction which made him noble and grand, 
+                instead of crooked and mean, as he ordinarily seemed, "leave 
+                to the women honeyed and deceitful words. Never debase 
+                yourself to the language of flattery, even before your superior, 
+                much less before one whose judgment you inwardly disdain. 
+                But an hour since, you were there in that corner, poor, 
+                unknown, fearful; your whole future lot depended on a hair, 
+                upon a sound of your throat, upon an instant of failure in your 
+                powers, upon a caprice of your audience. One lucky chance, 
+                one effort, one instant, has made you rich, celebrated, 
+                insolent. The career is opened; you have only to pursue it so far 
+                <span rend="singleLine-right" hand="#h1" xml:id="p1" from="p1" to="p2"/>
+                as your strength will support you. Listen then, for the first 
+                time, and for the last perhaps, you are about to hear the truth.<anchor xml:id="p2"/>
+                You are in a bad way, you sing badly, and you love bad 
+                music. You know nothing, you have studied nothing 
+                fundamentally. You have only practice and facility: you excite 
+                yourself at will: you know how to coo and to warble, as do 
+                those genteel and coquettish young ladies whom we pardon</p>
+            <note type="authorial" resp="#h2" place="bottom" target="m1">&#42; Contraction of <hi rend="italic">Anzoleto</hi>, which is the diminutive of <hi rend="italic">Angelo</hi>&#8212;<hi rend="italic">Anzolo</hi> in
+            dialect.</note>
+            <pb xml:id="leaf012v" facs="loc_mc_02604.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">34</fw>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <p><hi rend="italic">Corilla</hi>. And if I did love you.</p>
+            <p><hi rend="italic">Anz</hi>. I should despair entirely, because I must fall from 
+                heaven into an abyss, and lose you, perhaps an hour after 
+                having won you at the expense of all my future happiness.</p>
+            <p><hi rend="italic">Cor</hi>. And what makes you believe in such inconstancy on 
+                my part?</p>
+            <p><hi rend="italic">Anz</hi>. First my little merit, then all the ill that is spoken
+            of you.</p>
+            <p><hi rend="italic">Cor</hi>. And who speaks ill of me?</p>
+            <p><hi rend="italic">Anz</hi>. All the men, for all the men adore you.</p>
+            <p><hi rend="italic">Cor</hi>. And if I were fool enough to have an affection for
+            you and to tell you so, you would repel me?&#8212;</p>
+            <p><hi rend="italic">Anz</hi>. I don't know if I should have strength enough to
+            fly; if I had, it is certain I would not see you again in all
+            my life.</p>
+            <p>"Well, said Corilla, "I wish to make the experiment 
+            through curiosity. Anzoleto, I believe that I love you."</p>
+            <p>"And I do not believe anything of it," answered he. "If 
+                I remain, it is because I understand very well that you are 
+                joking. At that play you cannot frighten me, and will 
+                encourage me still less."</p>
+            <p>"You wisk to make a trial of finesse, as I think."</p>
+            <p>"Why not? I am not very formidable, as I give you the
+            means of conquering me."</p>
+            <p>"How so?"</p>
+            <p>"That of chilling me with fear, and putting me to flight,
+            by saying seriously what you just now said in jest."</p>
+            <p>"You are a queer fellow! and I see that I must be very 
+                cautious with you. You are one of those men who are not 
+                satisfied with inhaling the perfume of a rose, but wish to 
+                gather it and put it under glass. I should not have thought 
+                you so bold or so free at your age."</p>
+            <p>"And you despise me for that?"</p>
+            <p>"On the contrary you please me even more. Good night,
+            Anzoleto, we shall meet again."</p>
+            <p>She held out her beautiful hand, which he kissed with</p>
+            <pb xml:id="leaf013r" facs="loc_mc_02605.jpg" type="recto"/>
+            <fw type="header" place="top">CONSUELO.</fw>
+            <fw type="pageNum" place="top right">35</fw>
+            <span rend="singleBracket-right" hand="#h1" xml:id="q1" from="q1" to="q2"/>
+            <p>passion. "I have freed myself from that scrape, not so
+            badly," thought he, as he ran along under the galleries<anchor xml:id="q2"/>
+            which bordered the canaleto.</p>
+            <p>As he despaired of having opened for him at this unseasonable 
+                hour the poor lodging to which he usually retired, he 
+                thought of stretching himself out on the first door step, to 
+                enjoy that angelic repose which childhood and poverty alone 
+                can know. But, for the first time in his life, he found no 
+                flag-stone clean enough to lie down upon. Although the 
+                pavement of Venice is cleaner and whiter than that of any 
+                other place in the world, this bed, slightly dusty, was far 
+                from agreeing with a complete black suit of the finest cloth 
+                and the most elegant cut. And besides the propriety! The 
+                same boatmen who in the morning carefully traversed the 
+                steps of the landing place without touching the rags of the 
+                young plebeian, would now insult his sleep, and perhaps 
+                intentionally dirty the livery of his parasitical luxury, spread 
+                out under their feet. What would they think of a sleeper in 
+                the open air, in silk stockings, in fine linen, in wristbands 
+                and neckbands of lace? At that moment Anzoleto regretted 
+                <span rend="singleLine-left" hand="#h1" xml:id="s1" from="s1" to="s2"/>
+                his good cloak of brown and red woollen, well faded, well 
+                worn, but still two inches thick, and proof against the 
+                unhealthy fog which rises in the morning on the waters of<anchor xml:id="s2"/> 
+                Venice. It was about the last of February; and though at 
+                that season the sun is quite brilliant and warm in those 
+                climates, the nights are still very cold. Then he thought 
+                of going into some of the gondolas fastened to the bank, but 
+                they were all locked up. At last he found one, the door of 
+                which yielded before him; but on entering he struck against 
+                the legs of the barcarole who had retired there to sleep, and 
+                fell upon him. "By the devil's body," cried out a great 
+                rough voice from the bottom of that cavern, " who are you, 
+                and what do you want?"</p>
+            <p>"Is that you, Zanetto?" answered Anzoleto, recognizing 
+                the voice of the gondolier, who was usually quite kind to 
+                him. "Let me lie down at your side, and get a nap under 
+                cover of your cabanette."</p></div1>
+            <pb xml:id="leaf014v" facs="loc_mc_02606.jpg" type="verso"/>
+            <fw type="pageNum" place="top">50</fw>
+            <div1 type="chapter">
+                <head>CHAPTER VII.</head>
+                <p>I<hi rend="smallcaps">t</hi> will appear to you very strange, but it is nevertheless 
+                    very true, dear reader, that Anzoleto should never have had 
+                    an opinion respecting the beauty or the ugliness of Consuelo. 
+                    Consuelo lived so isolated, so unknown a life in Venice, that
+                    no one had ever thought to ascertain, if, through this veil of 
+                    forgetfulness and obscurity, intelligence and goodness had at 
+                    length manifested themselves under an agreeable form, or 
+                    under an insignificant one.</p>
+                <p>Porpora, who had no sense remaining except for art, saw 
+                    in her only the artist. Her neighbors in the <hi rend="italic">Corte Minelli</hi> 
+                    saw her innocent love with Anzoleto without being scandalized.
+                    <span rend="singleLine-right" hand="#h1" xml:id="t1" from="t1" to="t2"/>
+                    People are not ferocious on this point at Venice.<anchor xml:id="t2"/> <!-- This looks like a pencil mark to me, but I'll leave it up to your judgment. -->
+                    They had sometimes prophesied to her that she would be 
+                    unhappy with that boy, who had no position nor means of 
+                    livelihood, and had advised her rather to seek an establishment 
+                    with some honest and peaceable mechanic. But as 
+                    she had always answered, that being without family or position 
+                    herself, Anzoleto was perfectly fitted for her, and as for 
+                    six years not a day had passed without their being seen 
+                    together, never seeking for mystery and never quarreling, 
+                    the neighbors had become accustomed to their free and 
+                    indissoluble union. No one had ever thought of paying 
+                    court to the <hi rend="italic">amica</hi> of Anzoleto. Was it solely on account 
+                    of the engagement which they supposed she had formed, 
+                    or was it on account of her wretchedness? or was it rather 
+                    because her person had never exercised any attraction upon 
+                    them? The last hypothesis is very probable.</p>
+                <p>Still every one knows, that from twelve to fourteen, young 
+                    girls are generally meagre, abashed, without harmony in 
+                    their features, in their proportions, in their movements. 
+                    Towards fifteen, they are <hi rend="italic">made over</hi>, to use a vulgar expres-</p>
+                <pb xml:id="leaf015r" facs="loc_mc_02607.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">51</fw>
+                <p>sion of the matrons; and she who just before seemed frightful, 
+                    reappears, after this short labor of transformation, if not 
+                    <span rend="singleLine-right" hand="#h1" xml:id="u1" from="u1" to="u2"/>
+                    handsome, at least agreeable. It has also been remarked, 
+                    <span rend="singleLine-left" hand="#h1" xml:id="v1" from="v1" to="v2"/>
+                    that it is not advantageous for the future beauty of a little 
+                    girl to be pretty too early. Consuelo having received like <anchor xml:id="u2"/><anchor xml:id="v2"/>
+                    others the benefit of adolescence, people had ceased to say 
+                    that she was ugly, and the fact is that she was no longer so. 
+                    Only as she was neither dauphine nor infanta, she had no 
+                    courtiers about her to proclaim that the royal offspring grew 
+                    handsome day by day; and as she had not the support of 
+                    tender friends, anxious for her future lot, no one took the 
+                    trouble of saying to Anzoleto, "Your betrothed will not 
+                    make you blush before the world." Anzoleto had heard her 
+                    called ugly at an age when this reproach had to him neither 
+                    meaning nor importance; and ever since people no longer 
+                    said anything either good or bad about Consuelo's face, he 
+                    had forgotten to think of it. His vanity had taken another 
+                    flight. His dreams were of the theatre and of celebrity, 
+                    he had no time to make a display of his conquests, and 
+                    besides, the grosser part of curiosity which enters into the 
+                    desires of youth was satisfied with him. I have said that at 
+                    eighteen he had nothing more to learn. At twenty-two, he 
+                    was almost blas&#233;; and at twenty-two as at eighteen, his 
+                    attachment for Consuelo was as tranquil, spite of some 
+                    chaste kisses, taken without trouble and given without 
+                    shame, as it had been till then.</p>
+                <p>In order not to be too much astonished at this calmness 
+                    and this virtue on the part of a young man who certainly did 
+                    not pretend to those qualities elsewhere, it must be observed 
+                    that the great liberty in which our adolescents lived at the 
+                    commencement of this history, had been modified, and little 
+                    by little restrained with time. Consuelo was nearly sixteen, 
+                    and still led a somewhat vagabond life, leaving the conservatory 
+                    all alone, to repeat her lesson and eat her rice with 
+                    Anzoleto, on the steps of the Piazetta, when her mother, 
+                    worn out with fatigue, ceased to sing in the evening at the 
+                    door of the caf&#233;s, with a guitar in her hand and a wooden</p>
+                <pb xml:id="leaf016v" facs="loc_mc_02608.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">52</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>bowl before her. The poor creature retired into one of the 
+                    most miserable lofts of the <hi rend="italic">Corte Minelli</hi>, there tediously to 
+                    end her wretched life upon a truckle bed. Then the good 
+                    Consuelo, not wishing to leave her, changed entirely her
+                    <span rend="singleLine-right" hand="#h1" xml:id="w1" from="w1" to="w2"/>
+                    manner of living. Except the hours in which the professor 
+                    deigned to give her a lesson, she worked either with her 
+                    needle or at counterpoint, always near the bed of that impe-
+                    rious and despairing mother, who had cruelly maltreated her 
+                    in childhood, and now presented to her the frightful spectacle 
+                    of a death-bed without courage and without virtue.<anchor xml:id="w2"/></p>
+                <p>Consuelo's filial piety and tranquil devotion were never 
+                    inconsistent for a single moment. Joys of youth, liberty, 
+                    wandering life, even love, all were sacrificed without regret
+                    and without hesitation. Anzoleto complained bitterly, and 
+                    seeing that his reproaches were useless, resolved to forget 
+                    her, and divert himself; but this was impossible. Anzoleto 
+                    was not so assiduous at labor as Consuelo; he took quickly 
+                    and badly the bad lessons which his professor, to earn the 
+                    salary promised by Zustiniani, gave him as badly and as 
+                    quickly. This was very lucky for Anzoleto, in whom the 
+                    prodigality of nature repaired as well as possible the lost 
+                    time and the effects of bad teaching; but there resulted 
+                    many hours of idleness, in which the friendly, cheerful 
+                    society of Consuelo was horribly missed by him. He tried 
+                    to throw himself into the passions of his age and class; he 
+                    frequented the wine shops, and gambled away with blackguards 
+                    the little gratuities which count Zustiniani bestowed 
+                    upon him from time to time. This life pleased him for two 
+                    or three weeks, at the end of which he found that his welfare, 
+                    his health, and his voice were sensibly affected; that 
+                    the <hi rend="italic">far-niente</hi> was not disorder, and that disorder was not 
+                    his element. Preserved from evil passions by well understood 
+                    love of self, he retired into solitude, and tried to study; 
+                    but this solitude terrified him with sadness and difficulties. 
+                    He then perceived that Consuelo was as necessary to his 
+                    <span rend="singleLine-left" hand="#h1" xml:id="x1" from="x1" to="x2"/>
+                    talent as to his happiness. Studious and persevering, living 
+                    in music as a bird in the air, or a fish in the sea; loving to<anchor xml:id="x2"/></p>
+                <pb xml:id="leaf017r" facs="loc_mc_02609.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">53</fw>
+                <span rend="singleLine-right" hand="#h1" xml:id="y1" from="y1" to="y2"/>
+                <p>overcome difficulties, without thinking more of the importance 
+                    of her victory than would a child, but driven irresistibly to 
+                    combat the obstacles and to penetrate the mysteries of art, by 
+                    that invincible instinct which compels the germ of a plant to 
+                    pierce the bosom of the earth, and to force its way towards 
+                    daylight, Consuelo had one of those rare and happy organiza-<anchor xml:id="y2"/>
+                    tions for which labor is a delight, a true repose, a necessary 
+                    normal state, and for which inaction would be a fatigue, a 
+                    wasting, a sickly state, if inaction were possible to such natures. 
+                    But they do not know it; in an apparent idleness they 
+                    <span rend="singleLine-right" hand="#h1" xml:id="z1" from="z1" to="z2"/>
+                    still labor; their revery is not vague, it is meditation. When 
+                    <span rend="singleLine-left" hand="#h1" xml:id="aa1" from="aa1" to="aa2"/>
+                    we see them act, we think they are creating, while they are 
+                    only manifesting a previous creation. You will say, dear<anchor xml:id="z2"/><anchor xml:id="aa2"/>
+                    reader, that you have never known any of these exceptional 
+                    organizations. I will answer, dearly beloved reader, that I 
+                    have known only one, and perhaps I am older than you. 
+                    Why can I not say, that I have analyzed on my own poor 
+                    brain, the divine mystery of this intellectual activity! But 
+                    alas! friend reader, it is neither you nor I who will study it 
+                    upon ourselves.</p>
+                <p>Consuelo worked always, in amusing herself always; she 
+                    persevered for hours, to overcome, either by free and capricious 
+                    song, or by musical reading, difficulties which would have 
+                    repelled Anzoleto if left to himself; and, without any 
+                    premeditated design, without any idea of emulation, she compelled 
+                    him to follow her, to second her, to understand and to 
+                    reply to her, sometimes in the midst of childish bursts of 
+                    laughter, sometimes carried along with him by that poetic and 
+                    creative <hi rend="italic">fantasia</hi>, which is experienced by the popular organizations 
+                    of Spain and Italy.</p>
+                <p>Imbued during many years with the genius of Consuelo, 
+                    drinking it in at its fountain without understanding it, and 
+                    appropriating without perceiving it, Anzoleto, otherwise kept 
+                    back by his laziness, had become in music a strange compound 
+                    of learning and ignorance, of inspiration and frivolity, of power 
+                    and awkwardness, of boldness and weakness, which, at the 
+                    last hearing, had<anchor xml:id="bb1"/> plunged Porpora into a labyrinth of medita-</p>
+                <note type="authorial" resp="#h2" place="infralinear" target="bb1">5&#42;</note>
+                <pb xml:id="leaf018v" facs="loc_mc_00953.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">140</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>Consuelo became pale with surprise. Notwithstanding her 
+                    remarkable firmness, she had not had sufficient sang-froid to 
+                    appreciate the difference between the applauses which she 
+                    and her lover had received. There is in this kind of ovation, 
+                    a trouble of which the most experienced artist cannot divest 
+                    himself, and which often produces an illusion in some, 
+                    sufficient to cause them to mistake the support of a clique for 
+                    the clamors of success. But instead of exaggerating the 
+                    delight of her audience, Consuelo had been terrified by so 
+                    frightful a noise, had hardly understood it, and could not 
+                    distinguish the preference awarded to her over Anzoleto. She 
+                    scolded him ingenuously for his requirements of fortune; 
+                    and seeing that she could not persuade him, nor conquer his 
+                    sadness, she reproached him sweetly with being too greedy 
+                    of glory, and with attaching too much value to the favor of the 
+                    <span rend="doubleLine-left" hand="#h1" xml:id="cc1" from="cc1" to="cc2"/>
+                    world. "I have always told you," said she to him, "you 
+                    prefer the results of art to art itself. When you do your best, 
+                    when you feel that you have done well, it seems to me that a 
+                    little more or less of approbation can neither add to nor 
+                    diminish your inward satisfaction. Recollect what Porpora 
+                    said to me the first time I sang at the Zustiniani palace: 
+                    'Whoever is penetrated with a true love of his art can fear nothing'&#8212;"</p>
+                <p>"You and your Porpora," interrupted Anzoleto, with<anchor xml:id="bb2"/>
+                    temper, "can very easily satisfy yourselves with these fine 
+                    maxims. Nothing is so easy as to philosophize on the evils 
+                    of life, when you know only the goods. <hi rend="underline" hand="#h1">Porpora, although 
+                    poor and oppressed, has an illustrious name.</hi> He has 
+                    gathered so many laurels that his old head may whiten 
+                    peaceably under their shade. You, who feel yourself invincible, 
+                    are inaccessible to fear. At the first leap you raise 
+                    yourself to the highest round of the ladder, and blame those 
+                    who have no legs for their dizziness. That is not very 
+                    charitable, Consuelo, but decidedly unjust. And besides, 
+                    your argument is not applicable to me; you say that we 
+                    should despise the approval of the public, when we have our 
+                    own; but if I have it not, that inward testimony of having</p>
+                <pb xml:id="leaf019v" facs="loc_mc_00954.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">142</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>"I have lived long enough by your favor."</p>
+                <p>"But it is not money that I refer to. If he does engage 
+                    me at a small salary, that is of little consequence; but he will 
+                    engage me for the second and third parts."</p>
+                <p>"He has no other <hi rend="italic">primo uomo</hi> at hand. For a long while 
+                    he has relied and depended upon you. Besides, he is all in 
+                    your favor. You said he would be opposed to our marriage. 
+                    Far from that, he seems to wish it, and often asks me when I 
+                    shall invite him to my wedding."</p>
+                <p>"Ah! indeed? That is very well! Many thanks, signor
+                count."</p>
+                <p>"What do you mean by that?"</p>
+                <p>"Nothing. Only, Consuelo, you were very wrong not 
+                    to hinder my debuts, until my faults, which you were so well 
+                    acquainted with, were corrected by better studies. For you 
+                    knew my faults, I repeat."</p>
+                <p>"Have I wanted frankness? Have I not often warned 
+                    you? But you have often told me that the public did not 
+                    understand; and when I knew the success you had at the 
+                    count's the first time you sang in his saloon, I thought&#8212;"</p>
+                <p>"That the people of fashion knew no more than the
+                vulgar public?"</p>
+                <p>"I thought that your good qualities would be more striking 
+                    than your faults; and it has been so, it seems to me, with one 
+                    as well as with the other."</p>
+                <p>"In fact," thought Anzoleto, " she says truly, and if I could 
+                    put off my d&#233;buts&#8212;but then I run the risk of seeing a tenor 
+                    called into my place who would not yield it to me."</p>
+                <p>"Let us see," said he, after making several turns in the 
+                chamber, "what are my faults?"</p>
+                <p>"What I have told you very often; too much boldness, and 
+                    not enough preparation; an energy more feverish than 
+                    sustained; <hi rend="underline" hand="#h1">dramatic effects, which are the work of the will, 
+                    rather than of emotion.</hi> You were not penetrated by the 
+                    sentiment of your part as a whole. You learnt it by fragments. Y
+                    ou saw in it only a succession of pieces more or 
+                    less brilliant. You did not seize either the gradation, or the</p>
+                <pb xml:id="leaf020r" facs="loc_mc_00955.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">143</fw>
+                <p>development, or the aggregate. <note type="authorial" resp="#h1">(</note>In the hurry to show your 
+                    fine voice and the facility which you possess in certain 
+                    respects, you exhibited the whole extent of your powers almost 
+                    on your entrance upon the scene.<note type="authorial" resp="#h1">)</note> At the slightest opportunity, 
+                    you searched for an effect, and all your effects were alike. 
+                    At the end of the first act, they knew you and knew you by 
+                    heart; but they did not know that that was all, and so 
+                    expected something prodigious for the end. That something 
+                    was not in you. Your emotion was expended, and your voice 
+                    had no longer the same freshness. You felt this, you forced 
+                    both the one and the other; the audience felt it likewise, and 
+                    remained cold, to your great surprise, when you considered 
+                    yourself most pathetic. The reason was that at the moment
+                    <span rend="singleLine-right" hand="#h1" xml:id="dd1" from="dd1" to="dd2"/>
+                    they did not see <note type="authorial" resp="#h1">(</note>the artist 
+                    inspired by passion, but the actor striving for success."<note type="authorial" resp="#h1">)</note></p><anchor xml:id="dd2"/>
+                <p>"And how then do the others?" cried Anzoleto, stamping 
+                    his foot. "Have I not heard them all, all who have been 
+                    applauded at Venice during the last ten years? Did not old 
+                    Stefanini scream when his voice failed him? And yet they 
+                    applauded him with transport."</p>
+                <p>"It is true, and I have not understood how the people could 
+                    be deceived. Without doubt they recollected the time when 
+                    he had more power, and did not wish to hurt his feelings in 
+                    his old age."</p>
+                <p>"And Corilla too, that idol whom you overthrew, did not 
+                    she force her positions, did not she make efforts which were 
+                    painful to see and to hear? Was she excited in good faith 
+                    when they raised her to the skies?"</p>
+                <p>"It was because I considered her methods factitious, her 
+                    effects detestable, her playing as well as her singing void of 
+                    taste and grandeur, that I presented myself so tranquilly upon 
+                    the stage, persuaded, like you, that the public knew not much 
+                    about it."</p>
+                <p>"Ah!" said Anzoleto with a deep sigh, "there you put
+                your finger upon my wound, poor Consuelo."</p>
+                <p>"How is that, my well beloved?"</p>
+                <p>"How is that, do you ask me? We deceived ourselves,</p>
+                <pb xml:id="leaf021v" facs="loc_mc_00956.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">144</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>Consuelo. The public does know. <hi rend="underline">The heart teaches what 
+                    ignorance conceals.</hi> It is a great child, who needs amusement 
+                    and emotion. It is contented with what they give it, 
+                    but show it something better, and then it compares and understands. 
+                    Corilla could charm it last week, although she sang 
+                    false and wanted breath. You appear, and Corilla is lost; 
+                    she is effaced, buried. Let her re&#228;ppear, and she would be 
+                    hissed. If I had made my d&#233;but after her, I should have had 
+                    a complete success, as I had at the count's, the first time I 
+                    sang after her. But beside you, I was eclipsed. It ought to 
+                    be so, and it always will be so. The public had a taste for 
+                    tinsel. It mistook paste for precious stones; it was dazzled 
+                    by it. You show it a fine diamond, and already it does not 
+                    understand how it could have been so grossly deceived. It 
+                    can no longer endure false diamonds, and holds them at their 
+                    true value. This is my misfortune, Consuelo, to have been 
+                    <span rend="singleLine-left" hand="#h1" xml:id="ee1" from="ee1" to="ee2"/>
+                    brought forward, Venetian glass-ware as I am, beside a 
+                    pearl from the bottom of the ocean."</p>
+                <p>Consuelo did not understand all the bitterness and truth <anchor xml:id="ee2"/>
+                    contained in these observations. She placed them to the 
+                    credit of the love of her betrothed, and answered to what she 
+                    considered soft flatteries, only by smiles and caresses. She 
+                    pretended that he would surpass her, if he would only take 
+                    pains, and raised his courage by persuading him that nothing 
+                    was easier than to sing like her. She had good faith in this, 
+                    having never been retarded by any difficulty, and not knowing 
+                    that labor itself is the first of obstacles for whomsoever 
+                    has not the love of it united with perseverance.</p>
+                <pb xml:id="leaf022r" facs="loc_mc_00957.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">153</fw>
+                <p>instead of the cheat that he was; unfaithful, instead of ungrateful
+                that he had always been."</p>
+                <p>"What vanity, what envy?"</p>
+                <p>"The vanity of surpassing all others, the vanity of surpassing you, rage at being surpassed by you."</p>
+                <p>"Is that credible? Can a man be jealous of the advantages 
+                    of a woman? Can a lover hate the success of her he 
+                    loves? Then there are many things which I do not know, and 
+                    which I cannot comprehend."</p>
+                <p>"You never will comprehend them, but you will verify 
+                    them every hour of your life. You will know that a man 
+                    may be jealous of the advantages of a woman, when that man 
+                    is an artist full of vanity; and that a lover may hate the 
+                    success of her he loves, when the theatre is the atmosphere in 
+                    which they live. The reason is, an actor is not a man, Consuelo, 
+                    he is a woman. He lives only upon diseased vanity; 
+                    he thinks only of satisfying his vanity; he works only to 
+                    intoxicate himself with vanity. The beauty of a woman does 
+                    him an injury. The talent of a woman effaces or disputes 
+                    his own. A woman is his rival, or rather he is a woman's 
+                    rival; he has all the littlenesses, all the caprices, all the exactions, 
+                    all the ridiculousness of a coquette. Such is the character 
+                    of most of the men attached to the theatre. There are 
+                    grand exceptions; but they are so rare, so meritorious, that 
+                    we ought to prostrate ourselves before them, and do them 
+                    more honor than to the most learned men of science. 
+                    Anzoleto is not an exception. Among the vain, he is one of the 
+                    most vain; this is all the secret of his conduct."</p>
+                <p>"But what an incomprehensible vengeance; what poor 
+                    and inefficacious means! How can Corilla compensate him 
+                    for his failure before the public? If he had frankly told me 
+                    his sufferings,&#8212;(ah! there needed but one word for that,)&#8212;I 
+                    should have understood him, perhaps; at any rate, I should 
+                    have pitied him; I would have retired to make room for 
+                    him."</p>
+                <span rend="singleLine-right" xml:id="ff1" from="ff1" to="ff2"/>
+                <p>"The characteristic of envious souls is to hate others in 
+                    proportion to the happiness of which they deprive them.</p><anchor xml:id="ff2"/>
+                <pb xml:id="leaf023v" facs="loc_mc_00958.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">154</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <span rend="singleLine-left" xml:id="gg1" from="gg1" to="gg2"/>
+                <p>And the characteristic of love, alas! is it not to detest, in the 
+                    beloved object, those pleasures which we do not furnish? 
+                    While your lover abhors the public which covers you with 
+                    glory, do you not hate the rival who intoxicates him with 
+                    pleasure?"</p>
+                <p>"You there say something which is very profound, my 
+                    master, and upon which I wish to reflect."</p>
+                <p>"It is something true. At the same time that Anzoleto
+                hates you for your successes on the stage, you hate him for his
+                pleasures in the boudoir of Corilla."</p><anchor xml:id="gg2"/>
+                <p>"It is not so. I could not hate him, and you make me see 
+                    that it would be mean and shameful to hate my rival. There 
+                    remains then the pleasure with which she intoxicates him. 
+                    and <!-- This is not a capitalization error. --> of which I cannot think without shuddering. But why? 
+                    I know not. If it be an involuntary crime, then Anzoleto is 
+                    not so guilty because he hates my triumph."</p>
+                <p>"You are very ready to interpret matters so as to excuse 
+                    his conduct and his sentiments. No ! Anzoleto is not innocent 
+                    and respectable as you are. in suffering. He deceives, he 
+                    humiliates you, while you strive to excuse him. Moreover, I 
+                    do not wish to inspire you with hatred and resentment, but 
+                    with calmness and indifference. The character of that man 
+                    carries with it the actions of his life; never can you change 
+                    him. Make up your mind and think of yourself."</p>
+                <p>"Of myself! that is of myself alone? of myself without 
+                    love and without hope?"</p>
+                <p>"I have loved art for its own sake likewise; I have never 
+                    separated in my thought those two inseparable things; my 
+                    own life and that of Anzoleto. I do not see how there can 
+                    remain any power in me to love anything, when the necessary 
+                    half of my life shall be taken away."</p>
+                <p>"Anzoleto was for you only an idea, and that idea gave 
+                    you life. You will replace him by another idea, more grand, 
+                    more pure, more vivifying. Your soul, your genius, your 
+                    being in fine, will no longer be at the mercy of a fragile and</p>
+                <pb xml:id="leaf024r" facs="loc_mc_00959.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">155</fw>
+                <p>and deceitful form; you will contemplate the sublime ideal freed 
+                    from this terrestrial veil; you will soar into heaven, and will 
+                    live in a holy marriage with God himself."</p>
+                <p>"Do you mean to say that I will become a religieuse, as
+                you formerly advised me?"</p>
+                <p>"No, you would thereby limit the exercise of your genius 
+                    to one branch, and you must embrace all. Whatever you do, 
+                    and wherever you are, on the stage as in the cloister, you 
+                    may be a saint, a celestial virgin, the betrothed of the holy 
+                    ideal."</p>
+                <p>"What you say presents a sublime meaning, surrounded 
+                    by mysterious figures. Let me retire, my master; I need time 
+                    to recollect and to know myself."</p>
+                <p>"You have said the word, Consuelo; you do need to know 
+                    yourself. Hitherto you have not known your true self, in 
+                    surrendering your soul and your future life to a being who is 
+                    your inferior in every respect. You have not known your 
+                    destiny, in not seeing that you were born without equal, and 
+                    therefore without an associate possible in this world. You 
+                    require solitude, absolute liberty. I wish for you, neither 
+                    husband, nor lover, nor family, nor passions, nor ties of any 
+                    kind. It is thus that I have always conceived your existence 
+                    and comprehended your character. On the day that you give 
+                    yourself to a mortal, you lose your divinity. Ah! if Mingotti 
+                    and Molteni, my illustrious pupils, my powerful creations, 
+                    had been willing to believe me, they would have lived without 
+                    rivals on the earth. But woman is weak and curious; 
+                    vanity blinds her, vain desires agitate her, caprice carries her 
+                    away. What have they gained from the satisfaction of this 
+                    restlessness? storms, fatigue, the loss or alteration of their 
+                    genius. Will you not be more than they, Consuelo? will 
+                    you not have an ambition superior to all the false goods of 
+                    this life? Will you not wish to extinguish all the vain desires 
+                    of your heart in order to seize the most beautiful crown which 
+                    has ever been granted as a glory to genius?"</p>
+                <p>Porpora spoke a long while, with an energy and an 
+                    eloquence which I cannot translate. Consuelo listened to him,</p>
+                <pb xml:id="leaf025v" facs="loc_mc_00960.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">156</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>with her head bent and her eyes fixed upon the floor. When 
+                    he had said all,&#8212;" My master," answered she, "you are
+                    <span rend="singleLine-left" xml:id="hh1" from="hh1" to="hh2"/>
+                    <span rend="singleLine-right" xml:id="ii1" from="ii1" to="ii2"/>
+                    great, but I am not sufficiently so to comprehend you. It 
+                    seems to me that you outrage human nature in proscribing 
+                    her most noble passions. It seems to me that you stifle the 
+                    instincts which God himself has given us, in order to make a 
+                    sort of deification of a monstrous and antihuman selfishness.<anchor xml:id="hh2"/><anchor xml:id="ii2"/>
+                    Perhaps I should understand you better if I were more of a 
+                    Christian: I will strive to become so; that I can promise 
+                    you."</p>
+                <p>She retired, tranquil in appearance, but agitated in the 
+                    depths of her heart. The great and austere artist accompanied 
+                    her even to her home, continually indoctrinating, but not 
+                    able to convince her. He did her much good nevertheless, 
+                    by opening to her thought a vast field of profound and serious 
+                    meditations, in which the crime of Anzoleto was buried as a 
+                    particular fact, serving for a painful but solemn introduction 
+                    to infinite reveries. She passed long hours in praying, weeping 
+                    and reflecting; and then fell asleep with the consciousness 
+                    of her virtue, and hope in a God willing to teach and to 
+                    save.</p>
+                <p>On the next day Porpora came to announce to her that 
+                    there would be a rehearsal of Ipermnestra for Stefanini, who 
+                    was to take Anzoleto's part. This latter was ill, kept his bed, 
+                    and complained of a loss of voice. Consuelo's first movement 
+                    was to run to his lodging for the purpose of nursing him. 
+                    "Save yourself that trouble," said the professor; "he is 
+                    perfectly well; the physician of the theatre has ascertained that, 
+                    and he will go this evening to Corilla's without doubt. But 
+                    count Zustiniani, who understands what all this means, and 
+                    who consents without much regret that he should suspend his 
+                    d&#233;buts, has forbidden the physician to unmask the pretence, 
+                    and has requested the good Stefanini to return to the stage for 
+                    a few days."</p>
+                <p>"But my God, what does Anzoleto mean to do? Is he so
+                much discouraged as to quit the stage?"</p>
+                <p>"Yes, the stage of San Samuel. In a month he will leave</p>
+                <pb xml:id="leaf026r" facs="loc_mc_00961.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">163</fw>
+                <p>"To Vienna, whither Porpora has sent her to await his 
+                    own coming. She cheated us all, the little mask. She was 
+                    engaged for the imperial theatre, where Porpora is to 
+                    produce his new opera."</p>
+                <p>"Gone! gone without saying a word to me!" cried Anzoleto,
+                rushing towards the door.</p>
+                <p>"Oh! it will do you no good to hunt for her in Venice," 
+                    said Corilla, with a malicious laugh and a look of triumph. 
+                    "She embarked for Palestrina at the break of day, and is 
+                    now far from here on the main land. Zustiniani, who 
+                    thought himself beloved, and was deceived, is furious; he is 
+                    in bed with a fever. But he sent Porpora to me a short 
+                    time since, to ask me to sing this evening; and Stefanini, 
+                    who is very tired of the stage, and is impatient to go and 
+                    enjoy the pleasures of retreat in his chateau, is very desirous 
+                    to have you resume your debuts. Therefore determine to 
+                    reappear to-morrow in Ipermnestra. As for me, I am going 
+                    to the rehearsal; they are waiting for me. You can, if you 
+                    do not believe me, take a turn through the city, and convince 
+                    yourself of the truth."</p>
+                <p>"Ah! fury!" cried Anzoleto, "you have gained you<gap reason="illegible"></gap>
+                point, but you tear my life from me." <hi rend="underline">And he fell in a
+                <span rend="singleLine-left" xml:id="jj1" from="jj1" to="jj2"/>
+                swoon upon the Persian carpet of the courtesan.</hi></p><anchor xml:id="jj2"/>
+                <pb xml:id="leaf027v" facs="loc_mc_00962.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">168</fw>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <p>the saloons, the more so because Corilla's jealousy increased 
+                    the piquancy of the coquetry of which he was the object. 
+                    Clorinda also developed her powers upon the stage, that is to 
+                    say, her heavy beauty and the loose nonchalance of an 
+                    unexampled stupidity, not without its attraction for a portion of the 
+                    spectators. Zustiniani, somewhat to relieve his mind after 
+                    his very deep disappointment, had made her his mistress, 
+                    covered her with jewels, and pushed her in the first parts, 
+                    hoping to make her succeed Corilla, who was definitively 
+                    engaged at Paris for the coming season.</p>
+                <p>Corilla saw without vexation this competition, from which 
+                    she had nothing to fear, either at present or in the future; 
+                    she even took a malicious pleasure in bringing out that coldly 
+                    impudent incapacity, which recoiled before nothing. These 
+                    two creatures lived therefore in good understanding and 
+                    governed the administration imperiously. They put into the 
+                    index every serious score, and revenged themselves upon 
+                    Porpora by refusing his operas, to accept and bring forward 
+                    those of his most unworthy rivals. They agreed together in 
+                    injuring all who displeased them, in protecting all who humbled 
+                    themselves before their power. During that season, 
+                    thanks to them, the public applauded the works of the decline, 
+                    and forgot that true and grand music had formerly prevailed 
+                    in Venice.</p>
+                <p>In the midst of his success and his prosperity, (for the 
+                    count had given him a very advantageous engagement,) 
+                    Anzoleto was overwhelmed with a profound disgust, and bent 
+                    under the weight of a melancholy happiness. It was pitiful 
+                    to see him drag himself to the rehearsals, hanging on the 
+                    arm of the triumphant Corilla, pale, languishing, beautiful as 
+                    an angel, ridiculous in foppishness, wearied like a man who 
+                    is adored, crushed and destroyed under the laurels and myrtles 
+                    <span rend="singleLine-left" xml:id="kk1" from="kk1" to="kk2"/>
+                    <span rend="singleLine-left" xml:id="ll1" from="ll1" to="ll2"/>
+                    he had so easily and so largely gathered. Even at the per-
+                    formances, when upon the stage with his fiery mistress, he 
+                    yielded to the necessity of protesting against her by his superb 
+                    attitude and his impertinent languor. While she devoured<anchor xml:id="kk2"/><anchor xml:id="ll2"/> 
+                    him with her eyes, he seemed, by his looks, to say to the</p>
+                <pb xml:id="leaf028r" facs="loc_mc_00963.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">169</fw>
+                <p>public: "Do not think that I respond to so much love. On 
+                    the contrary, whoever will deliver me from it will do me a 
+                    great service."</p>
+                <p>The fact was, that Anzoleto, spoiled and corrupted by 
+                    Corilla, turned against her the instincts of selfishness and 
+                    ingratitude which she suggested to him against the whole 
+                    world. There remained in his heart but one sentiment which 
+                    was true and pure in its essence: the indestructible love 
+                    which, in spite of his vices, he cherished for Consuelo. He 
+                    could divert his attention from it, thanks to his natural frivolity; 
+                    but he could not cure himself of it, and that love came 
+                    back upon him like a remorse, like a torture, in the midst of 
+                    his most culpable disorders. Unfaithful to Corilla, given to a 
+                    thousand gallant intrigues, one day with Clorinda, to avenge 
+                    himself in secret on the count, another with some illustrious 
+                    beauty of high rank, and the third with the lowest of the 
+                    figurantes; passing from the mysterious boudoir to insolent 
+                    orgies, and from the furies of Corilla to the careless debaucheries 
+                    of the table, it seemed as if he had assumed the task of 
+                    stifling in himself all recollection of the past. <hi rend="underline">But in the 
+                    midst of this disorder, a spectre seemed to dog his steps;</hi> and
+                    <span rend="singleLine-right" xml:id="mm1" from="mm1" to="mm2"/>
+                    deep drawn sighs escaped from his breast, when in the middle 
+                    of the night, with the boisterous companions of his pleasures, 
+                    he passed in his gondola along the dark buildings of the Corte<anchor xml:id="mm2"/> 
+                    Minelli. Corilla, for a long time subdued by his bad treatment, 
+                    and led, as are all mean souls, to love only in proportion 
+                    to the contempt and outrages she received, began at last to be 
+                    tired of this fatal passion. She had flattered herself that she 
+                    could conquer and enchain that savage independence. She 
+                    had worked for that end with a violent earnestness, and she 
+                    had sacrificed everything to it. When she recognized the 
+                    impossibility of ever succeeding, she began to hate him, and 
+                    to search for distractions and revenge. One night, when 
+                    Anzoleto was wandering in his gondola about Venice with 
+                    Clorinda, he saw file off rapidly another gondola, whose 
+                    extinguished lantern gave notice of some clandestine 
+                    trendezvous. He paid little<anchor xml:id="nn1"/> attention to it; but Clorinda who, in her</p>
+                <note type="authorial" resp="#h2" place="infralinear" target="nn1">15</note> 
+                <!-- Not sure why there is a 15 hovering beneath "little" on the last line, so I coded it as a note. -->
+                <pb xml:id="leaf029r" facs="loc_mc_00964.jpg" type="recto"/>
+                <fw type="header" place="top">CONSUELO.</fw>
+                <fw type="pageNum" place="top right">251</fw>
+                <p>'I speak to you of things divine and eternal,' replied he, after 
+                    a little hesitation, 'and you recall to my mind the short 
+                    moments which are fleeting, those puerile and ephemeral cares 
+                    the record of which is almost effaced within me.'</p>
+                <p>"'Speak, my son, speak!' returned count Christian; 'we 
+                    must strive to know you this day.'</p>
+                <p>"' You have never known me, father,' replied Albert, 'and 
+                    you will not know me in what you call this life. But if you 
+                    wish to know why I travelled, why I endured that unfaithful 
+                    and careless guardian whom you had attached to my steps, 
+                    like a greedy and lazy dog to the arm of a blind man, I will 
+                    tell you in a few words. I had made you suffer enough. It 
+                    was my duty to take away from you the sight of a son, rebel-
+                    lious to your teachings and deaf to your remonstrances. I 
+                    knew well that I should not be cured of what you called my 
+                    insanity; but you needed both repose and hope: I consented 
+                    to remove myself. You exacted from me the promise that I 
+                    would not separate, without your consent, from the guide you 
+                    had given me, and that I would allow myself to be conducted 
+                    by him over the world. I wished to keep my promise. I 
+                    wished also that he might sustain your hope and your confi-
+                    dence, by rendering you an account of my gentleness and 
+                    patience. I was gentle and patient. I closed my heart and 
+                    my ears against him; he had the wit not even to think of 
+                    opening them. He walked me, dressed me, and fed me like 
+                    a child. I renounced life as I understood it; I accustomed 
+                    myself to see misery, injustice and folly reign upon the earth. 
+                    I have seen men and their institutions; indignation has given 
+                    place to pity in my heart, for I have seen that the misfortunes
+                    <span rend="singleLine-right" xml:id="oo1" from="oo1" to="oo2"/>
+                    of the oppressed were less than those of their oppressors. In 
+                    my childhood I loved only the victims: now I feel charity for 
+                    the executioners, melancholy penitents, who endure in this 
+                    generation the punishment of crimes which they have com-
+                    mitted in former existences, and whom God condemns to be 
+                    wicked, a suffering which is a thousand times more cruel than<anchor xml:id="oo2"/> 
+                    that of being their innocent prey. This is why I now give 
+                    alms only to relieve myself personally from the weight of</p>
+            </div1>
+    </body>
+</text>
+</TEI>

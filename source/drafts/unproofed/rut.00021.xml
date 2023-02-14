@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00021">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"The Social Revolutionist"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                    <persName xml:id="slg">Samantha L. Gilmore</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00021</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain
+                        exceptions, public domain works may be freely copied or used in the creation
+                        of derivative works without permission, or authorization, of the former
+                        copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and
+                        is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/"
+                            >Creative Commons Attribution 4.0 International License</ref> (CC BY
+                        4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                <author>Walt Whitman</author>
+                <title><!-- check rut find aid--> </title>
+                    <idno type="callno"><!--<idno type="callno"></idno>--></idno>
+                <date notBefore="1857-07" notAfter="1892-03-26">After July 1857</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers
+                        University Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Unknown</author>
+                    <title level="j">"The Social Revolutionist"</title>
+                    <publisher>The Rising Star Association</publisher>
+                    <pubPlace cert="medium">Greenville, Ohio</pubPlace>
+                    <biblScope type="vol">4</biblScope>
+                    <biblScope type="num">1</biblScope>
+                    <date when="1857-07">July 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#slg" when="2019-10-08">proofed</change>
+            <change who="#jyc" when="2014-11-18">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <div1>
+                <pb xml:id="leaf001r" facs="rut_nhg.00031.jpg" type="recto"/>
+                <note xml:id="n001" place="top right"><handShift new="#h1"/>9</note>
+                <fw type="header" place="top left"><hi rend="underline">Vol. IV. No. 1.]</hi></fw>
+                <fw type="date" place="top right"><hi rend="underline">[July, 1857.</hi></fw>
+                <head type="main-authorial"><hi rend="smallcaps">THE SOCIAL
+                    REVOLUTIONIST;</hi></head>
+                <p><hi rend="smallcaps">A MEDIUM</hi></p>
+
+                <p><hi rend="smallcaps">FOR THE FREE DISCUSSION OF GENERAL PRINCIPLES AND PRACTICAL
+                        MEASURES,</hi></p>
+
+                <p><hi rend="smallcaps">PERTAINING TO</hi></p>
+                <note xml:id="n002" place="right"><handShift new="#h1"/><del rend="overstrike"
+                        hand="#h1">30</del>
+                    <list>
+                        <item>30&#8212;</item>
+                        <item> 40</item>
+                        <item><milestone unit="undeclared" rend="horbar-short"/></item>
+                        <item>1400</item>
+                        <item> 8</item>
+                        <item><milestone unit="undeclared" rend="horbar-short"/></item>
+                        <item>1120.0</item>
+                    </list></note>
+
+                <p><hi rend="smallcaps">HUMAN PROGRESS AND GENERAL WELL-BEING.</hi></p>
+                
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+                <p>The cause of truth is best promoted by free inquiry. Error
+                        alone fears investigation.</p>
+                
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+                <p><hi rend="smallcaps">CONDUCTED BY JOHN PATTERSON.</hi></p>
+
+                <p><hi rend="smallcaps">CONTRIBUTORS</hi>.&#8212;A. Cridge, Anne Denton Cridge, Wm.
+                    Denton, T.P. Wright, J.H Cook, J.W. Towner, W.A. Steere, Francis Barry, J.M.
+                    Stahl, J.B. Wolff, J.P. Davis, Joseph Treat, Mary A. Chilton, Jennie G. Adams,
+                    C. Sweet Towner, D. Colburn Bush, C.M. Overton, Lily White, P.I. Blacker, La Roy
+                    Sunderland, J.K. Moore, J.R. Monroe.</p>
+                
+                <note xml:id="n003" place="right"><handShift new="#h1"/><list>
+                        <item>28</item>
+                        <item> 40</item>
+                        <item><milestone unit="undeclared" rend="horbar-short"/></item>
+                        <item>1120</item>
+                    </list></note>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <p><hi rend="smallcaps">PUBLISHED BY THE RISING STAR ASSOCIATION.</hi></p>
+
+                <p><hi rend="smallcaps">FOR SALE BY M. BLY, 160 VINE STREET, CINCINNATI; BELA MARSH,
+                        15 FRANKLIN ST., BOSTON; C. BLANCHARD, 76 NASSAU ST., AND S.T. MUNSON, NO. 5
+                        GT. JONES ST., NEW YORK.</hi></p>
+
+                <p>Terms, $1 a year in Advance, or five Copies for $4; Specimen Nos. 10 cts.</p>
+
+                <p>☞ Our Post Office Address:&#8212;Greenville, Darke Co., Ohio.☜</p>
+
+
+
+                <pb xml:id="leaf001v" facs="rut_nhg.00032.jpg" type="verso"/>
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">THE SOCIAL
+                        REVOLUTIONIST;</hi></head>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <lg type="letter">
+                        <head type="main-authorial"><hi rend="smallcaps">MY MARRIED
+                            LIFE.</hi></head>
+                        <head type="sub"><hi rend="smallcaps">LETTER II.</hi></head>
+                        <l>"O think not that my eyes are dry,</l>
+                        <l rend="indented1">Because you mark no falling tears;</l>
+                        <l>There flows a river deep and dark,</l>
+                        <l rend="indented1">Whose waters ebb not with the years.</l>
+                        <l>O think not that my lips are mute,</l>
+                        <l rend="indented1">Because you hear no spoken word;</l>
+                        <l>Full-freighted with the tones of grief,</l>
+                        <l rend="indented1">I hear a voice you never heard."</l>
+                    </lg>
+                    
+                    <p><hi rend="smallcaps">MY DEAR FRIEND:&#8212;</hi>You may have noticed how very
+                        strong the <hi rend="smallcaps">AFFECTIONAL ELEMENT</hi> is the constitution
+                        of my nature; but you may never know how much I have suffered during the
+                        past thirty years, for the want of a conjugal, or as the New Churchmen would
+                        say, a conjugal companion; not merely a wife, but a <hi rend="smallcaps"
+                            >COMPANION FOR MY SOUL</hi>. The degree of <hi rend="smallcaps"
+                            >LONELINESS</hi> desolation, and suffering, which each one must endure,
+                        who finds himself thus conditioned for life, will depend upon the
+                        temperament, education, and numerous constitutional susceptibilities over
+                        which we can have but little control.&#8212; Hence, the object of each one
+                        should be, to familiarize the mind with the laws of his own nature, and
+                        arrange all eternal persons and things accordingly, as far as it may be in
+                        our power to do so.</p>
+                    
+                    <p> The great desire I felt, to avoid all mistakes in my choice of a wife, kept
+                        me from committing myself in matrimony until my twenty-sixth year. AT this
+                        time, I was a clergyman in the service of a sectarian Church. In the summer
+                        of 1828, meeting with an old minister at one of our Annual Conferences, whom
+                        I had long known and confided in as a paternal friend, he put the following
+                        question to me:&#8212;"Brother S.," said he, "have you found your rib
+                        yet?"&#8212;referring to Gen. ii. 22. My answer being in the negative, he
+                        then proceeded to give me a description of a beautiful young sister in his
+                        parish who had expressed to him a preference for marrying a clergyman, and
+                        he thought her personal attractions, piety, education, and parentage such as
+                        would be highly gratifying to me, and so he invited me to make him a
+                        ministerial visit, when he would have the pleasure of giving me and
+                        introduction to her. His glowing account of the young lady, seemed to
+                        approach very near to my <hi rend="smallcaps">IDEAL</hi>; and the thought
+                        that there was a probability that I should find what I wanted, when
+                        permitted to behold her face in the course of a few months, filled my heart
+                        with emotions of joy unknown to me before. He was a good man, one in whom
+                        I</p>
+                </div2>
+
+                <fw type="footer" place="bottom">VOL. IV. NO. I.&#8212;July 1857.</fw>
+                <pb xml:id="leaf002r" facs="rut_nhg.00033.jpg" type="recto"/>
+                <fw type="header" place="top"><hi rend="smallcaps">FREE LOVE.</hi></fw>
+                <fw type="pageNum" place="top right">7</fw>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <div2>
+                    <p>If this is true Amativeness, it must also be true of all the other faculties.
+                        We must live on hermit's fare, for Alimentiveness, too, must be equally
+                        unfit to determine what food our bodies need. Reason must be "carnal," and
+                        therefore unfit to be used in matters which concern the important mater of
+                        the soul's salvation, and the only safety or truth must be found in
+                        unconditional submission to the teachings of the Holy and Infallible
+                        Catholic Church!</p>
+                    <p>Thus reasoned our late co-workers, the Nichols. <hi rend="smallcaps">GRANTING
+                            THE PREMISES</hi>, as regards the function of Amativeness, this
+                        reasoning is without a flaw. It was an artful dodge, quite worthy of a
+                        practiced and accomplished Jesuit, to begin by getting the notion well
+                        grounded in the minds of the apostles of Individual Freedom, "destinies
+                        proportioned to attractions," etc., before the could see where it ledl and
+                        having them once fairly in the vortex of this deadly whirlpool, their
+                        descent was rapid and certain.</p>
+                    <p>Those who believe in <hi rend="smallcaps">CRUSHING</hi>, instead of <hi
+                            rend="smallcaps">DIRECTING</hi> and admitting of a wholesome and
+                        spontaneous activity, would confer a benefit to the cause of Reform by
+                        leaving its ranks, and going where they belong, as Dr. and Mrs. N. have
+                        done.</p>
+                    <p>It maybe objected that I am advocating unlimited activity of the animal
+                        faculties, irrespective of the dictates of reason and experience. This is,
+                        however, not my position. I believe, however, that these latter means are
+                        sufficiently competent to decide upon the amount of activity that each
+                        faculty should be allowed. Reason would naturally infer that every faculty
+                        of our nature should be called in to activity oftener that <hi
+                            rend="smallcaps">ONCE IN THREE YEARS</hi>, which is as often as even <hi
+                            rend="smallcaps">HEALTHY</hi> women can bear and nurse children with
+                        impunity. <span rend="bracket-right" hand="#h1" xml:id="b001" from="#b001"
+                            to="#b002"/> Experience of evil resulting from its over activity would,
+                        if attended to, prevent any serious harm. For one man to lay down iron,
+                        arbitrary rules for another, either in respect to eating, sleeping, or the
+                        amative function, is as absurd as to prescribe the size of a garment, or the
+                        length to which we should be allowed to grow. There is an <hi
+                            rend="smallcaps">INDIVIDUALITY</hi> about these things that should be
+                        respected. <hi rend="underline" hand="#h1">True reformers might occupy
+                            themselves more appropriately and usefully than in increasing the number
+                            of <hi rend="smallcaps">STRAIGHT JACKETS</hi> for mankind, which are
+                            already sufficiently numerous.</hi><anchor xml:id="b002"/> If they need
+                        such things themselves, by all means let them use them; but excuse others
+                        who have full (or even partial) possession of their faculties, from being
+                        hampered in any such restraints. Such despotism, like that of religious
+                        creeds, is far more insufferable and pernicious than that of the civil law.
+                        I go for freedom in <hi rend="smallcaps">FACT</hi>. </p>
+                </div2>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">EXCLUSIVENESS IN
+                        LOVE.</hi></head>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <p><hi rend="smallcaps">FRIEND PATTERSON</hi>:&#8212;As the list of Varietists
+                        has been called for, and I feel a deep interest in all that is going on in
+                        the world of reform, it has given rise in my mind to many serious
+                        reflections of which I feel strongly impressed to speak.</p>
+                    <p>In the March No. of the S. R. you say: "I did list those amongst Free Lovers
+                        who believe in exclusive dual union, but ignore legal enactments&#8212;but I
+                        did not mean by that to commit myself to this doctrine as real Free Lovers,"
+                        &amp;c.</p>
+                    <p>To which I will reply, for myself only, as I cannot speak for another, thus
+                        far I have never loved but <hi rend="smallcaps">ONE</hi> individual at the
+                        same time&#8212;and, although my name is on the list of Free Lovers, I
+                        presume that you and many others consider me not one, though to me it looks
+                        different. I am <hi rend="smallcaps">FREE</hi> to love the one, and cannot
+                        be <hi rend="smallcaps">COMPELLED</hi> to love more.&#8212; <pb
+                            xml:id="leaf002v" facs="rut_nhg.00034.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="smallcaps">SOCIAL
+                                REVOLUTIONIST.</hi></fw>
+                        <fw type="pageNum" place="top left">8</fw>
+                        <milestone unit="undeclared" rend="horbar-full"/> Not but that I am free and
+                        willing to love many, or any number, but as yet I have not been able to
+                        discover within my own heart the principle of variety&#8212;not that I
+                        object to the principle or sentiment. O, no! It is beautiful and truthful to
+                        those who feel it in their souls to be a truth. But such in my estimation
+                        are no more free than those of the one love, as they are compelled by their
+                        very <hi rend="smallcaps">NECESSITY</hi> of their unfolding natures to love
+                        the <hi rend="smallcaps">MANY</hi>. And now, which is free, the one that is
+                        drawn and bound to the one love by the necessity of his own nature, growth,
+                        and being, or the one that is compelled by the same principle to love the
+                        many? To me, they are both bound and free, on one and the same
+                        principle.</p>
+                    <p>Were I now to send in my name as a Free Lover you might hesitate whether or
+                        not to accept me as such with my one "little love." But as we are
+                        progressive beings, by the time the list is fairly in circulation I may grow
+                        into the truth of variety by meeting with individuals I never before
+                        saw&#8212;the same is variety. By what we now are, we know not what we shall
+                        be. Variety in love is a truth to those who feel its potency: the exclusive,
+                        the same. We shall probably grow out of one into the other, and I have no
+                        choice which. I am willing to leave it to nature and destiny. I have no <hi
+                            rend="smallcaps">BELIEF</hi> to fasten to on <hi rend="smallcaps"
+                            >THAT</hi>, or any other subject but leave my mind open and free to the
+                        reception of truth as it presents itself to my understanding. I can
+                        fellowship the variety love with the same warmth of soul as the exclusive or
+                        one lover&#8212;so that you will discover that I am not a <hi
+                            rend="smallcaps">CLOSE COMMUNIIONIST</hi>; nor do I feel like contending
+                        about the <hi rend="smallcaps">TRINITY</hi>, <hi rend="smallcaps"
+                            >DUALITY</hi>, or <hi rend="smallcaps">UNITY</hi> [one-ity] of the
+                        Godhead, and care not whether persons worship "<hi rend="smallcaps">ONE OR
+                            TWENTY GODS</hi>."</p>
+                    <p><hi rend="smallcaps">TOLERATION</hi> is the motto of all true and loving
+                        souls, the only principle that can possibly save social bodies or societies
+                        from plunging into the much dreaded vortex of Sectarianism. Yours for
+                        toleration and faith in humanity,</p>
+                    <p><hi rend="smallcaps">WAUKEGAN, ILL., May 16, 1857. CHARLOTTE H.
+                        BOWEN.</hi></p>
+                </div2>
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">VARIETY IN LOVE.</hi></head>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <p><hi rend="smallcaps">BY J. R. MONROE.</hi></p>
+                    <span rend="bracket-left" hand="#h1" xml:id="b003" from="#b003" to="#b004"/>
+                    <p>That variety in love is, or would be, natural and generally prevail, I have
+                        not the least doubt. It seems to be a question with many whether new loves
+                        would displace old ones, or whether the tendency would not be to enhance,
+                        intensify, and purify the old ones.&#8212; As a general question, or as to
+                        the general tendency of this, I have no doubts. There may be loves of some
+                        character or extent that would be dropped or changed on finding new loves of
+                        a higher, purer, and more <hi rend="underline" hand="#h1">happyifying</hi>
+                        character, some that are more <hi rend="smallcaps">REAL</hi>; for it must be
+                        obvious to the close investigating socialist, that there are many that <hi
+                            rend="smallcaps">APPEAR</hi> to be love-relations which are merely
+                        accidental, or entered into from sinister motives, motives other than love
+                        or real attraction. But in freedom, adaptation, attraction, is the thing to
+                        bring the opposite sexes together. As far as my expereience and observation
+                        extend, I am fully satisfied that where a great degree of freedom obtains,
+                        the <hi rend="smallcaps">ONE LOVE</hi> will be the exception, and <hi
+                            rend="smallcaps">VARIETY</hi> or <hi rend="smallcaps">MANY LOVES</hi>
+                        will be the rule.</p>
+                    <p>For various reasons I believe new loves will improve and intensify old ones,
+                        and perpetuate or extend them. One obvious reason for this is the culture,
+                        growth, and expansion of our love-nature, consequent on having a variety of
+                        objects to love; and of course, all loves must be different to some extent
+                        in degree and kind, as the organizations, surroundings, and influences of
+                        all the different lovers will differ to some extent. Thus acting variously
+                        upon us, all the activities of our whole love-nature will be drawn out, and
+                        our <anchor xml:id="b004"/>
+                        <pb xml:id="leaf003r" facs="rut_nhg.00035.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="smallcaps">FREE LOVE.</hi></fw>
+                        <fw type="pageNum" place="top right">9</fw>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        <span rend="bracket-left" hand="#h1" xml:id="b005" from="#b005" to="#b006"
+                        />capacity or capability to love will be enlarged, and at the same time our
+                        attractiveness or lovableness will be increased. Another reason is, by
+                        loving many our love-nature is not only strengthened, and so our capacity to
+                        love more, but we are still becoming ourselves more lovable. But our loves
+                        being more diffused, the points of attraction between any two would be less
+                        likely to be absorbed, or at least, not so soon as though we had but the one
+                        lover. But our time, attentions, and love-manifestations being divided
+                        between many, the points of attraction between any two of course, to say the
+                        least, will not so soon be absorbed. To illustrate; Suppose I love another
+                        who loves me; in time I find another one to love, a dozen, or twenty, and
+                        she finds as many more. Well, these loves all differing one from another, of
+                        course by this means many points of attraction in my love-nature become
+                        active, and hers in like manner; and now we come round together again. But
+                        how is this, we still find each other more attractive that before? Now I am
+                        so happy, I exclaim, I thought I knew you before, but I am continually
+                        discovering something new, some still more attractive points in your
+                        character, how fortunate that we ever came together! What a heaven it is, to
+                        be thus continually finding something new, something still more attractive,
+                        instructive, and intensely happifying in your nature! How beautifully we
+                        seem to be adapted to help and happify each other! To all this, and more,
+                        she readily and joyfully responds, exclaiming, this sis just as I feel
+                        towards you; I find I am just beginning to appreciate you. What a world of
+                        delights is ours! What mines of wealth are continually unfolding to our
+                        enraptured gaze!</p>
+                    <anchor xml:id="b006"/>
+                    <p>But the secret of this is, we have both been students in this beautiful
+                        school of freedom, we are being more integrally developed, we have been
+                        following our attractions without hindrance; we are coming to a wholeness of
+                        life that we knew not of, nor could we know only in freedom. We are now, as
+                        it were, new beings, <hi rend="smallcaps">NEW LOVERS</hi>. In addition to
+                        the former points of attraction that drew us together, there are now on both
+                        sides many more attractive features that have been brought into activity by
+                        our many and variously acting love-relations. So then all can see the sphere
+                        of our love-activities, is widening, is expanding. The more we love, the
+                        more we can love: the more we give, the more we have to give. The more our
+                        love-nature is cultivated, the more active it is, the more capable, to give.
+                        The more our love-nature is cultivated, the more active it is, the more
+                        capable, the stronger, and more powerful it becomes. But on the other hand,
+                        in marriage of whatever kind&#8212;<hi rend="smallcaps">LEGAL MATING</hi> or
+                        what not, (for it is all about the same,) the tendency is to absorb the
+                        points of attraction; and then repression comes in with all its chilling and
+                        deadening influences&#8212;a coldness, an apathy, an indifference is
+                        engendered between the two, thus shut out from the world; no chance for
+                        growth or development for either. In more cases, their condition becomes
+                        still more intolerable, when they might in freedom become still more
+                        attractive to each other by the extending and widening growth of each, and
+                        thus be enabled to bless each other and all as far as their influence may be
+                        felt.</p>
+                    <p>Marriage, mating, or the one love, hinders growth, development, and
+                        happiness. And besides all this, it actually produces the positive hells
+                        that are peculiar to marriage, the thousandth part of whose miseries and
+                        damning curses have never been told. The thought of retaining a love that
+                        blesses and happifies us is certainly a pleasing one, and the way to do this
+                        most surely is <hi rend="smallcaps">VARIETY IN LOVE</hi> om freedom. For in
+                        this way we are continually making ourselves more attractive to all we can
+                        affinitize with, are adapted to, or can love. the points of attraction not
+                        being fully absorbed, there is a life, a sprightliness, a vivacity, a
+                        brilliancy, in our loves, that the really married, mated ones cannot know;
+                        or if they happen to feel something of it when they first come together, it
+                        soon flees from them. The rose is gone, but the thorn is left behind.</p>
+                    <span rend="bracket-left" hand="#h1" xml:id="b007" from="#b007" to="#b008"/>
+                    <span rend="bracket-right" hand="#h1" xml:id="b009" from="#b009" to="#b010"/>
+                    <p>But finally, it is not so very important whether we retain for a long or a
+                        short time the love of others; so that we enjoy all that is for us in a
+                        glorious and up-building freedom. <anchor xml:id="b008"/>
+                        <anchor xml:id="b010"/>
+                        <pb xml:id="leaf003v" facs="rut_nhg.00036.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="smallcaps">SOCIAL
+                                REVOLUTIONIST.</hi></fw>
+                        <fw type="pageNum" place="top left">10</fw>
+                        <milestone unit="undeclared" rend="horbar-full"/>For one, I am entirely of
+                        the faith, that variety in love will bring to poor, crushed humanity a
+                        thousand untold blessings; and that the whole tendency of the entire
+                        activity of our whole love-nature, in <hi rend="smallcaps">FREEDOM</hi>,
+                        will be purifying, refining, elevating, ennobling, and intensely happifying.
+                        Let us have the conditions, and I fear not, but hope everything good. We
+                        want Spontaneity, the broadest Freedom, and Toleration to match it.</p>
+                </div2>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <div2>
+                    <head><hi rend="smallcaps">CAUSTIC FOR FREE LOVERS.</hi></head>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <p><hi rend="smallcaps">BY A. HUNTER.</hi></p>
+                    <p>Many articles having appeared in the Social Revolutionist on the subject of
+                        "Free Love" my object, in the present paper, is to make a few comments on
+                        extracts from some of these articles.</p>
+                    <p>A.S. Davis defines love to be an "involuntary action of the mind," and J.
+                        Patterson (Vol. III., No.1., p.8) accepts the definition. He says, "I am
+                        much pleased with your definition of love, I could no have made it better
+                        myself." All love, according to this definition, as it is "involuntary,"
+                        must not only be essentially free, but uncontrollable. All involuntary
+                        action exhibited in the mental or physical phenomena of human beings are
+                        beyond the control of the individual. We are not capable then of directing,
+                        modifying, or extinguishing this purely mental attribute&#8212;this
+                        sentiment, feeling or emotion. Peculiar organizations may limit it, but
+                        conventionalities cannot enslave it. As organization varies among
+                        individuals this "involuntary action" is more remarkable in some than
+                        others. The natural instinct of a mother makes it peculiarly strong for her
+                        offspring. How could you enslave this sentiment in the mother?&#8212;how
+                        prevent its free action? Try to circumscribe it and it becomes the more
+                        intense. So is it with all pure loves. I am taken with a severe "involuntary
+                        action of the mind"&#8212;my other faculties tell me that it exists&#8212;I
+                        know it does. Can I prevent its involuntary existence? And if I cannot, who
+                        can? Then if it cannot be prevented, this is Free Love, and I enjoy it. Why?
+                        Not because I have a right to it, but because I cannot help it.</p>
+                    <p>If this "involuntary action" find its affinities among the higher attributes
+                        of the mind then we have "Free Love" of a higher order, exhibiting a purely
+                        moral aspect. If among the lower, or that which is common to all animated
+                        creatures, then we have "Free Love" manifesting sexual symptoms. In the one
+                        case our love is satisfied with reciprocal intellectual or moral enjoyment,
+                        but in the other it demands the gratification of the sexual passion. The
+                        latter love is an "involuntary" exaltation of venereal desires&#8212;an
+                        instinctive sentiment. The former is a concentration of the nobler qualities
+                        of the mind&#8212;an intellectual sentiment, peculiar to man.</p>
+                    <p>There are various types of love just as there are various grades of
+                        intellectual development, and various characteristics of organization. I
+                        have said that peculiar organization limits the extent of love's action. It
+                        does more it fixes its character. An idiot is capable of loving intensely,
+                        but his organization is such that his love must necessarily be of the
+                        instinctive or animal kind. Intellectuality is wanting, and therefore the
+                        higher degrees of love are absent. The love of the savage is proportioned to
+                        the development of his mind. and so in civilized society we find every
+                        degree of love, from the lowest sensual to the highest spiritual. Love
+                        demands in return love its kind. The sensualist cannot feel, and therefore
+                        cannot enjoy the love of a highly cultivated and virtuous mind. He seeks
+                        enjoyment among those of his class. He practices free sexual intercourse,
+                        and wallows in the mire of lust without restraint. Talk to him of "Free
+                        Love" and he will</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen
+RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"
+?>
+<?oxygen
+SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
+?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07374">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Consuelo, vol. 3</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="cv">George Sand</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="ano">Alejandro Omidsalar</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>2015</edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.07374</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be 
+                        freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">
+                            Creative Commons Attribution 4.0 International License
+                        </ref>
+                        (CC BY 4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted 
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Consuelo</title>
+                    <idno type="callno">PQ2400.A37 1848</idno><!-- MS Excel is not cooperating with me at the moment, 
+                so I need to look at the spreadsheet and make sure that the finding aid for this is the same as its fellows. -->
+                    <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or later</date>
+                    <orgName xml:id="bmr">Feinberg-Whitman Collection, Library of Congress</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>George Sand</author>
+                    <title level="a">Consuelo</title>
+                    <date>1847</date>
+                    <publisher>William H. Graham</publisher>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="pp">title page, title page verso</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#gs" medium="typescript"/>
+                <handNote xml:id="h3" scribeRef="#unk" medium="ink"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-12-15" who="#ano">Transcribed; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <front>
+            <pb xml:id="leaf001r" facs="loc_mc_00968.jpg" type="recto"/>
+            <titlePage>
+                <note type="authorial" resp="#h2">PRICE FIFTY CENTS.</note>
+                <docTitle>
+                    <titlePart>CONSUELO:</titlePart>
+                </docTitle>
+                <byline>BY<docAuthor>GEORGE SAND.</docAuthor></byline>
+                <note type="authorial" resp="#h2">IN THREE VOLUMES:
+                    VOL. III</note>
+                <milestone unit="undeclared" rend="horbar-short"/>
+                <byline>TRANSLATED BY 
+                    FRANCIS G. SHAW.</byline>
+                <milestone unit="undeclared" rend="horbar-short"/>
+                <note type="authorial" resp="#h2">Third Edition.</note>
+                <docImprint>
+                    <pubPlace>NEW YORK:</pubPlace>
+                    <publisher>WILLIAM H. GRAHAM, TRIBUNE BUILDINGS</publisher>
+                    <docDate>MDCCCXLVII</docDate>.
+                </docImprint>
+            </titlePage>
+        </front>
+        <body>
+            <pb xml:id="leaf002v" facs="loc_mc_00969.jpg" type="verso"/>
+            <p><handShift resp="#h2"/>Walt Whitman
+            328 Mickle Street
+            Camden</p>
+        </body>
+    </text>
+</TEI>

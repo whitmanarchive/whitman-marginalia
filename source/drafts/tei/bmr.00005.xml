@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+<!-- USE THE OBJECT ID FOR THE VALUE OF @xml:id IN THE FOLLOWING ELEMENT. FOR EXAMPLE:
+     xml:id="zzz.00001"
+     -->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="bmr.00005">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+          <title level="m" type="main">Milton, Young, Gray, Beattie, and Collins : Complete in one volume</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <name>The Walt Whitman Archive Staff</name>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2010</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>bmr.00005</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+        <availability>
+          <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+
+        <note type="project" target="#dat1"> </note>
+
+        <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+          <!--     THE VALUE OF @xml:id  IN THE FOLLOWING ELEMENT SHOULD BE YOUR INITIALS, IN LOWER CASE. FOR THIS ELEMENT, *DO NOT* PUT A 
+                   POUND SIGN BEFORE YOUR INITIALS. EXAMPLE: xml:id="bb" -->
+          <persName xml:id="tj">Tim Jackson</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Walt Whitman</author>
+          
+            <title>Milton, Young, Gray, Beattie, and Collins : Complete in one volume</title>
+          <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+          <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+          
+          <idno type="callno">821.08 M642</idno>
+          <orgName>Bryn Mawr</orgName>
+
+          <note type="project">Transcribed from our own digital image of original manuscript.</note>
+        </bibl>
+
+      </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+      <!--   
+        SUPPLY THE DATE AND YOUR INITIALS IN THE FOLLOWING TWO LINES. FOR THE DATE, USE THIS FORMAT:
+        YYYY-MM-DD. 
+        FOR YOUR INITIALS, NOTE THAT THE POUND SIGN (#) SHOULD BE RETAINED, LIKE SO: 
+        who="#bb" 
+      -->
+      <change when="2010-01-11" who="#al">Checked and corrected</change>
+      <change when="2010-04-06" who="#tj">Encoded</change>
+      <change when="2010-04-06" who="#tj">Transcribed</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text type="manuscript">
+    <body>
+      <div1 type="prose">
+      <!--    THE VALUE OF @facs IN THE FOLLOWING ELEMENT SHOULD BE OJECT ID + .001 + .jpg  EXAMPLE:
+              zzz.00001.001.  -->
+        <pb xml:id="leaf001r" facs="bmr.00005.001.jpg" type="recto"/>
+        
+      <p>I used to read this Vol: to pass away long "waits" &#38;c. at Washington at the army Hospitals, or waiting for the boats bringing loads of wounded &#38;c&#8212;dipped it into those years 1862, '3, '4 &#38; '5 there&#8212;&#38; since in Camden NJ 1874 to 1888&#8212;Walt Whitman</p> 
+        <p>have had it with me over thirty years&#8212;scribbled <unclear reason="illegible" cert="medium" resp="al">this</unclear> in Mickle Street Sept: 20 '88 Camden New Jersey have dwelt a good deal on Gray</p>
+          <milestone unit="undeclared" rend="horbar-short-left"/>
+          <p>read <hi rend="underline">George Eliot's</hi> roasting of Dr Young as poet &#38; person (in one of her essays)
+      </p>
+        
+          <pb xml:id="leaf002r" facs="bmr.00005.002.jpg" type="recto"/>
+        <p><lb/>MILTON, YOUNG, GRAY, BEATTIE,
+            <lb/>AND COLLINS.
+            <lb/>COMPLETE IN ONE VOLUME.
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lb/>STEREOTYPED BY J. CRISSY AND G. GOODMAN.
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lb/><hi rend="Gothic">Philadelphia:</hi>
+        <lb/>GRIGG &#38; ELLIOT, No. 9 NORTH FOURTH STREET.
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            1841.
+            <note type="authorial" place="top">Walt Whitman <hi rend ="underline">Dec 1863</hi></note>
+        </p>
+          
+          <pb xml:id="leaf002v" facs="bmr.00005.003.jpg" type="verso"/>
+          <p><hi rend ="Gothic">Contents.</hi>
+              <milestone unit="undeclared" rend="horbar-short-center"/>
+              <table>
+                  <row>
+                      <cell></cell><cell>Page.</cell>
+                      <cell>Life of Milton,</cell> <cell>v</cell>
+                      <cell>Encomiums upon Milton,</cell><cell>xxx</cell>
+                      <cell>PARADISE LOST</cell><cell>1</cell>
+                      <cell>Book I,</cell><cell>1</cell>
+                  </row>
+                  
+                  <row><!-- this will be for the second row -->
+                      <cell></cell>
+                      
+                  </row>
+              </table>
+              <!-- need to enter a Table of Contents -->
+          </p>
+          <pb xml:id="leaf003r" facs="bmr.00005.004.jpg" type="recto"/>
+          <!-- need to enter opening text from the printed book -->
+          
+          <pb xml:id="leaf004v" facs="bmr.00005.005.jpg" type="verso"/>
+          <!-- this is page 32 of possibly another book, along with a paper clipping. Actually, the book may have no relation to this sequence. -->
+      </div1>
+    </body>
+  </text>
+</TEI>

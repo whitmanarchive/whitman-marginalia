@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">A New Way</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>nyp.00058</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">A New Way</title>
+                    <idno type="callnumber">b15520479</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="nyp">The Henry W. and Albert A. Berg Collection of English and American Literature, New York Public Library</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-10-11" who="#km">proofed</change>
+            <change when="2019-03-29" who="#km">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <pb xml:id="leaf001r" facs="M_1221591.jpg" type="recto"/>
+            
+            <ab>A New Way &amp; The True Way of Treaty in Books</ab>
+            <span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
+            <list>
+                <item>History</item>
+                <item>G<subst><del rend="overwrite" seq="1"><unclear reason="illegible" cert="high" resp="#km">o</unclear><gap reason="illegible" extent="one letter" unit="chars" quantity="1"/></del><add rend="overwrite" place="over" seq="2">eo</add></subst>graphy</item>
+                <item>Ethnology</item>
+                <item>Astronomy</item>
+                <item>&amp;c &amp;c &amp;c</item>
+            </list>
+            <anchor xml:id="s2"/>
+            
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            
+            <ab>by long lists, of dates, terms, <del rend="overstrike">short</del> s<subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">u</add></subst>mmary paragraphic statements, &amp;c&#8212;</ab>
+            
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            
+            <p>Because all those things, to be carried out, and studied in full in any particular department, <subst><del rend="overstrike" seq="1">require</del><add rend="unmarked" place="supralinear" seq="2">need</add></subst> to <del rend="overwrite">to</del><add rend="overwrite" place="over">h</add>ave recourse to so many books,&#8212;it is impossible to put them, or think of putting them, in any history&#8212;so that brief <hi rend="underline">Data</hi>, all-comprehensive, and to be pursued as far, <del rend="overstrike">into details details</del> and to as full information as any one will afford the best way of inditing history for the common reader.&#8212;</p>
+            
+            <pb xml:id="leaf001v" facs="nyp_km.00003.jpg" type="verso"/>
+
+        </body>
+    </text>
+</TEI>

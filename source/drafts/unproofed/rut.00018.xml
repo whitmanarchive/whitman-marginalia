@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00018">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Theories of Evil"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00018</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"Theories of Evil"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1851-12">December 1851</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="type"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-07">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00037.jpg" type="recto"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/>F'estus&#8212;(Theories of Evil) Faust.&#8212;Manfred.&#8212;Paradise
+                Lost&#8212;Book of Job.&#8212;</note>
+            <note type="authorial" resp="#h2" place="top right"><handShift new="#h3"/>6</note>
+            <note type="authorial" resp="#h2" place="top right">1)</note>
+            <note type="authorial" resp="#h2" place="top left">x</note>
+            <fw type="date" place="top left">1851.]</fw>
+            <fw type="pageNum" place="top right">515</fw>
+            <fw type="header" place="top"><hi rend="italic">Journalism: The London Press.</hi></fw>
+
+            <delSpan rend="hashmark" spanTo="#d01"/>
+            <div1>
+                <head type="main-authorial">Journalism: The London Press.</head>
+                <p>that they may see where they fall short, and supply the deficiency.</p>
+
+                <p>Journalism is well worthy of being made as perfect as possible. Its importance is
+                    becoming more apparent every day. It is not too much to assert, that the welfare
+                    of mankind materially rests in its hands. We all know the important results of
+                    one earnest preacher; empires have been shaken, creeds destroyed, and crusades
+                    undertaken. It took years, <hi rend="italic">then</hi>, to accomplish these
+                    great ends, because the preachers were few; still the objects, however great,
+                    were achieved. <hi rend="italic">Now</hi>, instead of one man, the laborers are
+                    legion. The newspaper alone dispatches an army of preachers every morning, and
+                    public opinion, the great motor of the age, is thus more powerfully affected in
+                    one day than in a generation of the olden times. When it is borne in mind, that
+                    on an average five persons read each paper it is not stating too much, that
+                    nearly a quarter of a million of people are canvassed every day on this or that
+                    side of the great questions that agitate the public mind. We all know the
+                    influence of a personal canvass, that in short it determines the success of an
+                    election. Now, the mind is so constituted as to give greater credence to the
+                    silent, unimpassioned advocacy of a well written article, than to the obsequious
+                    or pompous argument of a man who may say that <hi rend="italic">one word</hi>
+                    too much, which destroys all that has gone before; that overproving so fatal to
+                    conviction. It also avoids those chances of personal antipathies which belong by
+                    nature to all of us. A newspaper has a still more powerful advantage over a
+                    personal advocate, in its facility of reiteration, till the man is convinced by
+                    insensible degrees, and his old prejudices worn away. If a verbal applicant
+                    fails in the first instance, common courtesy precludes a repetition, while a
+                    newspaper returns every morning to the charge, and wearies a man into the
+                    surrender of his opinion. What is true of one, affects all; and thus, by almost
+                    imperceptible proselytism, political questions are carried, frequently by the
+                    very men who had till then followed an adverse creed.</p>
+
+                <p>The press has this great virtue: its tendency is <hi rend="italic">progress</hi>;
+                    its watchword, like Napoleon’s, is ever “forward;” it cannot retrace its steps.
+                    A man, however great his devotion to liberty, may turn traitor; he may outgrow
+                    his youthful and glorious aspirations,<cb/> or possess passions stronger than
+                    truth, avarice, pleasure or fear; but what is true of <hi rend="italic">one</hi>
+                    man being true of <hi rend="italic">all</hi>, does not apply to men except in
+                    questions of progress. There is no modern Joshua to bid the sun of knowledge
+                    stand still; for one single day, even the apparent rest of the giant is merely
+                    to gird his loins for a nobler fight; a pause for a bolder spring. Nature has
+                    implanted in all of us a love of novelty. Hope is the pillar of fire by night,
+                    the cloud by day. However happy we may have been with the flesh-pots of Egypt,
+                    the promised land, with all the uncertainties of the mysterious future, leads us
+                    on. This demand for a greater sphere is most intense in the class now called
+                    upon to govern. Every year we behold younger and fresher men guiding public
+                    affairs. The age of precedents, anti-impulse, selfishness and Machiavellism is
+                    rapidly passing away; the sceptre is taken already from palsy and father
+                    confessors, and grasped by the vigorous hands of men whose beards are <hi rend="italic">not</hi> gray with the cold-blooded iniquities of an official
+                    routine, which has long annihilated every generous feeling. We have an evidence
+                    in the progress of the age of what journalism has done in' the recent reception
+                    of Kossuth in England. We say nothing of his release from captivity, chiefly
+                    through the means of' Lord Palmerston, a man whose “poetical feelings” have long
+                    been destroyed by thirty-five years of political service. This, however, only
+                    makes our case the stronger, for the public voice compelled him to be the
+                    zealous instrument of its will. In saying; this, we do not mean to detract from
+                    the merit justly due to that distinguished statesman, but merely quote it as an
+                    instance of ' popular progress. An additional sign of the times is found in
+                    Gladstone‘s <hi rend="italic">exposé</hi> of Neapolitan villainies; in
+                    Palmerston’s giving his official sanction to the exposure, and. his manly rebuke
+                    to Prince Castelcicala’s jesuitical vindication of his royal master. We do not
+                    think our press has given this spirited letter the credit it deserves. It
+                    strikes us as being the boldest <hi rend="italic">manifesto</hi> ever issued in
+                    Europe, coming, as it does, from the minister of one sovereign to am other with
+                    whom there is no previous quarrel.</p>
+
+                <p>We repeat, all this has been done by the press. The press released Kossuth,
+                    sustained Turkey, and will, in time, abolish every <fw type="footer" place="bottom"><hi rend="smallcaps">VOL. VIII NO.VI NEW SERIES. 35</hi></fw>
+                    <pb xml:id="leaf001v" facs="rut_nhg.00038.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">516</fw>
+                    <fw type="date" place="top right">[December,</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi></fw>
+                    abuse. With this glorious mission before it, how lamentable is it to see the
+                    miserable personal animosities existing among so many of the leading
+                    journalists. Surely the very prominence of their position ought to counsel
+                    forbearance. They should remember they squabble on the <hi rend="italic">house-tops</hi>. These exhibitions are, however, becoming less frequent,
+                    and will, as a matter of course, gradually soon be altogether extinct. It will
+                    be seen that we have merely considered journalism as a political power. This,
+                    although the most prominent, and eventually the most important, as producing the
+                    most massive, visible results, does not so immediately come home to the million
+                    as its function of universal informer and confidential adviser.</p>
+
+                <p>The dweller in the nineteenth century, in a free country, with a free press, has
+                    much to be thankful for&#8212;to be proud of; and much, too, to be ashamed of.
+                    These all imply responsibilities;<cb/> much is required of those to whom much is
+                    given. Every man is the journalist of his own <choice>
+                        <orig>houshold</orig>
+                        <reg>household</reg>
+                    </choice>; there he is bound, as much as any other editor, to take care that
+                    nothing offensive to morals, freedom, religion or taste, finds entrance. We will
+                    not go so far as a celebrated English poet, that every man is a prophet; but we
+                    will adopt his other doctrine, that he has a mission to perform, the complete
+                    fulfilment of which will constitute the perfect happiness of mankind. How
+                    greatly the press of the world can further this “consummation most devoutly to
+                    be wished,” is apparent, and needs no argument on our part. We have the most
+                    unquestionable evidence of the rapid improvement of this Fourth Estate, and
+                    every day increases its utility and power.</p>
+                <p>In our next we shall treat of the Parisian press, now or <hi rend="italic">lately</hi> one of the most <hi rend="italic">immediate</hi> political
+                    agents in the world. </p>
+
+            </div1>
+            <anchor xml:id="d01"/>
+
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+            <div1>
+                <head type="main-derived"><hi rend="smallcaps">THEORIES OF EVIL,</hi></head>
+                <head type="sub"><hi rend="smallcaps">FROM THE POETS
+                        "FESTUS"&#8212;"FAUST"&#8212;"MANFRED"&#8212;"PARADISE LOST"&#8212;BOOK OF
+                        JOB.</hi></head>
+                <p><hi rend="smallcaps">THE</hi> impenetrable mystery involved in the question of
+                    the origin of evil seems in all 'ages to have been a fruitful cause of that
+                    excitation of the imaginative faculty from which has flowed the profoundest
+                    poetical thoughts which, upon the pages of literature, stir the souls of
+                    men.</p>
+
+                <p>“Festus,” the last of the productions of genius having this origin, has been
+                    condemned by an able writer in our pages for its false theology, its evil
+                    tendency, and its want of artistic merit.</p>
+
+                <p>It has, however, merits which cannot be denied. Some of these have suggested the
+                    present paper; and, although we give the work a prominent position for our
+                    present purpose, we will not be considered as allowing it a precedence of, or
+                    equality with, those immortal works with which we bring it into comparison.</p>
+
+                <p>The origin of evil was and is the great difficulty and stumbling-block of all
+                    theologies. We cannot discuss the subject here, and are not qualified (“Open
+                    confession is good for the soul,” says the adage) to discuss<cb/> it anywhere.
+                    But if the origin of evil is a mystery, its continued existence is equally so.
+                    It causes the first step&#8212;which “counts” more than all after&#8212;in the
+                    genuine thought of every lifetime ; it is the initiative of doubt&#8212;the
+                    Shadow on the Threshold of manhood. It is symbolized in every creed and
+                    mythology. Jupiter, Pluto &#8212; Oromaedes, Arimines&#8212;God, Lucifer ; good
+                    and evil were always divinities and demons for humanity. Man finds himself to be
+                    a composite creature. His nature is dual. Conscience and the flesh are in
+                    eternal antagonism, and he has invested the opposing principles with form and
+                    power, and given them supermundane attributes. But, withal, he never ceases to
+                    inquire whence it is that, in a creation of good, he is made half evil ; why the
+                    light has a companion shadow; why he is not able to reach the ideal perfection
+                    which exists in every mind, as a pure statue in a dark niche; why he is <q>
+                        <lg type="linegroup">
+                            <l>“A love in desolation masqued ; a power<lb/> Girt round with
+                                weakness:"</l>
+                        </lg></q> and his inquiries conclude as they com-<pb xml:id="leaf002r" facs="rut_nhg.00039.jpg" type="recto"/>
+                    <fw type="date" place="top left">1851.</fw>
+                    <fw type="pagenum" place="top right">517</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of
+                    Evil.</hi></fw>menced, in doubt and vexation of spirit. Every mind which can
+                    think, thinks over this question. It analyzes until analysis has reached
+                    nothings. It faces the sun until blindness comes, and it is compelled at last to
+                    fall back upon faith, as a certain reserve behind which it can entrench itself.
+                    When it is beaten back and planted in its old position, the necessary ordeal is
+                    passed; it has gone through the furnace, like Abed-nego, and happiness becomes
+                    possible.</p>
+
+                <p>The greatest minds of all time have grappled with this difficulty. They have
+                    always retreated upon humility, and a belief in a Mediator, a Saviour, a
+                    Messiah. All creeds have the Redeemer. Prometheus was the Christ of the Greeks;
+                    and invariably the <choice>
+                        <orig>synonyme</orig>
+                        <reg>synonym</reg>
+                    </choice> of the Redeemer is&#8212;Love. All philosophy leads us to this. Man
+                    must love, or he cannot be redeemed. Man, without love, is lost; the curse is
+                    upon him ; he belongs to Hell, and not Heaven. We find this moral in “Faust,” in
+                    “Paradise Lost,” in “Sartor Resartus,” in “Festus.” We discover that this is the
+                    ultimate conclusion of all great thinkers. Earth is God’s or the Devil’s. Man is
+                    a fiend or an angel; there is the fearful alternative ; and it is consoling to
+                    the rear and main array of mankind, that the <hi rend="italic">avante garde</hi>
+                    has hope, and marches on the road of time with an assured and trusting
+                    spirit.</p>
+
+                <p>But our greatest men have been occupied not only with the existence and origin of
+                    evil, but also with its nature and development. They have always personified it,
+                    and we can read their beliefs in the personifications. The Lucifer of Milton is
+                    not the Lucifer of Göethe. Evil, as personified by Mrs. Browning, is very
+                    different from that of “Festus.” It is, therefore, worth while to glance at
+                    their several creations. It is wholly impossible, though, to give the
+                    characteristics of each in a brief notice, for each would require an exclusive
+                    essay; and we can merely note down our impressions, without proof or
+                    comment.</p>
+
+                <p>The evil of our universe, according to John Milton, is pride. Lucifer is to him
+                    the proudest of the proud. He invests the fallen spirit with fierce strength,
+                    fierce beauty, pride above all mortal pride, and its necessary
+                    consequence&#8212;hate. We shudder while we admire his creation. We have an
+                    involuntary respect for the Defeated One, who retains, amid the tumult and ruin
+                    of retreat,<cb/> the bold will and ready expedients of a great captain. We gaze
+                    upon him as upon a defeated enemy; but there is a terrible fascination even in
+                    his misery. We see him first in the fiery pit, surrounded by his unfortunate
+                    brethren, immediately after the great final battle in which he was
+                    overthrown.</p>
+
+                <p><q who="John Milton" type="extract">
+                        <lg type="linegroup">
+                            <l rend="indented2">Round he throws his baleful eyes,</l>
+                            <l>That witnessed huge affliction and dismay,</l>
+                            <l>Mixed with obdurate pride and <choice>
+                                    <orig>stedfast</orig>
+                                    <reg>steadfast</reg>
+                                </choice> hate;"</l>
+                        </lg></q> and when our minds are filled by the fearful picture, which is
+                    dashed by huge shadows, like one of Martin's engravings, the "dungeon horrible,"
+                    the flames which give no light, "but rather darkness visible," the <q who="Jonh Milton" type="extract"><lg type="linegroup">
+                            <l rend="indented2">"Sights of woe,</l>
+                            <l>Regions of sorrow, doleful shades, where peace</l>
+                            <l>And rest can never dwell;"</l>
+                        </lg></q> the fiery deluge,<q who="John Milton" type="extract"><lg type="linegroup">
+                            <l>Fed</l>
+                            <l>With ever-burning sulphur unconsumed,"</l>
+                        </lg></q> through the ghastly midnight around, we hear that muttered
+                    half-soliloquy which is intended for the ear of Beëlzebub, but which will
+                    outlast all time. Satan compares his present with his past. He indulges in a
+                    brief reminiscence of Heaven, but soon turns to the affairs of the moment, and
+                    endeavors to revive the sinking energies of his followers. He knows not
+                    repentance&#8212;he will not condescend to lamentation. He leaves tears, vain
+                    regrets, and useless gnashing of teeth, to inferior natures, and for him <q who="John Milton" type="extract"><lg type="linegroup">
+                            <l>All is not lost; th' unconquerable will</l>
+                            <l>And study of revenge, immortal hate,</l>
+                            <l>And courage never to submit or yield,</l>
+                            <l>And what is else, not to be overcome."</l>
+                        </lg></q></p>
+
+                <p>He does not supplicate or threaten. He has no weakness. His pride is Titanic as
+                    his form, which lies floating many a mod upon the burning lake. Though “racked
+                    by deep despair,” he shuts his hopelessness in his heart, and rises to renew the
+                    battle. His future is pain; but he resolves that it shall be defiant pain. He
+                    can endure an eternity of torment better than a moment of submission. He can
+                    retain his predominance over his lost compeers only by a superiority in
+                    endurance; and in lofty words of scorn and strength he rouses the seared hearts
+                    around him, and endeavors to make them partakers of his desperate pride. They
+                    start into re-<pb xml:id="leaf002v" facs="rut_nhg.00040.jpg" type="verso"/>
+                    <note type="authorial" place="top" resp="#h3" target="#u001">Skepticism&#8212;Goethe</note>
+                    <fw type="pageNum" place="top left">518</fw>
+                    <fw type="date" place="top right">December,</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi></fw>newed
+                    existence when he apostrophizes midnight of their fate: <q who="John Milton" type="extract">
+                        <lg type="linegroup">
+                            <l>“ Hail, horrors ; hail,</l>
+                            <l>Infernal world ; and thou, profoundest Hell,</l>
+                            <l>Receive thy new possessor; one who brings</l>
+                            <l>A mind not to be changed by place or time.</l>
+                            <l>he mind is its own palace, and in itself</l>
+                            <l>Can make a Heaven of Hell, a Hell of Heaven.</l>
+                            <l>What matter where, if I be still the same,</l>
+                            <l>And what I should be&#8212;all but less than He</l>
+                            <l>Whom thunder hath made greater? Here, at least,</l>
+                            <l>We shall be free; th‘ Almighty hath not built</l>
+                            <l>Here for His envy&#8212;will not drive us hence:</l>
+                            <l>Here we may reign secure; and in my choice, To reign is worth
+                                ambition, even in Hell:</l>
+                            <l>Better to reign in Hell than serve in Heaven.”</l>
+                        </lg></q></p>
+
+                <p>This is the ultimatum of Pride. We find the same motive principle in the
+                    subsequent history of Satan. That which is his own strength he makes the
+                    weakness of man ; he tempts through pride, and our great progenitor falls. It is
+                    evident, then, that Milton believed pride to be the root of all evil; and the
+                    moral of his grand epic is plain, viz., that as we lost Heaven by pride, we can
+                    regain it only by humility. Such is the purpose of his immortal labor.</p>
+
+                <p>Very differently from him does Göethe reason on the nature of evil. The poet
+                    is influenced by the spirit of his time, and fashions his faith by the thoughts
+                    of the day. <hi rend="underline" hand="#h3">The great Teuton lived in an age of
+                        organized skepticism, when faith was banished from the souls of men</hi>.
+                    The Encyclopædists had commenced the revolution, and issued their
+                    declaration of rights. <hi rend="underline" hand="#h3" xml:id="u001">France was
+                        skeptical,</hi> and France was then the pioneer of Europe. The spirit of
+                    Voltaire was the spirit of his time, and the poet was resolved to grapple with
+                    its creed, and throw it. Faust, therefore, represents the intellect of civilized
+                    man, beset and haunted by skepticism or evil, which is called Mephistopheles.
+                    The poem, which has often been condemned as irreligious by ignorant canters, is
+                    either the most fearful sarcasm on all human creeds, or it is the grandest
+                    argument for faith and against the skepticism of the last century ever known to
+                    the world. To us, it means the latter. We know not whether our opinion is shared
+                    by the critics generally, and, sooth to say, we care not; but we can spell out
+                    of the Mephistopheles of Goethe nothing but the belief that infidelity is the
+                    real evil of the world. What is Mephistopheles but a Voltaire supernaturally
+                    gifted with power? Is he not an accomplished skeptic? And what <cb/>a
+                    theologian! Of a verity, this Devil can talk Scripture. His daring is equal to
+                    his bitterness. We see him first at the threshold of Heaven, parleying with the
+                    Divinity; nay, sneering at the Heaven which he had lost for ever. And did not
+                    the genius of France actually climb the skies, and enter with uncovered head
+                    into the presence of the One? And, on its lip, was there not a smile of sarcasm,
+                    and a blasphemy in its heart? Faust opens with a grand chant, like the music of
+                    the spheres, in which the angels and archangels take part. The rhythm is
+                    suddenly jarred by the voice of Mephistopheles, who addresses the Lord :&#8212;
+                        <span rend="bracket-left" hand="#h3" xml:id="s001" from="#s001" to="#s002"/>
+                    <q who="Johann Wolfgang von Goethe" type="extract">
+                        <lg type="linegroup">
+                            <l>"As thou, O Lord! once more art kind enough</l>
+                            <l>To interest thyself in our affairs,</l>
+                            <l>And ask, How goes it with you there below?</l>
+                            <l>And as indulgently at other times</l>
+                            <l>Thou tookest not my visits in ill part,</l>
+                            <l>Thou seest me here once more among thy house- <lb/>hold,</l>
+                            <l>Though I should scandalize this company.</l>
+                            <l>You will excuse me if I do not talk</l>
+                            <l>In the high style which we call fashionable;</l>
+                            <l>My pathos would certainly make you laugh, too,</l>
+                            <l>Had you not long since given over laughing.</l>
+                            <l>Nothing know I to say of suns and worlds;</l>
+                            <l>I observe only how men plague themselves.</l>
+                            <l>The little god o' th' world keeps the same stamp</l>
+                            <l>As wonderful as on creation's day.</l>
+                            <l>A little better would he live, hadst thou</l>
+                            <l>Not given him a glimpse of Heaven's light,</l>
+                            <l>Which he calls reason, and employs it only</l>
+                            <l>To live more beastily than any beast</l>
+                            <l>With reverence to your Lordship be it spoken,</l>
+                            <l>He's like one of those long-legged grasshoppers,</l>
+                            <l>Who flits and jumps about, and sings for ever</l>
+                            <l>The same old song 1' th' grass. There let him lie,</l>
+                            <l>Burying his nose in every heap of dung."</l>
+                        </lg><ref target="#n001" xml:id="ref1">*</ref><anchor xml:id="s002"/></q></p>
+
+                <p>A truly flippant and impertinent Devil this; one to tremble before aud hate. The
+                    Satan of Milton is a saint compared to him. If Burns had read the sayings and
+                    doings of Mephistopheles, he would never have said, in his "Address to the
+                    Deil"&#8212; <q who="Robert Burns" type="extract">
+                        <lg type="linegroup">
+                            <l>"Old Nickie ben,</l>
+                            <l rend="indented2">Ye still may ha'e a chance;"</l>
+                        </lg></q> for Mephistopheles is damned to the lowest <note xml:id="n001" target="#ref1" type="authorial" place="bottom" anchored="true" resp="#h1">* We quote from Shelley's translation of the first scene
+                            of " Faust" Pity that he did not finish the work I He was the man of his
+                            day best qualified for the task. There have been many <hi rend="italic">attempts</hi> at translation of the great drama. Hayward'e,
+                            Blackie's, Sir Egerton Brydges', for instance; there is only <hi rend="italic">one</hi>, however, which deserves the name&#8212; the
+                            translation by John Anster, L.L.D., published some twenty years ago,
+                            which, if not literal, is at all events poetical, an assertion which
+                            cannot be made of any other version we are acquainted
+                            with.</note> <note type="authorial" place="bottom" resp="#h3" target="#s001">If Goethe wrote this, (if this be a
+                        good translation) -that's all I want to know about him &#8212; I see his
+                        blame.&#8212; Sept. 56.</note>
+                    <pb xml:id="leaf003r" facs="rut_nhg.00041.jpg" type="recto"/>
+                    <fw type="date" place="top left">1851.</fw>
+                    <fw type="pagenum" place="top right">519</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi></fw> pit,
+                    because he is a sneerer. Milton's Devil is too proud to be flippant. Napoleon
+                    rarely indulged in mere verbiage, like Voltaire. <hi rend="underline" hand="#h3">Great ambition, which cannot exist without great pride, is always
+                        self-concentrated, collected, above mere smartness; terrible in its
+                        silence.</hi> But Göethe has represented evil by making its
+                    personification an Encyclopædist.</p>
+
+                <p>Byron too has grappled with the nature of evil. A Lucifer, in his hands, means
+                    intellect. His Devil is not the demon of pride, like Milton's, nor the demon of
+                    skepticism, like Göethe's; but, if we may be permitted the phrase, the
+                    demon of metaphysical analysis. He is a logician, a reasoner, a bold theorizer.
+                    He represents pure reason, unsupported by faith. We do not assert that the poet
+                    intended that it should be so; but as Cain, in the drama, personifies a
+                    metaphysical and analytic intellect, Lucifer very evidently is its attendant
+                    shadow, which we may call daring Doubt. Byron does not make the primal murderer
+                    a commonplace villain; he is none of his capricious Corsairs or lack-a-daisical
+                    Laras; but a strong, gloomy man, of the John Forster school, pursued by his own
+                    thoughts to destruction, like Actaeon by his hounds. Evil, according to Byron's
+                    creed, is not in the universe, but in ourselves. It follows us as closely and
+                    naturally as our shadow. It is not mean pride or mockery; it means an
+                    impossibility of faith. And what Hell so fitting a residence for a fallen,
+                    seared spirit, as a mind which sees a skeleton beneath every form&#8212;which
+                    says, with Tennyson's "lean and gay-toothed man," <q who="Alfred Tennyson" type="extract"><lg type="linegroup">
+                            <l>"Every face, however full,</l>
+                            <l>Padded round with flesh and fat,</l>
+                            <l>Is but modelled on a skull?"</l>
+                        </lg></q> This is the worst Hell of all. Though we cannot assert, with
+                    Pierre Leroux and his brother <hi rend="italic">philosophers</hi>, that Hell and
+                    Heaven exist only in the human heart&#8212;for we leave such questions to the
+                    constituted authorities &#8212;we may be allowed to remark, that a mind
+                    self-tortured by religious doubts is the type of the utterest misery known to
+                    us. Poe has given us involuntarily a terrible picture of such a mind in one of
+                    his tales&#8212;"The Premature Burial"&#8212;which will confirm our assertion
+                    :&#8212; "My fancy grew charnal. I talked of worms, of tombs, of epitaphs. I was
+                    lost in reveries of death, and the idea of premature burial held continual
+                    possession of my brain. The ghastly danger to which <cb/> I was subjected
+                    haunted me day and night. In the former, the torture of meditation was
+                    excessive; in the latter, supreme. When the grim darkness overspread the earth,
+                    then, with the very horror of thought, I shook&#8212;shook as the quivering
+                    plumes upon the hearse. When nature could endure wakefulness no longer, it was
+                    with a struggle that I consented to sleep; for I shuddered to reflect that, upon
+                    awaking, I might find myself the tenant of a grave. And when, finally, I sank
+                    into slumber, it was only to rush at once into the world of phantasms, above
+                    which, with vast, sable, overshadowing wings, hovered predominant the one
+                    sepulchral idea." <ref target="#n002" xml:id="ref2">*</ref> This is an accurate
+                    picture of a strong intellect, harassed by doubt.</p>
+
+                <p>Mrs. Browning is the author of a noble poem, called "The Drama of Exile." While
+                    writing it, the lady sat beneath the shadow of Milton's soul. She is, all
+                    through the poem, like her own Corneille, "an orator of rhyme." The subject is
+                    the exile of our first parents from Eden. The story commences where Paradise
+                    Lost terminated&#8212; with the banishment. The latter concludes, like a sad and
+                    lofty dirge, when the afflicted two disappear through the cherubim-guarded gate,
+                        <q who="Elizabeth Barrett Browning" type="extract"><l>"With solemn steps and
+                            slow."</l></q>" And the poetess continues the strain, as if a mourner
+                    with a softer voice caught up the dying note, and prolonged it. Of course, Evil
+                    or Lucifer plays a part in the drama. But he is sadly altered since we saw him
+                    last, holding high court in Pandemonium, surrounded by his grim and ghastly
+                    brethren. He has become quite human; a polished and insidious gentleman; in
+                    fact, quite a lady's ideal of a Devil. He is very eloquent, and bad
+                    enough&#8212;a supernatural Danton. He is more of a rhetorician than Satan, and
+                    less of a demon than Mephistopheles. Occasionally, even through his modern
+                    phrases and arguments, we recognize the proud spirit which <q who="Elizabeth Barrett Browning" type="extract"><l>"Clashed on the sounding
+                            shield the din of war"</l></q> against the Highest. He is a composite
+                    demon; and his eighteenth century sarcasm cannot altogether conceal the old
+                    audacity and pride. For has Milton ever coined <note xml:id="n002" target="#ref2" type="authorial" place="bottom" anchored="true" resp="#h1">*<hi rend="italic">Vide</hi> Collected Edition of the Works of Edgar Allan
+                        Poe, published by Redfield, vol. 1, p.333.</note>
+                    <pb xml:id="leaf003v" facs="rut_nhg.00042.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">520</fw>
+                    <fw type="date" place="top right">December,</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi></fw> more
+                    ringing sentences than the following? <q who="John Milton" type="extract">
+                        <lg type="linegroup">
+
+                            <l>Here's a brave earth to sin and suffer on!</l>
+                            <l>It holds fast still&#8212;it cracks not under curse;</l>
+                            <l>It holds, like mine, immortal. Presently</l>
+                            <l>We'll sow it thick enough with graves as green,</l>
+                            <l>Or greener, certes, than its knowledge-tree I</l>
+                            <l>We'll have the cypress for the tree of life,</l>
+                            <l>More eminent for shadow;&#8212;for the rest,</l>
+                            <l>We'll build it dark with towns and pyramids,</l>
+                            <l>And temples, if it please you. We'll have feasts</l>
+                            <l>And funerals also&#8212;merry-makes and wars,</l>
+                            <l>Till blood and wine shall mix and run along,</l>
+                            <l> Right on the edges! And, good Gabriel,&#8212;</l>
+                            <l>(Ye like that word in Heaven!)&#8212; <hi rend="italic">I</hi> too
+                                have <lb/>strength&#8212;</l>
+                            <l>Strength to behold Him, and not worship Him;</l>
+                            <l>Strength to fall from Him, and not cry on Him;</l>
+                            <l>Strength to be in the universe; and yet</l>
+                            <l>Neither God, nor his servant The red sign,</l>
+                            <l>Burnt on my forehead, which you taunt me with,</l>
+                            <l>Is God's sign that it bows not unto God;</l>
+                            <l>The potter's mark upon his work, to show</l>
+                            <l>It rings well to the striker. I and the earth</l>
+                            <l>Can bear more curse.</l>
+
+                            <l>"<hi rend="smallcaps">GABRIEL</hi>. O miserable earth!</l>
+                            <l>O ruined angel!</l>
+
+                            <l>"<hi rend="smallcaps">LUCIFER</hi>. Well! and if it be,</l>
+                            <l>I <hi rend="smallcaps">CHOSE</hi> this ruin,&#8212;I elected it</l>
+                            <l>Of my will, not of my service. What I do,</l>
+                            <l>I do volitient, not obedient,</l>
+                            <l>And overtop thy crown with my despair.</l>
+                            <l> My sorrow crowns me. Get thee back to<lb/>Heaven,</l>
+                            <l>And leave me to the earth, which is mine own,</l>
+                            <l>In virtue of her misery,&#8212;as I hers,</l>
+                            <l>In virtue of my ruin! Turn from both</l>
+                            <l>That bright, impassive, passive angelhood,</l>
+                            <l>And spare to read us backward any more</l>
+                            <l>Of your spent hallelujahs!"</l>
+                        </lg></q> 
+                    
+                    So spake the arch-fiend. The words are worthy of him&#8212;proud,
+                    bold, defiant, "sad as fate and salt of life."</p>
+                <p>And now we come to the Lucifer of Festus&#8212;a strange creation, powerful,
+                    original, unique. The author believes that Evil is a phantasm, not a reality; or
+                    we may say with more accuracy, he believes that, if it does exist, it is but the
+                    mask which conceals the features of Good. He regards it as a necessary shadow of
+                    the highest throne, darkening the world momentarily, but not disfiguring it. It
+                    is a necessity, like the mountains or the atmosphere; it is the complement of
+                    Good. As salt must have a sweet&#8212;as sun implies shade, or night
+                    day&#8212;Good, in his opinion, necessitates that shadow which is called Evil.
+                    We do not commit ourselves to the views and speculations of our author, because
+                    we endeavor to analyze them, and<cb/> come at their real meaning. The present
+                    writer might be permitted to quote, without being accused of presumption, a few
+                    lines from an unpublished poem, in which he has thrown his weak arms round this
+                    subject, and striven to clasp it. If they have no other effect, they will show,
+                    at all events, that he is able to appreciate the genius of a poet, without being
+                    committed to his creed. Dealing with this very question of Evil, he says: <q who="Phillip James Bailey" type="extract">
+                        <lg type="linegroup">
+                            <l rend="indented3">"The good preponderates; </l>
+                            <l>For good and God are synonyms. Strong Faith, </l>
+                            <l>Which breaks the shell of life, and spreads its <lb/>wings</l>
+                            <l>In the broad sunshine of Jehovah's throne,&#8212;</l>
+                            <l>Which walks with up-turned face, and even bears</l>
+                            <l>A halo round its head,&#8212;the reflex of the light</l>
+                            <l>Which glances from the features of the One;&#8212;</l>
+                            <l>And Love, that knits two separate hearts together,</l>
+                            <l>Until they branch and grow like twining trees,</l>
+                            <l>Fed by one sunshine, nourished by one moisture,</l>
+                            <l>Of different kindred, and yet twins in life;</l>
+                            <l>And Hope, that holds the sufferer's head above</l>
+                            <l>The rising waves, and points unto the shore.</l>
+                            <l>Whispering of home, until he strikes forth boldly;</l>
+                            <l>And Knowledge, which is master of the elements,</l>
+                            <l>Calling the lightning of God's truth to earth.</l>
+                            <l>As with a Franklin wand,&#8212;all, all are good!</l>
+                            <l>'The universe is but a thought of God,'<ref target="#n003" xml:id="ref3">*</ref></l>
+                            <l>And God can think no evil!"</l>
+                        </lg></q> Bailey holds different opinions, and would be likely to indulge in
+                    a hearty laugh at the weak optimism, and, mayhap, rhetorical gammon, which is
+                    our best attempt at poetical composition; (we speak on the principle that a
+                    modest word turns away wrath;) and we cannot do better than allow him to explain
+                    his own views in his own words. After the popularity of Festus had become a
+                    fixed fact, many severe attacks on its theological opinions appeared in the
+                    leading journals of England, which necessitated a reply. Accordingly, in the
+                    second edition of the work, a proem was published, which was intended to be, at
+                    the same time, an explanation and a vindication. Many persons consider that this
+                    proem is the most objectionable portion of the volume; that the work has been
+                    injured, not improved, by it; in a word, that "explanation has spoiled it." Be
+                    this true or not, the proem is somewhat more than an explanatory preface; it is
+                    a recapitulation in brief of the leading thoughts of the writer</p>
+                <note xml:id="n003" target="#ref3" type="authorial" place="bottom" anchored="true" resp="#h1">*
+                    This noble line is a literal translation form the prose of Schiller. The
+                    original may be found in a juvenile work of his, called (we quote form memory)
+                    "The Letters of Raphael."</note>
+                <pb xml:id="leaf004r" facs="rut_nhg.00043.jpg" type="recto"/>
+                <note type="authorial" place="top" resp="#h3" target="#u002">"Lies are the masks of
+                    truths."</note>
+                <fw type="date" place="top left">1851.</fw>
+                <fw type="pagenum" place="top right">523</fw>
+                <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi>
+                </fw>
+                <p>We tremble when we see him cast into the dreary prison of the "Everlasting No,"
+                    when faith has fled from his soul, like the maiden from his side, and all the
+                    world is a horrible blank, on which the name of God is written nowhere, and even
+                    the serenity of nature is a torture and a curse. And we rejoice, even to tears,
+                    when the happy change comes; when a ray of human affection lights his eye once
+                    more, as he gazes on man his brother, and the lost soul is recalled and pointed
+                    again to the skies, made perfect by suffering, and redeemed by love. 'Tis the
+                    old, true story. There is a great similarity in the history of intelligent
+                    nations, and greater in the life-process of thinking men. Festus and Sartor are
+                    of one race. Their blood is the same; they are both poets; they have both
+                    reached the height of manhood; <q who="Phillip James Bailey" type="extract"><lg type="linegroup">
+                            <l>The degree</l>
+                            <l>They took was high; it was wise wretchedness;"</l>
+                        </lg></q> "The degree They took was high; it was wise wretchedness;" they
+                    are both thunder-scarred; and even after their redemption, bear marks of the
+                    fire upon them.</p>
+                <p>In the first scene of Bailey's drama, Lucifer asks the permission of God to tempt
+                    Festus, as does Mephistopheles in "Faust." We learn from this that the
+                    sufferings of the man are permitted and preordained: but we also hear God's
+                    words, "He is chosen," and know the moral&#8212;that evil only works out the primal
+                    design of the universe, and works unto good. This thought was almost expressed
+                    by John Sterling, when he said, <hi rend="underline" hand="#h3" xml:id="u002">"Lies are the masks of truths."</hi>
+                    <note type="authorial" place="right" resp="#h3" target="u002">☜</note>
+                    Under the appearance, evil is the substantial good, and the existence of the one
+                    is as necessary to that of the other as bone to flesh. It was indispensable,
+                    however, to the elucidation of this idea, that the temptation of the man should
+                    be consented to by the Divinity; on which account we have Evil, or Lucifer,
+                    demanding the Divine permission to tempt him. Lucifer can no more avoid tempting
+                    Festus, than the latter can escape being tempted. The demon is a part of the
+                    machine, and as necessary to its continuance as the man; like an unsightly crank
+                    in the steam-engine, the blotch is indispensable to the beauty. It fulfils its
+                    mission. It mars the appearance to the casual eye; but, in reality, it secures
+                    the stability and symmetry of the whole. So we understand Bailey's theory; and
+                    again we must remark, that we are endeavoring only to analyze it, not to
+                    <cb/>justify it, or convince ourselves or our readers of its truth. The dramatic
+                    artifice of introducing the personification of Evil into the presence of the
+                    Divinity, in order to account for the temptation of the man, is as old as the
+                    Book of Job. Goethe and Bailey have both copied that; and, in doing so, they
+                    have selected a glorious model. Job was a good man, who lived in the fear of the
+                    Lord, and daily testified to His greatness, by sacrifices and prayers. And
+                    Jehovah smiled kindly on him, and "blessed the work of his hands." But, as no
+                    man can enjoy his Heaven upon earth, he is compelled to endure anguish and sore
+                    suffering, for <q who="Phillip James Bailey" type="extract"><lg type="linegroup">
+                            <l>"On a certain day, when the Bods of God came to stand before the
+                                Lord, Satan also was present among them.</l>
+                            <l>"And the Lord said to him, Whence comest thou I And he answered and
+                                said, I have gone round about the earth, and walked through it.</l>
+                            <l>"And the Lord said to him, Hast thou considered my servant Job, that
+                                there is none like him in the earth, a simple and upright man, one
+                                that feareth God, and avoideth evil?</l>
+                            <l>"And Satan, answering, said, Doth Job fear God in vain?</l>
+                            <l>"Hast thou not made a fence for him and his house and all his
+                                substance, and blessed the work of his hands, and his possession
+                                hath increased on the earth?</l>
+                            <l>"But stretch forth thy hand a little, and touch all that he hath, and
+                                see if he blesseth thee to thy face.</l>
+                            <l>"Then the Lord said to Satan, Behold ! all that he hath is in thy
+                                hands; only put not forth thy baud upon his person. And Satan went
+                                forth from the presence of the Lord."</l>
+                        </lg></q></p>
+                <p>Here, too, temptation is permitted; evil is a necessity. The prosperous man is
+                    tested by suffering, and redeemed by love. Many writers assert that the grand
+                    poem, called the Book of Job, was written as an argument for universal
+                    salvation; but, be this as it may, Bailey has borrowed his plan from it, and
+                    told the old story in modern verse. Festus yields to temptation; becomes the
+                    slave of the senses; loves, and sins; wanders over the earth without a purpose
+                    or aim, blindly groping for light, "as the Cyclops in his cave;" drinks deep of
+                    pleasure, which is the herald of death; and finally returns, in humility and
+                    love, to the Author and Origin of all Good. But there is one characteristic of
+                    Bailey's Lucifer which we should not forget to mention&#8212;a characteristic
+                    not belonging to any other creation of the kind. He is a sorrowful devil; he
+                    laments, and almost repents; he indulges in supernatura <fw type="footer" place="bottom right">1</fw>
+                    <pb xml:id="leaf004v" facs="rut_nhg.00044.jpg" type="verso"/>
+                    <note type="authorial" place="top" resp="#h3">X</note>
+                    <fw type="pageNum" place="top left">524</fw>
+                    <fw type="date" place="top right">December,</fw>
+                    <fw type="header" place="top"><hi rend="italic">Theories of Evil.</hi></fw>
+                    sorrow, like unto no other sorrow, and knows not how to shut his misery in his
+                    heart. He speaks like a being who foresees a worse fate even than an eternity of
+                    misery; as one who expects an eternity of annihilation. He appears to feel that,
+                    some day or other, his existence will cease to be necessary to the existence of
+                    the world-machine, and shudders as he faces nonentity. Better to be in torture
+                    than not to be at all. He can endure any thing but death. And from those
+                    complaints and shudderings we conclude that Bailey wished to teach the utter
+                    destruction of the evil principle finally, and the return of all created things
+                    to Good, or God. Indeed, when we reach the conclusion of the book, we are
+                    scarcely astonished to find mercy meted out even to Lucifer; to find him not
+                    only destroyed as an evil principle, but restored to Heaven and happiness. We
+                    close our imperfect analysis with the final words of God: <q who="Phillip James Bailey" type="extract"><lg type="linegroup">
+                            <l>"Rise, spirit! all created things unmade;</l>
+                            <l>It suits not the eternal laws of good</l>
+                            <l>That evil be immortal. In all space</l>
+                            <l>Is joy and glory; and the gladdened stars,</l>
+                            <l>Exultant in the sacrifice of sin,</l>
+                            <l>And of all human matter in themselves,</l>
+                            <l>Leap forth as though to welcome earth to heaven&#8212;</l>
+                            <l>Leap forth and die. All nature disappears;</l>
+                            <l> Shadows are passed away. Through all is light.</l>
+                            <l>Man is as high above temptation now,</l>
+                            <l>And where by grace he always shall remain,</l>
+                            <l>As ever sun o'er sea; and sin is burned</l>
+                            <l>In hell to ashes, with the dust of death.</l>
+                            <l>The worlds themselves are but as dreams within</l>
+                            <l>Their souls who lived in them; and thou art null,</l>
+                            <l>And thy vocation useless, gone with them.</l>
+                            <l>Therefore shall Heaven rejoice in thee again,</l>
+                            <l>And the lost tribes of angels, who with thee</l>
+                            <l>Wedded themselves to woe; and all who dwell</l>
+                            <l>Around the dizzy centres of all worlds</l>
+                            <l>Again be blessed with the blessedest.</l>
+                            <l>So, ye are all restored, rebought&#8212;rebrought</l>
+                            <l>To Heaven, by Him who cast ye forth, your God.</l>
+                            <l>Receive ye tenfold of all gifts and powers.</l>
+                            <cb/>
+                            <l>And thou who cam'st to heaven to claim one soul,</l>
+                            <l>Remain possesssd by all. The sons of bliss</l>
+                            <l>Shall welcome thee again, and all thy hosts&#8212;</l>
+                            <l>Whereof thou first in glory as in woe&#8212;</l>
+                            <l>In brightness as in darkness erst shall shine.</l>
+                            <l>Take, Lucifer, thy place. This day art thou</l>
+                            <l>Redeemed to archangelic state. Bright child</l>
+                            <l>Of morning, once again thou shinest fair</l>
+                            <l>O'er all the starry ornaments of light."</l>
+                        </lg></q> So mote it be.</p>
+
+                <p>Of the style of "Festus" we will not trust ourselves to speak. Great thoughts
+                    look forth from every line, like calm, deep eyes. Every page is starred by them.
+                    The writer "spake inspired." A late essayist, in a feeble and diffuse paper on
+                    the subject, said one truth&#8212;"Bailey hath a demon."<ref target="#n004" xml:id="ref4">*</ref> He speaks like one possessed. He was only twenty-three
+                    when he published "Festus," and it will stand as a grand monument of inspired
+                    youth. Here let us pause. We have seen that all men are agreed as to the
+                    existence of evil, but at variance as to its nature and origin. Each personality
+                    fashions it according to its own views. But it is universal, and, in the opinion
+                    of most men, immortal. The existence of conscience implies the existence of
+                    evil, against which it battles. Furthermore, conscience is not only an inspirer
+                    of our good, actions, but an historian of our crimes. In the morning, the
+                    noonday, and the night, it teaches us that evil is not only a terrible
+                    existence, but that it coexists with us, is with us, now and for ever, in <hi rend="italic">secula
+                        seculorum</hi>.</p>
+
+                <p>What shall we say? Nothing. But let us think that we are the subjects of a
+                    mystery, and obey. J.B. </p>
+                <note xml:id="n004" target="#ref4" type="authorial" place="bottom" anchored="true" resp="#h1">*
+                    Gilfillan, in his "Literature and Literary Men." By the way, is not the
+                    popularity of this declamatory, bombastic writer amongst us a clear proof of a
+                    highly vitiated literary taste?</note>
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+            </div1>
+
+            
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="mid.00008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"What is Poetry"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mid.00008</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Leigh Hunt</author>
+                    <title>What is Poetry</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1847-12-06">December 6, 1847</date>
+                    <orgName>Middlebury College</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="pasteon" xml:id="ref1">
+                    <author>Francis William Newman</author>
+                    <title>The Iliad of Homer, Faithfully Translated into Unrhymed English
+                        Metre</title>
+                    <date when="1856">1856</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="dark-pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-20">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <div1>
+                <pb xml:id="leaf001r" facs="mid.00008.001" type="recto"/>
+                <note xml:id="n001" place="top right"><handShift new="#h1"/>a good essay.</note>
+                <fw type="header" place="top"><hi rend="smallcaps">WHAT IS POETRY?</hi></fw>
+                <fw type="pageNum" place="top right">601</fw>
+                <milestone unit="undeclared" rend="hobar-full"/>
+
+                <div2>
+                    <delSpan rend="hashmark" spanTo="#d001"/>
+                    <lg type="poem">
+                        <l>To secure yourselves from these</l>
+                        <l>Be not too secure in ease;</l>
+                        <l>Let one eye his watches keep</l>
+                        <l>While the other eye doth sleep;</l>
+                        <l>So you shall good shepherds prove,</l>
+                        <l>And for ever hold the love</l>
+                        <l>Of our great God. Sweetest slumbers,</l>
+                        <l>And soft silence, fall in numbers</l>
+                        <l>On your eyelids! So, farewell!</l>
+                        <l>Thus I end my evening's knell.</l>
+                    </lg>
+                    <p><hi rend="smallcaps">FLETCHER.</hi></p>
+                    <anchor xml:id="d001"/>
+                </div2>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">89.&#8212;WHAT IS
+                        POETRY?</hi></head>
+                    <note type="authorial" resp="#h1" place="right">Leigh Hunt born in 1784 is he
+                        now living? aged 72 <milestone unit="undeclared" rend="horbar-short-right"/></note>
+                    <note type="authorial" resp="#h1" place="right">Yes, (July '59) he lives old and
+                        in fair condition in London&#8212;aged 73</note>
+                    <note type="authorial" resp="#h1" place="right">Died Aug. '59 aged 75</note>
+                    <p><hi rend="smallcaps">LEIGH HUNT</hi></p>
+                    <p>[We could not close this first Volume of "Half-Hours with the Best Authors"
+                        at all satisfactorily, if we did not give an extract from the writings of
+                        one of the most original and fascinating of English prose writers&#8212;one,
+                        also, who has won an enduring station amongst English poets. Leigh Hunt, the
+                        son of a West Indian who came to England and took orders in the Church, was
+                        horn in 1784. He was educated at Christ's Hospital. As early as 1805 he was
+                        a writer of theatrical criticism in his brother's paper,"The News;"&#8212;in
+                        1808 the brothers established "the Examiner"&#8212;a weekly paper which
+                        surpassed all its then contemporaries in ability and taste. In those days it
+                        was almost impossible for a public writer to speak out; and Leigh Hunt had
+                        to expiate a sarcasm upon the Prince Regent by two years' imprisonment. Mr.
+                        Hunt's subsequent connection with Lord Byron was not a fortunate one; and we
+                        are inclined to think that in future literary history most honest sympathies
+                        will be with the plebeian asserting his independence as a brother in
+                        letters, instead of with the patrician,&#8212;heartless and
+                        insolent,&#8212;a declaimer for liberty but in practice a tyrant. Mr. Hunt,
+                        who has' borne much adversity with a cheerfulness beyond all praise, writes
+                        as freshly and brilliantly as ever. Long may those unfailing spirits which
+                        are the delight of his social and family circle be the sunshine of his old
+                        age. The following extract is from a delightful volume, published in 1847,
+                        entitled, 'Selections from the English Poets&#8212;Imagination and
+                        Fancy."]</p>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <p><hi rend="smallcaps">IF</hi> a young reader should ask, after all, What is
+                        the best way of knowing bad poets from good, the best poets from the next<pb xml:id="leaf001v" facs="mid.00008.002" type="verso"/><fw type="header" place="top"><hi rend="smallcaps">HALF-HOURS WITH THE BEST
+                            AUTHORS.</hi></fw>
+                        <fw type="pageNum" place="top left">602</fw>
+                        <milestone unit="undeclared" rend="horbar-full"/>best, and so on? the answer
+                        is, the only and twofold way; first, the perusal of the best poets with the
+                        greatest attention; and second, the cultivation of that love of truth and
+                        beauty which made them what they are. Every true reader of poetry partakes a
+                        more than ordinary portion of the poetic nature; and no one can be
+                        completely such, who does not love, or take an interest in every thing that
+                        interests the poet, from the firmament to the daisy&#8212;from the highest
+                        heart of man, to the most pitiable of the low. It is a good practice to read
+                        with pen in hand, marking what is liked or doubted. It rivets the attention,
+                        realizes the greatest amount of enjoyment, and facilitates reference. It
+                        enables the reader also, from time to time, to see what progress he makes
+                        with his own mind, and how it grows up to the stature of its exalter.</p>
+                    <p>If the same person should ask, What class of poetry is the highest? I should
+                        say, undoubtedly, the Epic; for it includes the drama, with narration
+                        besides; or the speaking and action of the characters, with the speaking of
+                        the poet himself, whose utmost address is taxed to relate all well for so
+                        long a time, particularly in the passages least sustained by enthusiasm.
+                        Whether this class has included the greatest poet, is another question still
+                        under trial; for <choice>
+                            <orig>Shakspeare</orig>
+                            <reg>Shakespeare</reg>
+                        </choice> perplexes all such verdicts, even when the claimant is Homer;
+                        though if a judgment may be drawn from his early narratives ("Venus and
+                        Adonis," and the "Rape of Lucrece"), it is to be doubted whether even <choice>
+                            <orig>Shakspeare</orig>
+                            <reg>Shakespeare</reg>
+                        </choice> could have told a story like Homer, owing to <note type="authorial" resp="#h1" place="left" target="#b001">☞
+                            </note><span rend="bracket-left" hand="#h1" xml:id="b001" from="#b001" to="#b002"/><hi rend="underline" hand="#h1">that incessant activity and
+                            superfcetation of thought, a little less of which might be occasionally
+                            desired even in his plays</hi><anchor xml:id="b002"/>;&#8212;if it were
+                        possible, once possessing anything of his, to wish it away. Next to Homer
+                        and <choice>
+                            <orig>Shakspeare</orig>
+                            <reg>Shakespeare</reg>
+                        </choice> come such narrators as the less universal but intenser <hi rend="italic">Dante</hi>; Milton, with his dignified imagination; the
+                        universal profoundly simple Chaucer; and luxuriant remote
+                        Spenser&#8212;immortal child in poetry's most poetic solitudes: then the
+                        great second-rate dramatists; unless those who are better acquainted with
+                        Greek tragedy than I am, demand a place for them before Chaucer: then the
+                        airy yet robust universality of Ariosto; the hearty out-of-door nature of
+                        Theocritus, also a universalist; the finest lyrical poets (who only take
+                        short nights, compared with the narrators); the <pb xml:id="leaf002r" facs="mid.00008.003" type="recto"/>
+                        <fw type="header" place="top"><hi rend="smallcaps">WHAT IS POETRY?</hi></fw>
+                        <fw type="pageNum" place="top right">603</fw>
+                        <milestone unit="undeclared" rend="hobar-full"/> purely contemplative poets
+                        who have more thought than feeling; the descriptive, satirical, didactic,
+                        epigrammatic. It is to be borne in mind, however, that the first poet of an
+                        inferior class may be superior to followers in the train of a higher one,
+                        though the superiority is by no means to be taken for granted; otherwise
+                        Pope would be superior to Fletcher, and Butler to Pope. <note type="authorial" resp="#h1" place="right" target="#b003">☜</note><span rend="bracket-right" hand="#h1" xml:id="b003" from="#b003" to="#b004"/><hi rend="underline" hand="#h1">Imagination,
+                            teeming with action and character, makes the greatest poets; feeling and
+                            thought the next; fancy (by itself) the next; wit the last.<anchor xml:id="b004"/> Thought by itself makes no poet at all; for the mere
+                            conclusions of the understanding can at best be only so many
+                            intellectual matters of fact.</hi> Feeling, even destitute of conscious
+                        thought, stands a far better poetical chance; feeling being a sort of
+                        thought without the process of thinking&#8212;a grasper of the truth without
+                        seeing it. And what is very remarkable, feeling seldom makes the blunders
+                        that thought does. An idle distinction has been made between taste and
+                        judgment. Taste is the very maker of judgment. Put an artificial fruit in
+                        your mouth, or only handle it, and you will soon perceive the difference
+                        between judging from taste or tact, and judging from the abstract figment
+                        called judgment. The latter does but throw you into guesses and doubts.
+                        Hence the conceits that astonish us in the gravest and even subtlest
+                        thinkers, whose taste is not proportionate to their mental perceptions; men
+                        like Donne, for instance; who, apart from accidental personal impressions,
+                            <note type="authorial" resp="#h1" place="right" target="b005">☜</note><span rend="bracket-right" hand="#h1" xml:id="b005" from="#b005" to="#b006"/><hi rend="underline" hand="#h1">seem to look at
+                            nothing as it really is, but only as to what may be thought of it.</hi>
+                        Hence, on the other hand, the delightfulness of <hi rend="underline" hand="#h1">those poets who never violate <anchor xml:id="b006"/> truth
+                            of feeling, whether in things real or imaginary; who are always
+                            consistent with their object and its requirements; and who run the great
+                            round of nature, not to perplex and be perplexed, but to make themselves
+                            and us happy.</hi> And luckily, delightfulness is not incompatible with
+                        greatness, willing soever as men may be in their present imperfect state to
+                        set the power to subjugate above the power to please.<span rend="doublieLine-right" hand="#h1" xml:id="b007" from="#b007" to="#b008"/><hi rend="underline" hand="#h1">Truth, of any kind
+                            whatsoever, makes great writing.</hi> This is the reason why such poets
+                        as Ariosto, though not writing with a constant detail of thought and feeling
+                        like Dante, are justly considered great as well as delightful.<anchor xml:id="b008"/> Their greatness proves itself by the same truth of
+                        nature, and sustained power, though in a different way. Their action is <pb xml:id="leaf002v" facs="mid.00008.004" type="verso"/><fw type="header" place="top"><hi rend="smallcaps">HALF-HOURS WITH THE BEST
+                            AUTHORS.</hi></fw>
+                        <fw type="pageNum" place="top left">604</fw><milestone unit="undeclared" rend="horbar-full"/>not so crowded and weighty; their sphere has more
+                        territories less fertile; but it has enchantments of its own which excess of
+                        thought would spoil&#8212;luxuries, laughing graces, animal spirits; and not
+                        to recognise the beauty and greatness of these, treated as they treat them,
+                        is simply to be defective in sympathy. Every planet is not Mars or Saturn.
+                        There is also Venus and Mercury. There is one genius of the south, and
+                        another of the north, and others uniting both. The reader who is too
+                        thoughtless or too sensitive to like intensity of any sort, and he who is
+                        too thoughtful or too dull to like anything but the greatest possible
+                        stimulus of refection or passion, are equally wanting in complexional
+                        fitness for a thorough enjoyment of books. Ariosto occasionally says as fine
+                        things as Dante, and Spenser as <choice>
+                            <orig>Shakspeare</orig>
+                            <reg>Shakespeare</reg>
+                        </choice>; but the business of both is to enjoy; and in order to partake
+                        their enjoyment to its full extent, you must feel what poetry is in the
+                        general as well as the particular, must be aware that there are different
+                        songs of the spheres, some fuller of notes, and others of a sustained
+                        delight; and as the former keep you perpetually alive to thought or passion,
+                        so from the latter you receive a constant harmonious sense of truth and
+                        beauty, more agreeable perhaps on the whole, though less exciting. Ariosto,
+                        for instance, does not <hi rend="italic">tell a story</hi> with the brevity
+                        and concentrated passion of Dante; every sentence is not so full of matter,
+                        nor the style so removed from the indifference of prose; yet you are charmed
+                        with a truth of another sort, equally characteristic of the writer, equally
+                        drawn from nature, and substituting a healthy sense of enjoyment for
+                        intenser emotion. Exclusiveness of liking for this or that mode of truth,
+                        only shows, either that a reader's perceptions are limited, or that he would
+                        sacrifice truth itself to his favourite form of it. Sir Walter Raleigh, who
+                        was as trenchant with his pen as his sword, hailed the 'Faerie <choice>
+                            <orig>Queene</orig>
+                            <reg>Queen</reg>
+                        </choice>' of his friend Spenser in verses in which he said that "Petrarch"
+                        was henceforward to be no more heard of; and that, in all English poetry,
+                        there was nothing he counted "of any price" but the effusions of the new
+                        author. <span rend="bracket-left" hand="#h1" xml:id="b009" from="#b009" to="#b010"/>Yet Petrarch is still living; Chaucer was not abolished by
+                        Sir Walter; and <choice>
+                            <orig>Shakspeare</orig>
+                            <reg>Shakespeare</reg>
+                        </choice> is thought somewhat valuable. <span rend="bracket-right" hand="#h1" xml:id="b011" from="#b011" to="#b012"/>A botanist might as
+                        well have said that myrtles and oaks were to disappear because acacias had
+                        come up. It is with the Poet's crea-<anchor xml:id="b010"/><anchor xml:id="b012"/><note type="autorial" resp="#h1" place="bottom" target="b009">☞</note>
+                        <pb xml:id="leaf003r" facs="mid.00008.005" type="recto"/>
+                        <fw type="header" place="top"><hi rend="smallcaps">WHAT IS POETRY?</hi></fw>
+                        <fw type="pageNum" place="top right">605</fw>
+                        <milestone unit="undeclared" rend="hobar-full"/>tions as with Nature's,
+                        great or small. <hi rend="underline" hand="#h1">Wherever truth and beauty,
+                            whatever their amount, can be shaped into verse, and answer to some
+                            demand for it in our hearts, there poetry is to be found; whether in
+                            productions grand and beautiful as some great event, or some mighty,
+                            leafy solitude, or no bigger and more pretending than a sweet face or a
+                            bunch of violets</hi>; whether in Homer's epic or Gray's "Elegy," in the
+                        enchanted gardens of Ariosto and Spenser, or the very pot-herbs of the
+                        "Schoolmistress" of Shenstone, the balms of the simplicity of a cottage. <hi rend="underline" hand="#h1">Not to know and feel this, is to be
+                            deficient in the universality of Nature herself, who is a poetess on the
+                            smallest as well as the largest scale</hi>, and who calls upon us to
+                        admire all her productions; not indeed with the same degree of admiration,
+                        but with no refusal of it, except to defect.</p>
+                    <p>I cannot draw this essay towards its conclusion better than with <hi rend="underline" hand="#h1">three memorable words of Milton; who has
+                            said, that poetry, in comparison with science, is "simple, sensuous, and
+                            passionate." By simple, he means imperplexed and self-evident; by
+                            sensuous, genial and full of imagery; by passionate, excited and
+                            enthusiastic</hi>. <span rend="bracket-left" hand="#h1" xml:id="b013" from="#b013" to="#b014"/>I am aware that different constructions have
+                        been put on some of these words; but the <hi rend="underline" hand="#h1" xml:id="u001">contest</hi> seems to me to necessitate those before
+                            us.<anchor xml:id="b014"/><note type="authorial" resp="#h1" place="left" target="b013"><hi rend="underline" hand="#h1">true</hi></note>I quote,
+                        however, not from the original, but from an extract in the ' Remarks on
+                        Paradise Lost' by Richardson.</p>
+                    <note type="authorial" resp="#h1" place="right" target="u001">contract</note>
+                    <p>What the poet has to cultivate above all things is love and <span rend="bracket-left" hand="#h1" xml:id="b015" from="#b015" to="#b016"/>truth;&#8212;<hi rend="underline" hand="#h1">what he has to avoid,
+                            like poison, is the fleeting and the false</hi>. He will get no good by
+                        proposing to be "in earnest at the moment."<anchor xml:id="b016"/> His
+                        earnestness must be innate and habitual; born with him, and felt to be his
+                        most precious inheritance. <span rend="bracket-right" hand="#h1" xml:id="b017" from="#b017" to="#b018"/><span rend="bracket-right" hand="#h2" xml:id="b019" from="#b019" to="#b020"/><hi rend="underline" hand="#h1">I expect neither profit nor general fame by my writings,"
+                            says Coleridge, in the Preface to his Poems; "and I consider myself as
+                            having been amply repaid without either. Poetry has been to me its <hi rend="italic">own exceeding great reward;</hi></hi> it has soothed
+                        my afflictions; it has multiplied and refined my enjoyments; it has endeared
+                        solitude; and it has given me the habit of wishing to discover the good and
+                        the beautiful in all that meets and surrounds me."&#8212;<hi rend="italic">Pickering's edition</hi>, p. 10.</p>
+                    <anchor xml:id="b018"/>
+                    <p>"Poetry," says Shelley, "lifts the veil from the hidden beauty of the world,
+                            <hi rend="italic">and makes familiar objects be as if they were
+                            not</hi><anchor xml:id="b020"/><pb xml:id="leaf003v" facs="mid.00008.006" type="verso"/><fw type="header" place="top"><hi rend="smallcaps">HALF-HOURS WITH THE BEST AUTHORS.</hi></fw>
+                        <fw type="pageNum" place="top left">606</fw><milestone unit="undeclared" rend="horbar-full"/><hi rend="italic">familiar</hi>. It reproduces all
+                        that it represents; and the impersonations clothed in its Elysian light
+                        stand thenceforward in the minds of those who have once contemplated them,
+                        as memorials of that gentle and exalted content which extends itself over
+                        all thoughts and actions with which it coexists. The great secret of morals
+                        is love, or a going out of our own nature, and an identification of
+                        ourselves with the beautiful which exists in thought, action, or person, not
+                        our own. A man, to be greatly good, must imagine intensely and
+                        comprehensively; he must put himself in the place of another, and of many
+                        others: the pains and pleasures of his species must become his own. The
+                        great instrument of moral good is imagination; and poetry administers to the
+                        effect by acting upon the cause."&#8212;<hi rend="italic">Essays and
+                            Letters</hi>, vol. i. p. 16.</p>
+                    <p>I would not willingly say anything after perorations like these; but as
+                        treatises on poetry may chance to have auditors who think them selves called
+                        upon to vindicate the superiority of what is termed useful knowledge, it may
+                        be as well to add, that<span rend="bracket-left" hand="#h1" xml:id="b021" from="#b021" to="#b022"/><hi rend="underline" hand="#h1"><span rend="bracket-left" hand="#h2" xml:id="b023" from="#b023" to="#b024"/>if the poet may be allowed to pique himself on any one thing more than
+                            another, compared with those who undervalue him, it is on that power of
+                            undervaluing nobody, and no attainments different from his own, which is
+                            given him by the very faculty of imagination they despise. The greater
+                            includes the less. They do not see that their inability to comprehend
+                            him argues the smaller capacity. No man recognises the worth of utility
+                            more than the poet<anchor xml:id="b022"/>: he only desires that the
+                            meaning of the term may not come short of its greatness, and exclude the
+                            noblest necessities of his fellow-creatures.</hi><anchor xml:id="b024"/>
+                        He is quite as much pleased, for instance, with the facilities for rapid
+                        conveyance afforded him by the railroad, as the dullest confiner of its
+                        advantages to that single idea, or as the greatest two-idead man who varies
+                        that single idea with hugging himself on his "buttons" or his good dinner.
+                        But he sees also the beauty of the country through which he passes, of the
+                        towns, of the heavens, of the steam-engine itself, thundering and fuming
+                        along like a magic horse; of the affections that are carrying, perhaps, half
+                        the passengers on their journey, nay, of those of the great two-idead man;
+                        and, beyond all this, he discerns the incalculable amount of good, and
+                        knowledge, and refinement, and mutual consideration, which this wonderful
+                        invention is fitted to</p>
+                </div2>
+                <pb xml:id="leaf004v" facs="mid.00008.007" type="verso"/>
+                <fw type="header" place="top"><hi rend="smallcaps">HALF-HOURS WITH THE BEST
+                        AUTHORS.</hi></fw>
+                <fw type="pageNum" place="top left">610</fw>
+                <div2>
+                    <p>are the masters that instruct us without rods and ferulas, without hard words
+                        and anger, without clothes or money. If you approach them, they are not
+                        asleep; if investigating you interrogate them, they conceal nothing; if you
+                        mistake them, they never grumble; if you are ignorant, they cannot laugh at
+                        you.</p>
+                    <span rend="bracket-left" hand="#h1" xml:id="b025" from="#b025" to="#b026"/>
+                    <add rend="pasteon" source="#ref1" xml:id="add1">
+                        <q who="Francis William Newman" type="printed">
+                            <floatingText rend="flat">
+                                <body>
+                                    <note type="authorial" resp="#h1" place="top">Hexameter
+                                        translation of Homer (Prof. Newman's translation</note>
+                                    <fw type="pageNum" place="top right">171</fw>
+                                    <milestone unit="undeclared" rend="hobar-full"/>
+                                    <p>quaint, flowing garrulous, abounding with formulas, redundant
+                                        in particles and affirmatory interjections, as also in
+                                        grammatical connectives of time place, and argument. In all
+                                        those respects it is similar to the old English ballad, and
+                                        is in sharp contrast to the polished style of Pope, Sotheby,
+                                        and Cowper, the best known English translators of Homer. By
+                                        general consent, Chapman's version is far more Homeric that
+                                        these. In regard to diction, Dryden in part agrees with
+                                        Homer, namely, in his love of strong and racy words. A
+                                        phrase can hardly be too homely for the true Epic style, if
+                                        it be but energetic and graphic." How far Professor Newman
+                                        has succeeded in carrying out these principles will be best
+                                        understood from a specimen. The passage selected is in the
+                                        Twenty-first Book, where Achilles refuses mercy to
+                                        Lyceaon:&#8212;</p>
+                                    <q who="Newman" type="extract">
+                                            <lg type="poem">
+                                                <l>No ransom now to me set forth, though simpleton,
+                                                  nor argue;</l>
+                                                <l>For once, ere that his day of doom Patroclus
+                                                  overhended,*</l>
+                                                <l>So long, my heart more pleasure had to spare the
+                                                  lives of Trojans,</l>
+                                                <l>Nor loved their carnage: many then I took alive
+                                                  and sold them.</l>
+                                                <l>But now in fornt of Illium whome'er the God
+                                                  entrusteth</l>
+                                                <l>Into my hands, no longer one would I expect from
+                                                  slaughter</l>
+                                                <l>Of all the Trojans; most of all not one of
+                                                  Priam's children.</l>
+                                                <l>But come, my friend! die also thou. Why thus to
+                                                  railing yieldest?</l>
+                                                <l>Dead also is Patroclus, who than thee was greatly
+                                                  better,</l>
+                                                <l><hi rend="underline" hand="#h1">Behold me, what a
+                                                  man am I, how comely and majestic!</hi></l>
+                                                <l><hi rend="underline" hand="#h1">Me did a noble
+                                                  sire beget; a goddess mother bare me.</hi></l>
+                                                <l>Yet even upon <hi rend="italic">me</hi> will
+                                                  Death and Destiny restless</l>
+                                                <l>Come in midday or afternoon, or haply in the
+                                                  morning,</l> 
+                                                <l>When some one shall from me also in battle rieve
+                                                  my spirit,</l>
+                                                <l>Whether the spear-throw strike me down, or arrow
+                                                  from the bowstring.</l>
+                                            </lg>
+                                        
+                                    </q>
+                                    <span rend="bracket-left" hand="#h1" xml:id="b027" from="#b027" to="#b028"/>
+                                    <p>The style may seem rugged at first, but after a little it
+                                        becomes far from unpleasant, and certainly gives a better
+                                        idea of the original than the un-Homeric rhymes of Pope.</p>
+                                </body>
+                            </floatingText>
+                        </q>
+                        <milestone unit="undeclared" rend="hobar-short-center"/>
+                        <anchor xml:id="b026"/><anchor xml:id="b028"/><note type="authorial" resp="#h1" place="left" target="b025">☞</note><note type="authorial" resp="#h1" place="left" target="b025">☞</note>
+                    </add>
+                    <note type="authorial" resp="#h1" place="bottom">☞ get Buckling's prose
+                        trans of Iliad unpublished here by Harpers</note>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

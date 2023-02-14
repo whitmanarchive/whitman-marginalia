@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">? Hallam D'Israeli</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00027</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">This manuscript is a list, in Whitman's handwriting, of authors and their dates of birth and death. The notes are written around a newspaper clipping that has been pasted to the page. See Edward Grier's headnote to the transcription of this manuscript (cited below) for information about Whitman's source for the names and dates. Grier also notes that the "paper, the date, 1855, in the MS, and the information in the clipping establish the date [of composition] as 1855." Although Grier lists the manuscript as being held at Rutgers, the item appears to be missing. As such, no images of the manuscript are currently available. Our transcription, encoding, and layout are therefore based it solely on Grier.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Walt Whitman</author>
+                        <editor>Edward F. Grier</editor>
+                        <title xml:id="efg">The Collected Writings of Walt Whitman</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>New York University Press</publisher>
+                            <date when="1984">1984</date>
+                            <biblScope type="page">1773&#8211;1774</biblScope>
+                            <biblScope type="volume">5</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">? Hallam D'Israeli</title>                  
+                    <idno type="callno">Ac. 605</idno><!-- Although this item is listed under this call number in Rutgers' catalogs, the MS appears to have gone missing, as Rutgers is currently unable to locate it. -->
+                    <date xml:id="dat1" cert="high" when="1855">1855</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University Libraries, Rutgers, The State University of New Jersey</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-07-11" who="#km">checked</change>
+            <change when="2015-01-24" who="#jc">checked</change>
+            <change when="2014-10-16" who="#kc">encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+                         
+                <ab rend="left">? Hallam<lb/> C'Israeli</ab>
+                
+                <ab rend="left">Samuel Rogers, 96, died. Dec. 1855</ab>
+                     
+                <ab rend="left">1855)</ab>
+            
+            <ab>?<lb/> Bulwer<lb/> born<lb/> 1784</ab>
+                
+            <p>
+                <table>
+                <row>
+                    <cell xml:id="r1">Chaucer</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2" target="#r1"/>born 1328<lb/> died 1400<anchor xml:id="s2"/></cell>
+                </row>
+                
+                <row>
+                    <cell xml:id="r2">John Gower</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s3" from="#s3" to="#s4" target="#r2"/>born 1325<lb/> died 1409<anchor xml:id="s4"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r3">Gawin Douglas Scotch</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s5" from="#s5" to="#s6" target="#r3"/>1474<lb/> 1522<anchor xml:id="s6"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r4"> John Wickliffe<lb/> (with Chaucer)</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s7" from="#s7" to="#s8" target="#r4"/>1324<lb/> 1384<anchor xml:id="s8"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r5">Sir Thomas More</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s9" from="#s9" to="#s10" target="#r5"/>1480<lb/> 1535<anchor xml:id="s10"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r6">Sir Edmund Spenser</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s11" from="#s11" to="#s12" target="#r6"/>1558<lb/> 1598<anchor xml:id="s12"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r7">Christ. Marlowe</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s13" from="#s13" to="#s14" target="#r7"/>1562<lb/> 1592&#8212;<anchor xml:id="s14"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r8">Shakespeare</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s15" from="#s15" to="#s16" target="#r8"/>1564<lb/> 1616&#8212;<anchor xml:id="s16"/></cell>
+                </row>
+                <row>
+                    <cell xml:id="r9">Ben Johnson</cell>
+                    <cell><span rend="curlyBrace-right" xml:id="s17" from="#s17" to="#s18" target="#r9"/>1574<lb/> 1637<anchor xml:id="s18"/></cell>
+                </row>
+              
+                <row>
+                    <cell>Sir Walter Raleigh</cell>
+                    <cell>1552<lb/> 1618</cell>
+                </row>
+                <row>
+                    <cell>Francis Bacon</cell>
+                    <cell>1561<lb/>1626</cell>
+                </row>
+                <row>
+                    <cell>Milton</cell>
+                    <cell>1608<lb/> 1674</cell>
+                </row>
+                <row>
+                    <cell>Saml Butler Hudibras</cell>
+                    <cell>1612<lb/> 1680</cell>
+                 </row>
+                <row>
+                    <cell>John Dryden</cell>
+                    <cell>1631<lb/> ?1700</cell>
+                </row>
+                <row>
+                    <cell>John Locke</cell>
+                    <cell>1632<lb/> 1704</cell>
+                </row>
+                <row>
+                    <cell>John Bunyan</cell>
+                    <cell>1628<lb/> 1688</cell>
+                </row>
+                <row>
+                    <cell>Alex. Pope</cell>
+                    <cell>1688<lb/> 1744</cell>
+                 </row>
+                    <row>
+                        <cell xml:id="r10">Phil Massinger</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s19" from="#s19" to="#s20" target="#r10"/>1584<lb/> 1640<anchor xml:id="s20"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r11">Sir Philip Sidney</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s21" from="#s21" to="#s22" target="#r11"/>1554<lb/> 1586<anchor xml:id="s22"/></cell>
+                    </row> 
+                    <row>
+                        <cell xml:id="r12">Jos. Addison</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s23" from="#s23" to="#s24" target="#r12"/>1672?<lb/> 1719?<anchor xml:id="s24"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r13">Saml. Johnson</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s25" from="#s25" to="#s26" target="#r13"/>1709<lb/> 1784<anchor xml:id="s26"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r14">Jonathan Swift</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s27" from="#s27" to="#s28" target="#r14"/>1667&#8211;1745<anchor xml:id="s28"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r15">Daniel Defoe</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s29" from="#s29" to="#s30" target="#r15"/>1663&#8211;1731<anchor xml:id="s30"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r16">Henry Fielding</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s31" from="#s31" to="#s32" target="#r16"/>1707&#8211;1754<anchor xml:id="s32"/></cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r17">Lawrence Sterne</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s33" from="#s33" to="#s34" target="#r17"/>1713&#8211;1768<anchor xml:id="s34"/></cell>
+                    </row>
+                    <row>
+                        <cell>Tobias Smollet&#8212;</cell>
+                        <cell>1721&#8211;1777</cell>
+                    </row>
+                    <row>
+                        <cell>Oliver Goldsmith</cell>
+                        <cell>1729&#8211;1774</cell>
+                    </row>
+                    <row>
+                        <cell>Henry Mackenzie&#8212;</cell>
+                        <cell>1745&#8211;1831</cell>
+                    </row>
+                    <row>
+                        <cell>David Hume&#8212;</cell>
+                        <cell>1711&#8211;1776</cell>
+                    </row>
+                    <row>
+                        <cell>Edward Gibbon&#8212;</cell>
+                        <cell>1737</cell>
+                    </row>
+                    <row>
+                        <cell>Wm. Robertson</cell>
+                        <cell>1721&#8211;1793</cell>
+                    </row>
+                    <row>
+                        <cell>Dr. Hugh Blair&#8212;</cell>
+                        <cell>1729&#8211;1774</cell>
+                    </row>
+                    <row>
+                        <cell xml:id="r18">Philip Dormer Stanhope<lb/> Earl Chesterfield</cell>
+                        <cell><span rend="curlyBrace-right" xml:id="s35" from="#s35" to="#s36" target="#r18"/>1694&#8211;1773<anchor xml:id="s36"/></cell>
+                    </row>
+                    <row>
+                        <cell>Lady Mary Wortly Montagu</cell>
+                        <cell>1690&#8211;1762</cell>
+                    </row>
+                    <row>
+                        <cell>Edmund Burke&#8212;</cell>
+                        <cell>1730&#8211;1797</cell>
+                    </row>
+            </table>
+            </p>
+            
+            <ab>(over) &#9758;</ab>
+            
+            <!-- Grier has "?Bulwer 1794" and "1855)" transcribed below this table, but I'm guessing this was a mistake, as those words were already transcribed on the previous page. KM -->
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="mid.00011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Indian Epic Poetry</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="slg">Samantha Gilmore</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mid.00011</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Thoreau and Others on Indian Poetry and Indian Drama</title>
+                    <idno type="callno"/><!--look at finding aid-->
+                    <date notBefore="1848-10-01" notAfter="1892-05-26">After October 1, 1848</date>
+                    <orgName xml:id="mid">Middlebury College Library, Special Collections</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Unknown author</author>
+                    <title level="a">Indian Epic Poetry</title>
+                    <title level="j">Westminster Review</title>
+                    <date when="1848">October 1848</date>
+                    <publisher>Leonard Scott &amp; Co.</publisher>
+                    <pubPlace>New York</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="brown-ink"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h4" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h5" scribeRef="#ww" medium="blue-pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#slg" when="2019-10-08">proofed</change>
+            <change who="#lmg" when="2012-07-19">transcribed and encoded.</change>
+            <change who="#lmg" when="2014-02-04">checked.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="mid.00011.001.jpg" type="recto"/> 
+            <head type="main-authorial"><handShift new="#h2"/>Indian Epic Poetry</head>
+            <fw type="date" place="top left"><handShift new="#h1"/>1848.</fw>
+            <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+            <fw type="pageNum" place="top right">17</fw>
+            <note type="authorial" resp="#h3" rend="circled">Who was Vei<unclear reason="illegible" cert="high" resp="#slg">a</unclear>s?</note>
+            <cb/><del rend="hashmark" hand="#h4"><p><handShift new="#h1"/>"Read over your compositions, and wherever
+            you meet with a passage which you think is <hi rend="italic">particularly</hi> fine, strike it out," the
+            quality of the works would have been certainly
+            benefited, though the quantity would
+            have been reduced in a much higher proportion.
+            </p>
+            <p>But the premier had, no doubt, Aristotle's
+            recipe in his eye: "The greatest thing of
+            all is to be <hi rend="italic">powerful in metaphor,</hi> for this
+            alone cannot be acquired from another, but
+            is the mark of original genius; for to metaphorize
+            <hi rend="italic">well</hi>, is to discern in different objects
+            that which is similar."</p>
+            <p>The noble premier is <hi rend="italic">powerful</hi> enough in
+            metaphor,&#8212;strong as Sampson, to his own
+            undoing. He has fallen into the error of
+            adopting a canon for his own guidance, which 
+            is addressed to "original genius." Nor are
+            there any counterbalancing qualities to
+            weigh down this besetting sin. There is
+            no originality of thought, no vigorous reasoning,
+            no evidence even of industrious
+            research. We have neither new facts and
+            materials, nor happy illustrations of old
+            ones. The noble writer's works are "objectless;"
+            we rise from their perusal with
+            no fresh information of any kind, and are at
+            a loss to understand why the premier should
+            have rushed into print.</p>
+            <p>We have expressed our opinions on the
+            several works in the order in which they
+            were published. It is unnecessary, therefore,
+            to add to our criticism on their several
+            merits. We regret that we cannot, upon
+            the whole, sum up in Lord John Russell's
+            favour; that we cannot favour his pretensions
+            to literary rank, even in the smallest
+            degree. The noble lord <hi rend="italic">may</hi> call, it is true,
+            eleven witnesses, 4to. 8vo., and 12mo., to
+            support his pretensions; but, if well-advised,
+            he will rather trust to the merciful consideration
+            of the court, than rely upon their
+            testimony: for the said witnesses, though
+            decent enough in their exterior clothing,
+            when made to disclose their evidence, will
+            infallibly damage the noble defendant's
+            cause, and for ever strip him of all <hi rend="smallcaps">LITERARY
+            CHARACTER.</hi></p> <ab>S.</ab></del>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <p>A<hi rend="smallcaps">RT</hi>. II.&#8212;1. Bαλα βαρατα η
+            Athens. 1847.</p><!-- check how the greek renders and complete transcription-->
+            <p>2. R<hi rend="smallcaps">AMAYANA</hi>&#8212;<hi rend="italic">testo Sanscrito secondo i
+            Codici Manoscritti della Scuola Gaudana,
+            per Gaspare Gorresio.</hi> V<hi rend="smallcaps">ols</hi>. I., II., III.
+            <hi rend="italic">Parigi.</hi> 1843-4-5.</p>
+            
+            <p>W<hi rend="smallcaps">E</hi> little think, while we read of the glories
+            of Grecian and Roman history, that during
+                <fw type="sig" place="bottom">VOL. L. 2</fw><cb/>
+            those very centuries which they seem so to
+            have monopolized, the sun still witnessed
+            other empires in other parts of the earth,
+            whose histories were full of interest in those
+            days, and not without importance even in
+            our own time. Contemporaneous with
+            these romance-lands of European antiquity,
+            flourished the great empires of Persia and
+            India; and however little their orbits intersected,
+            each has indeed a "magic circle,"
+            of awful import and reality to the human
+            hearts which beat within its round. Each
+            had its own heroes and its chivalrous deeds;
+            each had its own laws and institutions,
+            and its generations of minds to be trained
+            and influenced thereby. Thus the two
+            worlds of ancient life fulfil their destiny side
+            by side: rarely do they visibly intermingle
+            to the historian's eye; however they may
+            have mutually influenced one another by
+            the silent interchanges of hospitality and
+            commerce, in the private life of their people.
+            The expeditions of Darius and Xerxes
+            fell on Greece as violently, but as transiently,
+            as a storm; and Alexander's invasion of
+            India scarcely reached the banks of the
+            Ganges even as a <hi rend="italic">rumour</hi>. But unimportant
+            as these enterprizes <!--choice tag-->may have been,
+            and however transitory were their effects, at
+            our distance of time they assume an interest
+            utterly apart from their historical value.
+            Such events as these form the few glimpses
+            which we now get of the old condition of
+            that part of the world. Long successions of
+            mighty kings had reigned in different parts
+            of India before Alexander thought of conquering
+            Porus; but it is only of Porus that
+            European history tells us any news: Alexander,
+            as it were, threw for us a torch into
+            the blank darkness; but he only revealed
+            what existed there before, and we catch a
+            momentary glimpse of a monarch and his
+            court sitting in that hall of time in solemn
+            state, and then the scene vanishes again
+            from our eyes into blank darkness as before.
+            All that the Greeks have left us concerning
+            India, only amounts to such a transient view
+            as this; nor could we indeed expect that it
+            should be otherwise; and modern writers
+            have wasted their wonder to little purpose
+            respecting it. For a hasty inroad of foreign
+            conquerors could only collect a few observations
+            on the people on their way; and these
+            would naturally relate to the more prominent
+            peculiarities, and the deeper traits of
+            the nation's life and character would remain
+            far hidden from their sight. Thus they may
+            have preserved for us a few facts of interest,
+            which modern scholars have verified in their
+            Sanscrit researches; but the greater part of
+            their details are trivial, and not unfrequently
+            quite erroneous.</p>
+            
+            <pb xml:id="leaf001v" facs="mid.00011.002.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">18</fw>
+            <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+            <fw type="date" place="top right">Oct.</fw>
+            <cb/><p>India has, however, a literature of her
+            own, in which the Greeks are as little
+            thought of as she is in theirs; and the <hi rend="italic">discovery</hi>
+            of Sanscrit (for such it may well be
+            called), has opened an almost inexhaustible
+            region for the scholar’s investigation. In
+            this ancient literature we have the growth
+            of a language in all its stages of development.
+            In the Vedas, or sacred books, we
+            have it in all its roughness and unpolished
+            rudeness, abounding with archaisms and
+            irregularities, which present strange resemblances
+            with the old tongues of Europe;
+            in the heroic poems of a succeeding age, we
+            find it when it had undergone no little elaboration
+            and improvement, for, as Emerson
+            says, "language is an edifice, to which every
+            forcible individual contributes a stone;"
+            and in the dramatic poems (some of which
+            were contemporary with Augustus and Virgil),
+            and in the later epics which followed,
+            we have it in all that extreme elaboration
+            which precedes decline, when the weapon,
+            by dint of overpolish, grows too keen and
+            of too fine an edge for the daily requirements
+            of life. There is also in the dramas
+            a continual intermixture of Pracrit, a dialect
+            which sprang out of Sanscrit, just as
+            Italian and Spanish out of Latin,&#8212;this being
+            the language of the female characters, while
+            Sanscrit is confined to the men.</p>
+            <p>Now all this had been going on in that
+            very period which we are apt to think
+            served only to ripen Greece and Rome.
+            While Greek was passing from the Homeric
+            dialect to the Attic of Thucydides and Plato,
+            and thence falling into balanced antitheses
+            and sophistries; and while Latin was slowly
+            escaping from its Oscan nurse, and shaping
+            its sound from the <hi rend="italic">arvales fratres</hi> to fit
+                words to be set to the heroic music of Ennius,
+                and passing from thence to the hands
+                of Virgil, who added to it that grace which
+                inevitably precedes and ushers in declining
+                vigor: while all this was passing, India was
+                witnessing the rise and decline of as noble
+                a speech as these, with a literature entirely
+                her own, exemplifying in itself all those
+                changes which scholars love to trace in the
+                classical languages of Europe. The same
+                principles may be observed working alike in
+                each; the gradual decline of the old epic
+                spirit, with the heroic speech which rose
+                from it like the breath of action, and the
+                fading away of what was once glorious and
+                true into a common-place, which becomes
+                vapid and then false, with the barrenness of
+                thought which inevitably blights a literature,
+                if we cling to the old forms of the past,
+                when the life that once animated them has
+                passed into others, according to nature’s
+                metempsychosis;&#8212;all this is exemplified in
+            <cb/>
+            the poets of ancient India as much as in
+            those of Greece or Rome. For heroic
+            poetry only belongs to heroic times, and
+            when those times are passed men must leave
+            the old subjects and turn to others which
+            are new. It was for want of this that in
+            Athens Marathon became the staple for
+            every sophist and declaimer; and in the
+            same way, in the latter days of Roman literature,
+            every poet tried his hand at a new
+            epic on the old mythology. But in the
+            times of the later C&#231;sars and their successors,
+            all faith in the mythic ages was gone;
+            tyranny and corrupted civilization had hardened
+            men’s hearts against the beautiful, and
+            such poetry was no longer possible. But
+            alas! the form always continues long after
+            the soul has migrated elsewhere, and men
+            fancy, at every new creation of art, that it is
+            the only genuine kind, and they fly in pursuit
+            of the novelty; forgetful that nature’s
+            horn (as in the fairy tale) hangs alike for
+            all, although it is the only true knight who
+            can make it sound. Thus everything which
+            once was beautiful becomes, by-and-by,
+            false and deformed,&#8212;<span rend="bracket-right" hand="#h4" xml:id="s1" from="#s1" to="#s2"/><hi rend="underline" hand="#h4">the artist is always
+                <span rend="bracket-right" hand="#h4" xml:id="s3" from="#s3" to="#s4"/>succeeded by the imitator, who fancies that
+                imitation is creation.</hi> Meanwhile <hi rend="underline" hand="#h4">poetry</hi>
+                comes and goes</p>
+            <lg type="linegroup"><l>"And flies like a bird from tree to tree,"</l></lg>
+                <p><hi rend="underline" hand="#h4">making no subject her</hi> continual resting
+                    <hi rend="underline" hand="#h4">place, but alig</hi>hting on all in their turns;
+                    <hi rend="underline" hand="#h4">and thus Troy</hi>, and Marathon, and Tiber,
+                    <hi rend="underline" hand="#h4">and Hindost</hi>an alike become beautiful to all
+                    <hi rend="underline" hand="#h4">mankind,</hi> when she hallows them; but only<anchor xml:id="s4"/><span rend="bracket-right" xml:id="s5" hand="#h4" from="#s5" to="#s6"/>
+                    <hi rend="underline" hand="#h4">while <hi rend="italic">she</hi> is there do they charm, and if a<anchor xml:id="s2"/>
+                        <hi rend="underline" hand="#h4">profane foot</hi> approaches she is gone&#8212;per<hi rend="underline" hand="#h4">haps
+                    to t</hi>he fern at the tree's foot, or to
+                            <hi rend="underline" hand="#h4">yonder peasant's</hi> cottage on the hill!</hi></p><anchor xml:id="s6"/>
+            <p>The earliest specimens of Hindu literature,
+                the Vedas, date from an almost unknown
+                antiquity, and the language in which
+                they are written is a sufficient; voucher for
+                their authenticity. Their whole style bears
+                marks of belonging to the earliest ages of
+                Sanscrit, when its original asperities were
+                yet unsoftened, and its irregularities unreduced
+                to rules and order; and when we
+                compare it with that of the epic poems of the
+                succeeding ages, it is like passing from
+                Chaucer to Pope in our own literature.
+                Until lately, the Vedas have received but
+                little attention from Sanscrit scholars, and
+                only parts of them have hitherto been published;
+                but editions of all are, we believe,
+                now in preparation, and these will doubtless
+                throw an immense light on Hindu antiquities.
+            </p>
+            <p>It is only by going back to these ancient
+            beginnings of Hindu thought, that we can
+            ever hope to understand the various ideas
+            
+                <pb xml:id="leaf002r" facs="mid.000111.003.jpg" type="recto"/>
+                <note type="authorial" resp="#h3" place="top">The Ramayana is the most ancient
+                having one separate distinct thread</note>
+                <fw type="date" place="top left">1848.</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="pageNum" place="top right">19</fw>
+                <cb/>and customs which have influenced every
+                generation of that people, from before Troy
+                to the present day; and without this even
+                our knowledge of the language can only be
+                imperfect, and many of the links which
+                connect it with the old languages of Europe
+                must remain unknown. <hi rend="underline" hand="#h4">The Vedas are
+                    <span rend="singleLine-left" hand="#h4" xml:id="s7" from="#s7" to="#s8"/>four in number,</hi> the Rich, Yajush, Saman,
+                and Atharvana, and <hi rend="underline" hand="#h4">consist chiefly of hymns
+                    and prayers to the various deities;</hi> and
+                doubtless it was these which Calanus sang
+                in the presence of Alexander’s army, when
+                he was borne to the funeral pyre, “crowned
+                after the Indian manner, and singing in the
+                Indian tongue; and the Indians said that
+                these were ancient songs in the praise of the
+                Gods.”&#8212;(Arrian vii.) Mr. Colebroke has
+                settled the date of the Yajush Veda by
+                proving, in one of his essays, that the place
+                given to the solstitial points, in a calendar<anchor xml:id="s8"/>
+                <span rend="singleLine-left" hand="#h4" xml:id="s9" from="#s9" to="#s10"/>appended to it (which represents their position
+                at the time of its being composed), is
+                really that in which those points were situated
+                in the fourteenth century before our
+                era; and there are many parts of the Vedas
+                which must belong to even a much higher
+                antiquity. The mythological systems of later
+                times are here found (when they occur at
+                all) only in the germ, and a simple monotheism
+                reigns throughout, widely different
+                from the belief which we find in the heroic
+                poems.<anchor xml:id="s10"/><span rend="singleLine-left" hand="#h4" xml:id="s11" from="#s11" to="#s12"/> <hi rend="underline" hand="#h4">At the same time the Vedas abound
+                    with splendid passages of poetry, and many
+                    a wonderful glimpse of primeval truth</hi> occurs
+                in the midst of their obscure invocations.
+                <hi rend="underline" hand="#h4">These are, as it were, the primeval
+                    rocks of the world of Hindu thought, and on
+                    these all the other <hi rend="italic">strata</hi> rest ; and in these
+                    we still can hold converse with those mighty
+                    sages, who lived and thought in those remote
+                    centuries before history,</hi> and have yet
+                left such traces of their existence, even on
+                the degenerate Hindus of the present day.</p>
+            <p>But the age of the Vedas passed, and<anchor xml:id="s12"/>
+                each century brought its series of changes.
+                The priests, who in the earliest times were
+                the sole repositories of the nation’s knowledge,
+                began to lose their monopoly, as the
+                military class, called <hi rend="italic">Kshatriyas</hi>, became
+                more powerful and independent. These
+                were, as their name intimates, the soldiers-
+                possessors of the soil; and these bold barons
+                probably held their lands under a feudal
+                tenure to the king, as their nominal head,
+                something like the arriere-ban of the old
+                Germanic empire. Many things, in the course
+                of Hindu literature, preserve some
+                vague remembrance of the contest which
+                naturally arose between the priests and the
+                Kshatriyas, as these latter gradually became
+                their rivals in intelligence and power; although
+                all this lies in the background of the
+                <cb/>
+                past, at the era of the heroic poems. Between
+                their era and that of the Vedas lay
+                the stormy scene of these quarrels, which,
+                if we may trust the uncertain rumors of tradition,
+                at last became a deadly feud, in<note type="authorial" resp="#h4" place="right">Vedas,
+                there are
+                <hi rend="underline">four:</hi>
+                One was
+                written
+                1400
+                B.C.
+                others
+                anterior</note>
+                which the Brahmins obtained the victory.
+                But at the time when mythic history commences,
+                all this battle is over, and it is only
+                alluded to in that casual way in which such
+                old chronicles refer to things of past interest
+                to their hearers. One of the <hi rend="italic">avataras</hi>, or
+                incarnations of Vishnu, represents him as
+                coming to the aid of the Brahmins, against
+                the persecutions of their rivals, under the
+                form of Rama Jamadagnya, who slew all
+                the Kshatriyas, and filled five lakes with
+                their blood; and under this wild legend how
+                much of human passion and crime may not
+                lie quietly inurned! But all the especial
+                details of this struggle lie far beyond the
+                memory of history, in those remote regions
+                of the past which, as Plutarch says, men
+                people with prodigies and fables, just as
+                geographers describe those countries which
+                are unknown to them, as only tracts of sand,
+                or frozen seas, or inaccessible mountains!
+                Passing by these times, we arrive at that
+                period when mythic history commences, and
+                when the great events are no longer lost,
+                but are made the subjects of the songs of
+                the bards, and thus become <hi rend="italic">national</hi> memories.
+            </p>
+            <p>In these early times the bards are the historians,
+                and the only annals are the family
+                traditions of the nobles. From the earliest
+                times, India seems to have been divided into
+                numerous kingdoms, which were continually
+                at war with one another; and each, having
+                its ruling dynasty, had likewise its own traditions
+                and heroes. This is the state in
+                which Alexander found India, at the time of
+                his invasion; and the same is Herodotus’
+                description (in Thalia, 98), "that there
+                were many different tribes of the Indians,
+                nor did they all speak one language;" and
+                such too it appears in the heroic poems. A
+                vague memory of a universal monarchy
+                seems to linger here and there, but probably
+                on no real foundation; or if ever it existed,
+                it was merely a nominal supremacy over independent
+                chiefs, who soon shook off even
+                <span rend="bracket-right" hand="#h4" xml:id="s13" from="#s13" to="#s14"/>the name of servitude.</p>
+            <p>Two heroic poems remain to us of this
+            period, the Ramayana and the Mahabharata,
+            and in these lies all that we can ever know
+            of India's early history. Of these the Ramayana
+            is the most ancient, and doubtless the
+            most genuine, as it has one main action running
+            through it, which is seldom interrupted
+            by any very long interpolations. But with
+            the Mahabharata the case is widely different,
+            as the main subject of the poem is almost<anchor xml:id="s14"/>
+            
+                <pb xml:id="leaf002v" facs="mid.00011.004.jpg" type="verso"/>
+                <note type="authorial" place="top" resp="#h4">Two most ancient Indian poems,&#8212;the <hi rend="underline">Ramayana</hi>,
+                    of almost unknown antiquity, one continued thread of action full of mixed episodes and legends.</note>
+                <note type="authorial" place="top left" resp="#h4">the <hi rend="underline">Mahabharata,</hi> 
+                </note>
+                <fw type="pageNum" place="top left">20</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="date" place="top right">Oct.</fw>
+                <cb/><span rend="bracket-left" hand="#h4" xml:id="s15" from="#s15" to="#s16"/>buried under an accumulation of all
+                kinds of legends, which are inserted at every
+                possible opportunity. The very bulk of the
+                poem, which fills four closely-printed quarto
+                volumes, and extends to nearly 200,000
+                lines, sufficiently proves that we have here
+                no single epic, but rather a cycle of all the
+                mythic lore of ancient India; and thus the
+                Ramayana itself appears in one place abridged
+                as an episode. However skilfully the heterogeneous
+                elements are generally connected,
+                and fitted into the main action, a great diversity
+                of style prevails in various parts of
+                the work, and occasionally the interpolations
+                are self-evident. Thus a completely separate
+                poem on mystical philosophy is put
+                <note type="authorial" resp="#h4" place="left" rend="sideways" corresp="#s15">Mahabharata</note>into the mouth of the incarnate Krishna,
+                ana addressed by him to the hero of the
+                poem, just as two hostile armies are on the
+                point of engaging; while, in another part, a
+                dying hero dictates to his friends a whole
+                canto on the duties of society! Again, long
+                legends are continually being introduced on
+                the slightest opening for them; and in the
+                earlier books we have complete mythological
+                histories of the universe, from Brahma's
+                first waking, all inserted without any necessity,
+                <span rend="singleLine-left" hand="#h4" xml:id="s17" from="#s17" to="#s18"/>and completely stopping all progress <anchor xml:id="s16"/>
+                in the epic action. Yet, however these
+                may destroy the unity of the poem, they
+                greatly add to its value; for thus the Mahabharata
+                becomes a storehouse of almost
+                inexhaustible mythic materials. At present
+                it has been only superficially examined, but
+                its immense extent offers subjects for all
+                kinds of studies, and presents as wide a field
+                as either Grecian or Roman antiquities. Some
+                future scholar must deal with these traditions
+                <anchor xml:id="s18"/>as Muller has with those of the Peloponnesus;
+                and the invasion of the Brahminical
+                tribes, and the history of their war
+                with the aboriginals, may then perhaps stand
+                out as clearly as the descent of the Heraclidæ
+                and the Dorians. Hints and casual details
+                respecting these events are scattered
+                continually in both these poems, and they
+                have only to be collected and arranged by
+                <span rend="singleLine-left" hand="#h4" xml:id="s19" from="#s19" to="#s20"/>"the cunning head," and one can hardly
+                say what discoveries may not reward the
+                labor. <hi rend="underline" hand="#h4">One common family of languages,
+                springing from one common though unknown
+                stock, reaches from India (with occasional
+                interruptions) to England, and has been
+                spoken by earth's noblest</hi> races. <hi rend="underline" hand="#h4">The
+                Arabians and Hebrews are the only great
+                nations who have not spoken dialects of this
+                speech; India, Persia, Greece, Rome, Sclavonia,
+                and Scandinavia, and all the modern
+                races which have sprung from these, use
+                common roots in the conversation of every
+                day; and it i</hi>s the Indo-teutonic tongues
+                <hi rend="underline" hand="#h4">which are identified</hi> with all European civilization.
+                <anchor xml:id="s20"/><cb/>
+                <span rend="bracket-left" hand="#h4" xml:id="s21" from="#s21" to="#s22"/>Emerson has well called language
+                "fossil poetry;" and thus, however strange
+                it may seem to us, the words which fall
+                thoughtlessly from our lips in the daily
+                avocations of life, are no idle sounds, but
+                magic symbols, which preserve for ever the
+                first migrations of the race, and whose antiquity
+                makes Greece and Rome appear but
+                of yesterday!<anchor xml:id="s22"/></p>
+                <p>Yet although these epics have undergone
+                    great alterations since the times of their
+                    composers, underneath all the subsequent
+                    additions the original elements are still preserved;
+                    and careful criticism might perhaps
+                    separate the interpolations, and present the
+                    more genuine parts as a whole by themselves.
+                    The task, however, would be difficult,
+                    and perhaps as impracticable as it has
+                    proved in the Homeric poems. <hi rend="underline" hand="#h4">For many
+                    ages it is certain that the works existed only
+                    by oral tradition, and each rhapsodist added
+                    and altered at his pleasure, or to suit the
+                    taste or vanity of the princely families
+                    whom he served.</hi> The measure of the
+                    poems, moreover, is of a somewhat fatal
+                    facility, and many rhapsodists would naturally
+                    be ambitious of mingling their own
+                    songs with those of their bards; and the
+                    habit of repetition would at once supply
+                    them with a vocabulary of epic phrases to
+                    suit their purpose. Whole chapters, in
+                    both poems, thus betray their origin by
+                    their barrenness of thought and laborious
+                    mimicry of the epic spirit, which, in the
+                    case of the old poets, had spontaneously
+                    burst out from the heart's fulness, like the
+                    free song of a child. But when the Indian
+                    <hi rend="italic">Pisistratus</hi> arose, who collected these separate
+                    songs and reduced them to their present
+                    shape, the genuine and spurious were
+                    alike included, and no Hindu critic ever appears
+                    to have attempted to discriminate between
+                    them. <span rend="bracket-right" hand="#h4" xml:id="s23" from="#s23" to="#s24"/>With regard to the Ramayana,
+                    it seems to have undergone two distinct
+                    revisions, one in Benares and the other
+                    in Bengal, and as the two were accomplished
+                    without any relation or reference to
+                    each other, they naturally present many
+                    variations in their texts. The same
+                    thoughts and events are generally preserved
+                    in both, but the words and order of the
+                    verses continually differ, as would naturally
+                    be the case where the revisions were made
+                    from the oral traditions of two different
+                    schools of rhapsodists, from each of which
+                    the poem had been undergoing a long series
+                    of alterations such as those we have suggested
+                    above.<ref target="#note2" xml:id="ref1">*</ref><anchor xml:id="s24"/></p>
+            <milestone unit="undeclared" rend="horbar-full"/>
+                    <note xml:id="note2" type="footnote" target="#ref1" anchored="true">*See Gorresio's preface to the first vol. of his
+                    edition of the Ramayana, where he argues the point
+                    with much ingenuity, though he sometimes mingles
+                    sophistry with his reasoning.</note>
+            
+            <pb xml:id="leaf003r" facs="mid.00011.005.jpg" type="recto"/>
+            <note type="authorial" resp="#h4" place="top">Ramayana, by the poet Valmiki</note>
+            <note type="authorial" resp="#h4" place="top">Probably Valmiki and Homer were contemporaries&#8212;perhaps
+            V. was
+            the
+            earlier
+            of the
+            two</note>
+            <fw type="date" place="top left">1848.</fw>
+            <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+            <fw type="pageNum" place="top right">21</fw>
+            <cb/><p>We now proceed to give some account of
+                the epics in themselves, <hi rend="italic">as epics</hi>, or rather
+                (since the term “epic” has become a dull,
+                meaningless party-word, only associated
+                with 'Blair’s Lectures,' and such unreadable
+                criticisms), as the exponents and <hi rend="italic">audible
+                    voices</hi> of the spirit of their nation in its
+                heroic age. In this respect, they have even
+                a European interest; because, until they
+                were discovered, the Homeric poems were
+                without a parallel in the history of literature,
+                and we had no means of comparing them
+                with others of the same class, because other
+                nations (if they ever possessed such) had
+                <span rend="singleLine-left" hand="#h4" xml:id="s25" from="#s25" to="#s26"/>lost all record of them in the lapse of time.
+                <hi rend="underline" hand="#h4">These Indian poems, however, in their <hi rend="italic">exterior
+                    form</hi>, are an exact parallel; they occupy
+                precisely the same place in the national
+                heart, and they equally stand alone
+                in their class, separated by silent centuries
+                from all imitators</hi> or rivals, and springing
+                <hi rend="underline" hand="#h4">apparently, like Minerva, in full maturity
+                    from their authors’ minds, with no record
+                    of any predecessors or masters.</hi><anchor xml:id="s26"/>
+                <span rend="singleLine-left" hand="#h4" xml:id="s29" from="#s29" to="#s30"/><span rend="singleLine-left" hand="#h4" xml:id="s27" from="#27" to="#s28"/>The subject of the Ramayana is the descent
+                or <hi rend="italic">avatara</hi> of Vishnu, in human form,
+                to save the world from Ravana, one of those
+                demon-princes, who, in Hindu mythology,
+                so often tyrannized over the world, and even
+                extended their sway over the lower deities
+                of the visible heaven.<anchor xml:id="s28"/> By dint of continued
+                penances which in the Hindu religion
+                are invested with a power over the
+                gods, that reminds us of the Greek idea of
+                fate, which enveloped even Jove in its toils),
+                Ravana had obtained a promise from Brahma
+                that no mortal being should destroy
+                him; and on obtaining this boon, he throws
+                off his disguise of asceticism, and from his
+                island home, Lanka, or Ceylon, he spreads
+                his despotism over all India, oppressing all
+                the virtuous and defending all the impious
+                through his dominions. At the commencement
+                of the epic, we are introduced to the
+                Hindu Olympus, and we find the gods assembled
+                in solemn debate on the impending
+                destruction of all faith and holiness in the
+                world. Brahma's boon had given invincible
+                power to the tyrant, and heaven is filled
+                with dismay, until Vishnu, the preserver,
+                comes forward, and resolves to assume a
+                human form and thus overcome the enemy.<anchor xml:id="s30"/></p>
+                <p>The scene then changes to earth, where
+                    Dasaratha, king of Oude (or Ayodhya, as
+                    it is called in the epic), after a life spent in
+                    deeds of virtue, finds his years drawing to
+                    a close without any heir to defend his old
+                    age or succeed to his crown. A holy <hi rend="italic">Rishi</hi>
+                    or saint, reveals to him that he shall obtain
+                    his desires, on performing the <hi rend="italic">Aswamedha</hi>,
+                    or sacrifice of a horse, which occupies such
+                    a pre-eminent place in the Hindu religious
+                    <cb/>
+                    <span rend="bracket-right" hand="#h4" xml:id="s31" from="#s31" to="#s33"/>rites. The sacrifice is accordingly performed,
+                    and with the promised result. Dasaratha’s
+                    three wives become the mothers
+                    of four sons, all participating in the divine
+                    nature of Vishnu; but Rama, the eldest, is
+                    Vishnu himself. He is brought up at his
+                    father’s court, and educated by wise Brahmins;
+                    and while yet a youth, a great Rishi,
+                    named Viswamitra takes him away to his
+                    hermitage, to defend it against the attack of
+                    some demons who molested the sacrifices.
+                    Rama, on his arrival, overcomes them, and
+                    he next wins the hand of Sitá, the daughter
+                    of Janaca, by bending a bow which defied
+                    all her other suitors. He then returns
+                    to his father’s court, and is about to be appointed
+                    successor to the throne, when the
+                    mother of Bharata, one of his brothers,
+                    supplants him by an intrigue, and procures
+                    his banishment for fourteen years. Sitá,
+                    and his brother Lakshmana, share his exile;
+                    and we have next a long account of their
+                    wanderings, and we get many a pleasant
+                    glimpse of quiet hermitages, which they
+                    visited on their way,&#8212;such as doubtless<note type="authorial" resp="#h4" place="right">Ramayana
+                        ☜</note>
+                    abounded from the earliest ages in Hindostan,
+                    to offer their shelter to those contemplative
+                    minds which fled from the tumults of
+                    their times. It was in one of these hermitages<ref target="#note3">*</ref>
+                    that Alexander found the Gymnosophists,
+                    when, in reply to his inquiries, they
+                only stamped on the ground, as a silent admonition
+                to the conqueror of his mortality.
+                At length the three royal exiles settle on
+                the banks of the Godaveri, in the forest of
+                Dandaka, which spread over a vast portion
+                of the Deccan. Here Rama and his brother
+                spend their time in hunting wild beasts and
+                driving away the demons; and in one adventure
+                they mutilated the demon-sister of
+                Ravana himself. The tyrant, on hearing of
+                the outrage, resolves to avenge himself, and
+                he comes to Rama's cottage and carries off
+                Sitá, in her husband's absence, to his island
+                palace. Rama and his brother search in
+                vain on their return, and they wander over
+                the peninsula without finding any trace of
+                her. At last, in their wanderings, they
+                meet with a tribe of satyrs or apes, and
+                Rama restores Sugriva their king to his
+                throne, of which he had been deprived by
+                his brother Bali; and in gratitude, Sugriva
+                sends out a host of his subjects to search
+                for Sitá. After long and fruitless travel,
+                one named Hanumat discovers her abode:
+                he crosses the strait, and at last sees her and
+                speaks with her, and then returns with the
+                glad tidings to Rama, who proceeds with
+                an army of apes to the southernmost point<anchor xml:id="s33"/>
+                <note type="footnote" place="bottom" xml:id="note3">Ev &#8212;Arrian
+                vii.</note>
+                <pb xml:id="leaf003v" facs="mid.00011.006.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">22</fw>
+                    <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                    <fw type="date" place="top right">Oct.</fw>
+                    <span rend="bracket-right" hand="#h4" corresp="#note1" xml:id="s34" from="#s34" to="#s35"/><note type="authorial" place="top" resp="#h4">The Athenian <!--<add rend="insertion">historical</add>--> "pet" was Theseus
+                    The Dorian <gap extent="2" unit="words" reason="illegible"/> Hercules
+                    The Hindostaner<add rend="unmarked" place="supralinear">Brahminic</add>&#8212;Rama
+                    The French&#8212;Napoleon</note><anchor xml:id="s35"/><note xml:id="note1" type="authorial" resp="#h4" place="top" corresp="#s35">Who was the Roman?
+                    Scandinavian?
+                    Briton?<add rend="unmarked" place="inline"><handShift new="#h3"/>&#8212;</add>
+                    <handShift new="#h4"/>Arthur<add rend="unmarked" place="inline"><handShift new="#h3"/>Alfred?</add></note>
+                    <span rend="bracket-left" hand="h4" xml:id="s63" from="#s63" to="#s64"/><cb/>of India: and the <choice><orig>Hindoo</orig><reg>Hindu</reg></choice> sailor will yet
+                    point out to the traveller the remains of
+                    <hi rend="italic">Rama's Bridge</hi>, built with rocks, which the
+                    apes threw into the sea; as a range of rocks
+                    does run into the sea, in high broken masses,
+                    above Cape Comorin, and is apparently met
+                    by a corresponding line from the coast of
+                    Ceylon, while between them lie impassable
+                    sandbanks, as if in old days a neck of land
+                    had connected the island with the continent.
+                    Rama passes with his army over this Titanic
+                    bridge, and after a fierce conflict, he
+                    kills Ravana, disperses his forces, and rescues
+                    Sitá from her imprisonment. The
+                    word of Brahma himself pronounces that
+                    she is pure, in spite of all Ravana's solicitations
+                    and threats; and Rama returns with
+                    his wife to Ayodhya, and receives the kingdom
+                    from his brother, who resigns it to him
+                    as the lawful possessor.</p><anchor xml:id="s64"/>
+            <p>Such is a brief sketch of the story; but
+                of course each of these events branches out
+                into numerous episodes. Under its wild
+                fable there doubtless lies an historical basis;
+                and modern scholars have conjectured that
+                the subject is the introduction of the Brahminical
+                religion into the peninsula, the aboriginal
+                inhabitants being distorted by the
+                mist of tradition into demons, and the apes
+                representing some wild but more friendly
+                tribe. But, hitherto, the poem has not been
+                <hi rend="italic">critically</hi> studied; only half of it has as yet
+                been published: and a fatality appears to attend
+                all attempts to edit the whole. Three editions
+                have successively appeared; the first
+                by Carey and Marshman, the second by
+                Schlegel, and the last by Gorresio; but the
+                two former only reached to the close of the
+                second canto, and the third (which was
+                published under royal auspices at Paris, and
+                nearly completed the fourth canto), appears
+                to be now abruptly terminated; and the
+                <note type="authorial" resp="#h2" place="left">Alexander
+                invaded
+                India
+                327 B.C.</note>poet Valmiki must wait for some more fortunate
+                editor, or more quiet times. Perhaps,
+                when the whole poem is printed, and
+                facilities are furnished for its study, Sanscrit
+                scholars may unravel the threads of truth
+                which run through its web of fiction; and
+                many questions of deep interest will rise to
+                <span rend="singleLine" hand="#h4" xml:id="s61" from="#s61" to="#s62"/>attract their attention. Two, in particular,
+                will invite them&#8212;the sources of the legends,
+                and the age of the poem itself. Are
+                the legends which are here preserved to us,
+                the creations of Valmiki's imagination, from
+                whose soul, to use Schlegel's words, poetry
+                involuntarily burst out "like a fountain
+                from the living rock;" or are they derived
+                from other sources (of greater or less antiquity),
+                and incorporated in after times with
+                his poem?<anchor xml:id="s62"/> At present, such questions as
+                these are premature; but one important element
+                suggests itself, which has hitherto
+                <cb/>
+                been but little examined, viz., how far are
+                the legends of a <hi rend="italic">Kshatriya</hi> or <hi rend="italic">Brahminic</hi>
+                origin? Our own impression is, that the
+                poem, in its original state, was rather an heroic
+                song or series of songs, of the Kshatriya
+                tribe, and that in later times the Brahmins
+                revised them, and added the numerous passages
+                which inculcate their tenets and uphold
+                their authority. Many of the old
+                Kshatriya legends can still be distinctly
+                traced; and thus, in the first book, we
+                have a battle between Rama (who is completely
+                a Kshatriya, and doubtless was once
+                the favourite hero of the tribe, like the Dorian
+                Hercules, or Athenian Theseus) and
+                Rama Jamadagnya, the Brahminic hero,
+                whom we have spoken of above; and the
+                Kshatriya champion drives hi<supplied reason="cutaway">s</supplied> rival from
+                India and deprives him of all his power.
+                Again, we have another legend, which describes
+                how a Kshatriya, named Viswamitra,
+                by dint of austerities, became one of the
+                Brahmins, in spite of their utmost opposition.
+                At present these and other legends
+                of a similar kind, lie buried under a mass
+                of interpolations and Brahminical alterations;
+                but some future critic will reduce
+                these heterogeneous elements into order,
+                and separate the ancient and genuine from
+                that which has been superadded to it, to
+                suit the pretensions or the vanity of later
+                times.</p>
+            <p>In a similar way, we are ignorant of the
+                date of the poem, or rather of the era to
+                which its older parts belong. <hi rend="underline" hand="#h4">Probably
+                    Valmiki and Homer were contemporaries;
+                    perhaps the Hindu was the earlier of the
+                    two, and sang his song while that Ilion was
+                    a reality, which to Homer rose in the background
+                    of two or three generations.</hi> Our
+                limits forbid us to enter into any detailed
+                proof, nor indeed could any be quite satisfactory;
+                the best arguments for its age are
+                found in the poem itself, and the habits and
+                manners which it describes. <span rend="bracket-right" hand="#h4" xml:id="s37" from="#s37" to="#s38"/>Thus, the
+                burning of widows on the funeral piles of
+                their husbands, which the Greeks describe
+                as an old custom, when Alexander invaded
+                India, B.C. 327, is utterly unknown in the
+                Ramayana; and one fact like this speaks<anchor xml:id="s38"/>
+                volumes. In such poems as the Ramayana
+                and the Iliad, we instinctively feel that they
+                belong to the earlier world: we enter them
+                as we enter a house in Pompeii&#8212;the colours
+                may still seem fresh, and no mark of
+                decay remind us of their age; but we feel
+                that they belong not to <hi rend="italic">us</hi> or <hi rend="italic">ours</hi>, and a
+                gulf of ages lies between us and our objects!</p>
+            <p>We now proceed to give a few extracts,
+                for our readers to judge of Valmiki's merits
+                as a <hi rend="italic">poet</hi>; and those of them who may wish
+                to cultivate a further acquaintance with his
+                <pb xml:id="leaf004r" facs="mid.00011.007.jpg" type="recto"/>
+                <fw type="date" place="top left">1848.</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="pageNum" place="top right">23</fw>
+                <note type="authorial" resp="#h4" place="top">The style of a great poem must flow on
+                "unhasting and unresting."</note>
+                <cb/>poem (without the labour of studying it in
+                the original), we would refer to Schlegel's
+              <span rend="singleLine-left" hand="#h4" xml:id="s39" from="#s39" to="#s40"/>felicitous Latin translation of the first book,
+                &#8212;a work, which is now equally stopped
+                with his publication of the text itself. Valmiki's
+                style, as might be expected, greatly
+                resembles that of Homer; <hi rend="underline" hand="#h4">each flows on in
+                    that "unhasting and unresting" continuity,
+                    <span rend="singleLine-left" hand="#h4" xml:id="s41" from="#s41" to="#s42"/>which only belongs to the heroic age of a
+                    <span rend="singleLine-left" hand="#h4" xml:id="s43" from="#s43" to="#s44"/>literature; in later times men lose the old
+                    <span rend="singleLine-left" hand="#h4" xml:id="s45" from="#s45" to="#s46"/>openheartedness and confidence, and fence
+                    themselves with suspicion and caution; and
+                    in a similar way their poetry loses its freeness
+                    and ease, and stoops to the niceties of
+                    syntax, or the art of the rhetorician.</hi></p><anchor xml:id="s40"/><anchor xml:id="s42"/><anchor xml:id="s44"/><anchor xml:id="s46"/>
+            <p>In comparing Valmiki with Homer, let
+                us not be misunderstood as placing them on
+                a level with each other; in poetical merit the
+                Ramayana is as far inferior to the Iliad, as
+                the national character of the Hindu to that
+                of the Greek; but apart from their poetry,
+                and looking more at its outward dress and
+                decorations, its language and subjects and
+                mythology, no one can deny that there exists
+                a strong family likeness between them.
+                The same freeness of expression characterizes
+                each; the words flow carelessly from
+                the poet's lips, as the natural voice of his
+                emotions; and the open fullness of his heart
+                faithfully mirrors itself in his song. In each,
+                too, we find the same repetition of favourite
+                phrases and images; τον δ' υπαμειβομενοζ
+            hardly occurs more frequently than srulwá
+            tad vachanam teshá; and both poets
+            abound with that vivid fellow-feeling with
+            nature, which so strongly characterizes the
+            half-civilized age of an heroic people. <hi rend="underline" hand="#h4">The
+            <span rend="bracket-left" hand="#h4" xml:id="s49" from="#s49" to="#s50"/><span rend="bracket-left" hand="#h4" xml:id="s47" from="#s47" to="#s48"/>gigantic peaks of the Himalayas are ever
+            present to Valmiki's mind, as Ida and Olympus
+            to Homer's;</hi> and <hi rend="underline" hand="#h4">his poem reflects a
+            <span rend="bracket-left" hand="#h4" xml:id="s51" from="#s51" to="#s52"/>thousand influences from his country's vast
+            scales of geography and scenery.</hi><anchor xml:id="s48"/> It is to
+            this perhaps, that we may trace his huge
+            creations and mythology; nurtured amidst
+            those wild scenes, his imagination dwells on<anchor xml:id="s50"/><anchor xml:id="s52"/><cb/>
+                <span rend="bracket-right" hand="#h4" xml:id="s53" from="#s53" to="#s54"/>the gigantic and superhuman; and Homer's
+                Jupiter sinks into insignificance beside his
+                Vishnu and Siva, just as Homer's mountains
+                are but hillocks beneath the tremendous
+                heights of the Dhwawalaghiri range!</p>
+            <p>Our first extract shall be the sections describing
+                the capture of Sitá by Ravana, the
+                demon-king of Ceylon, which forms a grand
+                episode in the Ramayana, and is, in fact,
+                the <hi rend="italic">nodus</hi> where the plot begins to thicken.</p>
+            <p>Rama has been banished from his father's
+                court, and dwells with his wife Sitá and his
+                brother Lakshmana, in the forest-wilds of
+                the Deccan. Here, in the course of one of
+                their adventures, the two brothers mutilate
+                Suparnaka, the sister of Ravana, and the
+                demon-monarch resolves on revenge. He
+                accordingly takes one of his followers, and
+                they repair to the forest where Rama lives.
+                Here his follower transforms himself into a
+                golden deer, and lures Rama from the cottage
+                in its pursuit, who leaves his brother
+                Lakshmana behind, to guard Sitá, with
+                strict injunctions to stay with her until his
+                return. He then follows the deer, and after
+                a long chase (which is described with all
+                the charms of poetry by the Hindu bard),
+                he transfixes it with an arrow, and the demon
+                expires with a loud cry, "<hi rend="italic">O Lakshmana,
+                save me!</hi>" This cry is only a stratagem
+                to lure away Lakshmana from the cottage,
+                in order that Sitá may be left as Ravana's
+                prey; and the feint succeeds. Sitá,
+                in agony, conjures Lakhmana to fly to his
+                brother's aid; at first he is reluctant to leave
+                her; but at last she overrules his misgivings,
+                and prevails upon him, by her entreaties and
+                reproaches, to set out. It is here that our
+                extract commences, which we present in a
+                <span rend="singleLine-right" hand="#h4" xml:id="s55" from="#s55" to="#s56"/>rhymed dress, <hi rend="underline" hand="#h4">of the same measure as the
+                    original;</hi> the only alterations we have made
+                being occasional omissions, where the details
+                would only have added to the length<anchor xml:id="s56"/>
+                of the extract without increasing its
+                spirit.</p>
+                <cb/>
+                <lg type="linegroup" n="I." rend="centered">
+                    <l>"Lakshmana, grieved at Sitá's words, no longer undecided stood,</l>
+                    <l>But hied him forth in Rama's search, and left her in the lonely wood.</l>
+                        <l>With many a dark presentiment fast gathering round, and unknown fear,</l>
+                        <l>In the deep forest-paths he roved, like one who roves he wists not where.</l>
+                        <l>And now that thus the golden deer had lured the brothers both away,</l> 
+                        <l>Ravana deemed within himself the hour was come to seize his prey.</l> 
+                        <l>There he beheld the dame forlorn, left in that cottage all alone,</l> 
+                        <l>As upon earth is left a gloom, when meet eclipsed the sun and moon:</l>
+                        <l>And while upon her form he gazed, so fair in such a dreary spot,</l>
+                        <l>Thus to himself the tyrant spoke, as he surveyed the lonely cot: </l>
+                        <l>'While she is left with husband none, with brother none to hear her cries,</l>
+                        <l>Why longer stay? the time is come to claim and seize my rightful prize.'</l>
+                        <l>Thus having pondered in his heart, Ravana left his hiding-place,</l>
+                        <l>And walked where Sitá sorrowing sat; clothed in a wandering beggar's dress,</l>
+                    <l>Threadbare and red his garment was, th' ascetic's tuft of hair he wore,</l>
+                        <l>And the three sticks and waterpot in his accursed hand he bore.</l></lg>
+                    <!-- <pb xml:id="leaf004v" facs="mid.00011.007a.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">24</fw>
+                    <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                    <fw type="date" place="top right">Oct.</fw>
+                    <l>As he drew near, the lofty trees, that over Janasthana grow,</l>
+                        <l>And every twining creeper-plant which hangs and climbs from bough 
+                        to bough,</l>
+                    <l>And every bird and every beast stood motionless with silent dread,</l>
+                        <l>Nor dared the summer wind to breathe, nor shake a leaflet overhead.</l>
+                        <l>Over Godavery's bright waves a shiver darkened as he passed,</l>
+                        <l>And bird and beast in terror fled, as on he came in evil haste,</l>
+                        <l>With his black heart and beggar's garb, disguised and hidden as he was,</l>
+                        <l>Like a dark well, whose unseen brink is overgrown with waving grass.</l>
+                        <l>Hard by the cottage-door he stood, and gazed upon his victim fair,</l>
+                        <l>As there she sat in woful plight, lost in a maze of grief and fear,</l>
+                        <l>Reft of her husband, and with gloom o'ershadowed like a moonless sky,</l>
+                        <l>Weeping alone in silent woe, and musing o'er that unknown cry.</l>
+                        <l>On her he gazed, and that fair face seemed ever fairer and more 
+                        bright;</l>
+                    <l>And his stern eye, awhile absorbed, lingered as loth to lose the sight.</l>
+                        <l>Fierce passion woke within his heart, until at length, with softened air,</l> 
+                        <l>He thus addressed her as she sat, shining, a golden statue there:</l>
+                        <l>'Oh thou, that shinest like a tree with summer blossoms overspread,</l>
+                        <l>Wearing that woven kusa robe, and lotus garland on thy head,</l>
+                        <l>Why art thou dwelling here alone, here in this dreary forest's shade,</l>
+                        <l>Where range at will all beasts of prey, and demons prowl in every 
+                        glade?</l>
+                    <l>Wilt thou not leave thy cottage home, and roam the world, which stretches wide;</l>
+                        <l>See the fair cities which men build, and all their gardens, and their pride?</l>
+                        <l>Why longer, fair one, dwell'st thou here, feeding on roots and sylvan fare,</l>
+                        <l>When thou might'st dwell in palaces, and earth's most costly jewels wear?</l>
+                        <l>Fearest thou not the forest gloom, which darkens round on every side?</l>
+                    <l>Who art thou, say, and whose and whence, and wherefore dost thou here abide?'</l>
+                    <l>When first these words of Ravana broke upon sorrowing Sit&#225;'s ear,</l>
+                        <l>She started up, and lost herself in wonderment and doubt and fear;</l>
+                        <l>But soon her gentle loving heart threw oft' suspicion and surmise,</l>
+                        <l>And slept again in confidence, lulled by the mendicant's disguise.</l>
+                        <l>'Hail, holy Brahmin!' she exclaimed; and, in her guileless purity,</l>
+                        <l>She gave a welcome to her guest with courteous hospitality.</l>
+                        <l>Water she brought to wash his feet, and food to satisfy his need,</l>
+                        <l>Full little dreaming in her heart what fearful guest she had received.</l></lg>
+            <lg type="stanza" n="II." rend="centered"><l>Then having pondered on his words, after a pause she made reply,</l> 
+                <l>And in her guileless confidence, unbosomed all her history;</l>
+                <l>How Rama won her for his bride, and brought her to his father's home,</l>
+                <l>And how another's jealousy had cast them forth, the woods to roam;</l>
+                <l>All her full heart she opened then, and all her husband's praise she spoke,</l>
+                <l>And long she lingered o'er the tale, and all the memories which it woke;</l>
+                <l>'And thou too, Brahmin,' she exclaimed, 'thy name and lineage wilt 
+                thou say?</l>
+                <l>And wherefore thou hast left thy land, in pathless Dandaka to stray?</l> 
+                <l>Ere long my husband will return&#8212;to him are holy wanderers dear,</l>
+                <l>And fair the welcome which he gives, whene'er their pathway leads 
+                them here.'</l>
+                <l>Then answered her the demon-king, 'My name and lineage thou shalt hear,</l>
+                    <l>And wherefore in this guise I come, and wander in this forest drear.</l>
+                    <l>Thee, Sit&#225;, am I come to see,&#8212;I, at whose name heaven's armies flee;</l>
+                    <l>The demon monarch of the earth, I, Ravana, am come to thee!</l>
+                    <l>I come to woo thee for my queen; in Lanka stands my palace home,</l>
+                    <l>High on a mountain's forehead built, while round it breaks the ocean's 
+                    foam.</l>
+                <l>There like dark clouds my demons stand, my mandates through the earth to bear;</l>
+                    <l>There shalt thou worshipped be like me, and all my world-dominion share.'</l>
+                    <l>In sudden wrath outburst she then, the wife of Raghu's princely son,</l>
+                <l>And gushed indignant from her lips the answer to that evil one ;</l>
+                <l>'<hi rend="italic">Me</hi> wouldst thou woo to be thy queen, or dazzle with thine empire's shine?</l>
+                    <l>And didst thou dream that Rama's wife could stoop to such a prayer as thine?</l>
+                    <l><hi rend="italic">I</hi>, who can look on Rama's face, and know that there my husband stands,</l>
+                <l>My Rama, whose high chivalry is blazoned through a hundred lands!</l>
+                <l>What! shall the jackal think to tempt the lioness to mate with him?</l>
+                <l>Or did the king of Lanka's isle build upon such an idle dream?</l>
+                    <l>He who would enter Rama's home, and think to tear his wife away,</l>
+                    <l>Might beard the lion in its den, and rob its hunger of its prey;</l> 
+                    <l>Or safer far her new-born cubs from the fierce tigress might he wrest,</l>
+                    <l>Or in his garment wrap the flame, and fold and nurse it to his breast!'</l>
+                    <l>Stung to the heart by Sit&#225;'s words, in silence Ravana folds his hands,</l>
+                    <l>And at that lonely cottage door a mendicant no longer stands;</l>
+                    <l>'Tis but a moment, and behold! bursting from out the assumed disguise,</l>
+                    <l>Before her towers the demon-king, with his black brow and glaring eyes,</l></lg> -->
+            <pb xml:id="leaf005v" facs="mid.00011.008.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">26</fw>
+            <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+            <fw type="date" place="top right">Oct.</fw>
+            <lg type="stanza" rend="centered"><l>And with the shoals of fishes and tortoises, and with the troops of porpoises,</l>
+                <l>As they flashed falling, and fallen, the earth gleamed on every side.</l>
+                <l>The godlike Rishis, and Gandarvas, and the Genii, and the heavenly hosts,</l>
+                <l>All stood gazing on the river, as it rushed down from heaven upon the earth.</l>
+                <l>There, too, stood the gods themselves, with their city-equalling chariots,</l>
+                <l>And some upon horses and elephants, while others came flying through the air.</l>
+                <l>With the meeting hosts of heaven, and the splendour of their ornaments,</l>
+                <l>The cloudless air shone as having an hundred suns;</l>
+                <l>And with the troops of porpoises, and snakes, and the fishes in their falling play,</l>
+                <l>The sky seemed coruscating as with flung lightnings;</l>
+                <l>And with the white foam of the waters spreading in a thousand directions,</l>
+                <l>And with the flocks of waterfowl, the air seemed filled as with autumnal clouds.</l>
+                <l>Here the waters rushed swiftly, there they wandered in mazy paths,</l>
+                <l>Here they opened into an expanse, there they flowed softly with idle ripples;</l>
+                <l>And there, with a fiercer current, wave repelled by wave</l>
+                <l>Flashed as it rose aloft, and then again sank upon the ground.</l>
+                <l>Thus, falling from Sancara's peaks, falling down to the earth,</l>
+                <l>Shone the bright waters of Ganga, pure from all spot or stain."</l></lg>
+            <cb/><p>Surely it was a true <hi rend="italic">poet's</hi> imagination,
+                which could paint this scene upon the blank
+                canvas of the past. Ganga's sacred river,
+                which continually rises before Valmiki's
+                mind, here seems almost to flow into his
+                song, and mingle the eternal roll of her
+                waters with its language! Well may we
+                repeat, on rising from the perusal of such
+                passages as these, Schlegel's version of the
+                proud prophecy, which Brahma addresses
+                to Valmiki in the opening of the poem,</p>
+                <lg type="stanza" rend="italic"><l>Dum stabunt montes, campis dura flumina current,</l>
+                <l>Usque tuum toto carmen celebrabitur orbe!"</l></lg>
+            <span rend="bracket-left" hand="#h4" xml:id="s57" from="#s57" to="#s58"/><p>We now proceed to give some account of
+                the other epic poem which is preserved to
+                us, and which, as we have shown above, is
+                rather a cycle of poems, than one continued
+                poem in itself. Tradition reports that
+                the author's name was Vyasa, but as this
+                appellation would signify the "arranger" or
+                "disposer," it is probably only an etymological
+                myth to imply that at some unknown
+                period this collection of ancient poems
+                was <hi rend="italic">arranged</hi> into its present form; and it
+                is a somewhat singular coincidence that<anchor xml:id="s58"/>
+                Homer's name has been analyzed into the
+                same signification (δμου and δοω), and thus
+                corresponds precisely with the Sanscrit
+                Vyasa. Of course, from this very fact, it is
+                obvious that we know nothing of the age
+                of the <hi rend="italic">Mahabharata</hi>, except from internal
+                evidence; and at present this has been but
+                little investigated. Many of the poems of
+                which it is composed betray evident marks
+                of a later origin; while others, on the contrary
+                would refer us back to the earliest
+                times; and there is as great a difference in
+                the poetical merit as in the style. The earlier
+                poems are probably contemporary with
+                the Ramayana, but the greater part of it
+                must be assigned to the following ages, and
+                the poem, perhaps, only assumed its present
+                shape a few centuries before our era. At
+                the time, however, when it was thus arranged,
+                <cb/>
+                the songs themselves had become
+                national memories; and the poets of that
+                day were contented to draw the subjects of
+                their works from its vast storehouse of legendary
+                materials, instead of inventing for
+                themselves. Thus the groundwork of Calidasa's
+                play, Sacontala (which is well
+                known by Sir W. Jones's translation), is
+                taken from an episode in the first book of the
+                Mahabharata, just as the Greek dramatists
+                drew their subjects from the old world of
+                the Homeric and Cyclic poems.</p>
+            <p>The <hi rend="italic">Balabharata</hi>, or Romaic book, which
+                stands at the head of our article, is a translation
+                into modern Greek of a Sanscrit epitome
+                of the Mahabharata ; and though the
+                epitome, in itself, is but a poor shadow of
+                the original, how much of extrinsic interest
+                is added to it by the place where it is published!
+                Surely the appearance of such a
+                book in Athens must be an era in modern
+                Greek literature, and we hail the augury.
+                If the minds of modern Greeks are beginning
+                to turn to the old Indian world, whence
+                their first ancestors probably derived so
+                much,&#8212;may we not hope, that a second
+                growth of the same influence may spring
+                up? <hi rend="italic">Ex Oriente Lux,</hi> (as the motto of the
+                Oriental Translation Society tells us, with
+                its beautiful vignette); and perhaps the
+                light which rose in old ages in India, and
+                flung its beams through unknown media
+                upon Egypt and Greece, in their heroic
+                times, may cast a reflection upon Greece
+                even in her degeneracy, and wake something
+                of that lost spirit, which once was her
+                glory, and has rendered her history one of
+                the brightest pages in the <hi rend="italic">fasti</hi> of what man
+                has done!</p>
+            <p>The present work is translated by Demetrius
+                Galanus, an Athenian, and it is prefaced
+                by some prolegomena, which are
+                intended to introduce its Romaic readers to
+                Sanscrit literature; and contain many interesting
+                remarks, especially where the
+                <pb xml:id="leaf006r" facs="mid.00011.009.jpg" type="recto"/>
+                <note type="authorial" resp="#h4" place="top">Vyasa, poet of the Mahabharata</note>
+                <fw type="date" place="top left">1848</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="pageNum" place="top right">27</fw>
+                <cb/>author compares the Indian epics with the
+                Homeric poems of his own country. The
+                translation is in that <hi rend="italic">half</hi> ancient Greek,
+                which seems now the most fashionable form
+                of Romaic; and at the foot of every page
+                are many really valuable notes to illustrate
+                Hindu mythology, as well as the difficulties
+                of the context. The work is dedicated to
+                King Otho, and is published at the expense
+                of Joannes Duma. If the present volume
+                succeeds, we may probably have some further
+                translations by the same author; and
+                in the present dearth of writers and thinkers
+                in Greece, such a series could hardly fail of
+                producing a marked influence on the minds
+                of their readers, and perhaps might waken
+                up some ambition to imitate or surpass them!</p>
+            <p>We now return to the Mahabharata, the
+                subject of which is the long civil war
+                between the sons of two brothers, Pandu
+                and Dhritarashtra, for the throne of India.
+                The elder brother, Pandu, is a leper, and
+                thereby incapable of succeeding to the
+                throne; but his claims descend to his five
+                children&#8212;Yudishthira, Bhima, Arjuna, Nakula,
+                and Sahadeva, who are the heroes of
+                the poem. Their uncle, Dhritarashtra, is
+                blind, but his numerous family of sons exercise
+                the regal power in his name; and the
+                eldest of these, Duryodhana, is distinguished
+                for his hostility to his cousins, who are
+                brought up at their uncle's court after their
+                father's death. The young princes are continually
+                quarrelling, even in their boyhood,
+                and many instances of their rivalry are related;
+                but as they grow up, this spirit becomes
+                still more manifest. At last Dhritarashtra
+                is persuaded to divide his empire
+                equally between his sons and his nephews;
+                and for some time the rivalry seemed over;
+                until at last, one day, at a great festival,
+                Yudishthira engages at play with Duryodhana,
+                and with that inveterate passion for
+                gambling, which has always characterized
+                the Hindus, stakes his kingdom, his brothers
+                and himself, and loses. It is at last
+                agreed that he and his brothers shall resign
+                their kingdom, and pass twelve years in
+                banishment; and the long account of their
+                adventures in their forest life is one of the
+                most interesting parts of the poem. Many
+                episodes occur here, and several stories
+                are related to the brothers; amongst others,
+                that of Nala, which has been so well translated
+                by Milman, and that of Savitri, which has
+                been translated into German by Bopp. At
+                the close of their term of banishment, both
+                parties prepare for war; and all the various
+                kings of India and the surrounding countries
+                join one or the other, as allies. Krishna
+                (who is an incarnation of Vishnu, like Rama
+                in the Ramayana), takes the side of the
+                <cb/>
+                Pandavas, and by his counsel and personal
+                aid, greatly contributes to their success.
+                The war is fierce and bloody, and many
+                chieftains fall on both sides; but at last
+                Duryodhana is killed by Bhima, and Yudishthira
+                gains the long-contested throne.
+                The conclusion of the poem will be given
+                hereafter.</p>
+            <p>The characters of the five brothers in
+                the Mahabharata are drawn with an individuality
+                which is very unusual in oriental
+                poetry. They each have their distinguished
+                traits, which are often painted with much
+                discrimination and even delicacy of touch in
+                the lighter shades; and yet there evidently
+                runs a family likeness through them all.
+                To the European reader, Arjuna, the third
+                brother, is the most interesting, and approaches
+                the nearest to our ideal of chivalry:
+                many of his exploits remind us of Arthur's
+                knights, or Charlemagne's paladins; and it
+                is he who wins Draupadi as his wife, in a
+                tournament, where her father had offered
+                her hand as the conqueror's prize. With
+                the Hindus, however, Yudishthira, the
+                eldest, is the favorite: his cold, passionless
+                heroism is with them the <hi rend="italic">beau ideal</hi> of
+                humanity; and he moves through the poem
+                in a calm majesty of self-possession, as if
+                far above all the weaknesses of man, while
+                the sorrows and joys which chequer his
+                life</p>
+            <lg type="stanza"><l>"Viennent toujours glisser sur son être insensible,</l>
+            <l>Comme des gouttes d'eau sur un marbre poli!"</l></lg>
+            <p>The sons of Dhritarashtra are, on the
+                contrary, little distinguished from one another;
+                their individual traits are lost in their
+                intensity of hatred towards their rivals; and
+                their misfortunes and fall excite no regret.
+                These are the evil genii of the story; and
+                indeed, under the whole poem, there runs a
+                wild, half-unconscious belief (which only
+                occasionally breaks out in a tangible shape),
+                that the whole war is only a visible bas-relief
+                sculpture of the old war between the
+                evil principle and the gods. They have
+                descended to wage their war in mortal form
+                upon earth; but the causes of their jealousies
+                lie deep in the abyss of the past;
+                and "war in heaven" was the secret which
+                Nature read in the colossal cypher of the
+                Pandavas and Dhartarashtras. To the contemplative
+                Hindu the old strife bore this
+                mournful meaning; just as Stasimus, the
+                cyclic poet, says of the siege of Ilion,</p>
+                <lg type="stanza"><l>"Ην δτε μν</l></lg>
+                <pb xml:id="leaf006v" facs="mid.00011.010.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">28</fw>
+            <fw type="header" place="top" rend="italic">Indian Epic Poetry</fw>
+            <fw type="date" place="top right">Oct.</fw>
+            <cb/><p>But amongst the cruel opponents of the
+                Pandavas, there is one round whom the
+                author of the Mahabharata throws all the
+                charms of his poetry; and several of the
+                most touching episodes relate to his history.
+                Karna was the half-brother of the Pandavas,
+                being the son of their mother Pritha, before
+                her marriage with Pandu; he was exposed
+                on the banks of the Jumna, and found by
+                the charioteer of king Sura, who brings him
+                up as his own child. Being of course ignorant
+                of his real parentage, he joins the party
+                of the sons of Dhritarashtra, and vows to kill
+                Arjuna. On the eve of one of the great
+                battles, he is recognized by his mother, who
+                goes to the camp and reveals herself, and
+                implores him to leave Duryodhana and join
+                his brothers in their rightful cause. But the
+                dictates of honour were imperative; he had
+                vowed fidelity to his party, and although he
+                knew from omens and prophecies and his
+                own presentiments that his present friends
+                were fated to fall, and himself to perish
+                with them, Karna sorrowfully but firmly
+                abides by his plighted word. With this
+                <cb/>
+                self-devotion and fidelity, Kama rises a true
+                hero from amidst his evil associates; the
+                heroic character which has always some
+                affinity with self denial and endurance, flings
+                the same halo round the Hindu chief as
+                round the son of Peleus in Grecian story,
+                and an epic dignity envelopes every event
+                of his history.</p>
+            <p>From among the countless legends and
+                episcodes of the Mahabharata, it is difficult
+                to make a selection of quotations, so many
+                favorite passages rise to remembrance that
+                the mind feels quite bewildered with the
+                variety which offers itself. We give but a
+                few of the pieces which suggest themselves,
+                and we doubt not our readers will admire
+                their novelty as well as their beauty.</p>
+            <p>Here is a description of Draupadi, left
+                alone in the cottage of the Pandavas, while
+                they are all absent in pursuit of game in the
+                forest wilds. A king passes by with his
+                retinue; and one could almost think it was
+                Spenser's fancy which drew the following
+                picture.</p>
+            <lg type="stanza"><l>"There he beheld the glorious wife of the Pandava,</l>
+            <l>Standing at her cottage door in the lonely wood;</l>
+            <l>Shining in her beauty, and wearing the loveliest form,</l>
+            <l>And lighting up the forest glade, as the lightning a dark blue cloud."</l></lg>
+            <cb/>
+            <p>Here, too, is another of a similar kind.
+                A tournament is about to take place, and
+                the poet has finely described all the noise
+                and tumult of the spectators; when suddenly
+                <cb/>the Brahmin enters the arena, and the
+                poet's art seems to hush the mind of the
+                reader, as his appearance hushed the din
+                of the crowd.</p>
+            <note type="authorial" resp="#h4" target="#lg1">☞</note><span rend="bracket-left" hand="#h4" from="#lg1"/><lg xml:id="lg1" type="stanza"><l>"With the noise of the musical instruments, and the eager voices of the spectators,</l>
+            <l>The din of the assembly rose up like the roaring of the sea;</l>
+            <l>When lo! wearing his white raiment, and the white sacrificial cord,</l>
+            <l>With his snow-white hair and his silvery beard, and the white garland round his head,</l>
+            <l>Into the <hi rend="underline" hand="#h5">midst</hi> of the arena slowly walked the Brahmin with his son,</l>
+                <note type="authorial" resp="#h5" place="left" corresp="#lg1">?moon</note><l>Like the <hi rend="underline" hand="#h5">sun</hi> with the planet Mars in a cloudless sky!</l></lg>
+            <cb/><p>To understand the full meaning of many
+                of these outbursts of poetry, we must enter
+                into some of the Hindu superstitions and
+                feelings; and thus to appreciate the beauty
+                of the following, we must allow ourselves
+                to feel something of the Hindu's awe for
+                <cb/>
+                those vast periods of time which heaven's
+                dial-plate measures out in his mythology:
+                the Yugas and Brahma's years, which sink
+                our generations into mere moments. Such
+                lines as these will then seem like trumpet
+                blasts,&#8212;where he describes a fierce <hi rend="italic">melÉe</hi>,&#8212;</p>
+            <lg type="stanza"><l>"Like two stormy-waved oceans, <hi rend="italic">tossed by the winds of a Yuga's end."</hi></l></lg>
+            <cb/><p>How completely also does the following
+            carry us away to the old times, before modern
+            discoveries had mapped out every coast
+            <cb/>
+            in the world, when the world's end was still
+            a terror to the seaman, and unknown monsters
+            gambolled in the sea:&#8212;</p>
+            <lg type="stanza"><l>"Like a gem-laden ship at the end of the ocean, wrecked on a Leviathan's back."</l></lg>
+            <cb/><p>One of the most beautiful stories of the
+            Mahabharata is that of Savitri, which for
+            depth of pathos surpasses even Admetus
+            and Alcestis. We have only room for a
+            brief sketch of it, but it well deserves to be
+            translated entire. The plan of the story is
+            <cb/>
+            simple enough, but the filling up of its details
+            displays the poet's master hand. Savitri,
+            the daughter of King Aswapatri, is in
+            love with Satyavat, the son of an old blind
+            hermit, who was once a king, but has long
+            lost his throne. A holy <hi rend="italic">Rishi</hi> warns her of
+            <pb xml:id="leaf007r" facs="mid.00011.011.jpg" type="recto"/>
+                <fw type="date" place="top left">1848</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="pageNum" place="top right">29</fw>
+            <cb/>the fated sorrow of the marriage, for Satyavat
+            is doomed to die young, and only one
+            <cb/>
+            more year remains of his life. Savitri,
+            however, has made her choice.</p>
+            <lg type="stanza"><l>"Let his years be few or many, high or humble be his lot,</l>
+            <l><hi rend="italic">Him</hi> my inmost heart has chosen, and again it chooses not."</l></lg>
+            <p>The lovers are therefore married, and the
+            first few months of their forest life glide
+            only too swiftly away, and gloom gathers
+            over the wife's mind as the fatal term approaches.
+            Day after day she spends in
+            prayers and penances to avert, if possible,
+            the unalterable sentence; but her heart
+            hides its sad secret in itself, and to her
+            <cb/>
+            husband she seems as cheerful as before.
+            At length the morning dawns which closed
+            the year; and Satyavat rises to go to the
+            forest, to cleave wood. Savitri entreats that
+            she may go with him, and at last he consents,
+            little thinking of the sad meaning
+            which lay under her words.</p>
+            <lg type="stanza"><l>"Having thus obtained his leave, to the wood she followed him,</l>
+                <l>With an aching heart within her, but a smile upon her face.</l>
+                <l>On she wandered with her husband, through the pleasant painted woods,</l> 
+                <l>And beheld their flocks of peacocks sporting in the happy spring,</l>
+                <l>And with joy he pointed out the flowering trees which o'er them hung,</l>
+                <l>And the stately flowing rivers, gleaming through the forest paths;</l>
+                <l>But from these her eyes in sorrow ever to her husband turned,</l>
+                <l>Ever as the Rishi's sentence came to memory rushing back;</l>
+                <l>Ever as they roamed together, to the Rishi's prophecy</l>
+                <l>Turned her thoughts with dark foreboding, and her heart seemed cleft in twain."</l></lg>
+            <cb/><p>At length they reach the spot, and Satyavat
+                begins his task, when he suddenly complains
+                of a pain in his head, and Savitri
+                knows that the hour has come. She takes
+                his head on her bosom, and there he falls
+                asleep, and she watches over him until she
+                sees standing beside them a dark figure,
+                whom she knows by her heart's instincts
+                to be Yama, the king of death. He seizes
+                <cb/>
+                the body, and binds his fatal band around it,
+                and has begun to drag it away, when Savitri
+                follows him, and implores him not to
+                leave her behind. Yama, in pity for her anguish,
+                grants her a boon of anything except
+                her husband's life, and she chooses that her
+                old father-in-law may receive his sight.
+                Yama exclaims&#8212;</p>
+            <lg type="stanza"><l>"Noble one, I grant thy wish; as thou hast said, so shall it be;</l>
+            <l>Long and weary is the way; return, return, and sorrow not."</l></lg>
+            <cb/><p>Still she lingers, and again Yama grants
+            her a second boon with the same limitation;
+            but still the bereaved wife lingers. A long
+            conversation then follows between them;
+            <cb/>
+            and at last love conquers death! Yama
+            again grants her a boon, and Savitri exclaims&#8212;</p>
+            <lg type="stanza"><l>"Mighty lord, the boon thou grantest cometh as a real boon;</l>
+            <l>No exception <hi rend="italic">now</hi> debars me, as thine other boons debarred;</l>
+            <l>Give my husband back to me; grant me my boon, and let him live;</l>
+            <l>What is joy, or wealth, or fortune, if my husband be not there?"</l></lg>
+            <cb/><p>Yama then departs, and Satyavat wakes
+                back again into life.</p>
+            <p>We have no space for the beautiful conversation
+                which follows between the husband
+                and wife; where she hides the dark secret
+                from him, and only urges him to hasten
+                home, as it is now quite night. They accordingly
+                return to the hermitage, and Satyavat
+                finds his father no longer blind; and
+                the hermits all ask him the reason for the
+                unexpected restoration of the old man's
+                sight. Satyavat is as much astonished as
+                the rest; and then Savitri opens her full
+                heart and reveals the whole story.</p>
+            <span rend="bracket-left" hand="#h5" xml:id="s59" from="#s59" to="#s60"/><p>Our last extract from the Mahabharata
+                <note type="authorial" resp="#h5" place="left" corresp="#s59">☝</note><cb/>
+                shall be the closing scene of the poem; and
+                here the heroic poetry of India attains its
+                full! We know of no episode, even in the
+                Homeric poems, which can surpass its mournful
+                grandeur, or raise a more solemn dirge
+                over the desolation of the fallen heart of man!
+                Yudishthira has won the throne, and his
+                enemies are all fallen; and an inferior poet
+                would have concluded the story with a
+                pæan upon his happiness! But the Hindu
+                bard had a far deeper insight into man's nature,
+                and his genius would not content itself
+                with any such commonplace catastrophe;
+                he knew well that the human soul
+                was born for the infinite, and that no finite<anchor xml:id="s60"/>
+                <pb xml:id="leaf007v" facs="mid.00011.012.jpg" type="verso"/>
+                <cb/>line could fathom the depths of its longings!
+                It was no idle fiction in Grecian mythology,
+                that Ulysses, after his return to Ithaca,
+                <cb/>
+                wandered forth again with his hungry heart
+                into the world.</p>
+            <lg type="stanza"><l>"For all experience is an arch, where thro'</l>
+            <l>Gleams that untraversed land, whose margin fades</l>
+            <l>For ever and for ever as we move."</l></lg>
+            <cb/><p>And Ulysses had found that the Ithaca,
+                which had lured him on through ten years
+                of war, and ten more of wandering, changed,
+                upon his arrival, into a bleak barren
+                rock, and his restless soul stretched out her
+                hands once more towards the untrodden
+                beyond! Just in the same way, and with
+                the same deep significance, Yudishthira
+                learns, after his victory, that the throne for
+                which he had suffered so much leaves him
+                as unsatisfied and hungry as before. The
+                friends of his youth are fallen, and the
+                excitement of contest is over; and he learns
+                <cb/>
+                in sorrow that kings are but men, and that
+                the Fall has overshadowed the throne as
+                much as the poorest cottage! In gloomy
+                disappointment, Yudishthira resigns his
+                crown, and he and his brothers and Draupadi
+                set out in a forlorn journey to mount
+                Meru, where Indra's heaven lies amongst
+                the wilds of the Himalayas,* there to find
+                that rest which seemed denied to their
+                search upon earth. We present a literal
+                prose version of their pilgrimage, and with
+                it close our extracts.</p>
+            <lg type="stanza" n="I.">
+                <l>"Having heard Yudishthira's resolve, and seen the destruction of Krishna,</l>
+                    <l>The five brothers set forth, and Draupadi, and the seventh was a dog that followed them.</l>
+                <note type="authorial" resp="#h5" place="left">¶</note><milestone unit="undeclared" rend="horbar-short-left"/>    
+                <l>Yudishthira himself was the last that quitted Hastinapura;</l>
+                    <l>And all the citizens and the court followed them on their way,</l>
+                    <l>But none felt able to say unto him, "return;"</l>
+                    <l>And at length they all went back unto the city.</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Then the high-souled sons of Pandu, and far-famed Draupadi</l>
+                    <l>Pursued their way, fasting and with their faces turned towards the east,</l>
+                    <l>Resolved upon separation from earth, and longing for release from its laws;</l>
+                    <l>They roamed onward over many regions, and to many a river and sea.</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Yudishthira went before, and Bhima followed next behind him,</l>
+                    <l>And Arjuna came after him, and then the twin sons of Madri,</l>
+                    <l>And sixth, after them, came Draupadi, with her fair face and lotus eyes,</l>
+                    <l>And last of all followed the dog, as they wandered on till they came to the ocean.</l>
+                <note type="authorial" resp="#h5" place="left">¶</note><note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>But Arjuna left not hold of his heavenly bow,</l>
+                    <l>Lured by the splendour of its gems, nor of those two heavenly arrows;</l>
+                    <l>And suddenly they saw Agni<ref target="#note4">+</ref> standing like a mountain before them,</l>
+                    <l>Standing in gigantic form, and stopping up their path;</l>
+                    <l>And thus to them spoke the god,&#8212;'O sons of Pandu, do you know me not?</l>
+                <l>O Yudishthira, mighty hero, knowest thou not my voice?</l>
+                    <l>I am Agni, who gave that bow unto Arjuna;</l>
+                    <l>Let him leave it here and go, for none other is worthy to bear it;</l>
+                    <l>For Arjuna's sake I stole that bow from Varuna, the ocean-god,</l>
+                    <l>Let Gandhiva, that best of bows, be given back to ocean again!'</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Then the brothers all besought Arjuna to obey;</l>
+                    <l>And he flung the bow into the sea, and he flung those immortal arrows;</l>
+                    <l>And lo! as they fell into the sea, Agni vanished before them.</l>
+                <note type="authorial" resp="#h5" place="left">¶</note><note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>And once more the sons of Pandu set forth, with their faces turned to the south.</l>
+                    <l>And then by the upper shore of the briny sea</l>
+                    <l>They turned toward the south-west, and went on in their way.</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>And as they journeyed onwards, and came unto the west,</l>
+                    <l>There they beheld the old city of Krishna, now washed over by the ocean-tide.</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Again they turned to the north, and still they went on in their way,</l>
+                    <l>Circumambulating round the continent, to find separation from earth.</l>
+            </lg>
+            <lg type="stanza" n="II.">
+                <l>Then, with their senses subdued, the heroes having reached the north,</l>
+                <l>Beheld, with their heaven-desiring eyes, the lofty mountain Himavat,</l></lg>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p>*This is, in fact a precise counterpart to the legend of Ulysses, as Tennyson describes it in his
+                poem;&#8212;the most epic fragment since Milton's days.</p>
+                <lg type="stanza" rend="centered"><l>"For my purpose holds</l>
+                <l>To sail unto the West, until I die.</l>
+                <l>It may be that the gulfs will wash us down,</l>
+                <l>It may be we shall reach the blessed isles,</l>
+                <l>And see the great Achilles, whom we knew."</l>
+                <note type="footnote" xml:id="note4">The God of Fire from whom Arjuna had obtained the bow Gandhiva.</note>
+                <pb xml:id="leaf008r" facs="mid.00011.013.jpg" type="recto"/>
+                <fw type="date" place="top left">1848</fw>
+                <fw type="header" place="top" rend="italic">Indian Epic Poetry.</fw>
+                <fw type="pageNum" place="top right">31</fw>
+                    <l>And having crossed its height, they beheld the sea of sand,</l>
+                        <l>And next they saw rocky Meru, the king of mountains.</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;</note>    
+                    <l>But while they were thus faring onwards, in eager search for separation,</l>
+                        <l>Draupadi lost hold of her hope, and fell on the face of the earth;</l>
+                        <l>And Bhima the mighty having beheld her fall,</l>
+                    <l>Spoke to the king of justice,<ref target="#note5">*</ref> looking back to her, as there she lay,</l>
+                        <l>'No act of evil hath she done, that faultless daughter of a king,</l>
+                        <l>Wherefore, then, oh conqueror! hath she fallen thus low on the ground?'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                        <l>And thus to him answered Yudishthira, 'too great was her love for Arjuna,</l>
+                    <l>And the fruit thereof, oh Bhima! hath she gathered this day.'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Thus speaking, Bharata's glorious descendant went onwards, not looking back,</l>
+                        <l>Gathering up his soul in himself in his unstooping wisdom and justice.</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;</note>
+                    <l>Next the fair Sahadeva fell upon the face of the earth,</l>
+                        <l>And Bhima, beholding him fall, thus spake to the king;</l>
+                        <l>'Oh Yudishthira, <hi rend="italic">he</hi> the greatest, the least froward and wilful of us all,</l>
+                        <l>He the son of fair Madri,&#8212;wherefore hath he fallen on the ground?'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                       <l>And him thus answered Yudishthira, 'He esteemed none equal to himself,</l>
+                    <l>This was his fault, and therefore hath the Prince fallen this day.'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>Thus speaking, he left Sahadeva, and went on,</l>
+                    <l>Yudishthira, king of justice, with his brothers and the dog.</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>But when Nakula saw the fall of Draupadi and his brother,</l>
+                    <l>The hero, full of love for his kindred, in his grief fell down like them to the earth,</l>
+                    <l>And when Nakula, the fair-faced, had thus fallen like the others,</l>
+                    <l>Once more, in his wonder, spoke Bhima unto the king;</l>
+                    <l>'What! <hi rend="italic">he</hi> the undeviating in virtue, ever true to his honour and faith,</l>
+                    <l>Unequalled for beauty in the world,&#8212;hath he too fallen on the ground?"</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>And him thus answered Yudishthira, 'Ever was the thought in his heart,</l>
+                    <l>"There is none equal in beauty to me, and I am superior unto all!"</l>
+                    <l>Therefore hath Nakula fallen; come Bhima, and follow my steps;</l>
+                    <l>Whatsoever each hath done, assuredly he eateth thereof.'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>And when Arjuna beheld them thus fallen behind him,</l>
+                    <l>He too, the great conqueror, fell, with his soul pierced through with sorrow;</l>
+                    <l>And when he, the lion-heart, was fallen, like Indra himself in majesty,</l>
+                    <l>When he, the invincible, was dead, once more Bhima spoke unto the king;</l>
+                    <l>'No act of evil do I remember in all that Arjuna hath done;</l>
+                    <l>Wherefore then is this change, and why hath he too fallen on the ground?"</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>And him thus answered Yudishthira, '"In one day I could destroy all my enemies,"</l>
+                    <l>Such was Arjuna's boast, and he falls, for he fulfilled it not!</l>
+                    <l>And he ever despised all warriors beside himself,</l>
+                    <l>This he ought not to have done, and therefore hath he fallen to-day.'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>Thus speaking, the king went on, and then Bhima himself next fell to the earth,</l>
+                    <l>And as he fell, he cried with a loud voice unto Yudishthira;</l>
+                    <l>'Oh king of justice, look back, I&#8212;[ thy dear brother am fallen,</l>
+                    <l>What is the cause of my fall! Oh tell it to me if thou knowest!'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>Once more him answered Yudishthira, 'When thou gazed'st on thy foe,</l>
+                    <l>Thou hast cursed him with thy breath, therefore thou too fallest to-day.'</l>
+                    <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l>Thus having spoken, the mighty king, not looking back, went on,</l>
+                    <l>And still, as ever, behind him, went following that dog alone!"</l></lg>
+            <lg type="stanza" n="III.">
+                    <l>"Lo! suddenly with a sound which ran through heaven and earth,</l>
+                        <l>Indra came riding on his chariot, and he cried to the king, 'ascend!'</l>
+                <note type="authorial" resp="#h5" place="left">&#8212;&#8212;</note>
+                    <l><hi rend="italic">Then</hi>, indeed, did the lord of justice look back to his fallen brothers,</l>
+                        <l>And thus unto Indra he spoke, with a sorrowful heart:&#8212;</l>
+                        <l>'Let my brothers, who yonder lie fallen, go with me,</l>
+                        <l>Not even into thy heaven would I enter, if they were not there;</l>
+                        <l>And yon fair-faced daughter of a king, Draupadi the all-deserving,</l>
+                        <l>Let <hi rend="italic">her</hi> too enter with us! Oh Indra, approve my prayer!'</l>
+                    <l>INDRA.</l>
+                        <l>In heaven thou shalt find thy brothers, they are already there before thee,</l>
+                        <l>There are they all, with Draupadi; weep not then, O son of Bharata!</l>
+                    <l>Thither are they entered, prince, having thrown away their mortal weeds,</l>
+                    <l>But thou alone shalt enter, still wearing thy body of flesh.</l>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <note type="footnote" place="bottom" xml:id="note5">*The usual title of Yudishthira.</note>
+                <pb xml:id="leaf008v" facs="mid.00011.014.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">32</fw>
+                <fw type="header" place="top" rend="italic">Causes of Poverty.</fw>
+                <l>YUDISHTHIRA.</l>
+                    <l>Oh Indra, and what of this dog? It hath faithfully followed me through;
+                    Let it go with me into heaven, for my soul is full of compassion.</l>
+                    <l>INDRA.</l>
+                    <l>Immortality and fellowship with me, and the height of joy and felcity,</l>
+                    <l>All these hast thou reached to day; leave then the dog behind thee</l>
+                    <l>YUDISHTHIRA.</l>
+                    <l>The good may oft act an evil part, but never a part like this;</l>
+                    <l>Away then with that felicity whose price is to abandon the faithful.</l>
+                    <l>INDRA.</l>
+                    <l>My heaven hath no place for dogs; they steal away our offerings on earth,</l>
+                    <l>Leave then thy dog behind thee, nor think in thy heart that it is cruel.</l>
+                    <l>YUDISHTHIRA.</l>
+                    <l>To abandon the faithful and devoted, is an endless crime, like the murder of a Brahmin,</l>
+                    <l>Never, therefore, come weal or woe, will I abandon yon faithful dog.</l>
+                    <l>Yon poor creature, in fear and distress, hath trusted in my power to save it;</l>
+                    <l>Not, therefore, for e'en life itself, will I break my plighted word.</l>
+                    <l>INDRA.</l>
+                    <l>If a dog but beholds a sacrifice, men esteem it unholy and void;</l>
+                    <l>Forsake then the dog, O hero, and heaven is thine own as a reward.</l>
+                    <l>Already thou hast borne to forsake thy fondly-loved brothers, and Draupadi,</l>
+                    <l>Why then forsakest thou not the dog? Wherefore now fails thy heart?</l>
+                    <l>YUDISHTHIRA.</l>
+                    <l>Mortals, when they are dead, are dead to love or hate, so runs the world's belief;</l>
+                    <l>I could not bring them back to life, but while they lived I never left them.</l>
+                    <l>To oppress the suppliant, to kill a wife, to spoil a Brahmin, and to betray one's friends,</l>
+                    <l>These are the four great crimes; and to forsake a dependent, I count equal unto them."</l></lg>
+                <cb/><p>Yudishthira then enters heaven; but one
+                more trial awaits him. He finds there Duryodhana
+                and the other suns of Dhritarashtra,
+                but he looks in vain for his own brothers.
+                He refuses to stay in the Swerga
+                without them, and a messenger is sent to
+                bring him where they are. He descends to
+                the Indian hell, and finds them there; and
+                he proudly resolves to stay with them and
+                share their sorrows, rather than dwell in
+                heaven without them. But the whole scene
+                was only a <hi rend="italic">máyá</hi>, or illusion to prove his
+                    virtue; the sorrows suddenly vanish, the
+                    surrounding hell changes into heaven, where
+                    Yudishthira and his brothers dwell with
+                    Indra, in full content of heart for ever.</p>
+                <p>Thus closes the Mahabharata, the new
+                    mythic world, which a modern Columbus
+                    has opened! Greatly as our times are distinguished
+                    by discovery and progress, we
+                    are yet continually reminded, amidst its
+                    changes, of that world of the Past, out of
+                    which the Present is born. The century
+                    which has witnessed such onward strides of
+                    physical and political science, has also unlocked
+                    the secrets of the hieroglyphics of
+                    Egypt. Major Rawlinson is now giving a
+                    <cb/>
+                    voice to dumb inscriptions upon Persian
+                    rocks; and, in the same way, in India's
+                    mythic poetry we become contemporaries
+                    with Greece's earliest history. The heroic
+                    times and youth of the race thus rise up in
+                    earth's later days, in startling contrast with
+                    our science and commerce, as if Nature
+                    would expressly teach us, that there lies a
+                    romance in the past which can never grow
+                    obsolete to man; and howsoever our civilization
+                    may change us, and under all the
+                    new developments of the human race, the
+                    memories of old ages will still survive and
+                    come back to us, like the stories of childhood
+                    among the sterner realities of manhood!
+                <!--<hi rend="right">C.</hi>--></p>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <del rend="hashmark" hand="#h5"><p>ART. III.&#8212;1. <hi rend="italic">Le Moniteur de Juillet</hi> 3,
+                1848.</p>
+                <p>2.&#8212;<hi rend="italic">Principles of Political Economy.</hi> By
+                J. S. Mill. Parker.</p>
+                <p>T<hi rend="smallcaps">HE</hi> following remarks, in reference to the
+                sufferings of the working classes, were made
+                by M. Thiers, in a committee of the Na</p></del>
+        </body>
+    </text>
+</TEI>

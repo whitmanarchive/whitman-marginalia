@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00109">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                <title level="m" type="main">Annual Report</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2010</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno>loc.00109</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project" target="#dat1"><!-- when was this manuscript written? --></note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="al">Ashley Lawson</persName> <persName xml:id="tj">Tim Jackson</persName>
+                </note>
+            </notesStmt>
+            
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>          
+                    <title>Annual Report</title> 
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">HM 94</idno> <!-- find name --> <!-- [TJ] Should this be YCAL MSS 202? -->
+                    <orgName>Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library</orgName>
+                    <note type="project">Transcribed from our own digital image of the original manuscript.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2011-02-01" who="#tj">Checked, corrected, queried</change>
+            <change when="2011-01-31" who="#al">Transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text type="manuscript">
+        
+        <body>
+            
+            <pb xml:id="leaf001v" facs="loc.00109.001_large.jpg" type="recto"/>
+            <!-- Should I transcribe printed text? -->
+            
+            <pb xml:id="leaf002r" facs="loc.00109.002_large.jpg" type="recto"/>
+            <pb xml:id="leaf002v" facs="loc.00109.003_large.jpg" type="verso"/> 
+            
+            <pb xml:id="leaf003r" facs="loc.00109.004_large.jpg" type="recto"/>
+            <pb xml:id="leaf003v" facs="loc.00109.005_large.jpg" type="verso"/> 
+            
+            <note type="authorial" place="margintopright">about 2500 now (Jan 29) in Gen Hospitals</note>
+            
+            <pb xml:id="leaf004r" facs="loc.00109.006_large.jpg" type="recto"/>
+            <pb xml:id="leaf004v" facs="loc.00109.007_large.jpg" type="verso"/> 
+            
+            <pb xml:id="leaf005v" facs="loc.00109.009_large.jpg" type="verso"/> 
+            
+            
+            <pb xml:id="leaf006r" facs="loc.00109.010_large.jpg" type="recto"/>
+            
+            <head type="main-derived">Baltimore</head>
+            
+            <ab>Baltimore</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>Hicks Gen Hospital <add place="infralinear" rend="unmarked">300 patients</add></ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>Harewood (Dr. Bontecu)<!-- [TJ] Unsure if "Bonteca"? --> Kalorama <unclear reason="illegible" cert="low" resp="al">spn</unclear> pose<!-- [TJ] Suggest "sm pox ix"--> is for citizen  <add place="infralinear" 
+                rend="unmarked">250</add></ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>De <del rend="overstrike">K</del>Camp at Davids Island N.Y <add place="infralinear" rend="unmarked"><del rend="overstrike">23</del> 300 patients</add></ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>Tennessee Cumberland at Nashville</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>st. Louis Marine US Gen Hosp</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>S. Carolina one at Hilton Head</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>New Orleans the Sedgwick <add place="infralinear" rend="unmarked">US</add></ab>
+            
+            <pb xml:id="leaf006v" facs="loc.00109.011_large.jpg" type="verso"/>
+            
+            <ab>Little Rock Ark</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>then there are post hospitals wherein <!-- [TJ] Suggest "wherever" for "wherein" --><gap reason="illegible" extent="unk"/> troops are located</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>by spring there will not be a single General Hospital left&#8212;</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>There were 1489 patients in the U.S. Gen Hospital on 20th of January.</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>in May 65, 75,324 <add place="supralinear" rend="unmarked">patients</add><!-- [TJ] Unsure of reading of "patients" --> 200 Gen <unclear reason="illegible" cert="low">Hosps</unclear> in May '65</ab>
+            <note place="marginbottom" type="editorial" resp="unk">1792</note>
+            <pb xml:id="leaf007r" facs="loc.00109.012_large.jpg" type="recto"/>            
+             
+            
+        </body>
+    </text>
+</TEI>
+
+
+
+

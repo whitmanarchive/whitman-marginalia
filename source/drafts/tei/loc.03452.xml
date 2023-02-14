@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03452">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Encheiridion of Epictetus</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="ep">Epictetus</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="cb">Caterina Bernardini</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.03452</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1"></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>The Encheiridion of Epictetus</title>
+                    <idno type="callno">B561.E6 E5 Copy 2</idno>
+                    <date></date>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Epictetus</author>
+                    <title>The Encheiridion of Epictetus</title>
+                    <title>Occasional Pieces of Poetry</title>
+                    <date when="1881">1881</date>
+                    <publisher>Kegan Paul, Trench, &amp; Co.</publisher>
+                    <pubPlace>London</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="type"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="red-ink"/>
+                <handNote xml:id="h4" scribeRef="#ww" medium="pink-pencil"/>
+                <handNote xml:id="h5" scribeRef="#ww" medium="blue-pencil"/>
+                <handNote xml:id="h6" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#cb" when="2018-08-03">checked and corrected</change>
+            <change who="#lmg" when="2012-04-01">Transcribed and encoded.</change>
+            <change who="#nhg" when="2012-05-20">Checked, revised.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <front>
+                <pb xml:id="leaf001r" facs="loc.03452.001.jpg" type="recto"/>
+            <titlePage>
+                    <note type="authorial" place="top" resp="#h2" rend="circled">Walt Whitman</note>
+                <docTitle><titlePart type="main"><handShift new="#h1"/><hi rend="smallcaps">THE</hi> E<hi rend="smallcaps">NCHEIRIDION OF</hi> E<hi rend="smallcaps">PICTETUS</hi></titlePart></docTitle>
+            <byline rend="smallcaps">TRANSLATED FROM THE GREEK
+            WITH PREFACE AND NOTES BY
+            T. W. H. ROLLESTON, B.A., T.C.D.</byline>
+            <note type="authorial" resp="#h3" place="interlinear"><unclear reason="illegible" resp="#lmg">E</unclear> is not (this trans: <choice><abbr>w'd</abbr><expan>would</expan></choice> say) in
+            the interest of the ascetic doctrines</note>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <note type="authorial" resp="#h3" place="interlinear">Be bold&#8212;Be bold&#8212;Be bold&#8212;be not
+            too bold.
+            <milestone unit="undeclared" rend="horbar-short-left"/></note>
+            <docImprint><pubPlace>L<hi rend="smallcaps">ONDON</hi></pubPlace>
+            <name><hi rend="smallcaps">KEGAN PAUL, TRENCH, &#38; CO.</hi></name>
+            <docDate><hi rend="smallcaps">MDCCCLXXXI</hi></docDate></docImprint></titlePage>
+        </front>
+        <body>
+            <div1 type="notes">
+            <pb xml:id="leaf002r" facs="loc.03452.002.jpg" type="recto"/>
+            <ab><handShift new="#h2"/><hi rend="underline">Walt Whitman</hi>
+            (sent me by my friend
+            the translator <hi rend="underline">TWH
+            Rolleston</hi>, from Dresden
+            Saxony) 1881</ab>
+            <ab><handShift new="#h4"/><hi rend="underline">March&#8212;1886</hi>&#8212;T W R is now
+            in Ireland, (Delgany, County
+            Wicklow)&#8212;&#38; edits the <hi rend="underline">Dublin</hi>
+            <hi rend="underline">University</hi> <subst><del rend="overstrike" hand="#h5" seq="1"><add rend="unmarked" place="supralinear">?</add><hi rend="underline">Magazine</hi></del><add rend="unmarked" place="supralinear" seq="2"> Review</add></subst><add rend="unmarked" place="inline"><handShift new="#h5"/>&#8212;<hi rend="underline" hand="#h3">seems to
+            have <subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#lmg">left</unclear></del><add rend="overwrite" place="over" seq="2"><handShift new="#h3"/>left</add></subst></hi></add><handShift new="#h5"/></ab>
+            <milestone unit="undeclared" rend="horbar-short-right"/>
+            <ab>from 1881 to '88&#8212;Have had
+            this little Vol. at hand or
+            <hi rend="underline">in</hi> my hand often all these
+            years&#8212;<add rend="unmarked" place="supralinear"><handShift new="#h3"/>&#8212;<hi rend="underline">have read it over &#38; over
+            &#38; over</hi></add></ab>
+            <ab><handShift new="#h6"/>&#8212;Translated a good part <add rend="insertion" place="supralinear"><handShift new="#h3"/><choice><abbr>pub'd</abbr><expan>published</expan></choice> in Zurich, Switzerland</add> <handShift new="#h6"/>of <choice><abbr>L of G</abbr><expan>Leaves of Grass</expan></choice>
+            (with conjunction of Dr Knortz) into
+            German&#8212;being printed (I hear) in Nov. '88
+            in Zurich, Switzerland</ab>
+            <pb xml:id="leaf003r" facs="loc.03452.003.jpg" type="recto"/>
+            <ab>This translation in a little German
+            booklet&#8212;"Grashulme"&#8212;was printed in
+            Zurich, Switzerland, early in 1889<handShift new="#h3"/></ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab><hi rend="underline">write this Nov. 7 '89</hi>&#8212;Have been
+            laid up the last 18 or 19 months
+            here in my room Mickle St:
+            Camden&#8212;A splendid sunny
+            day as I write&#8212;Am feeling
+            pretty fairly&#8212;almost utterly
+            disabled in bodily movement
+            (walking, getting <choice><abbr>ab't</abbr><expan>about</expan></choice> leg-action)
+            Warren Fritzinger (my "sailor
+            boy") nurse &#38; help&#8212;first rate
+            massages, pummelings &#38;c:&#8212;
+            write away occasionally (poemets &#38;c)
+            &#8212;am now nearly 70&#189; years old
+            &#8212;the physical brain must be
+            unwell&#8212;bladder trouble&#8212;
+            &#8212;with all, the body (form &#38;
+            flesh) must be in almost <choice><orig>mark-
+            edly</orig><reg>markedly</reg></choice> good condition&#8212;spirits
+            buoyant</ab>
+            <ab>Walt Whitman</ab></div1>
+            <pb xml:id="leaf004v" facs="loc.03452.004.jpg" type="verso"/><div1 type="text">
+            <fw type="pageNum" place="top left"><handShift new="#h1"/>vi</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+            <p>tion.<ref target="#fn1">1</ref> Arrian also wrote a Life of Epictetus,
+                now unfortunately lost. The few facts about
+                him which we know with any approach to
+                certainty are&#8212;that he was born at Hierapolis
+                in Phrygia; that he became (how is unknown)
+                slave to Epaphroditus, a freedman and favourite
+                of Nero; that while in his master's service he
+                attended the philosophic lectures<ref target="#fn2">2</ref> of a Stoic,
+                C. Musonius Rufus; that he somehow obtained
+                his freedom, and was banished from
+                Rome about the year 90 A.D., when the tyrant
+                Domitian, by a public edict, 'cleared Rome of
+                what most shamed him,' the teachers of philosophy;
+                that he then settled in Nicopolis, a
+                city of Epirus, where he taught publicly for</p>
+                <note xml:id="fn1" n="1" type="footnote" anchored="true" place="bottom">Besides the <hi rend="italic">Encheiridion</hi> and the <hi rend="italic">Discourses</hi> we have also
+                of Epictetus a large number of sayings and maxims, preserved
+                for us in certain philosophic anthologies compiled by monks in
+                the sixth to the ninth centuries. A selection from these will be
+                found translated in this book at the end of the <hi rend="italic">Encheiridion</hi>.</note>
+                <span rend="singleLine-left" hand="#h6" from="#fn2"/><note xml:id="fn2" n="2" type="footnote" anchored="true" place="bottom">It appears to have been considered fashionable, among
+                    Roman nobles of the time, to possess philosophers and men
+                    of culture as slaves. A curious modern illustration of this
+                    whim will be found in <hi rend="italic">About Some Fellows</hi>, by an Eton Boy,
+                    p. 179.</note>
+                <fw type="catch" place="bottom right">many</fw>
+            <pb xml:id="leaf005v" facs="loc.03452.005.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">x</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+            <p>these things I endeavoured to set down in his very
+                words, that having written them I might preserve
+                to myself for future times a memorial of his thought
+                and unstudied speech. Naturally, therefore, they
+                are such things as one man might say to another
+                on the impulse of the moment, not such as he would
+                write in the idea of finding readers long afterwards.
+                Such they are, and I know not how, without my will
+                or knowledge, they fell among men. [There seems
+                to have been a 'pirated' edition of Arrian's private
+                memorials brought out, which he would have been
+                unwilling to let appear, could he have helped it, in
+                their crude state.] But to me it matters little if I
+                <span rend="singleLine-left" hand="#h6" xml:id="s1" from="#s1" to="#s2"/>shall appear an incompetent writer, and to Epictetus
+                not at all, if anyone shall despise his words.
+                For when he was speaking them it was evident that
+                he had only one aim&#8212;to stir the minds of his
+                hearers towards the best things.<anchor xml:id="s2"/> And if, indeed, the
+                words here written should do this, then they will
+                do, I think, that which the words of philosophers
+                ought to do. But if not, let those who read them
+                know this, that when he himself spoke them
+                it was impossible for the hearer to avoid feeling whatever
+                Epictetus desired he should feel. And if his words,
+                when they are merely words, have not this effect,
+                <fw type="catch" place="bottom right">perhaps</fw>
+                <pb xml:id="leaf006r" facs="loc.03452.006.jpg" type="recto"/>
+                perhaps it is that I am in fault, perhaps it could not
+                have been otherwise.</p>
+            <p>The style of the <hi rend="italic">Discourses</hi> answers very
+                well to the above account of their origin and
+                purpose. They are brightly and vividly written,
+                containing passages of great interest, but are,
+                as a whole, wanting in unity and coherent
+                development. Moreover, there is a great deal
+                of this unsystematic record of Epictetus' daily
+                conversation. The eight books must have made
+                up a volume sufficiently bulky and expensive
+                to prevent the slave-philosopher from being
+                very widely read among the class for whom
+                his teaching was intended. And it is particularly
+                important to notice that it was by no
+                means intended for aristocratic amateurs in
+                Stoicism, but for men subject every day to the
+                stress of life,<ref xml:id="ref3">1</ref> workers, to whom a philosopher
+                <span rend="singleLine-right" hand="#h6" from="#fn3"/><note xml:id="fn3" next="#fn3b" type="footnote" n="1" anchored="true" place="bottom">Epictetus never will be a favourite author with those who
+                    take a mere literary pleasure in hearing fine things finely
+                    said about morality and inward freedom. I have noticed that</note>
+            <fw type="catch" place="bottom right">must</fw>
+            <pb xml:id="leaf006v" facs="loc.03452.007.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xii</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                must speak clearly and briefly if he would have
+                a chance of being listened to. It seems likely,
+                then, that it was considerations such as these
+                which induced Arrian to put together the leading
+                principles of his master's teaching in that
+                inestimable little work known as the <hi rend="italic">Encheiridion</hi>,
+                or Handbook, of Epictetus.</p>
+            <p>The result has shown how wisely Arrian
+                judged of the means necessary to make Epictetus'
+                influence widely felt, and to give him a
+                permanent hold upon the human mind. For
+                the <hi rend="italic">Encheiridion</hi>, as the saying is, <hi rend="italic">took</hi>; offering,
+                as it did, an easy means of approach to the
+                mind of a great thinker and an excellent
+                subject for commentators and translators who
+                wished to spread his views.<ref target="#fn4">1</ref> With its richness</p>
+                <span rend="singleLine-left" hand="#h6" from="#fn3b"/><note xml:id="fn3b" prev="#fn3" type="footnote" place="bottom">in Montaigne (who has Seneca always on his lips) there are
+                very few references to Marcus Aurelius, and I think only one to
+                Epictetus (<hi rend="italic">Ench</hi> vi.).</note>
+                <note xml:id="fn4" n="1" type="footnote" anchored="true" place="bottom"> One remarkable feature of its history is the exhaustive
+                    Commentary written on it by Simplicius in the sixth century,
+                    wherein chapter after chapter of the <hi rend="italic">Encheiridion</hi> is dissected,
+                    discussed, and its lessons of edification drawn out with a rather
+                    unprofitable laboriousness. Simplicius was a pagan; but
+                    Christians, too, paid honour to this 'king of old philosophy.'
+                    Adaptations of the <hi rend="italic">Encheiridion</hi> were made especially for their</note>
+                <fw type="catch" place="bottom right">in</fw>
+            <pb xml:id="leaf007v" facs="loc.03452.008.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xiv</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+            <p>Epictetus in his entirety, but who might be glad,
+                nevertheless, to have a guide to plain living and
+                high thinking which can find room in a traveller's
+                knapsack or a sailor's chest.</p>
+            <p>The value of the <hi rend="italic">Encheiridion</hi>, like that of
+                every book which contains a revelation and a
+                doctrine, must be tested, to a large extent at
+                least, by the proveable reality of the facts which
+                it declares and on which it builds. If these
+                facts, in the case of Stoicism, are, as many
+                seem to think, mere philosophic fancies, incapable
+                of being widely verified in common
+                <span rend="singleLine-right" hand="#h6" xml:id="s5" from="#s5" to="#s6"/><!--Checkmark next to this line. WW's hand? Stray mark?-->experience, then let not all the lives which it
+                has influenced and ennobled persuade us to
+                take Stoicism, as a system, into any serious<anchor xml:id="s6"/>
+                consideration. But is this so? or is not rather
+                the main thesis of Stoicism a genuine and
+                profound discovery of capacities which really
+                exist in average humanity, and of paths which
+                it can naturally and happily follow?</p>
+            <p>Without here noticing what is limited or
+                mistaken in the teaching of the <hi rend="italic">Encheiridion</hi>,
+                <fw type="catch" place="bottom right">let</fw>
+            <pb xml:id="leaf008r" facs="loc.03452.009.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">PREFACE.</fw>
+            <fw type="pageNum" place="top right">xv</fw>
+            let me devote a few pages towards offering a
+                mere suggestion of its basis and drift, as they
+                appear to me.</p>
+            <span rend="singleLine-right" hand="#h6" xml:id="s7" from="#s7" to="#s8"/><p>In the first place it must be understood that
+                Epictetus is not a philosopher in the sense in
+                which that word is generally used now. About
+                the origins and destinies of things he is strictly
+                silent, no shadow of an explanation of any
+                metaphysical problem is to be found in him.
+                The end of his teaching is simply to take the
+                sting from human misery by showing that
+                man is not, as was believed, the plaything
+                of Fortune&#8212;that there is a way in which he
+                can set his well-being beyond the reach of all
+                forces which he cannot control. <span rend="singleLine-right" hand="#h4" xml:id="s9" from="#s9" to="#s8"/><span rend="singleLine-left" hand="#h4" xml:id="s10" from="#s10" to="#s8"/>Stoicism, as
+                represented by Epictetus, makes no attempt
+                to transcend the limits of what can be actually
+                felt, now and here. It rests upon a profound
+                appreciation of the distinction between what
+                we may call a man's real and permanent, and
+                his transitory or phantasmal self.<anchor xml:id="s8"/> The first
+                man who was ever consciously a Stoic (there
+            <fw type="sig" place="bottom">a</fw> <fw type="catch" place="bottom right">have</fw>
+            <pb xml:id="leaf008v" facs="loc.03452.010.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xvi</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                have been and are many unconscious ones)
+                was he who first looked upon the world and
+                his own nature, and observed that the things
+                wherein he was subject to fatality and chance,
+                which he was unable to order at his own will,
+                were just those which either did not affect
+                <hi rend="italic">him</hi>, his real self, at all; or affected him only
+                as he desired they should. The question,
+                then, about Stoicism, is this, Is this distinction
+                between the real and phantasmal self a valid
+                one&#8212;is it founded upon natural truth? Now,
+                let no friend of the Association philosophy
+                imagine that in this 'real self' of Epictetus he
+                is being confronted with his ancient enemy, the
+                Ego. To say that <hi rend="underline" hand="#h3">there is a real self</hi> and that
+                <hi rend="underline" hand="#h3">there is a phantasmal self</hi> need imply no more
+                than this&#8212;that among all the things which give
+                pleasure there are some which afford a deeper,
+                fuller, more permanent enjoyment than others;
+                an enjoyment of such a kind that he who has
+                felt it knows it to be more worth having than
+                anything else in the world. The real self,
+                <fw type="catch" place="bottom right">then,</fw>
+            <pb xml:id="leaf009r" facs="loc.03452.011.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">PREFACE.</fw>
+            <fw type="pageNum" place="top right">xvii</fw>
+                then, is simply the soul delighting in these
+                things, and to pursue them is said to be, in
+                <span rend="singleLine-right" hand="#h4" xml:id="s11" from="#s11" to="#s12"/>the words of the old, yet never outworn formula,
+                <hi rend="underline" hand="#h3">'to live according to Nature'</hi>&#8212;to follow<anchor xml:id="s12"/>
+                the course suggested to the conscious mind by
+                experience (its own or others') of the facts of
+                life. And what does this experience tell us?
+                Universally it tells us that in Righteousness
+                and Love lie the paths of our peace. That
+                this is so every man must verify for himself.
+                'The gods' with Epictetus are the sources of
+                this law, and, so far as explicit statement goes,
+                they are little more.</p>
+            <p>Now, keeping this notion of the real self
+                before us, let us turn to Epictetus and see
+                how he applies it. 'Of things that exist,' he
+                says, 'some depend upon ourselves (&#941;&#900;&#963;&#964;&#953;&#965; &#941;&#981;&#900;
+                &#951;&#900;&#956;&#953;<!--Can't find the accent that goes above this last character.-->&#965;), others do not depend upon ourselves.'
+                That is to say, some things centre upon the
+                <span rend="singleLine-left" hand="#h3" xml:id="s13" from="#s13" to="#s14"/><span rend="singleLine-right" hand="#h3" xml:id="s300" from="#s300" to="#s14"/>real self, are within its domain and power,
+                and have their existence through it; while<anchor xml:id="s14"/>
+                others are independent of it, are outside the
+            <fw type="sig" place="bottom">a 2</fw>
+                <fw type="catch" place="bottom right">sphere</fw>
+            <pb xml:id="leaf009v" facs="loc.03452.012.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xviii</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                sphere of its action, as it is outside the sphere
+                of theirs. What, then, are the former things?
+                'Opinions and impulses, desires and aversions'
+                &#8212;briefly, that which a man <hi rend="italic">does</hi> as opposed to
+                that which he suffers. 'And these things,' he
+                adds, 'are, in their nature, free, not liable
+                to forbiddance or embarrassment.' So that
+                Epictetus starts with announcing that the
+                business and concern of the real self is with
+                matters absolutely subject to its own control,
+                absolutely uninfluenced by external chance or
+                change. How important this announcement
+                is will only appear by meditation and realisation:
+                that it is true there can be no doubt&#8212;
+                <span rend="singleLine-left" hand="#h4" xml:id="s15" from="#s15" to="#s16"/>there is nothing essentially good for us which
+                we cannot have if we only desire it strongly
+                enough.<anchor xml:id="s16"/></p>
+                <p>Again, in <hi rend="italic">Ench.</hi> i. &#949; he teaches that when
+                    we are tried by misfortune we should never
+                    <span rend="singleLine-left" hand="#h3" xml:id="s17" from="#s17" to="#s18"/><span rend="singleLine-right" hand="#h3" xml:id="s301" from="#s301" to="#s18"/>let our suffering overwhelm <hi rend="underline" hand="#h4">the sense of inward
+                        mastery and freedom</hi> expressed in the<anchor xml:id="s18"/>
+                    thought, 'It is nothing to me'&#8212;it has no
+                    <fw type="catch" place="bottom right">power</fw>
+            <pb xml:id="leaf010r" facs="loc.03452.013.jpg" type="recto"/>
+            <fw type="header" rend="italic" place="top left">PREFACE.</fw>
+            <fw type="pageNum" place="top right">xix</fw>
+                power to close the sources of true happiness,
+                the happiness which satisfies the real self,
+                against me.</p>
+            <span rend="doubleLine-left" hand="#h5" xml:id="s19" from="#s19" to="#s20"/><p>And, again, in <hi rend="italic">Ench.</hi> xliv., one man is
+                said to be superior to another, not for his
+                possessions or for his talents, but (since <hi rend="italic">you</hi>
+                <span rend="tripleLine-right" hand="#h5" xml:id="s21" from="#s21" to="#s20"/>are not wealth, <hi rend="italic">you</hi> are not language) for <hi rend="underline" hand="#h4">the
+                predominance in him of his real self,</hi> for his
+                hold of such things as <hi rend="underline" hand="#h4">truth, soberness, justice,
+                love of God and man.</hi></p><anchor xml:id="s20"/>
+            <p>Such ideas as these seem, when their
+                bearing on practice is first realized, so profoundly
+                discrepant with human life as it is,
+                that most people are inclined to regard them,
+                though not without admiration, as being merely
+                unpractical and fantastic. But, apart from
+                the fact that this discrepancy is probably far
+                less great than is generally supposed (many
+                persons, especially in great crises, showing
+                themselves true Stoics who might be incapable
+                of reading a chapter of Epictetus with sympathy),
+                it must be remembered that what I</p>
+                <fw type="catch" place="bottom right">have</fw>
+            <pb xml:id="leaf011r" facs="loc.03452.014.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">PREFACE.</fw>
+            <fw type="pageNum" place="top right">xxi</fw>
+            <p>the <hi rend="italic">Encheiridion</hi> might present itself as unpractical,
+                to others it might seem to be quite
+                sufficiently practised already. For Stoicism is
+                often taken to be merely a synonym for intellectual
+                self-sufficiency and heartlessness, for
+                scorn of human affection and an ascetic disregard
+                of at any rate the material welfare of
+                others as well as of oneself. It is no answer to
+                this accusation to point out passages in Epictetus
+                (such as <hi rend="italic">Ench.</hi> xxx. xxxii. xliii.; <hi rend="italic">Frag.</hi> ii. xvii.),
+                which are full of a quite different spirit; they
+                would only prove that the philosopher may
+                have been better than his creed. <span rend="singleLine-right" hand="#h6" xml:id="s23" from="#s23" to="#s24"/>But the
+                creed itself is a more profound and a more
+                expansive one than is commonly supposed;
+                for, its fundamental principle being merely to
+                place Good and Ill in the things dependent
+                on the will, <hi rend="underline" hand="#h6">it leaves room for any doctrine
+                as to right living which can establish itself
+                upon this basis.</hi><anchor xml:id="s24"/> Thus it leaves room for asceticism,
+                or for indifferentism; and many Stoics
+                were, as a matter of fact, ascetics or indifferentists.
+                <fw type="catch" place="bottom right">differentists.</fw>
+            <pb xml:id="leaf011v" facs="loc.03452.015.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xxii</fw>
+            <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                <span rend="singleLine-left" hand="#h6" xml:id="s25" from="#s25" to="#s26"/><span rend="singleLine-right" hand="#h6" xml:id="s27" from="#s27" to="#s28"/>But it leaves room also for a
+                    view of life very different from these, a view
+                    entirely opposed to the doctrine that a man
+                    should aim at <hi rend="italic">insulating</hi> himself in the world by
+                    deadening his mind, as far as possible, to the
+                    attractions and impressions of external things.<anchor xml:id="s28"/>
+                    <span rend="singleLine-right" hand="#h6" xml:id="s29" from="#s29" to="#s30"/>In this view <hi rend="underline" hand="#h6">the pleasures of the senses and
+                        affections are regarded as energies of the soul
+                        which supply just as needful and just as
+                        worthy a part of our total humanity as, for
+                        instance, moral conscientiousness and religious
+                        adoration.</hi><anchor xml:id="s30"/> And this is not a lowering of
+                    things deemed high; it is a raising of things
+                    which too many deem common and unclean.
+                    <q who="Walt Whitman">'I make holy,'</q> says Walt Whitman, <q who="Walt Whitman">'whatever
+                    I touch, or am <choice><abbr>touch'd</abbr><expan>touched</expan></choice> from.'</q> Only, in order
+                    that the things which are called secular, and
+                    which it is often thought right to despise or
+                    dread, may be discerned in this their true
+                    character, they must be seen in the light of
+                    the ever-present thought of unity; and Whitman's
+                    saying must be borne in mind&#8212;<anchor xml:id="s26"/>
+                    <fw type="catch" place="bottom right">I</fw>
+                <pb xml:id="leaf012r" facs="loc.03452.016.jpg" type="recto"/>
+                <fw type="header" place="top left" rend="italic">PREFACE.</fw>
+                <fw type="pageNum" place="top right">xxiii</fw>
+                <span rend="singleLine-right" hand="#h6" xml:id="s31" from="#s31" to="#s32"/><q who="Walt Whitman"><lg type="linegroup"><l>I swear the earth shall surely be complete to him
+                    or her who shall be complete;</l>
+                    <l>I swear the earth shall remain jagged and broken
+                        only to him or her who remains jagged and
+                        broken.</l></lg></q>
+                    And in order to be 'complete,' be it remembered,<anchor xml:id="s32"/>
+                    it may often be necessary for us to
+                    sacrifice a gratification to a duty, while to
+                    sacrifice a duty to a gratification is quite
+                    another matter. For to do the duty at the
+                    expense of the gratification leaves, so far, our
+                    capacity for the gratification just where it was;
+                    while to indulge a gratification at the expense
+                    of a duty undoubtedly injures our capacity
+                    for duty in general, and probably, in the end,
+                    for gratification also.</p>
+                <p>This view, I say, accords with Stoicism, for
+                    as long as we have any consciousness at all
+                    we are being impressed in some way or other
+                    through the senses and affections, and to use
+                    the pleasures of them with the mingled freedom
+                    and reverence only known to those
+                    <fw type="catch" place="bottom right">whom</fw>
+                <pb xml:id="leaf012v" facs="loc.03452.017.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">xxiv</fw>
+                <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                    whom all things have power to penetrate with
+                    a sense of the divine is not less satisfying
+                    to the real self than to deal patiently and
+                    nobly with their pains&#8212;'<hi rend="italic">despising</hi> not the
+                    chastening of the Eternal.' It accords with
+                    Stoicism; but whether it accords with
+                    Epictetus is a different question. Asceticism
+                    was certainly a <hi rend="italic">cachet</hi> of eminence
+                    among Stoics, and Epictetus says much that
+                    appears to favour it. <span rend="singleLine-left" hand="#h4" xml:id="s33" from="#s33" to="#s34"/><hi rend="underline" hand="#h4">'In things that concern
+                        the body,' he says, 'you must accept only what
+                        is absolutely needful&#8212;all that makes for show
+                        and luxury you must utterly proscribe'</hi> (<hi rend="italic">Ench.</hi>
+                    xxxiii. &#951;).<anchor xml:id="s34"/> And, again, in <hi rend="italic">Ench.</hi> xxxix. he
+                    makes the needs of the body the standard of
+                    gain, as the foot is for the shoe. And in
+                    various other places (as <hi rend="italic">Ench.</hi> xxxiv.) he seems
+                    <span rend="singleLine-left" hand="#h4" xml:id="s35" from="#s35" to="#s36"/>to advise <hi rend="underline" hand="#h4">the abstention from pleasure simply
+                        as pleasure.</hi> Yet to condemn the enjoyments
+                    of the senses in this strenuous way, to insist so
+                    emphatically upon the necessity of living in
+                    an environment of a certain special character,
+                    <fw type="catch" place="bottom right">whether</fw><anchor xml:id="s36"/>
+                <pb xml:id="leaf013r" facs="loc.03452.018.jpg" type="recto"/>
+                <fw type="header" place="top left" rend="italic">PREFACE.</fw>
+                <fw type="pageNum" place="top right">xxv</fw>
+                <span rend="singleLine-right" hand="#h4" xml:id="s37" from="#s37" to="#s38"/><!-- Are some of these pencil hands actually the same color?-->whether that character be one of enjoyment
+                    or of hardship, seems to me most contradictory
+                    to the spirit and tendency of the <hi rend="italic">Encheiridion</hi>,
+                    as expressed, for instance, in chapter xli.<anchor xml:id="s38"/>
+                    There is no such thing as true self-mastery
+                    <span rend="singleLine-left" hand="#h3" xml:id="s39" from="#s39" to="#s40"/><span rend="singleLine-right" hand="#h6" xml:id="s41" from="#s41" to="#s42"/>in one who is afraid of pleasure. There is a
+                    good deal of evidence, too, in the <hi rend="italic">Discourses</hi>,
+                    that <hi rend="underline" hand="#h4">Epictetus cared for the outward seemliness
+                        of life;</hi><anchor xml:id="s40"/> on one occasion he even said (of
+                    a pupil who came to him in foul and disordered
+                    garments) that when a man had no
+                    feeling for external beauty there was little chance
+                    of his being able to rouse him to a sense of
+                    the spiritually beautiful.<anchor xml:id="s42"/> Briefly, then, I incline
+                    to think that the doctrine which I put
+                    <span rend="singleLine-left" hand="#h3" xml:id="s43" from="#s43" to="#s44"/>forward as that <hi rend="underline" hand="#h4">opposed to the ascetic doctrine</hi><anchor xml:id="s44"/>
+                        is the one which Epictetus' works imply, and
+                        are likely, on the whole, to foster; and that
+                        contradictions to that doctrine which may appear
+                        in them are to be explained in three ways,
+                        by supposing: I. That Arrian did not fully
+                        grasp or accurately report his master's views</p>
+                <fw type="catch" place="bottom right">on</fw>
+                <pb xml:id="leaf014v" facs="loc.03452.019.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">xxviii</fw>
+                <fw type="header" place="top right" rend="italic">PREFACE.</fw>
+                <p>isolate us from the living activities around
+                    us, in which it is possible to say with real
+                    and full assent, <span rend="singleLine-right" hand="#h6" xml:id="s45" from="#s45" to="#s46"/><span rend="singleLine-left" hand="#h6" xml:id="s302" from="#s302" to="#s46"/><hi rend="underline" hand="#h6">'Whatever harmonises well
+                        with thee, O universe, harmonises well with
+                        me.'</hi><anchor xml:id="s46"/><ref target="#fn5">1</ref> That this feeling can hardly arise except
+                    when the love of the individual is embraced
+                    in the vaster love of the All, of God, we may
+                    readily admit. For the pantheistic faith, giving
+                    full place to such a feeling, which was actually
+                    held by most of the old Stoics, is but the
+                    natural outgrowth of their analysis of our daily
+                    experience.</p>
+                <p>Here we touch upon greater issues than
+                    those which concern the mere safe-conduct of
+                    our moral life. But, in this place at least, these
+                    issues shall be pursued no further. Everywhere
+                    in Epictetus his faith in transcendental
+                    religion may be discerned, but that religion is
+                    never formulated; it exists as in a state of
+                    solution; and if it should ever be desirable to
+                    crystallise it into a system, a preface to the</p>
+                <note xml:id="fn5" n="1" type="footnote" anchored="true" place="bottom"><hi rend="italic">Marcus Aurelius</hi>, Mr. Long's translation.</note>    
+                <fw type="catch" place="bottom right" rend="italic">Encheiridion</fw>
+                <pb xml:id="leaf015r" facs="loc.03452.020.jpg" type="recto"/>
+                <fw type="header" rend="italic" place="top left">THE ENCHEIRIDION.</fw>
+                <fw type="pageNum" place="top right">7</fw>
+                <div2 type="chapter" n="IV.">
+                <p>that you are about to do. If you propose to go to
+                    the bath, represent to yourself all the things that
+                    take place at the bathing establishment, the squirting
+                    of water, the beating, the bad language, the
+                    theft. And after this fashion you will take the
+                    matter more safely in hand if you say <hi rend="italic">I intend
+                        simply to bathe, and to maintain my purpose
+                        according to Nature.</hi> And similarly with every
+                    action. For thus if anything should occur to cross
+                    you in your bathing, you will instantly think <hi rend="italic">I did
+                        not only intend to bathe, but also that my purpose
+                        should be maintained according to Nature.
+                        But it will not be so maintained if I let myself be
+                        vexed at what occurs.</hi></p></div2>
+                <div2 type="chapter" n="V.">
+                <span rend="doubleLine-left" hand="#h3" xml:id="s47" from="#s47" to="#s48"/><span rend="bracket-left" hand="#h3" xml:id="s49" from="#s49" to="#s48"/><span rend="singleLine-right" hand="#h6" xml:id="s51" from="#s51" to="#s48"/><p><hi rend="underline" hand="#h6">I<hi rend="smallcaps">T</hi> is not things in themselves, but the opinions v.
+                    held about them which trouble and confuse
+                    our minds.</hi><anchor xml:id="s48"/> Thus, Death is not really terrible&#8212;if
+                    it were so it would have appeared so to Socrates&#8212;
+                    but the opinion about Death, that it is terrible, <hi rend="italic">that</hi>
+                    it is wherein the terror lies. Wherefore when we
+                    are hindered, or confounded, or grieved, let us
+                    never cast the blame upon others, but upon ourselves;
+                    that is, on our opinions of things. A man</p>
+                    <fw type="catch" place="bottom right">untaught</fw></div2>
+                <pb xml:id="leaf016v" facs="loc.03452.021.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">12</fw>
+                <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                <div2 type="chapter" n="XIII."><span rend="singleLine-left" hand="#h4" xml:id="s53" from="#s53" to="#s54"/><p>I<hi rend="smallcaps">F</hi> you wish to advance, you must be content to
+                    let people think you senseless and distraught
+                    as regards external things. <span rend="singleLine-right" hand="#h4" xml:id="s55" from="#s55" to="#s56"/><hi rend="underline" hand="#h4">Wish not ever to
+                    seem wise,</hi><anchor xml:id="s56"/> and if ever you shall find yourself
+                    accounted to be somebody, then mistrust yourself.
+                    For know that <hi rend="underline" hand="#h4">it is not an easy matter to make a
+                    choice that shall agree both with external things
+                    and with Nature,</hi> but it must needs be that he who
+                    is careful of the one shall neglect the other.</p><anchor xml:id="s54"/>
+                </div2>
+                <div2 type="chapter" n="XIV."><div3 type="section" n="&#945;"><p>Y<hi rend="smallcaps">OU</hi> are quite astray if you desire your wife
+                    and children and friends to live <choice><orig>for ever</orig><reg>forever</reg></choice>,
+                    for then you are desiring things that are not of
+                    yourself to be of yourself, and to control that which
+                    is not in your power. So also if you desire that
+                    your servant never should display any shortcomings,
+                    you are a fool; for that is as much as to desire
+                    that imperfection should not be imperfection, but
+                    something else. But if you wish never to fall
+                    short of your desires, this indeed is possible to
+                    you; this therefore practise, namely, the practicable.
+                </p></div3>
+                    <div3 type="section" n="&#946;"><p>You own a master when another has power
+                    over the things that are pleasing or displeasing to</p>
+                <fw type="catch" place="bottom right">you</fw></div3>
+                </div2>
+                <pb xml:id="leaf017v" facs="loc.03452.022.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">14</fw>
+                <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                <div2 type="chapter" n="XVI."><p>he has lost his wealth, see to it that you be not
+                    rapt-away by the phantasm, to think that he has
+                    suffered a real misfortune in external matters. But
+                    be the thought at hand, <hi rend="italic">It is not the fact itself
+                        which afflicts this man&#8212;since there are others whom
+                        it afflicts not&#8212;but the opinion he has conceived
+                        about it.</hi> And do not hesitate as far as words go,<note type="authorial" resp="#h4" place="right">?<!--It's either that or a weird bracket.--></note>
+                    to give him your sympathy, and even, if so it be,
+                    to lament with him. But take heed that your
+                    lamenting be not from within.</p>
+                </div2>
+                <div2 type="chapter" n="XVII."><span rend="singleLine-left" hand="#h4" xml:id="s57" from="#s57" to="#s58"/><p>R<hi rend="smallcaps">EMEMBER</hi> that you are an actor in a drama,
+                    of such a part as it may please the master to
+                    assign you, for a long time or for a little as he may
+                    choose. And if he will you to take the part of a
+                    poor man, or a cripple, or a ruler, or a private
+                    citizen, then may you act that part with grace!
+                    For to act well the part that is allotted to us, that
+                    indeed is ours to do, but to choose it is another's.</p><anchor xml:id="s58"/>
+                </div2>
+                <div2 type="chapter" n="XVIII."><p>I<hi rend="smallcaps">F</hi> a raven croaks you a bad omen, be not rapt-
+                away by the phantasm, but straightaway make</p>
+                <fw type="catch" place="bottom right">a</fw>
+                <pb xml:id="leaf018v" facs="loc.03452.023.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">16</fw>
+                <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                <p>there is but one way&#8212;disdain of the things that
+                    depend not upon ourselves.</p>
+                </div2>
+                <div2 type="chapter" n="XX."><p>R<hi rend="smallcaps">EMEMBER</hi> that it is not he who strikes you
+                    or he who reviles you who does you an injury,
+                    but the opinion you have about these things, that
+                    they are injurious. Therefore when someone shall
+                    provoke you to wrath, know that you are provoked
+                    by your own conception. Strive then at the outset
+                    not to be rapt-away by the phantasm; for if
+                    you shall once succeed in gaining time and delay
+                    you will more easily master yourself.</p>
+                </div2>
+                <div2 type="chapter" n="XXI."><p>D<hi rend="smallcaps">EATH</hi> and exile and all things that appear
+                terrible, let these be every day before your
+                eyes. But Death most of all, for so you will never
+                feel any condition to be wretched, nor think any
+                very greatly to be desired.</p>
+                </div2>
+                <div2 type="chapter" n="XXII."><span rend="singleLine-left" hand="#h4" xml:id="s59" from="#s59" to="#s60"/><p>I<hi rend="smallcaps">F</hi> you set your heart upon philosophy, you must
+                straightway prepare yourself to be laughed at
+                and mocked by many who will say <hi rend="italic">Behold a philosopher</hi><anchor xml:id="s60"/>
+                    <fw type="catch" place="bottom right"><hi rend="italic">opher</hi></fw>
+                <pb xml:id="leaf019r" facs="loc.03452.024.jpg" type="recto"/>
+                <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+                <fw type="pageNum" place="top right">17</fw>
+                <span rend="singleLine-right" hand="#h4" xml:id="s304" from="#s304" to="#s305"/><hi rend="italic">arisen among us!</hi> or <hi rend="italic">How came you by that
+                    brow of scorn?</hi> But do you cherish no scorn, but
+                hold to those things which seem to you the best, as
+                one set by God in that place. Remember too, that
+                if you abide in those ways, those who first mocked
+                you, the same shall afterwards reverence you; but
+                if you yield to them, you will be laughed at twice
+                as much as before.</p><anchor xml:id="s305"/>
+                </div2>
+                <div2 type="chapter" n="XXIII."><span rend="singleLine-right" hand="#h4" from="#p2"/><p xml:id="p2">I<hi rend="smallcaps">F</hi> ever it shall happen to you to be turned to
+                    things of the outside world in the desire to
+                    make yourself acceptable to someone, know that
+                    you have lost your position.<ref target="#fn6">1</ref> Let it be enough
+                for you in all things to <hi rend="italic">be</hi> a philosopher. But if
+                you desire also to seem one, then appear so to
+                yourself, and it will suffice.<ref target="#fn7">2</ref></p></div2>
+                <div2 type="chapter" n="XXIV."><div3 type="section" n="&#945;"><p>N<hi rend="smallcaps">EVER</hi> afflict yourself with such reflections
+                as <hi rend="italic">I shall live without honour and never
+                be anybody anywhere</hi>. For if to live without honour</p></div3></div2>
+                <note xml:id="fn6" type="footnote" n="1" anchored="true" place="bottom">&#7988;&#963;&#952;&#953; &#8005;&#964;&#953; &#7936;&#960;&#974;&#955;&#949;&#963;&#945;&#962; &#964;&#8052;&#957; &#7956;&#957;&#963;&#964;&#945;&#963;&#953;&#957;.</note>
+                <note xml:id="fn7" type="footnote" n="2" anchored="true" place="bottom">According to another reading, 'and you will be able to do this.'</note>
+                <fw type="sig" place="bottom">C</fw><fw type="catch" place="bottom right">be</fw>
+            <pb xml:id="leaf020v" facs="loc.03452.025.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">20</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                <div2 type="chapter" n="XXV."><div3 type="section" n="&#945;"><p>I<hi rend="smallcaps">S</hi> some one preferred before you at a feast, or
+                in salutation, or in being invited to give
+                counsel? Then if these things be good, you should
+                rejoice that he has gained them; but if evil, why
+                grieve that you have not? <span rend="singleLine-left" hand="#h4" xml:id="s63" from="#s63" to="#s64"/>But <hi rend="underline" hand="#h4">remember that if
+                    you do not do as other men, in order to gain the
+                    things that depend not upon ourselves, neither shall
+                    you be rewarded as they.</hi><anchor xml:id="s64"/></p></div3>
+                    <div3 type="section" n="&#946;"><span rend="singleLine-left" hand="#h4" xml:id="s65" from="#s65" to="#s66"/><p><hi rend="underline" hand="#h4">For how is it possible for you to have an
+                equal share with him who hangs about other men's
+                doors, and attends upon them, and flatters them,
+                when you yourself will do none of these things?</hi><anchor xml:id="s66"/>
+                You are unjust then, and insatiable, if you wish to
+                gain the things that depend not upon ourselves, for
+                <span rend="singleLine-left" hand="#h4" xml:id="s67" from="#s67" to="#s68"/>nothing, and without paying the price for which
+                they are sold.</p></div3>
+                    <div3 type="section" n="&#947;"><p>But how much is your head of lettuce sold
+                for? A penny perchance. Go to, then: if one will 
+                lay out a penny he may have a head of lettuce; but
+                you who do not choose to lay out your penny shall
+                not have your lettuce. But you must not suppose
+                that you will be therefore worse off than he. For
+                he has the lettuce, but you the penny which you
+                did not choose to part with.</p><anchor xml:id="s68"/></div3>
+                    <div3 type="section"><fw type="catch" place="bottom right">&#948;. And</fw></div3>
+            <pb xml:id="leaf021r" facs="loc.03452.026.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">21</fw>
+                        <div3 type="section" n="&#948;"><span rend="singleLine-right" hand="#h4" xml:id="s69" from="#s69" to="#s70"/><p>And in this matter also the same principle
+                holds good. You are not invited to somebody's
+                banquet? That is because you did not give the
+                entertainer the price that banquets are sold for&#8212;
+                and they are sold for flattery, they are sold for
+                attendance. Pay then the price if you think you
+                will profit by the exchange. But if you are determined
+                not to lay out these things, and at the same
+                time to gain the others&#8212;surely you are a greedy
+                man, and an infatuated.</p></div3>
+                        <div3 type="section" n="&#949;"><p>Shall you have nothing then instead of the
+                banquet which you give up? Yea verily, you shall
+                have this&#8212;not to have praised one whom you did
+                not care to praise, nor to have endured the insolence
+                of a rich man's doorkeepers.</p><anchor xml:id="s70"/></div3>
+                </div2>
+            <div2 type="chapter" n="XXVI."><p>T<hi rend="smallcaps">HE</hi> will of Nature is to be learned from
+                matters in which we ourselves are not concerned.<ref target="#fn8">1</ref>
+                For instance, when a boy breaks a cup,
+                if it be another man's, you are ready enough
+                to say, <hi rend="italic">Accidents will happen.</hi> Know then, that
+            <note xml:id="fn8" type="footnote" n="1" anchored="true" place="bottom">I think this is the true reading, although the other&#8212;'from 
+                matters in which we do not differ from each other'&#8212;has more external 
+                evidence to support it.</note>
+                <fw type="catch" place="bottom right">when</fw>
+            <pb xml:id="leaf021v" facs="loc.03452.027.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">22</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                when your own is broken it behoves you to be as
+                though it were another man's. And apply this
+                method even to greater things. When a neighbour's
+                wife or child dies, who is there that will not
+                say, <hi rend="italic">It is the lot of humanity.</hi> But when your own
+                wife or child is dead, then it is straightway, <hi rend="italic">Alas!
+                    wretched that I am!</hi> But you ought to remember
+                how you felt when you heard of another in the
+                same plight.</p>
+            </div2>
+            <div2 type="chapter" n="XXVII."><note type="authorial" resp="#h4" place="left">?</note><p>A<hi rend="smallcaps">S</hi> a mark is not set up to be missed, even so it
+                is not possible that there should be any soul
+                of evil<ref target="#fn9">1</ref> in the world.</p>
+            </div2>
+                <div2 type="chapter" n="XXVIII."><p>I<hi rend="smallcaps">F</hi> anyone were to expose your body in public,
+                that every passer-by might do as he liked with
+                it, you would be indignant. Is it nothing to be
+                ashamed of then that you should set your mind at
+                the mercy of all the world, to be troubled and disturbed
+                whenever anyone should happen to revile
+                you?</p></div2>
+                <div2 type="chapter" n="XXIV."><div3 type="section" n="&#945;"><p>O<hi rend="smallcaps">F</hi> every work you take in hand to do, mark
+                well the conditions and the consequences,
+            <note xml:id="fn9" type="footnote" n="1" anchored="true" place="bottom">&#954;&#945;&#954;&#959;&#8166; &#966;&#973;&#963;&#953;&#962;</note>
+                    <fw type="catch" place="bottom right">and</fw>
+            <pb xml:id="leaf022r" facs="loc.03452.028.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">23</fw>
+                and so enter upon it. For if you do not this, you
+                will at first set out eagerly, not regarding what is
+                to follow, but in the end thereof, if any difficulties
+                have arisen, you will leave it off with shame.</p></div3>
+                    <div3 type="section" n="&#946;"><span rend="doubleLine-right" hand="#h4" xml:id="s71" from="#s71" to="#s72"/><p>So you wish to conquer in the Olympic
+                games, my friend? And I too, by the Gods, and
+                a fine thing it would be! But first mark the conditions
+                and the consequences, and then set to work.
+                You will have to put yourself under discipline;
+                to eat by rule; to avoid cakes and sweetmeats; to
+                take exercise at the appointed hour whether you
+                like it or no, in cold and heat; to abstain from
+                cold drinks and from wine at your will; in a word,
+                to give yourself over to the trainer as to a physician.
+                Then in the conflict itself you are likely enough to
+                dislocate your wrist or twist your ankle, to swallow
+                a great deal of dust, to be severely thrashed, and,
+                after all these things, to be defeated.</p></div3>
+                    <div3 type="section" n="&#947;"><p><hi rend="underline" hand="#h4">If, having considered these circumstances,
+                you are still in the mind to enter for the Olympic
+                prize,</hi> <hi rend="underline" hand="#h4">then do so.</hi> But without consideration,
+                you will turn from one thing to another like a
+                child, who now plays the wrestler, now the fluteplayer,
+                now the gladiator, then sounds the bugle-
+                        <fw type="catch" place="bottom right">call,</fw><anchor xml:id="s72"/>
+            <pb xml:id="leaf022v" facs="loc.03452.029.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">24</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                call, or declaims like an actor; and so you too will
+                be first an athlete, then a gladiator, then an orator,
+                then a philosopher, and nothing with your whole
+                soul; but as an ape you will mimic every sight you
+                see, and flatter yourself with one thing after another.
+                For you approached nothing with consideration,
+                nor with systematic diligence, but lightly, and with
+                but a cold desire.</p></div3>
+                    <div3 type="section" n="&#948;"><p>And thus some men, after having seen a philosopher
+                and heard discourse like that of Euphrates
+                (yet who indeed can say that any discourse is like
+                his?) desire that they also may become philosophers.</p></div3>
+                    <div3 type="section" n="&#949;"><p>But O man&#8212;first consider what it really is
+                that you are desiring to do, and then inquire of
+                your own nature, whether you have power to support
+                the undertaking. Do you desire to become a
+                <span rend="singleLine-left" hand="#h4" xml:id="s73" from="#s73" to="#s74"/><hi rend="underline" hand="#h4">pentathlos</hi><ref target="#fn10">1</ref> or a wrestler? Then scan your arms<anchor xml:id="s74"/>
+                and your thighs and try the strength of your loins.
+                For nature endows different men with different
+                capacities.</p></div3>
+                    <div3 type="section" n="&#950;"><span rend="doubleLine-left" hand="#h4" xml:id="s75" from="#s75" to="#s76"/><p>And do you think that you can be a sage and<anchor xml:id="s76"/>
+            <note xml:id="fn10" type="footnote" n="1" anchored="true" place="bottom">Pentathlos, a champion in five athletic exercises, viz. running, 
+                leaping, throwing the quoit, throwing the javelin, wrestling.</note>
+                        <fw type="catch" place="bottom right">at</fw>
+            <pb xml:id="leaf023r" facs="loc.03452.030.jpg" type="recto"/>
+                        <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+                        <fw type="pageNum" place="top right">25</fw>
+            <span rend="doubleLine-right" hand="#h4" xml:id="s77" from="#s77" to="#s78"/>at the same time continue to eat and drink and
+                indulge your desires and be fastidious, just as
+                before? Nay verily, for you must watch and labour,
+                and withdraw yourself from your household and be
+                despised by any serving-boy and be ridiculed by
+                your neighbours, and you must take an inferior
+                position in all things, in reputation, in authority, in
+                courts of justice, in dealings of every kind.</p><anchor xml:id="s78"/></div3>
+                    <div3 type="section" n="&#951;"><p>Consider these things; whether you are willing
+                at such a price to gain serenity, freedom, and
+                immunity from vexation. And if not, renounce
+                that aim at once, and do not like a child at play be
+                now for a little a philosopher, then a tax-gatherer,
+                then a public speaker, then a procurator of the
+                Empire. For these things do not agree among
+                themselves, and, good or bad, it behoves you to be
+                <hi rend="italic">one</hi> man. You must either cultivate external things
+                or your own essential part, you must show your
+                skill in the management of either your outward or
+                your inward life&#8212;in short, you must take up the
+                position either of a sensualist<ref target="#fn11">1</ref> or of a sage.</p></div3>
+                </div2>
+                <note xml:id="fn11" next="#fn11b" type="footnote" n="1" anchored="true" place="bottom">Wherever Epictetus uses the word &#7984;&#948;&#953;&#974;&#964;&#951;&#962;, I have rendered it 
+                    by sensualist. &#7984;&#948;&#953;&#974;&#964;&#951;&#962; originally meant simply a private citizen, 
+                    one who took no part in the government of the State. Epictetus </note>
+                <fw type="catch" place="bottom right">OUR</fw>
+                <pb xml:id="leaf023v" facs="loc.03452.031.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">26</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+            <div2 type="chapter" n="XXX."><p>O<hi rend="smallcaps">UR</hi> duties are universally fixed by the relations
+                in which we find ourselves. Is such a man
+                your father? Then your duty is to bear dictation
+                from him, to take care of him, to yield to him in
+                all things, to be patient with him when he chides
+                you, when he beats you. <hi rend="italic">But if he be a bad father?</hi>
+                Is there then a natural law that you should be
+                related by kin to a good father? No, but simply
+                to a father. And does your brother do you wrong?
+                Then guard your own proper position towards him,
+                and do not consider what he is doing, but rather
+                what you may do in order that your will may be in
+                accordance with Nature. <span rend="singleLine-left" hand="#h4" xml:id="s79" from="#s79" to="#s80"/>For no other can ever
+                harm you if you do not choose it yourself, but you
+                are harmed then, when you imagine yourself to be
+                so.<anchor xml:id="s80"/> Thus then you may discover your duties by
+                considering those of a neighbour, of a citizen, of a
+                general,&#8212;if you will accustom yourself to observe
+                the relationships.</p></div2>
+                <note xml:id="fn11b" prev="#fn11" type="footnote" place="bottom">uses it somewhat in the sense of 'layman,' one who is of the world, 
+                    not of the philosophic guild; the distinction being that the &#7984;&#948;&#953;&#974;&#964;&#951;&#962; 
+                    looks for happiness, not in the things of the soul, but in relations 
+                    with the external world established by means of the senses. On 
+                    this distinction I venture to found my translation of the word.</note>
+                <fw type="catch" place="bottom right">&#945;. OF</fw>
+            <pb xml:id="leaf024v" facs="loc.03452.032.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">30</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                <div2 type="chapter" n="XXXII"><div3 type="section" n="&#946;"><p>that whatever may befall you it will be your part to
+                use it nobly; and this no one can prevent. Go then
+                with a good courage to the Gods as to counsellors,
+                and, for the rest, when something has been counselled
+                to you, remember who they are whom you
+                have chosen for counsellors, and whom you will be
+                slighting if you are not obedient.</p></div3>
+                    <div3 type="section" n="&#947;"><p>Therefore, as Socrates insisted, you should
+                consult the oracle in those cases only where your
+                judgment depends entirely upon the event, and
+                where you have no resources, either from reason or
+                any other method, for knowing beforehand what is
+                independently certain in the case. Thus, when it
+                may behove you to share some danger with your
+                friend or your country, do not inquire whether
+                you may [safely] do so. For if the seer should
+                announce to you that the sacrifices are inauspicious,
+                that clearly signifies death, or the loss
+                of some limb, or banishment; yet Reason convinces
+                that even with these things you should
+                stand by your friend and share your country's
+                danger. <span rend="singleLine-left" hand="#h4" xml:id="s81" from="#s81" to="#s82"/>Mark therefore that greater seer, the
+                Pythian, who cast out of the temple one who, when
+                his friend was being murdered, did not help him.<anchor xml:id="s82"/></p></div3>
+                </div2>
+                <fw type="catch" place="bottom right">&#945;. ORDAIN</fw>
+            <pb xml:id="leaf025r" facs="loc.03452.033.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">33</fw>
+                    <div2 type="chapter" n="XXXIII"><div3 type="section" n="&#952;"><p>self disagreeable to those who use such pleasures,
+                nor be fond of reproving them, nor of putting yourself
+                forward as not using them.</p></div3>
+                    <div3 type="section" n="&#953;"><p>If you shall be informed that some one has
+                been speaking ill of you, do not defend yourself
+                against his accusations, but answer, <hi rend="italic">He little knew
+                    what other vices there are in me, or he would have
+                    said more than that.</hi></p></div3>
+                    <div3 type="section" n="&#954;"><span rend="singleLine-right" hand="#h4" xml:id="s83" from="#s83" to="#s84"/><p>You need not go often to the arena; if however
+                occasion should take you there, do not appear
+                interested on any man's side except your own;
+                that is to say, desire that that only may happen
+                which does happen, and that the conqueror may be
+                he who wins; for so shall you not be embarrassed.<anchor xml:id="s84"/>
+                But shouting, and laughter at this or that, and gesticulation,
+                all this you must utterly abstain from.
+                And after you have gone away, do not talk much
+                over what has passed, so far as it does not tend
+                towards your own improvement. For from that it
+                would appear that you had been impressed with
+                the spectacle.<ref target="#fn12">1</ref></p></div3>
+                    <note xml:id="fn12" type="footnote" n="1" anchored="true" place="bottom">&#8005;&#964;&#953; &#7952;&#952;&#945;&#973;&#956;&#945;&#963;&#945;&#962; &#964;&#8052;&#957; &#952;&#941;&#945;&#957;.</note>
+                    <fw type="catch" place="bottom right">&#955;. Do</fw>
+                    <fw type="sig" place="bottom">D</fw>
+            <pb xml:id="leaf025v" facs="loc.03452.034.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">34</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+                    <div3 type="section" n="&#955;"><p>Do not attend everybody's recitations<ref target="#fn13">1</ref> nor
+                be easily induced to go to them. But if you do go,
+                preserve (yet without making yourself offensive)
+                your gravity and tranquillity.</p></div3>
+                    <div3 type="section" n="&#956;"><span rend="singleLine-left" hand="#h4" xml:id="s85" from="#s85" to="#s86"/><p>When you are about to meet any person,
+                especially if he be one of those considered to be
+                high in rank, put before yourself what Socrates or
+                Zeno would have done in such a case. And then
+                you will not fail to deal fittingly with the occasion.
+            </p><anchor xml:id="s86"/></div3>
+                    <div3 type="section" n="&#957;"><p>When you are going to see one of those who
+                are great in power, imagine that you will not find
+                him at home, that you will be shut out, that the
+                doors will be banged in your face, that he will take
+                no notice of you. And if in spite of these things it be
+                right for you to go, then go, and bear whatever may
+                happen, and never say to yourself <hi rend="italic">I did not deserve
+                    such treatment</hi><ref target="#fn14">2</ref> For that is sensual, and shows</p>
+            <note xml:id="fn13" type="footnote" n="1" anchored="true" place="bottom">'Such recitations were common at Rome, when authors read 
+                their works and invited persons to attend' (Long). Perhaps Epictetus 
+                disliked the flattery and self-laudation which these occasions would 
+                give rise to.</note>
+            <note xml:id="fn14" type="footnote" n="2" anchored="true" place="bottom">Schweigh&#228;user gives 'Non erat tanto'&#8212;'it was not worth it.' 
+                I have followed Politian's version, 'Talia non merebar.' The Greek 
+                is &#959;&#8016;&#954; &#7974;&#957; &#964;&#959;&#963;&#959;&#973;&#964;&#959;&#965;.</note>
+                        <fw type="catch" place="bottom right">that</fw></div3></div2>
+            <pb xml:id="leaf026v" type="verso" facs="loc.03452.035.jpg"/>
+            <fw type="pageNum" place="top left">36</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+            <div2 type="chapter" n="XXXIV."><p>bethink yourself of the two periods of time, the one
+                in which you will enjoy the pleasure, the other, in
+                which, after having enjoyed it, you will repent of it,
+                and reproach yourself; and set over against this
+                how you will rejoice and commend yourself if you
+                have abstained. But if it shall seem fitting to you
+                to do the thing, beware lest you have been conquered
+                by the flattery and the sweetness and the
+                allurement of it. But set on the other side how
+                much better would be the consciousness of having
+                won that victory.</p></div2>
+            <div2 type="chapter" n="XXXV."><p>W<hi rend="smallcaps">HEN</hi> you are doing something which you
+                <note type="authorial" place="left" resp="#h4">?</note>have clearly recognised as being right to do,
+                do not seek to avoid observation in the act, even
+                though you should know that the multitude will
+                form a wrong opinion about it. For if you are
+                acting wrongly, then you should have avoided the
+                action altogether. But if rightly, why fear those
+                who wrongly rebuke you?</p></div2>
+                <div2 type="chapter" n="XXXVI."><p><ref target="#fn15">1</ref> A<hi rend="smallcaps">S</hi> the sayings <hi rend="italic">It is day, It is night,</hi> are 
+                    perfectly justifiable if viewed disjunctively</p>
+                <note xml:id="fn15" type="footnote" n="1" anchored="true" place="bottom">Schweigh&#228;user says pathetically of this chapter: 'In nullo </note>
+                    <fw type="catch" place="bottom right">tively,</fw></div2>
+            <pb xml:id="leaf027v" facs="loc.03452.036.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">38</fw>
+            <fw type="header" place="top right" rend="italic">THE ENCHEIRIDION.</fw>
+            <div2 type="chapter" n="XXXVII."><p>I<hi rend="smallcaps">F</hi> you have assumed a part beyond your power
+                to play, then you have not only come to shame
+                in that, but have missed one which you could have
+                thoroughly fulfilled.</p></div2>
+            <div2 type="chapter" n="XXXVIII."><span rend="singleLine-left" hand="#h4" xml:id="s87" from="#s87" to="#s88"/><span rend="singleLine-right" hand="#h4" xml:id="s306" from="#s306" to="#s88"/><p>I<hi rend="smallcaps">N</hi> going about, as you are careful not to step
+                upon a nail or twist your foot, even so be careful
+                that you do no injury to your own essential part.
+                And if we observe this we shall the more safely
+                undertake whatever we have to do.</p><anchor xml:id="s88"/></div2>
+            <div2 type="chapter" n="XXXIX."><p>T<hi rend="smallcaps">HE</hi> measure of gain for every man is the body,
+            as the foot is of the shoe. If you take this
+            as your standpoint, you will preserve the measure.
+            But if you go beyond it, you must thenceforward
+            of necessity be borne, as it were, down a steep for
+            the rest of the way. And so it is with the shoe;
+            if you go beyond [what is proper for] the foot, you
+            will have your shoe first gilded, then dyed purple,
+            then embroidered. For there is no end to that
+            which has once transgressed its measure.</p></div2>
+            <div2 type="chapter" n="XL."><p>F<hi rend="smallcaps">ROM</hi> the age of fourteen years upwards women
+                are accustomed to the flattery of men (&#954;&#965;&#961;&#943;&#945;&#953;
+                <fw type="catch" place="bottom right">&#954;&#945;&#955;&#959;&#8166;&#957;&#964;&#945;&#953;).</fw>
+            <pb xml:id="leaf028r" facs="loc.03452.037.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">39</fw>
+            &#954;&#945;&#955;&#959;&#8166;&#957;&#964;&#945;&#953;). Seeing then that there is nothing else
+                open to them but only to serve the pleasure of men,
+                they begin to beautify themselves and to place all
+                their hopes in this. It is right then to study that
+                they may perceive themselves to be valued for
+                nothing else than modesty and decorum.</p></div2>
+            <div2 type="chapter" n="XLI."><span rend="singleLine-right" hand="#h4" xml:id="s89" from="#s89" to="#s90"/><p>I<hi rend="smallcaps">T</hi> is a sign of a dull nature<ref target="#fn16">1</ref> to occupy oneself
+                deeply in matters that concern the body; for
+                instance, to be over much occupied about exercise,
+                about eating and drinking, about easing oneself,
+                about sexual intercourse. But all these things
+                should be done by the way, and only the mind
+                receive your full attention.</p></div2><anchor xml:id="s90"/>
+            <div2 type="chapter" n="XLII."><p>W<hi rend="smallcaps">HEN</hi> some one may do you an injury or
+                speak ill of you, remember that he does it
+                or speaks it under the impression that it is proper
+                for him to do so. He must then of necessity follow
+                not the appearance which the case presents to you,
+                but that which it presents to him. Wherefore, if
+                it has a bad appearance to him, it is he who is
+                injured, being deceived. For if anyone should take
+                a true statement to be false, it is not the statement</p>
+            <note xml:id="fn16" type="footnote" n="1" anchored="true" place="bottom">&#7936;&#966;&#965;&#943;&#945;&#962; &#963;&#951;&#956;&#949;&#8150;&#959;&#957;</note>
+                <fw type="catch" place="bottom right">which</fw></div2>
+            <pb xml:id="leaf029r" facs="loc.03452.038.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">41</fw>
+            <div2 type="chapter" n="XLV."><p>before you have discerned how things appear to
+                him,<ref target="#fn17">1</ref> how can you know if it were done badly?
+                Thus it will not happen to you to surrender yourself
+                to certain of the phantasms which lay hold of the
+                mind, while comprehending others.</p></div2>
+                <div2 type="chapter" n="XLVI."><div3 type="section" n="&#945;"><span rend="singleLine-left" hand="#h4" xml:id="s91" from="#s91" to="#s92"/><span rend="singleLine-right" hand="#h4" xml:id="s307" from="#s307" to="#s92"/><p>N<hi rend="smallcaps">EVER</hi> proclaim yourself a philosopher, nor
+                talk much among the sensual about the
+                philosophic maxims; <span rend="singleLine-right" hand="#h4" xml:id="s93" from="#s93" to="#s94"/>but do the things that follow
+                from the maxims. For example, do not discourse,
+                at a feast, upon how one ought to eat, but eat as
+                you ought.<anchor xml:id="s94"/> For remember that even so Socrates
+                everywhere banished ostentation, so that men used
+                to come to him desiring him to recommend them
+                to teachers in philosophy; and he brought them
+                away and did so, so well did he bear being overlooked.
+            </p><anchor xml:id="s92"/></div3>
+                    <div3 type="section" n="&#946;"><p>And if, among the sensual, discourse should
+                arise concerning some maxim, do you for the most
+                part keep silence; for <hi rend="underline" hand="#h6">there is great risk that you
+                    straightway vomit up what you have not digested.</hi></p>
+            <note xml:id="fn17" type="footnote" n="1" anchored="true" place="bottom">This is the usual rendering of &#960;&#961;&#8054;&#957; &#947;&#8048;&#961; &#948;&#953;&#945;&#947;&#957;&#8182;&#957;&#945;&#953; &#964;&#8056; &#948;&#972;&#947;&#956;&#945;. I 
+                am not sure whether it may not mean, 'Until you have analysed 
+                the nature of opinion.'</note>
+                        <fw type="catch" place="bottom right">And</fw></div3></div2>
+            <pb xml:id="leaf030r" facs="loc.03452.039.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">43</fw>
+                    <div2 type="chapter" n="XLVIII."><div3 type="section" n="&#945;"><p>T<hi rend="smallcaps">HE</hi> position and character of the sensualist:
+                he never looks to himself for benefit or
+                harm, but always to external things. The position
+                and character of the sage: he looks for benefit or
+                harm only to himself.</p></div3>
+                        <div3 type="section" n="&#946;"><span rend="singleLine-right" hand="#h4" xml:id="s95" from="#s95" to="#s96"/><p>The tokens of one who is making advance:
+                he blames none; he praises none; he finds fault
+                with none; he accuses none; he never speaks of
+                himself as being somewhat, or as knowing aught;
+                when he is let or hindered in anything he accuses
+                himself;<ref target="#fn18">1</ref> if anyone praises him, he laughs at him
+                in his sleeve; if anyone blames him, he makes no
+                defence; he goes about like convalescents, fearing
+                to move the parts that are settling together before
+                they have taken hold.</p><anchor xml:id="s96"/></div3>
+                        <div3 type="section" n="&#947;"><span rend="singleLine-right" hand="#h4" xml:id="s97" from="#s97" to="#s98"/><p>He has taken out of himself all desire,<ref target="#fn19">2</ref> and
+                has transferred his aversion solely to things contrary
+                to Nature which depend upon ourselves. He
+                attempts nothing, except lightly and indifferently.
+                If he is thought foolish or unlearned, he is not
+                concerned. In one word, he watches himself as he
+                would a treacherous enemy.</p><anchor xml:id="s100"/></div3></div2>
+            <div2 type="chapter" n="XLIX.">
+                <note xml:id="fn18" type="footnote" n="1" anchored="true" place="bottom">See chapter v. ad fin.</note>
+                <note xml:id="fn19" type="footnote" n="2" anchored="true" place="bottom">See ch. ii. &#946;.</note>
+                <fw type="catch" place="bottom right">WHEN</fw>
+            <pb xml:id="leaf031r" facs="loc.03452.040.jpg" type="recto"/>
+            <fw type="header" place="top left" rend="italic">THE ENCHEIRIDION.</fw>
+            <fw type="pageNum" place="top right">45</fw>
+            <p>of Chrysippus, I shall rather blush when I am not
+                able to show forth works of a like nature and in
+                harmony with the words.</p></div2>
+            <div2 type="chapter" n="L."><p>W<hi rend="smallcaps">HATSOEVER</hi> things are preferred, in these
+                abide as in laws which it were impious to
+                transgress. And whatever anyone may say of you,
+                regard it not, for neither does this concern yourself.
+            </p></div2>
+                    <div2 type="chapter" n="LI."><div3 type="section" n="&#945;"><p>H<hi rend="smallcaps">OW</hi> long will you still delay to hold yourself
+                worthy of the best things, and to transgress
+                in nothing the defining word?<ref target="#fn20">1</ref> You have
+                accepted the maxims by which you ought to live,
+                and do you live by them? What teacher do you
+                still look for, to whom to hand over the task of
+                your correction? You are no longer a boy, but
+                now a full-grown man. If, then, you are neglectful
+                and indifferent, and make delay after delay, and</p>
+            <note xml:id="fn20" type="footnote" n="1" anchored="true" place="bottom">&#922;&#945;&#8054; &#7952;&#957; &#956;&#951;&#948;&#949;&#957;&#8054; &#960;&#945;&#961;&#945;&#946;&#945;&#943;&#957;&#949;&#953;&#957; &#964;&#8056;&#957; &#948;&#953;&#945;&#953;&#961;&#959;&#8166;&#957;&#964;&#945; &#955;&#972;&#947;&#959;&#957;. 'Et nulla 
+                parte violare Rationem quae rerum distinctionem docet' (Schweigh&#196;user). 
+                <span rend="singleLine-right" hand="#h6" xml:id="s99" from="#s99" to="#s101"/>The defining (or dividing) word is that which declares the 
+                distinction between the things that really concern us and those which 
+                only appear to do so.<anchor xml:id="s101"/></note>
+                        <fw type="catch" place="bottom right">form</fw></div3></div2>
+            <pb xml:id="leaf032v" facs="loc.03452.041.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">56</fw>
+            <fw type="header" place="top right" rend="italic">SOME FRAGMENTS.</fw>
+            <div2 type="chapter" n="XIV."><p>B<hi rend="smallcaps">UT</hi> this above all is the task of Nature&#8212;to
+                bind and harmonise together the forces of
+                the phantasms of the Right and of the Useful.</p></div2>
+            <div2 type="chapter" n="XV."><p>T<hi rend="smallcaps">O</hi> suppose that we shall render ourselves contemptible
+                in the eyes of others unless we
+                somehow inflict an injury on those who first displayed
+                hostility to us, is the character of most
+                ignoble and thoughtless men. For thus we assert
+                that a man is despised in proportion as he is
+                powerless to do injury. But far rather is he despised
+                according to his inability to do good.</p></div2>
+            <div2 type="chapter" n="XVI."><span rend="singleLine-left" hand="#h6" xml:id="s102" from="#s102" to="#s103"/><p>I<hi rend="smallcaps">T</hi>is better by agreeing with Truth to conquer
+                Opinion, than by agreeing with Opinion to be
+                conquered by Truth.</p><anchor xml:id="s103"/></div2>
+            <div2 type="chapter" n="XVII."><p>A<hi rend="smallcaps">S</hi> the Sun does not wait for prayers and incantations
+                before he rises, but straightway
+                shines forth and is hailed of all, so do not you wait
+                to do good for applause, and noise, and praise, but,</p>
+            <fw type="catch" place="bottom right">do</fw></div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

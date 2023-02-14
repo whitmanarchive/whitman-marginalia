@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00265">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Last Days of Columbus</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Anonymous</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jb">Joelle Byars</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.00265</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability ><p>The text of the original document is in the public domain. Subject to certain exceptions,
+            public domain works may be freely copied or used in the creation of derivative works
+            without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
+            by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
+            of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>The Last Days of Columbus</title>
+                    <idno type="callno">MSS18630</idno>
+                    <date notBefore="1854-03-23" notAfter="1892-03-26">After March 23, 1854</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="rd_390">
+                    <author>Anonymous</author>
+                    <title level="a">The Last Days of Columbus</title>
+                    <title level="j">The Irish Republic</title>
+                    <date></date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="vol">3</biblScope>
+                    <biblScope type="issue"></biblScope>
+                    <biblScope type="pp">59-60</biblScope>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#km" when="2019-10-30">proofed</change>
+            <change who="#jb" when="2019-10-25">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="loc_nhg.00010.jpg" type="recto"/>
+            <fw type="pageNum" place="top left">60</fw>
+            <fw type="header" place="top">THE IRISH REPUBLIC.</fw>
+            <fw type="header" place="top right">[Vol. III, No. 5.</fw>
+            <div1> 
+                <head>THE OMNIBUS.</head>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <lg type="poem">
+                    <head type="main">OUT OF.</head>
+                <lg type="linegroup">
+                    <l>Out of the shadow of sadness,</l>
+                    <l>Into the sunshine of gladness,</l>
+                    <l>Into the light of the blest;</l>
+                    <l>Out of the land of the dreary,</l>
+                    <l>Out of the world of the weary,</l>
+                    <l>Into the rapture of the rest.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Out of to-day's sin and sorrow,</l>
+                    <l>Into the bliss of to-morrow,</l>
+                    <l>Into a day without gloom,</l>
+                    <l>Out of the land filled with sighing&#8212;</l>
+                    <l>Land of the dead and the dying,</l>
+                    <l>Into a land without tomb.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Out of the land in whose bowers</l>
+                    <l>Perish and fade all the flowers&#8212;</l>
+                    <l>Out of the land of decay</l>
+                    <l>Into the Eden, where fairest</l>
+                    <l>Of flowerets, and sweetest, and rarest,</l>
+                    <l>Never shall wither away.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Out of the world of the wailing,</l>
+                    <l>Thronged with anguisted ailing,</l>
+                    <l>Out of the world of the sad,</l>
+                    <l>Into the world that rejoices&#8212;</l>
+                    <l>World of bright visions and voices,</l>
+                    <l>Indo the world of the giad.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Out of a life ever lornful,</l>
+                    <l>Out of a land ever mournful,</l>
+                    <l>Where in black exile we roam;</l>
+                    <l>Into a joy-land above us,</l>
+                    <l>Where there's a Father to love us&#8212;</l>
+                    <l>Into "our Home&#8212;sweet Home."</l>
+                </lg>
+                </lg>
+                <byline>REV. A. J. RYAN.</byline>
+            </div1>
+            <div1>
+                <head>THE LAST DAYS OF COLUMBUS.</head>
+                <p>The complaints in the Court of Ferdinand and Isabella against Columbus were now so loud and bitter that another commission was sent out to Hayti, with authority to supersede him in command should be found guilty. An officer of the royal household named Bobadilla was who proved to be totally unfit for the delicate duty intrusted to him, immediately upon his arrival assumed the supreme command, and the venerable Admiral, to his utter amazement, was summoned to appear has a criminal before him. Bobadilla, whose name should be handed down to infamy, had the brutality to seize Columbus, aged and infirm as he was and to put his helpless victim in chains. Columbus, too proud to make unavailing remonstrances, in dignified silence submitted to his fate. The iron had entered in his soul.</p>
+                <p>The renowned discoverer, worthy of the gratitude of the world, was plunged into a prison until a ship could be got ready to transport him across the ocean. He was then taken from his prison, shackled like the vilest culprit, and, surrounded by the jeers of an infamous rabble, was placed on board the vessel and sent to Spain. The commander of the ship, moved with grief and indignation in view of such indignities heaped upon so noble a man, wished, during the voyage, to strike off his chains.</p>
+                <p>"No!" exclaimed Columbus; "their Majesties commanded me, by letter, to submit to whatever Bobadilla should order in their name. By their authority he has put these chains upon me. I will wear them till they shall order them to be taken off. And I will preserve them ever afterwards as relics and memorials of the rewards of my services."</p>
+                <p>It is affecting to record that Columbus ever kept these shackles suspended in his room, and requested that they might be deposited at his side in the grave.</p>
+                <p>The arrival of Columbus at Cadiz in chains excited amazement, which was followed by universal indignation. The whole current of popular sentiment, in all its resistless strength, suddenly turned in his favor. The King and Queen were influenced by the general sentiment. They ordered his chains to be stricken off, directed that he should be treated with every consideration, and invited him to repair immediately to Court, sending him a purse of about eighty thousand dollars to defray his expenses. As he entered the presence of Ferdinand and Isabella, and was greeted by them with the utmost sympathy and affection, the great heart of this majestic man was overcome, and, falling upon his knees, he wept, sobbing like a child.</p>
+                <p><span xml:id="s1" from="#s1" to="#s2" rend="wavyLine-left" hand="#h1"></span>Columbus was now far advanced in years. Still being fully restored to the royal favor, he made preparations for a fourth voyage. Early in May, 1502, being then about sixty-six years of age, he again embarked with four small vessels and a crew of one hundred and fifty men, for an enterprise no less than the circumnavigation of the globe. The largest of these vessels did not exceed seventy tons, and the smallest was of but fifty. Riding safely through many severe tempests, he passed the islands of the Caribbean Sea, and touched the continuant at Yucatan. Sailing by a prominent headland, which he named Cape Gracios a Dios, he cruised southerly along the coast for many leagues, hoping to find a passage through the Isthmus. Not succeeding, he attempted to establish a colony at the mouth of a river called Belem; but the natives were aroused by the licentiousness and the oppression of his men, and the whole country was soon in his arms against the Spaniards. The natives attacked the colony most fiercely, and drove the inhabitants from the country. The voyage was also but a series was also but a series of bitter disappointments. "My people," he writes, "are dismayed and downhearted, almost all my anchors are lost, and my vessels are bored by worms as full of holes as a honeycomb." One of his ships was left a wreck upon the Isthmus. The other ships, being in a sinking condition, he <hi rend="underline" hand="#h1">was compelled to run ashore upon the island of Jamaica.</hi> He converted the wrecks into a fortress to protect himself from the natives.</p><note type="authorial" rend="vertical" place="left" resp="#h1"><hi rend="underline">Poem</hi>&#8212;Columbus&#8212;(? That name for piece)&#8212;make the poem an utterance of Columbus there on Jamaica island. (read first <hi rend="underline">Ulysses</hi>, by Tennyson)</note>
+                <p>The situation of Columbus was now as deplorable as can well be imagined. He was, as it were, imprisoned in his two wrecked vessels which he had drawn side by side and <cb/>fortified. He was confined to his bed by severe sickness, and was suffering excruciating pangs from the gout. The natives were manifesting hostility. He was on a distant and unfrequented island one hundred and twenty miles from Hayti, with apparently no possible means of sending intelligence of his condition. The position of affairs was so alarming that a bold mariner undertook the desperate enterprise of crossing the ocean in a canoe to Hayti. He left the shore, and his fragile boat soon disappeared in the boundless expanse of the ocean. Month after month lingered away, and there were no signs of relief. Columbus, tortured with bodily pain, was confined to his berth. His men, despairing of ever again seeing their homes, broke away from all restraints, bade defiance to the authority of the Admiral, and in armed bands ranged the island, visiting upon the poor natives every species of lawless violence.</p>
+                <p>The natives, exasperated beyond endurance, secretly untied in a plan for the destruction of the Spaniards. Columbus, helpless upon his bed of weakness and pain, saw indications of his character shone forth with renewed luster.</p>
+                <p>By his knowledge of astronomy he ascertained that a total eclipse of the moon was to occur in a few days. He summoned the principal caciques, informed them that the deity he worshiped was in the skies, that this deity was offended with the Indians for their unfriendly feelings, and for withholding supplies, and that in token of the fearful punishments which awaited them they would soon see the moon far away. Some scoffed, were frightened, and <gap reason="illegible" unit="chars" quantity="8"/>solicitude.</p>
+                <p>The night came, brilliant in tropical splendor. The moon rose effulgent over the waves. All eyes were fixed upon it. Soon some dark destruction seemed to be consuming it. The beautiful luminary was rapidly wasting away. The terror of the natives became intense; and when at last the whole moon had disappeared, and portentous gloom shrouded the face of nature, the natives actually shrieked in their dismay. They ran to and fro, and implored Columbus to intercede in their behalf. Columbus said that he would retire and commune with the deity. When the eclipse was about to cease he informed them that God would pardon them upon condition that they would fulfill their promises and furnish supplies. The shadow passed away, and the moon, with apparently renovated brilliancy, shone forth in the serene sky. The natives were completely vanquished. They regarded <anchor xml:id="s2"/>Columbus with unspeakable awe, and were henceforth ready to do his bidding.</p>
+                <p>In this imprisonment, but with little hope of ever being rescued, Columbus, with a few men who were still faithful to him, <hi rend="underline" hand="#h1">remained in the wrecked and shattered ships for twelve long and dismal months.</hi> Day after day they scanned the horizon till their straining eyes ached, but no sail appeared. There was hardly a possibility that the frail canoe could have reached its destined port; and as the months lingered away, bringing no relief, despair, to which the seamen had long since resigned themselves, began to settle gloomily over the mind even of Columbus. In one of these dismal hours he wrote in the following strain in his journal:</p>
+                <p><span xml:id="s3" from="#s3" to="#s4" rend="bracket-left" hand="#h1"/>"Hitherto I have wept for <hi rend="italic">others;</hi> but now have pity upon <hi rend="italic">me</hi>, O Heaven, and weep for me, O earth! In my temporary concerns without a farthing to offer of a Mass, cast away here in the Indies, surrounded by cruel and hostile savages isolated, infirm, expecting each day will be my last! Weep for me whoever has charity, truth, and justice!"<anchor xml:id="s4"/></p>
+                <p>At length, after a year had passed away, two vessels were seen approaching the island. Despair was succeeded by a delirious joy. The mutineers, weary of license and crime, hastened from their dispersion and implored the forgiveness of the kind-hearted Admiral. He pardoned the wretched and all who had survived the dissipation and hardships of the year were transferred to Hayti.</p>
+                <p>Here an appealing spectacle of oppression and of wretchedness met the eye of Columbus. New rulers were in command. The offscouring of Spain had flocked as adventurers to the doomed island. The natives, who had received Columbus with almost celestial kindness, were converted into slaves, and were driven by the lash to the fields and mines. If, in irrepressible yearnings for liberty, they attempted to escape and fled to the mountains, their brutal task-masters with guns and blood-hounds pursued them, and hunted them down as if they were beasts of prey. Las Casas describes these outrages in terms which flood the eye of every humane reader with grief and indignation. Many of the natives in despair killed themselves; and mothers destroyed their own children to save them from the doom of slavery. In less than twelve years, under these atrocities, several hundred thousands of the natives had perished, and before one short half-century had passed the whole native population had sunk into the grave.</p>
+                <p>Columbus was by nature eminently a humane man. These awful calamities, which he had been instrumental in bringing upon the island, lacerated his soul. <hi rend="underline">His whole life had been a sublime tragedy,</hi> hardly enlivened by a single gleam of joy. Again he embarked for Spain. Disasters seemed to pursue him every step of the way. <hi rend="underline">Storm after storm, beat fiercely upon his crazy bark.</hi> When he arrived he was so exhausted by pain and mental suffering that he could not sit upon <choice><sic><corr>a</corr></sic></choice> horse. He was removed to Seville, where he hoped to find a little repose. But poverty now stared him in the face. Isabella was dead. Ferdinand was heartless. In a letter to his son he sadly writes:</p>
+                <p><span xml:id="s5" from="#s5" to="#s6" rend="bracket-left" hand="#h1"/>"I live by borrowing. Little have I profited by twenty years of service with such toils and perils, since at present I do not own a roof in Spain. If I desire to eat or sleep I have to resort to an inn, and, for the most times, have not the wherewithal to pay my bill."</p>
+                <p>But still the fire of heroic enterprise glowed in the veins of this indomitable man.<anchor xml:id="s6"/> While helpless upon his bed at Seville, and having already passed his threescore years and gigantic enterprises, when death came to him with that summons which all must heed.</p>
+                <p>It was the 20th of May, 1506. With pious resignation he surrendered himself to the king of terrors. He was perfectly willing to depart "beyond the cares of this rough and weary world." Uttering devoutly the words "Into thy hands, O Lord, I commit my spirit," he breathed his last. His remains were deposited in the convent of St. Francisco at Seville. Thirty years afterwards they were removed to San Domingo, on the island of Hayti. Upon the cession of this island to the French in 1796 the remains of Columbus were transferred with great pomp, by the Spanish authorities, to the cathedral of Havana in Cuba.</p>
+                <cb/>
+                <p>In this brief sketch of the career of Columbus, a career mere full of wonderful adventure than that of almost any older man, we have, of course, been under the necessity of omitting many occurrences of great interest. The intelligent reader who would become acquainted with the immediate results of the conquest of the New World, with the nature of the colonial governments which were established, with the system of slavery introduced, with the awful drama of the extirpation of the native inhabitants, and the gradual introduction of new races, will find this whole subject philosophically and admirably treated in the work upon the <hi rend="italic">Spanish Conquest</hi>, by Arther Helps.</p>
+                <byline>&#8212;<hi rend="italic">Harper's Magazine</hi></byline>
+            </div1>
+        </body>
+    </text>
+</TEI>

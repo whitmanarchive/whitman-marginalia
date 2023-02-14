@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+
+		<!-- THE FOLLOWING ENTITY DECLARATION CORRESPONDS TO THE WORK ID, WHICH, IN A      -->
+		<!-- NUTSHELL, IS THE FINAL PUBLISHED TITLE OF THE POEM DRAFTED IN THE MANUSCRIPT. -->
+		<!-- IF YOU KNOW THE APPROPRIATE WORK TITLE FOR YOUR MANUSCRIPT, YOU MAY CONSULT   -->
+		<!-- THE "REFERENCES" SECTION OF THE ENCODING GUIDELINES TO GET THE RIGHT WORK ID. -->
+		<!-- IF, AS IS OFTEN THE CASE, THE WORK IS DIFFICULT TO DISCERN, YOU MAY IGNORE    -->
+		<!-- THIS SECTION OF THE TEMPLATE AND LET THE EDITORS FILL IN THIS ID AFTER YOUR   -->
+		<!-- TRANSCRIPTION HAS BEEN CHECKED IN.                                            --> 
+		
+		
+
+<!ENTITY xxx.00000 SYSTEM "xxx.00000.xml" NDATA xml>
+
+		<!-- YOU NEED ONE OF THE FOLLOWING LINES FOR EACH PAGE IMAGE OF  -->
+		<!-- THE MANUSCRIPT. IN BOTH PARTS OF THE LINE, REPLACE abc.0000 -->
+		<!-- WITH THE UNIQUE ID AND REPLACE THE LAST THREE ZEROS WITH A  -->
+		<!-- THREE-DIGIT NUMBER FOR EACH PAGE (FIRST PAGE=001)           -->
+
+<!ENTITY duk.00229.001 SYSTEM "duk.00229.001.jpg" NDATA jpeg>
+<!ENTITY duk.00229.002 SYSTEM "duk.00229.002.jpg" NDATA jpeg>
+
+]>
+
+		<!-- REPLACE abc.00000 WITH THE UNIQUE ID HERE, ALSO  -->
+
+<TEI.2 id="duk.00229" type="doc">
+
+<relations>
+		<!-- IF YOU KNOW THE WORK ID (SEE ABOVE), YOU MAY INSERT THAT HERE. -->
+		<!-- PLEASE IGNORE THE REST OF THE RELATIONS SECTION; IT WILL BE    -->
+		<!-- BE COMPLETED BY PROJECT EDITORS AFTER YOU'VE CHECKED IN YOUR   -->
+		<!-- TRANSCRIPTION.                                                 -->
+
+<work entity="xxx.00000" cert="absolute">
+<p> </p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">My poems
+		<!-- TITLE GOES HERE. IF IT IS DERIVED FROM THE -->
+		<!-- FIRST LINE, ADD THIS TO THE PREVIOUS TAG:  -->
+		<!-- rend="bracketed"                           --> 
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+
+		<!-- UNIQUE ID GOES HERE, TOO -->
+<idno>duk.00229</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+		<!-- IGNORE THIS PROJECT NOTE.  IT WILL BE FILLED IN BY PROJECT EDITORS. -->
+<note type="project" target="dat1"></note>
+
+		<!-- IF THERE IS VERSO INFORMATION THAT YOU ARE ONLY    -->
+            <!-- DESCRIBING BUT NOT TRANSCRIBING, INSERT THAT HERE. -->
+		<!-- IF YOUR MANUSCRIPT HAS NO VERSO MATERIAL, OR IF    -->
+		<!-- YOU ARE TRANSCRIBING THAT MATERIAL, YOU MAY DELETE -->
+		<!-- THIS NOTE.               				-->
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+	<!-- TITLE UNDER WHICH THE MS IS HELD AT THE REPOSITORY;	-->
+	<!-- PLEASE CONSULT, WHEN AVAILABLE, THE ONLINE FINDING	  	-->
+	<!-- FINDING AID ON THE WHITMAN ARCHIVE, IN THE "MANUSCRIPTS" 	-->
+	<!-- SECTION OF THE SITE.                                     	-->
+
+</title>
+<date certainty="****" value="/" id="dat1"><!-- DATING INFO; THIS WILL BE INSERTED BY PROJECT EDITORS --></date>
+<idno type="callno">
+	<!-- THE REPOSITORY'S ID CODE FOR THE MATERIAL, IF ANY, CAN BE	     -->
+	<!-- ENTERED HERE. THE VALUE OF 'TYPE' CAN BE ALTERED TO FIT	     -->
+	<!-- THE TYPE OF ID NUMBER USED; EXAMPLE: MSS 3829.  THIS INFO	     -->
+	<!-- IS ONLY APPROPRIATE FOR THE REPOSITORIES THAT HAVE CREATED      -->
+	<!-- UNIQUE IDENTIFIERS FOR EACH MANUSCRIPT: HARVARD, BOSTON         -->
+	<!-- PUBLIC LIBRARY, BYU, JOHNS HOPKINS, THE HUNTINGTON, THE MORGAN, -->
+	<!-- RUTGERS, THE AMERICAN ANTIQUARIAN SOCIETY, AND TEMPLE. PLEASE   -->
+	<!-- CONSULT THE ONLINE FINDING AIDS.                                --> 
+
+</idno> 
+<orgName>The Trent Collection of Walt Whitman Manuscripts, Duke University Rare Book, Manuscript, and Special Collections Library</orgName> 
+
+	<!-- ALTER THE FOLLOWING NOTE IF NECESSARY -->
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<handList>
+<hand scribe="unknown" id="unk"/>
+<hand id="h1" ink="handwritten"/> 
+</handList>
+</profileDesc>
+<revisionDesc>
+	<!-- INSERT THE CORRECT DATE AND YOUR NAME.  NOTE THAT THE DATE -->
+	<!--        IS ORDERED THIS WAY:  YYYY-MM-DD                    -->
+<change>
+<date>2005-05-20</date>
+<respStmt>
+<name>Chris Forster</name>
+</respStmt>
+<item>Proofread, revised</item>
+</change>
+<change>
+<date>2004-08-15</date>
+<respStmt>
+<name>Joshua Ranger</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2004-08-18</date>
+<respStmt>
+<name>Joshua Ranger</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+		<!-- AGAIN, UNIQUE ID PLUS 3-DIGIT PAGE # IN THE FOLLOWING -->
+<pb corresp="duk.00229.001" id="leaf01r" type="recto"/>
+
+		<!-- IF THE MANUSCRIPT IS SOMETHING OTHER THAN ONE POEM   -->
+		<!-- (FOR EXAMPLE, "MULTIPLE POEMS" OR "POEM NOTES"), YOU --> 
+		<!-- MUST INSERT A <div1> HERE WITH THE APPROPRIATE 	  -->
+		<!-- "type" ATTRIBUTE 					  -->
+<head type="main-derived">My poems</head>
+
+<p>My poems, when complete, should be <hi rend="underline">A Unity</hi>, in the same sense that the earth is, or that the human body, or that a perfect musical composition is&#8212;
+<note type="authorial" place="marginright" rend="circled">(senses, soul, head, trunk, feet, blood, viscera, man&#8209;root, eyes, hair,)</note></p> 
+
+<add place="inline" hand="unk" type="pasteon"> 
+
+<p>THE UNITY OF THE BIBLE.</p>
+
+<!-- THE UNDERLINED PORTIONS OF THIS PASTE-ON ARE UNDERLINED IN WHITMAN'S HAND; USING -->
+<!-- THE HAND ATTRIBUTE WITH THE HI TAG HOWEVER GENERATES A PARSING ERROR. I'VE LEFT  -->
+<!-- THE HAND ATTRIBUTE, AND THE ATTENDANT PARSING ERROR STAND. -CF -->
+<p>
+As in Beethoven's matchless music there runs <hi rend="underline" hand="h1">one idea, worked out through all the changes of measure and of key, now almost hidden, <note type="authorial" place="marginright" hand="h1">&#9756;</note>now breaking out in rich natural melody, whispered in the treble, murmured in the base, dimly suggested in the prelude</hi>, but growing clearer and clearer as the work proceeds, winding <orig reg="gradually">grad-ually</orig> back, until it ends in the key in which it began, and closes in triumphant harmony; so throughout the whole Bible, there runs one great idea&#8212;man's ruin by sin, and his redemption by grace; in a word, Jesus Christ, the Saviour. This runs through the Old Testament, that prelude to the New, dimly promised at the fall, and more clearly to Abraham; typified in the ceremonies of the law; all the events of sacred history paving the way for his <orig reg="coming">com-ing</orig>; his descent proved in the genealogies of Ruth and Chronicles; spoken of as Shiloh by Jacob, as the Star of Balaam, as the Prophet by Moses; the David of Psalms; the Redeemer looked for by Job; the Beloved of the Song of Songs. We find him in the sublime strains of the lofty Isaiah; in the writings of the <orig reg="tender">ten-der</orig> Jeremiah; in the mysteries of the contemplative Ezekiel; in the visions of the beloved Daniel; the great idea growing clearer and clearer as the time drew on. Then the full harmony broke out in the song of the angels, "Glory to God in the highest; on earth peace, good-will towards men." And Evangelists and Apostles taking up the theme, the strain closes in the same key in which it began; the devil, who troubles the first paradise, forever excluded from the second; man restored to the favor of God; and Jesus Christ the key-note of the whole.&#8212;<hi rend="italic">American Messenger</hi>.</p>
+
+</add>
+
+
+<p>Great Constituent elements of my Poetry</p>
+
+<span value="bracketed" id="s1" from="s1" to="s2"/>
+<p>
+Two, viz; <hi rend="underline">Materialism</hi> <hi rend="underline">Spirituality</hi> 
+The <sic corr="intellect">itellect</sic>, the esthetic, is what is to be the medium of these and to beautify <unclear reason="illegible" cert="25%" resp="cf">govern</unclear> &#38; make <unclear reason="illegible" cert="25%" resp="cf">serviceable these</unclear>
+</p>
+<anchor id="s2"/>
+
+<pb corresp="duk.00229.002" id="leaf02r" type="recto"/>
+
+<list>
+<head type="sub">Poems</head>
+<item>Hasting, urging, resistless,</item>
+<item>&#8212;no flagging, not even in the "thoughts" or meditations</item>
+<item>&#8212;florid</item>
+<item>&#8212;spiritual</item>
+<item>&#8212;good, not from their direct but indirect meanings</item>
+<item>&#8212;to be perceived with the same perception that enjoys music, flowers, and the beauty of men and women</item>
+<item>&#8212;free and luxuriant&#8212;</item>
+</list>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<head type="sub">Lessons</head>
+<item>Clear, alive, luminous,</item>
+<item>&#8212;full of facts</item>
+<item>&#8212;full of physiology</item>
+<item>&#8212;acknowledging the democracy<app>
+<rdg varSeq="1"><del type="overstrike">&#8212;</del></rdg>
+<rdg varSeq="2"><add place="over" type="unmarked">,</add> </rdg></app>
+the people&#8212;</item>
+<item>&#8212;must have an alert character, even in, the reading of them</item>
+<item>&#8212;The enclosing theory of "Lessons," to permeate All The States, answering for All, 
+(no foreign imported models,)</item>
+<item>&#8212;<hi rend="underline">full of hints, laws, &#38; informations</hi>, to make a superb American Intellect and character in any or all The States</item>
+<item><note place="marginleft" type="authorial">&#9758;</note>
+&#9758;Also the strength, command &#38; luxuriance of oratory</item>
+</list>
+
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="med.00742">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketd">"Still lives the song</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.00742</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Edward Grier notes that this manuscript likely dates from the late 1840s, and that the source of the quotation has been identified as Margaret Fuller's <hi rend="italic">Papers on Literature and Art</hi> (1846) (see the headnote of Grier's transcription, cited below).</note>             
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Walt Whitman</author>
+                        <editor>Edward F. Grier</editor>
+                        <title xml:id="nupm">Notebooks and Unpublished Prose Manuscripts</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>New York University Press</publisher>
+                            <date when="1984">1984</date>
+                            <biblScope type="page">1769</biblScope>
+                            <biblScope type="volume">5</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note type="project">Grier derives his text from <hi rend="italic">Notes &amp; Fragments</hi>, Richard Maurice Bucke (1899), 167.</note>
+                </biblStruct>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">"Still lives the song</title>                  
+                    <date xml:id="dat1" notBefore="1845" notAfter="1855" cert="low">Late 1840s</date>
+                    <orgName xml:id="med">The location of this manucsript is unknown.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-05-24" who="#km">checked</change>
+            <change when="2015-02-16" who="#jc">checked</change>
+            <change when="2014-10-27" who="#kc">encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <p>"Still lives the song tho' Regnar dies."&#8212;<hi rend="italic">John Sterling.</hi></p>
+            
+        </body>
+    </text>
+</TEI>

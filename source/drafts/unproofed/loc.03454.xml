@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03454">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"The Pioneers of New York"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.03454</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>C. F. Hoffman</author>
+                    <title>The Pioneers of New-York</title>
+                    <idno type="callno">F122.1.H69 Copy 5</idno>
+                    <date cert="high" when="1847-12-06">December 6, 1847</date>
+                    <orgName>The Charles E. Feinberg Collection of the Papers of Walt Whitman,
+                        1839&#8211;1919, Library of Congress, Washington, D.C. </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-20">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <div1>
+                <pb xml:id="leaf001r" facs="loc_nhg.00345.jpg" type="recto"/>
+                <p><hi rend="smallcaps">THE PIONEERS OF NEW-YORK.</hi></p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <p><hi rend="smallcaps">AN</hi></p>
+                <p><hi rend="smallcaps">ANNIVERSYARY DISCOURSE</hi></p>
+                <p><hi rend="smallcaps">DELIVERED BEFORE THE</hi></p>
+                <p>St. Nicholas Society of Manhattan,</p>
+                <p><hi rend="smallcaps">DECEMBER</hi> 6, 1847.</p>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <p>["The first settlement of this State coincided with its natural advantages. While
+                    Englishmen came to America, either flying from ecclesiastical intolerance or
+                    pursuing the treasure its savages were supposed to possess, Dutchmen, inspired
+                    by the spirit of trade, instead of sitting down on the skirts of the New World,
+                    boldly penetrated to the head navigation of the Hudson. They built there a fort
+                    in the year 1614, and gave it the name of <hi rend="underline" hand="#h1"
+                        xml:id="g001">that august family</hi>
+                    <note type="authorial" resp="#h2" place="right" target="#g001">? That
+                        Orange</note>, whose talents and labors, alike in the cabinet and the field,
+                    secured the liberty of England as well as of Holland, and established the
+                    Independence of Europe. ***Children of commerce, we were rocked in the cradle of
+                    war, and sucked the principles of liberty with out mother's
+                    milk."&#8212;Governeur Morris, Dec. 6,1812.]</p>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <p><hi rend="smallcaps">BY C. F. HOFFMAN.</hi></p>
+                <note type="authorial" resp="#h2" place="infralinear">(June '57 &#8212; This man is
+                    now in an Insane Asylum &#8211; it is said a confined lunatic.</note>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <p><hi rend="smallcaps">NEW-YORK:</hi></p>
+                <p><hi rend="smallcaps">STANFORD AND SWORDS, 139, BROADWAY.</hi></p>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <p>1848.</p>
+                <pb xml:id="leaf002r" facs="loc_nhg.00346.jpg" type="recto"/>
+                <fw type="pageNum" place="top">25</fw>
+                <p>In 1624, ten years after the Hollanders established their three forts on the
+                    Hudson, and commenced that line of posts which soon extended from the
+                    Connecticut to the Delaware, we have the first infusion here of the different
+                    races from which, one hundred years later, the genuine Knickerbocker was
+                    evolved.</p>
+
+                <p>A large body of <hi rend="smallcaps">WALLOONS</hi>, inhabitants of the frontier
+                    between France and Flanders, who spoke the old Gallic language, and professed
+                    the reformed religion, applied in 1622 to Sir Dudley Carlton to settle in
+                    Virginia, with the privilege of erecting a town there. The Walloons, during "
+                    the thirty years" war, distinguished themselves for their valor and savage
+                    spirit, and the governor of Virginia seems not to have given a satisfactory
+                    reply to what he probably considered an arrogant condition, which they proposed
+                    as the basis of any settlement in his colony, viz:&#8212;That they should be
+                    governed by magistrates elected by themselves.* <span rend="bracket-right"
+                        resp="#h1" xml:id="b001" from="#b001" to="#b002"/>Several families of these
+                    Walloons therefore, established themselves (in the year 1624,) in New
+                    Netherland, within the confines of the present town of Brooklyn, on Long Island,
+                    where the Wallabout (or "Bay of Foreigners,"&#8212;<hi rend="italic">Wale
+                        Bocht</hi>,) still identifies their memory with the locality;<anchor
+                        xml:id="b002"/> and several other families of the same race, taking one of
+                    Christianse' " stations" as the nucleus of their colony, augmented the
+                    settlement at the base of the Katzbergs, near the head of ship navigation, on
+                    the Hudson.</p>
+
+                <p>In 1642 a band of representatives of the English race appear in New Netherland,
+                    and plant themselves beside their Belgic and Gallic predecessors, with whom they
+                    soon become blended by intermarriage. In this year a band of religionists, led
+                    on by the Rev. Mr. Doughty, Richard Smith, and others, who had followed the
+                    Pilgrims from old England to New England, were compelled to withdraw from the
+                    latter country by the persecution they received there; and, after making formal
+                    application to the authorities of</p>
+                <fw type="footer" place="bottom">English provincialism, in many respects so
+                    different from other English provincialisms of New England, go far to disprove
+                    an identy of provincial origin in the English settlers of either colony; much
+                    less that the Puritans ever imprinted their peculiarities upon New-York as "New
+                    England's eldest daughter!"</fw>
+                <fw type="footer" place="bottom">*O'Callaghan</fw>
+                <pb xml:id="leaf001v" facs="loc_nhg.00347.jpg" type="verso"/>
+                <fw type="pageNum" place="top">26</fw>
+                <p>New Netherland, they had a grant of land assigned to them. Endowed with the usual
+                    privileges of free manors, such as free exercise of their religion, powers to
+                    plant towns, build churches, nominate magistrates, and administer civil and
+                    criminal jurisdiction. Six months later, Throgmorton, who had already been
+                    driven with Roger Williams from Massachusetts by the fiery Hugh Peters, procured
+                    permission to settle thirty-five families on the lands in Westchester county,
+                    now known as Throg's Neck, which the New Netherlander at that time named <hi
+                        rend="italic">Vredeland</hi>, or ''Land of Peace." <span rend="bracket-left"
+                        resp="#h1" xml:id="b003" from="#b003" to="#b004"/>A meet application, as
+                    O'Callaghan remarks, " for the spot selected by those who were bruised and
+                    broken down by religious persecution." In the same year the Lady Moody, with her
+                    minor son, Sir Henry, and many followers, fled in a similar manner from New
+                    England to the asylum of New Netherland, and founded the town of Gravezande,
+                    (now Gravesend,) on Long Island.<anchor xml:id="b004"/> To which island Thomas
+                    Ffarrington, John Townsend, William Lawrence, John Ffirman, and others, were
+                    compelled, in the next twenty months, to remove with their families, from New
+                    England; and after accepting a grant of land from the authorities of New
+                    Netherland, enroll themselves as liegemen of that province.</p>
+                <p>The historian De Laet says, in speaking of this period of the history of New
+                    Netherland, "numbers, nay, whole towns, to escape from the insupportable
+                    government of New England, removed to New Netherland to enjoy that liberty
+                    denied them by their own countrymen." So great was the influx of Englishmen who
+                    came now, not as the veritable Pilgrims had proposed in Holland, " to reform any
+                    thing which was amiss" among their entertainers, but to enjoy true Knickerbocker
+                    freedom, that the director-general of this province, in order " to prevent the
+                    disturbance of harmony and social intercourse, more or less, by the incoming of
+                    so many strangers to reside here," appointed George Baxter as " English
+                    secretary of the council of New Netherland." It is worth stating in this
+                    connection, however, that the Dutch language is at this very day still spoken in
+                    many of the localities of Long Island by some of the descendants of these, <hi
+                        rend="italic">then</hi> "strangers." It is to this early English immigration
+                    that certain ingenious theorists have attempted</p>
+                <pb xml:id="leaf003r" facs="loc_nhg.00348.jpg" type="recto"/>
+                <fw type="pageNum" place="top">29</fw>
+                <p><span rend="bracket-right" resp="#h1" xml:id="b005" from="#b005" to="#b006"/>In
+                    1664 crowded in the cavalier followers of the now restored Stuarts, some of
+                    whom, (like the Pilgrim fathers,) had been sojourners, with their prince, in
+                    Holland, and spoke her language; as did the brave Calvinist "Captain John
+                    Underhill with his wife," Lyon Gardiner, who also " had served in the low
+                    countries," and other English exiles and soldiers of fortune who preceded the
+                    cavaliers, and played an active part in the Indian wars of Long Island; where
+                    some of Charles II's <hi rend="italic">Tangier</hi> officers took up their manor
+                    giants beside them, and in the mention of their neighborhood, bring up, to this
+                    day, their military service in Africa as immortalized in the quaint periods of
+                    old Pepys. Many were the manor grants made to these last comers amid the fair
+                    lands of New-York, when the bigotted English Duke, from which The <hi
+                        rend="smallcaps">NIAGRA STATE</hi> takes its unmeaning provincial name,
+                    established a British government over the province.<anchor xml:id="b006"/></p>
+                <p>Twenty years later, following the detached families of Norman Protestants, who
+                    had previously come hither through the ports of Holland, began thegreat Huguenot
+                    immigration into New-York, when so many families of persecuted Frenchmen,
+                    migrated hither, and established themselves, some in the city of New-York, some
+                    on Staten Island, some at New Rochelle, in Westchester county, some near De
+                    Vrie's ancient station, in what is now Rockland county, and some, it is
+                    believed, in New Paltz, Ulster county.</p>
+                <p>In 1710 New-York, "originally only a field of wild-wood enterprize for the Dutch
+                    and Scotch fur trader, but at an early day the chosen asylum of the French
+                    anti-Romanist and English anti-Puritan,"became the asylum of three thousand
+                    German exiles, who, flying from the devastation of " the blazing Palatinate,"
+                    migrated in one body to the valley of the Hudson; while the wars of Europe, and
+                    especially the discomfiture of the pretender to the British crown in- 1715, sent
+                    hither many an English, Irish,* and</p>
+                <fw type="footer" place="bottom">very name alone can sink the whole Swedish navy of
+                    American emigration&#8212;the <hi rend="italic">Bird-grip</hi>, and <hi
+                        rend="italic">Key of Calmer</hi>, the <hi rend="italic">Swan</hi>, <hi
+                        rend="italic">Eagle</hi>, and <hi rend="italic">Golden Shark</hi>, the <hi
+                        rend="italic">Fama</hi>, <hi rend="italic">Charitas</hi>, <hi rend="italic"
+                        >Black-cat</hi>, and <hi rend="italic">Mercurius</hi>.</fw>
+                <fw type="footer" place="bottom">*The Irish immigration into New-York, which for
+                    several generations has perhaps exceeded that of any other race, seems not to
+                    have been very large before</fw>
+                <pb xml:id="leaf002v" facs="loc_nhg.00349.jpg" type="verso"/>
+                <fw type="pageNum" place="top">32</fw>
+                <p>plains of Normandy and the green vales of England; from the sunny hills of Savoy
+                    and the bleak wastes of Finland, came they</p>
+                <fw type="footer" place="bottom"><p>a woman in very easy circumstances and
+                        abundantly gentle in form and manners, would sow and plant, and rake,
+                        incessantly." These fair gardeners (we are also told) were likewise good
+                        florists, and displayed much emulation and solicitude in their pleasing
+                        employment.</p>
+                    <p>In connection with this glimpse of not uninteresting homely habits it may be
+                        worth while to recur to the condition of slavery in early New-York. So
+                        utterly is this institution now effaced from among us, that it has become
+                        difficult to realize how much is due to the far-seeing statesman and pure
+                        patriot, through whose instrumentality, chiefly, abolition was effected
+                        within our borders. Yet in no colony of our present Union did slavery more
+                        generally prevail than in that of New-York; for while the social
+                        distinctions, depending upon taste and education, were quietly respected,
+                        there was here no division of society into two great classes, as at the
+                        south; where one great landed proprietor could count hundreds of human
+                        beings as his serfs, while another of the same blood, was sunk almost below
+                        the servile tiller of the soil, by the very fact of his owning no property
+                        in any man but himself. For, while the number of slaves in any New-York
+                        family rarely exceeded a dozen, there was hardly a dwelling in the colony
+                        that did not shelter some of these family appendages. Slavery was indeed
+                        here literally " a domestic institution." " There were no field negroes," no
+                        collection of cabins remote from the house, known as " tho negro quarters."
+                        The slaves lived under the same roof, and partook of the same fare as the
+                        rest of the family, to which they belonged. They were scrupulously baptised
+                        too, and shared tho same religious instruction with the children of the
+                        family. There was no especial law, we are told, preventing the barter of
+                        slaves; but a natural sentiment, which had grown into a custom, as
+                        compulsory as any law, prevented the separation of families; and, above all,
+                        the sale of any child without the permission of the mother, who would often
+                        exercise her own caprice in designating its future master. The exchange of
+                        slaves was also almo3t invariably limited to family relatives. When a negro
+                        woman's child attained the age of three years, it was solemnly presented,
+                        the first new year's day following, to the son, or daughter, or other young
+                        relation of the family, who was of the same sex with tho child so presented;
+                        and when in after years, tho youthful master went out to seek his fortunes
+                        upon the frontiers, a thousand instances are related of tho fidelity and
+                        devotion of these sable squires, amid the perils of the wilderness.</p>
+                    <p><span rend="bracket-right" resp="#h1" xml:id="b007" from="#b007" to="#b008"
+                        />There is one remark which I will venture to make, in connection with this
+                        branch of our subject, because its truth may be, even at this late day,
+                        verified in Rockland, Orange, Kings, Queens, and other counties of this
+                        State, where the full-blooded descendants of these negro slaves are still
+                        found with their African features and complexions, wholly unchanged. In this
+                        colony alone was it customary,</p><anchor xml:id="b008"/></fw>
+                <pb xml:id="leaf003v" facs="loc_nhg.00350.jpg" type="verso"/>
+                <p>memories of each name and service of her sons who, even in the humblest sphere,
+                    have contributed aught to the glory of the commonwealth. Had the progress truths
+                    for which Milbourne perished &#8212;had the eternal principles of right and wrong,
+                    whose distinctions Leisler died in upholding&#8212;had these been promulgated in New
+                    England, and sealed with the blood of a New England man, does any one doubt that
+                    the names of the brave martyrs would have stood at this moment foremost in
+                    American history as the joint embodiment, the first breathing types of
+                    principles taught eighty-six years afterwards in the Declaration of
+                    Independence?</p>
+                <p>Strange, most strange is it, that the story of these memorable worthies of
+                    New-York, so wholly, so peculiarly her own, should come up on the page of two
+                    leading New England historians, to prove that they are not worth remembering, or
+                    if worth remembering, that they acted under a Puritanic influence.*</p>
+                <p>I respect, I reverence the zeal with which our intelligent neighbors preserve
+                    their own annals ; but it is full time that they should so write them, as not to
+                    overlay and obliterate ours.</p>
+                <p>And the descendants of the Pilgrims here domesticated, are identified with
+                    ourselves in maintaining the local associations and distinctive history of this
+                    State, unless they mean their children of</p>
+                
+                <note type="authorial" resp="#h2" place="left"><!--what to do for slash?--></note>
+
+                <fw type="footer" place="bottom">*Hutchinson, and Bancroft. The German mode of
+                    writing history to illustrate a theory, a mode which Mr. Bancroft has followed
+                    with such signal ability, can do no harm in Europe, where they only <hi rend="italic">re</hi>-write an
+                    old story from printed works which are in every public library. But in this
+                    country, where history as yet, and for some time to come, is to be prepared from
+                    original documents, a system of the kind can hardly be beneficial to the cause
+                    of truth? In adorning the new walls of the new British Parliament House their
+                    historic characters of the civil wars on either side, and the portraits of
+                    living men as directly opposed in political principle as Wentworth and Hampden,
+                    are alike preserved, as all forming a part of England's story. Should similar
+                    liberality of feeling ever grow up in this country, the faithful loyalty of
+                    Bayard, of Livingston, and other opponents of the democratic party of Leisler's
+                    time, will be honored even by those who disapprove their political principles ;
+                    and the military valor of New-York, as illustrated by the brave De Lanceys of a
+                    subsequent generation, receive its just meed, without any reference to the
+                    failing cause which they espoused, not in treason, as Arnold did, but in the
+                    blind and mistaken belief that it was the cause of "The Right."</fw>
+
+
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00195">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00195">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +28,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>duk.00195</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,9 +40,9 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            <idno>duk.00195</idno></publicationStmt>
+            </publicationStmt>
             <notesStmt>
-                <note type="project">At one point, this manuscript likely formed part of <ref target="../manuscripts/marginalia/scrapbook_index">Whitman's cultural geography scrapbook</ref>.</note>             
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -90,7 +93,7 @@
                     <pb xml:id="leaf002r" facs="duk.00195.001a.jpg" type="recto"/>
                 <ab><del rend="erasure"><del rend="overstrike"><unclear reason="illegible" resp="#lmg" cert="medium">"Lecture"</unclear></del> "law" "lex"</del> "lux"
                 <hi rend="underline">light</hi>? Alcoran, signifies law
-                    <hi rend="circled">Lecture (<del rend="overstrike">lectio</del> Latin—to read</hi></ab>
+                    <hi rend="circled">Lecture (<del rend="overstrike">lectio</del> Latin&#8212;to read</hi></ab>
                     
                     <ab>Originally laws were promulged
                     by word of mouth to the
@@ -105,7 +108,7 @@
                 <body>
                     <pb xml:id="leaf003r" facs="duk.00195.001b.jpg" type="recto" rend="col-6"/>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
-                <head type="main-authorial">R<hi rend="smallcaps">ELIGIOUS</hi> B<hi rend="smallcaps">ELIEFS</hi>.</head><p>—The proportion of the world's
+                <head type="main-authorial">R<hi rend="smallcaps">ELIGIOUS</hi> B<hi rend="smallcaps">ELIEFS</hi>.</head><p>&#8212;The proportion of the world's
                     population who are Pagans is nearly 1 in 2; <choice><orig>Mahommedans</orig><reg>Muslims</reg></choice>,
                     about 1 in 7; Catholics, nearly one in 8;
                     Protestants, about 1 in 15; Greek Church, 1 in 18;
@@ -119,7 +122,7 @@
                 <floatingText rend="flat">
                 <body>
                     <pb xml:id="leaf004r" facs="duk.00195.001c.jpg" type="recto" rend="col-10"/>
-                    <span rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
+                    <span  rend="curlyBrace-right" xml:id="s1" from="#s1" to="#s2"/>
                 <ab>(Bunsen)<lb/>
                     Abrahamic
                 movement</ab>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00064">
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00064">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +26,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>duk.00064</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,7 +36,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -41,9 +44,9 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            <idno>duk.00064</idno></publicationStmt>
+            </publicationStmt>
             <notesStmt>
-                <note type="project">At one point, this manuscript likely formed part of <ref target="../manuscripts/marginalia/scrapbook_index">Whitman's cultural geography scrapbook</ref>.</note>             
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -83,13 +86,13 @@
         <body>
             <ab/>
             <pb xml:id="leaf001r" facs="duk.00064.001.jpg" type="recto"/>
-            <p><handShift new="#h1"/>This list of one week's issue of patents from the National Patent office at Washington illustrates America and American character about as much as any thing I know.—(Remember the show at the Crystal Palace, and the American Institute Fairs.)</p>
+            <p><handShift new="#h1"/>This list of one week's issue of patents from the National Patent office at Washington illustrates America and American character about as much as any thing I know.&#8212;(Remember the show at the Crystal Palace, and the American Institute Fairs.)</p>
             
             <add rend="pasteon" place="top" source="#r1"><handShift new="#h2"/>
                 <floatingText rend="flat">
                     <body>
                         <pb xml:id="leaf002r" facs="duk.00064.002.jpg" type="recto"/>
-                        <p>List of Patents Issued from the United States Patent Office for the week ending May 12, 1857—each bearing that date:</p>
+                        <p>List of Patents Issued from the United States Patent Office for the week ending May 12, 1857&#8212;each bearing that date:</p>
                         <list>
                             <item>Iron plate railroad car wheels: G. W. Alden, New York, N. Y.</item>
                             <item>Apparatus for heating and cooking by gas: R. Snowden Andrews, Baltimore, Md.</item>
@@ -118,7 +121,7 @@
                             <item>Seed planters: John Haselton, Orford, N. H.</item>
                             <item>Propeller blades: Geo. Hibsch, Buffalo, N. Y.</item>
                             <item>Harvesters: Moses G. Hubbard, Penn Yan, N. Y.</item>
-                            <item>Presses for cottom, &amp;c.: Henry Hughes, Port Gibbon, Miss.</item>
+                            <item>Presses for cottom, &#38;c.: Henry Hughes, Port Gibbon, Miss.</item>
                             <item>Process of treating raw cotton: Julius C. Hurd, Medway, Mass.</item>
                             <item>Folding bedsteads: James A. Johnson, Antrim, Ohio.</item>
                             <item>Bed bottoms: J. F. Keller, Cleveland, Ohio.</item>
@@ -147,8 +150,8 @@
                             <item>Sub-marine excavator: William Kennish Brooklyn, N.Y., assignor to Andrew B. Gray, San Diego, Cal.</item>
                             <item>Copying preses: Wm. Morris Smith, Washington, D. C., assignor to himself and Peter Hannay.</item>
                             <item>Gas generators. James A. Bruce, Baltimore, Md., assignor to the Maryland Portable Gas Company, same place.</item>
-                            <item>Method of preparing canvass for printing, painting &amp;c., Elisha Lee, Baltimore, Md.</item>
-                            <item><hi rend="italic">Re-issue</hi>—Hanging shafts in mills.  Pantented October 9, 1849.  Jos. Bancroft, executor of Edward Bancroft, deceased, late of Philadelphia, Pa.</item>
+                            <item>Method of preparing canvass for printing, painting &#38;c., Elisha Lee, Baltimore, Md.</item>
+                            <item><hi rend="italic">Re-issue</hi>&#8212;Hanging shafts in mills.  Pantented October 9, 1849.  Jos. Bancroft, executor of Edward Bancroft, deceased, late of Philadelphia, Pa.</item>
                         </list>
                         <milestone unit="undeclared" rend="horbar-short-center"/>
                     </body>

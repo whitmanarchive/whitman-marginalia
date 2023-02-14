@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00674">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00674">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +28,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>duk.00674</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,9 +40,9 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            <idno>duk.00674</idno></publicationStmt>
+            </publicationStmt>
             <notesStmt>
-                <note type="project">At one point, this manuscript likely formed part of <ref target="../manuscripts/marginalia/scrapbook_index">Whitman's cultural geography scrapbook</ref>.</note>             
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -78,9 +81,9 @@
                                     <list>
                                         <head>bounded</head>
                                         <item>north Arctic ocean</item>
-                                        <item>east—Atlantic</item>
-                                        <item>west—Black sea, <del rend="overstrike">Caspian</del>, Caucasus
-                                           mts.—Caspian sea,
+                                        <item>east&#8212;Atlantic</item>
+                                        <item>west&#8212;Black sea, <del rend="overstrike">Caspian</del>, Caucasus
+                                           mts.&#8212;Caspian sea,
                                            Ural river &amp; mts (Asia)</item>
                                         <item>South Mediterranean</item>
                                     </list>
@@ -88,30 +91,30 @@
                 
                             <list>
                                 <head type="sub">Countries</head>
-                                <item>—Iceland, 60,000</item>
-                                <item>—Norway, 1,328,000</item>
-                                <item>—Sweden, 3,440,000</item>
-                                <item>—Denmark, 2,300,000</item>
-                                <item>—Russia, in Europe, 54,000,000</item>
-                                <span type="curlyBrace-left" xml:id="s1" from="#s1" to="#s2"/><item>—England, 18,000,000 (inc. Wales)</item>
-                                <item>—Scotland, 2,889,000</item>
-                                <item>—Ireland, 6,516,000</item><anchor xml:id="s2"/><!--Dashes outside the bracket-->
-                                <item>—France, 36,000,000</item>
-                                <item>—Spain, 14,000,000</item>
-                                <item>—Portugal,</item>
-                                <item>—Austria 36,515,000</item>
-                                <item>—<!--This dash could be read as a milestone.  Grier marks it as a dash.-->Prussia,</item>
-                                <item>—Netherlands 3,363,000</item>
-                                <item>—Belgium, 4,360,000</item>
-                                <item>—Switzerland 2,390,000</item>
-                                <item>—Sardinia, 5,000,000</item>
+                                <item>&#8212;Iceland, 60,000</item>
+                                <item>&#8212;Norway, 1,328,000</item>
+                                <item>&#8212;Sweden, 3,440,000</item>
+                                <item>&#8212;Denmark, 2,300,000</item>
+                                <item>&#8212;Russia, in Europe, 54,000,000</item>
+                                <span type="curlyBrace-left" xml:id="s1" from="#s1" to="#s2"/><item>&#8212;England, 18,000,000 (inc. Wales)</item>
+                                <item>&#8212;Scotland, 2,889,000</item>
+                                <item>&#8212;Ireland, 6,516,000</item><anchor xml:id="s2"/><!--Dashes outside the bracket-->
+                                <item>&#8212;France, 36,000,000</item>
+                                <item>&#8212;Spain, 14,000,000</item>
+                                <item>&#8212;Portugal,</item>
+                                <item>&#8212;Austria 36,515,000</item>
+                                <item>&#8212;<!--This dash could be read as a milestone.  Grier marks it as a dash.-->Prussia,</item>
+                                <item>&#8212;Netherlands 3,363,000</item>
+                                <item>&#8212;Belgium, 4,360,000</item>
+                                <item>&#8212;Switzerland 2,390,000</item>
+                                <item>&#8212;Sardinia, 5,000,000</item>
                                 <item>Rome 3,000,000</item>
                                 <item>Naples 9,000,000</item>
-                                <item>—(Hungary 11,000,000</item>
-                                <item>—(Venice &amp; Lombardy 5,000,000</item>
-                                <item>—Germany, Bavaria,</item>
-                                <item>—Wurtemberg, Baden,</item>
-                                <item>—Saxony, 2,000,000</item> <item><add rend="unmarked" place="inline">(Greece <subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#lmg" cert="medium">22</unclear></del><add rend="overwrite" place="over" seq="2">1,10</add></subst>0,000</add></item>
+                                <item>&#8212;(Hungary 11,000,000</item>
+                                <item>&#8212;(Venice &amp; Lombardy 5,000,000</item>
+                                <item>&#8212;Germany, Bavaria,</item>
+                                <item>&#8212;Wurtemberg, Baden,</item>
+                                <item>&#8212;Saxony, 2,000,000</item> <item><add rend="unmarked" place="inline">(Greece <subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#lmg" cert="medium">22</unclear></del><add rend="overwrite" place="over" seq="2">1,10</add></subst>0,000</add></item>
                                 <item><del rend="overstrike">Parma</del> Sicily</item>
                             </list>
                             <cb/>
@@ -136,12 +139,12 @@
             
             <pb xml:id="leaf001v" facs="duk.00674.002.jpg" type="verso"/>
                     <div1 type="section">
-                        <ab><handShift new="#h1"/><subst><del rend="overstrike" seq="1">Some</del> <add rend="unmarked" place="supralinear" seq="2"><hi rend="doubleUnderline">Two</hi></add></subst> <hi rend="doubleUnderline"><subst><del rend="overwrite" seq="1">S</del><add rend="overwrite" place="over" seq="2">s</add></subst>amples</hi> of Voltaires writings.—</ab>
+                        <ab><handShift new="#h1"/><subst><del rend="overstrike" seq="1">Some</del> <add rend="unmarked" place="supralinear" seq="2"><hi rend="doubleUnderline">Two</hi></add></subst> <hi rend="doubleUnderline"><subst><del rend="overwrite" seq="1">S</del><add rend="overwrite" place="over" seq="2">s</add></subst>amples</hi> of Voltaires writings.&#8212;</ab>
                         <ab>[Translated from his Philosophical Dictionary.]</ab>
                         <!--There are what look like four horizontal lines, perhaps indentations from earlier writing or writing on a surface on top of this one, before this first parenthesis.--><ab>(set what is marked on pages 173
                         and 174)</ab>
                         <ab><subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>ranslated from the same</ab>
-                            <ab>Great—Greatness</ab>
+                            <ab>Great&#8212;Greatness</ab>
                         <ab><unclear reason="cut away" resp="#nhg" cert="medium">(set what</unclear> <gap reason="cut away"/></ab>
                     </div1>
         </body>

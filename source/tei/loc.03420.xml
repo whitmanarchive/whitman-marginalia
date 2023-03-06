@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName><persName xml:id="nhg">Nicole Gray</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -44,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Canoe 'Uno.' Marginalia.</title>
                     <idno type="callno">Box 40, Folder 79</idno>
                     <date notBefore="1890-08-16" notAfter="1892-03-26">After August 16, 1890</date>                   
@@ -56,8 +56,8 @@
                     <title level="a">Typical American Canoes at the Annual Meet in Peconic Bay</title>
                     <title level="j">Harper's Weekly</title>
                     <date when="1890-08-16">August 16, 1890</date>
-                    <biblScope type="vol">34</biblScope>
-                    <biblScope type="pp">641</biblScope>
+                    <biblScope unit="vol">34</biblScope>
+                    <biblScope unit="pp">641</biblScope>
                     <pubPlace>New York</pubPlace>
                     <publisher>Harper &amp; Brothers</publisher>
                 </bibl>
@@ -66,8 +66,8 @@
                     <title level="a">"Modesty"</title>
                     <title level="j">Harper's Weekly</title>
                     <date when="1890-08-16">August 16, 1890</date>
-                    <biblScope type="vol">34</biblScope>
-                    <biblScope type="pp">642</biblScope>
+                    <biblScope unit="vol">34</biblScope>
+                    <biblScope unit="pp">642</biblScope>
                     <pubPlace>New York</pubPlace>
                     <publisher>Harper &amp; Brothers</publisher>
                 </bibl>
@@ -80,7 +80,7 @@
                 <handNote xml:id="h3" scribeRef="#cw" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-25">commented out verso</change>
             <change who="#lmg" when="2013-05-31">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-10-07">Checked.</change>

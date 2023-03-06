@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lcb">Laura Beerits</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Brooklyn Churches: Marginalia in Pamphlet</title>
                     <idno type="callno">Box 48, Folder 13</idno>
                     <date notBefore="1851-07-27" notAfter="1892-03-26">After July 27, 1851</date>                   
@@ -65,7 +65,7 @@
                 <handNote xml:id="h2" scribeRef="#JB" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lcb" when="2013-06-16">Transcribed.</change>
             <change who="#tra" when="2013-09-14">Encoded.</change>
             <change who="#lmg" when="2013-09-15">Checked.</change>

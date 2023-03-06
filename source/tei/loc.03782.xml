@@ -11,7 +11,7 @@
         <respStmt>
           <resp>Transcription and encoding</resp>
           <persName xml:id="lb">Laura Beerits</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName><persName xml:id="lmg">Lauren Grewe</persName>
-        </respStmt>
+        <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
         <sponsor>University of Texas at Austin</sponsor>
         <sponsor>University of Nebraska-Lincoln</sponsor>
         <funder>The National Endowment for the Humanities</funder>
@@ -45,7 +45,7 @@
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <author>Walt Whitman</author>
+          <author sameAs="#ww">Whitman, Walt</author>
           <title>Report…on Ferry and Water Rights</title>
           <idno type="callno">Box 48, folder 13</idno>
           <date notBefore="1849-03-26" notAfter="1892-03-26">After March 26, 1849</date>         
@@ -69,7 +69,7 @@
         <handNote xml:id="h3" scribeRef="#tpt" medium="black-ink"/>
       </handNotes>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
       <change who="#lb" when="2014-01-01">Transcribed.</change>
       <change who="#tra" when="2014-03-07">Encoded.</change>
       <change who="#lmg" when="2014-03-15">Checked and added cbs, footnotes, pasteon dimensions when necessary.</change>

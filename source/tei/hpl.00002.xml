@@ -46,7 +46,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>we know of no beginning in universal literature</title>
                     <idno type="callno"/><!-- Need call no. -->
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
@@ -60,7 +60,7 @@
                     <date/>
                     <publisher/>
                     <pubPlace/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="pp"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -70,7 +70,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-23" who="#km">proofed</change>
             <change when="2019-12-06" who="#as">Transcribed; encoded</change>
         </revisionDesc>

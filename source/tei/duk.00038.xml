@@ -14,7 +14,7 @@
                     <persName xml:id="ano">Alejandro Omidsalar</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -53,7 +53,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Excerpt from Graham's Illustrated Magazine of Literature, Romance, Art, and Fashion</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1852-01-01" notAfter="1892-03-26">1852 or later</date>
@@ -68,7 +68,7 @@
                     <date when="1852-01">January 1852</date>
                     <publisher>G.R. Graham</publisher>
                     <pubPlace>Philadelphia</pubPlace>
-                    <biblScope type="pp">39–44</biblScope>
+                    <biblScope unit="pp">39–44</biblScope>
                 </bibl>
                 
                 <bibl type="pasteon" xml:id="r2">
@@ -78,7 +78,7 @@
                     <date>Unknown</date>
                     <publisher>Uknown</publisher>
                     <pubPlace>Unknown</pubPlace>
-                    <!--<biblScope type="pp"></biblScope>-->
+                    <!--<biblScope unit="pp"></biblScope>-->
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -90,7 +90,7 @@
                 <handNote xml:id="h4" scribeRef="#unk2" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2019-10-15">proofed</change>
             <change who="#mc" when="2015-10-21">Proofed</change>
             <change who="#ano" when="2015-09-17">Transcribed and encoded</change>

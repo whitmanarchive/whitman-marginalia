@@ -48,7 +48,7 @@
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Generalities</title> 
                     <idno type="callnumber">MS q 188</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -62,7 +62,7 @@
                     <title level="j">unknown</title>
                     <date>unknown</date>
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page"/><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
+                    <biblScope unit="page"/><!-- reprintings of the same piece (although clearly not this particular publication) appear in a number of publications in 1854 and 1855, suggesting that this clipping is likely from around that time. I have unable to find the original source, however. KM -->
                 </bibl>
 
             </sourceDesc>
@@ -73,7 +73,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">corrected image name and added cropped images</change>
             <change when="2019-12-09" who="#km">proofed</change>
             <change when="2019-12-09" who="#as">updated transcription</change>

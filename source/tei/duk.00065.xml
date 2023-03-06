@@ -4,7 +4,7 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">American Institute Farmers Club</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -47,7 +47,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">American Institute Farmers Club</title>
                     <idno type="callnumber">MS q 187</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -61,7 +61,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1857-04-22">22 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">7</biblScope>
+                    <biblScope unit="page">7</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -70,7 +70,7 @@
                     <title level="j">Life Illustrated</title>
                     <date when="1857-04-18">18 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">196</biblScope>
+                    <biblScope unit="page">196</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -80,7 +80,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"><persName xml:id="unk">unknown</persName></handNote>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-07" who="#km">corrected placement of image link for second pasteon</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-07" who="#km">proofed</change>

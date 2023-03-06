@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -41,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>His earliest printed plays 1597 Romeo and Juliet</title>
                     <idno type="callno">MS 90</idno>
                     <date notBefore="1850-01-01" notAfter="1893-03-26">1844 or later</date>
@@ -53,8 +53,8 @@
                     <title level="a">unknown title</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -62,8 +62,8 @@
                     <title level="a">Shakspere as a Man.</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r3">
@@ -71,8 +71,8 @@
                     <title level="a">Shakspeare's Stage</title>
                     <title level="j"/>
                     <date>after 1856</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Reprinted from G.W. Thornbury's <hi rend="italic">Shakspere's England; or Sketches of our Social History in the Reign of Elizabeth</hi> (London, 1856).</note>
                 </bibl>
             </sourceDesc>
@@ -87,7 +87,7 @@
                 <handNote xml:id="h6" scribeRef="#gwt" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-18">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-10-03">Checked, revised.</change>

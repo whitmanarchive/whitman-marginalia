@@ -48,7 +48,7 @@
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Notes and Clippings, Chiefly on Eastern Poetry</title> 
                     <idno type="callnumber">MS 158</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -62,7 +62,7 @@
                     <title level="j">unknown</title>
                     <date>unknown</date>
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page">unknown</biblScope>
+                    <biblScope unit="page">unknown</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -71,7 +71,7 @@
                     <title level="s">Mandeville's Series</title>
                     <date when="1850">1850</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">144-145</biblScope>
+                    <biblScope unit="page">144-145</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -82,7 +82,7 @@
                 <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-06" who="#km">corrected image links</change>
             <change when="2020-01-23" who="#km">proofed</change>
             <change when="2019-10-25" who="#as">transcribed and encoded</change>

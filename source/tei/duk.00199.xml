@@ -4,14 +4,14 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">The English Masses</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="cb">Caterina Bernardini</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of
                     Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
@@ -48,7 +48,7 @@
             <sourceDesc>
 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The English Masses</title>
                     <idno type="callno">MS 98</idno>
                     <date notBefore="1850" notAfter="1860" cert="medium" xml:id="dat1">Between 1850
@@ -59,7 +59,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-10-15" who="#km">proofed</change>
             <change when="2019-02-05" who="#km">continued transcribing, encoding</change>
             <change when="2018-08-06" who="#cb">started encoding</change>

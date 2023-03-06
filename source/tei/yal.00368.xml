@@ -13,7 +13,7 @@
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="lmg">Lauren Grewe</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -40,7 +40,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>"The Fair Pilot of Loch Uribol"</title>
                     <idno type="callno">YCAL MSS 202, Folder 200</idno>
                     <date notBefore="1872-07-01" notAfter="1892-03-01">After 1872</date>
@@ -52,9 +52,9 @@
                     <title level="a">The Fair Pilot of Loch Uribol: A Yachting Episode</title>
                    
                     <title level="j">The Saint Paul's Magazine</title>
-                    <biblScope type="vol">11</biblScope>
+                    <biblScope unit="vol">11</biblScope>
                     <date notBefore="1872-07-01" notAfter="1872-12-31">July to December, 1872</date>
-                    <biblScope type="pp">47-53</biblScope>
+                    <biblScope unit="pp">47-53</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -67,7 +67,7 @@
                 <handNote xml:id="h5" scribeRef="#ww" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2011-11-29">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-10-01">Checked.</change>
             <change who="#mc" when="2014-11-20">Added bibliographic info.</change>

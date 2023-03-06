@@ -10,8 +10,11 @@
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
-                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -38,7 +41,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Of Insanity</title>
                     <idno type="callno">MS 4to 87</idno>
                     <date notBefore="1840-05-31" notAfter="1892-03-26">1856 or later</date>
@@ -51,8 +54,8 @@
                     <title level="j">Life Illustrated</title>
                     <pubPlace>New York</pubPlace>
                     <date>May 31, 1856</date>
-                    <biblScope type="vol">2</biblScope>
-                    <biblScope type="pp">33</biblScope>
+                    <biblScope unit="vol">2</biblScope>
+                    <biblScope unit="pp">33</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>
@@ -64,7 +67,7 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-02-27">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-10">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-11-01">Checked, revised.</change>

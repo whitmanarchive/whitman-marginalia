@@ -23,7 +23,7 @@
                     <persName xml:id="jc">Janel Cayer</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -53,7 +53,7 @@
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Poem</title>                  
                     <idno type="callno">MS f 30</idno>
                     <date cert="medium" notBefore="1850" notAfter="1860" xml:id="dat1">Between 1850 and 1860</date>
@@ -69,7 +69,7 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-11-06" who="#nhg">edited notes; added inline relations</change>
             <change when="2019-04-09" who="#bb">checked; edited</change>
             <change when="2019-01-28" who="#nhg">proofed</change>

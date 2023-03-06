@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -44,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The tragedies of Euripides</title>
                     <idno type="callno">PA3975.A1 1857 Copy 2 vol. 2</idno>
                     <date when="1889-11-14">November 14, 1889</date>
@@ -58,7 +58,7 @@
                     <pubPlace>New York</pubPlace>
                     <publisher>Harper &amp; Brothers</publisher>
                     <date when="1857-01-01">1857</date>
-                    <biblScope type="vol">2</biblScope>
+                    <biblScope unit="vol">2</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -69,7 +69,7 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2013-06-11">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-10-16">Checked.</change>
             <change who="#tra" when="2013-11-27">Updated bibliographical information and handnote.</change>

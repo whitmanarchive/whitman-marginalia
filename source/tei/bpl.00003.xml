@@ -7,7 +7,7 @@
          <titleStmt>
             <title level="m" type="main">Religions—Gods</title>
             <title level="m" type="sub">a machine readable transcription</title>
-            <author>Walt Whitman</author>
+            <author xml:id="ww">Walt Whitman</author>
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
             <respStmt>
@@ -16,7 +16,7 @@
                <persName xml:id="kc">Kirsten Clawson</persName>
                <persName xml:id="jc">Janel Cayer</persName>
                <persName xml:id="km">Kevin McMullen</persName>
-            </respStmt>
+            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -45,7 +45,7 @@
          </notesStmt>
          <sourceDesc>
             <bibl>
-               <author>Walt Whitman</author>
+               <author sameAs="#ww">Whitman, Walt</author>
                <title>Religions—Gods</title>
                <date xml:id="dat1" cert="medium" notBefore="1849" notAfter="1856">About 1856</date>
                <idno type="callno">Whitman Mss.7</idno>
@@ -60,7 +60,7 @@
             <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
          </handNotes>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
          <change who="#km" when="2020-02-06">corrected image links</change>
          <change who="#km" when="2020-01-31">corrected editorial notes</change>
          <change who="#jc" when="2015-06-17">checked, corrected</change>

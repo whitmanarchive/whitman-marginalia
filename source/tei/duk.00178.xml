@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
                 <note type="project" target="#dat1">Grier estimates that this was written in late 1856 (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1827). The clipping includes a quotation first printed in <hi rend="italic">Titan</hi> magazine in 1857: "Perthes the Publisher, and Literary Germany." The "Perthes" essay also appeared in <hi rend="italic">The Eclectic Magazine</hi>'s April 1857 issue.</note>             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Goethe—from about 1750</title>
                     <idno type="callno">MS 4to 80</idno>
                     <date notBefore="1855-01-01" notAfter="1892-03-26">Undated</date>
@@ -51,8 +51,8 @@
                     <title level="a">The True Character of Goethe.</title>
                     <title level="j">unknown periodical</title>
                     <date>circa 1857</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Clipping includes a quote first printed in <hi rend="italic">Titan</hi> magazine in 1857: "Perthes the Publisher, and Literary Germany." The "Perthes" essay also appeared in <hi rend="italic">The Eclectic Magazine</hi>'s April 1857 issue.</note>
                 </bibl>
             </sourceDesc>
@@ -64,7 +64,7 @@
                 <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-09">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-10-03">Checked, revised.</change>

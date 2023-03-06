@@ -46,7 +46,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Abrahams visit to Egypt</title>
                     <idno type="callno">Series I, Container 1.3</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -55,7 +55,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-11" who="#km">proofed</change>
             <change when="2019-06-12" who="#as">transcribed, encoded</change>

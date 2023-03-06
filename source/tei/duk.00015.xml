@@ -13,7 +13,7 @@
                     <persName xml:id="lmg">Lauren Grewe</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -44,7 +44,7 @@
          
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Some ideas on Hexameters</title>
                     <idno type="callno">MS 179</idno>
                     <date notBefore="1849-01-01" notAfter="1892-03-26">June 1849 or after</date>
@@ -56,8 +56,8 @@
                     <title level="a">Christopher under Canvass</title>
                     <title level="j">Edinburgh Magazine</title>
                     <date>June 1849</date>
-                    <biblScope type="vol">65</biblScope>
-                    <biblScope type="pp">763–766</biblScope>
+                    <biblScope unit="vol">65</biblScope>
+                    <biblScope unit="pp">763–766</biblScope>
                     <note type="project"/>
                 </bibl>
                 </sourceDesc>
@@ -69,7 +69,7 @@
                 <handNote xml:id="h3" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-12-01">corrected title</change>
             <change who="#nhg" when="2015-02-26">corrected handNote formatting</change>
             <change who="#lmg" when="2011-09-01">Transcribed and encoded.</change>

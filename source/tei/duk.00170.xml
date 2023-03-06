@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName><persName xml:id="lmg">Lauren Grewe</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -40,7 +40,7 @@
             </notesStmt> 
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Dryden 1631 to 1701</title>
                     <idno type="callno">MS 4to 72</idno>
                     <date notBefore="1853-01-01" notAfter="1892-03-26">Undated</date>
@@ -54,8 +54,8 @@
                     <date>1853</date>
                     <publisher>John Wiley</publisher>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="pp">90, 324, 350-51, 391</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="pp">90, 324, 350-51, 391</biblScope>
                     
                 </bibl>  
                  </sourceDesc>
@@ -66,7 +66,7 @@
                 <handNote xml:id="h2" scribeRef="#ck" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#nhg" when="2011-09-09">Transcribed and encoded.</change>
             <change who="#tra" when="2013-12-08">Checked and Revised Bibliographical Encoding.</change>

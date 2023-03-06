@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Lafontaine, born about 1621 lived 73 years</title>
                     <idno type="callno">MS 78</idno>
                     <date notBefore="1853-01-01" notAfter="1892-03-26">1853 or later</date>
@@ -55,8 +55,8 @@
                     <date>1853</date>
                     <pubPlace>New York</pubPlace>
                     <publisher>John Wiley</publisher>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="pp">155</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="pp">155</biblScope>
                     <note type="project">Charles Knight's editorial gloss on Buffon introduces Buffon's "The First Man."</note>
                 </bibl>
             </sourceDesc>
@@ -68,7 +68,7 @@
                 <handNote xml:id="h3" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-22">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-10-03">Checked, revised.</change>

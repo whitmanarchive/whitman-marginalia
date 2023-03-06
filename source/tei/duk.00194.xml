@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Even now Jasmund, the people's poet</title>
                     <idno type="callno">MS 4to 86</idno>
                     <date notBefore="1850-05-31" notAfter="1892-03-26">1850s</date>
@@ -54,8 +54,8 @@
                     <title level="a">Unknown article title,</title>
                     <title level="j"><!-- Journal title, if known. --></title>
                     <date>[possibly 1857]</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project">Whitman notes "early in '57"</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -65,7 +65,7 @@
                     <title level="j">Fourth reader: for common schools and academies</title><!--From the Henry Mandeville series.-->
                     <publisher>D. Appleton &amp; Co.</publisher>
                     <date>1851</date>
-                    <biblScope type="pp">255</biblScope>
+                    <biblScope unit="pp">255</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -77,7 +77,7 @@
                 <handNote xml:id="h4" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-10">added notesStmt and moved date note into it</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-14">Transcribed and encoded.</change>

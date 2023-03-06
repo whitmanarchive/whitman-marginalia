@@ -13,7 +13,7 @@
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="clh">Christy Hyman</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -49,7 +49,7 @@
             <sourceDesc>
                 
            <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Settlers and Indian Battles</title> 
                     <idno type="callnumber">19100</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -63,7 +63,7 @@
                <title level="j">Life Illustrated</title>
                    <date when="1856-03-22">22 March 1856</date>
                    <pubPlace>New York</pubPlace>
-                   <biblScope type="page">6</biblScope>
+                   <biblScope unit="page">6</biblScope>
                </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -72,7 +72,7 @@
                     <title level="j">unknown</title>
                     <date notBefore="1852-01-01" notAfter="1860-01-01">Between 1850 and 1860</date><!-- This article was seemingly reprinted widely in newspapers, beginning around 1852. It seems to have been reprinted widely again around 1857 and 1858, which is likely when Whitman's copy is from. However, I've been unable to find an exact match for the text in this version. KM -->
                     <pubPlace>unknown</pubPlace>
-                    <biblScope type="page">unknown</biblScope>
+                    <biblScope unit="page">unknown</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r3" type="pasteon">
@@ -92,7 +92,7 @@
                 <handNote xml:id="h4" scribeRef="#hdt" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-10-10" who="#km">proofed</change>
             <change when="2019-06-11" who="#km">checked</change>
             <change when="2019-06-03" who="#clh">transcribed and encoded</change>

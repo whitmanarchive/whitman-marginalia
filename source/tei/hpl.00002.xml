@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="hpl.00002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">we know of no beginning</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Anonymous</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="as">Ashlyn Stewart</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>hpl.00002</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">At one point, this manuscript likely formed part of <ref target="../transcriptions/owu.00090">Whitman's cultural geography scrapbook</ref>. An image of the verso of this manuscript is unavailable, but is presumably blank.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>we know of no beginning in universal literature</title>
+                    <idno type="callno"></idno><!-- Need call no. -->
+                    <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
+                    <orgName xml:id="hpl">Treasures From Walt Whitman, Huntington Public Library, Huntington, New York</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1"><!-- Brett could not find the source of this clipping when he wrote his article, so I do not have high hopes of finding it.  -AS-->
+                    <author></author>
+                    <title level="a">Greeks, Romans, and Hebrews</title>
+                    <title level="j"></title>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                    <biblScope type="pp"></biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2020-01-23" who="#km">proofed</change>
+            <change when="2019-12-06" who="#as">Transcribed; encoded</change>
+        </revisionDesc>
+    </teiHeader>    
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="DAWNCLR.jpg" type="recto"/>
+           
+            <p><handShift new="#h1"/>We know of no beginning in <add rend="insertion" place="supralinear">universal</add> literature any more than in chronology.&#8212;We only what <add rend="insertion" place="supralinear">is</add> first to be mentioned.</p>
+            
+                <del rend="overstrike"><p>Although no Egyptian book, or trace of any book, exists.</p></del>
+            
+                <p>The first literature to be mentioned is <add rend="insertion" place="supralinear"><subst><del rend="overstrike" seq="1">prob</del> <add rend="unmarked" place="inline" seq="2">doubtless</add></subst></add> Assyrian literature and <del rend="overstrike">Egyptian</del> <add place="supralinear" rend="unmarked">the</add> literature <add rend="insertion" place="supralinear">of Egypt and Hindostan</add>&#8212;<add rend="unmarked" place="interlinear">many, many thousand years since,</add></p>
+            
+            <p>Books, histories, poems, romances, bibles, hymns, works <subst><del rend="overstrike" seq="1">on</del> <add rend="unmarked" place="supralinear" seq="2">illustrative of</add></subst> mechanics, science<del rend="overstrike">s</del>, <add rend="insertion" place="supralinear">arithmetic, humor,</add> government, war, manners, manufactures, and all the principal themes of interest to <del rend="overstrike">men</del> civilized life, and to men and women, were common <del rend="overstrike"><add rend="unmarked" place="supralinear">empire of H</add></del> in the great <add rend="insertion" place="supralinear">Asiatic</add> cities of Nineveh and Babylon and their <del rend="overstrike">empi</del> empires, <add rend="unmarked" place="supralinear">and the empire of Hindostan</add> and in <subst><del rend="overstrike" seq="1">the</del> <add place="supralinear" rend="unmarked" seq="2">African</add></subst> Memphis and Thebes and <del rend="overstrike">all</del> through Egypt and Ethiopia.&#8212;Vast libraries existed; <add rend="insertion" place="supralinear">Cheap copies <add rend="unmarked" place="supralinear">of these books</add> circulated among the commonality <add rend="unmarked" place="supralinear">or were eligible to the<unclear reason="illegible" cert="high" resp="#as">m,</unclear></add></add> <del rend="overstrike">and</del> there were institutions in which learning and religion grew together.&#8212;Religion had a deep and proportionate meaning, the best <subst><del rend="overstrike" seq="1">for</del> <add rend="unmarked" place="supralinear" seq="2">fitted to</add></subst> the people and the times.&#8212;Astronomy was understood&#8212;with which no nation can be degraded nor any race of learned person remain without grand thoughts and poems.</p>
+            
+            <add rend="pasteon" source="#r1"><handShift new="#h2"/>
+                   <floatingText>
+                       <body>
+                           <pb xml:id="leaf002r" facs="hpl_km.00001.jpg" type="recto"/>
+                    <milestone unit="undeclared" rend="horbar-full"/>
+                           <head>G<hi rend="smallcaps">REEKS</hi>, R<hi rend="smallcaps">OMANS, AND</hi> H<hi rend="smallcaps">EBREWS.</hi></head><p>&#8212;Says an English writer&#8212;In the old world, the only two great Gentle nations who have left an impress upon society by means of recorded literature are the Greeks and Romans.  These unite with the Hebrews to constitute a tri-une power, into whose bands was committed the work of civilization before the Christian epoch, and for many years after it; Hebrew, Greek, and Latin are, therefore, the three fountains of literature.  The oldest books in the world are in Hebrew, the next oldest in Greek, and the next oldest in Latin.  These three languages were posted on the cross at the crucifixion, and they represent the reigning powers of the old world of civilization.  Each, however, has a distinct and characteristic mission.  They are not all adapted for the same work.  The Hebrew is a sublime, poetical language, specifically adapted for lofty ideas, and not at all suited for the common place transactions of life.  The Greek is a philosophical language, admirably adapted for metaphysical subtleties, and superior to every other language&#8212;modern German, perhaps, excepted&#8212;as a vehicle for conducting philosophical investigation.  This, then, was the mission of the Greeks.  They were commissioned to develop the resources of the human mind in the cultivation of philosophy, and the elegant arts to which it naturally gives birth; a commission which could not be given to the Hebrews without depriving them of their own special mission, as well as of their very peculiar language.  The Latin is much less philosophical than the Greek, insomuch that it was for a long time doubted whether it was capable of presenting philosophical ideas in an intelligible form.  Before the time of Cicero, those Romans who studied philosophy were obliged, at the same time, to study the Greek language, as modern fashionables study French in order to acquire the <hi rend="italic">bon ton</hi> of fashionable life.  Cicero, however, made a great and successful effort o accustom the Romans to treat philosophical subjects in heir own language, and after his time the practice became more and more general; but still the Greek was, and is to this day, the sacred fountain of scientific and philosophical expression.  If a man of genius invent a new machine, he borrows its name from the Greek; if he discover a new chemical substance, none but a Greek name will suffice for it.  Even a performer, when he makes up a hair dye or tooth powder, must consult a Greek scholar or a Greek lexicon for an appropriate title.  Almost all scientific names are Greek.  They seem to be intruders and foreigners, if they come from another language.  Thus astronomy, astrology, geography, geology, hydrostatistics, pneumatics, phrenology, physiology&#8212;besides names of scientific instruments as chronometer, hydrometer, goniometer, &#38;c., are all Greek words; for Greek is sanctified and set apart for science.</p>
+                           
+                           <milestone unit="undeclared" rend="horbar-full"/>
+                       </body>
+                   </floatingText>
+            </add>
+            
+        </body>
+    </text>
+</TEI>

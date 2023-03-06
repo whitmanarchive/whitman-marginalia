@@ -16,7 +16,7 @@
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -45,7 +45,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>"Magazine Articles and Clippings"</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1840-05-31" notAfter="1892-03-26">Undated</date>
@@ -64,7 +64,7 @@
                     <title level="a">Chevalier Bunsen's Chronology</title>
                     <title level="j">New York Herald</title>
                     <date when="1857-04-22">22 April 1857</date>
-                    <biblScope type="pp">4</biblScope>
+                    <biblScope unit="pp">4</biblScope>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r3">
@@ -72,7 +72,7 @@
                     <title level="a">The Discovery of America</title>
                     <title level="j">Brooklyn Daily Eagle</title>
                     <date when="1857-04-22">22 April 1857</date>
-                    <biblScope type="pp">2</biblScope>
+                    <biblScope unit="pp">2</biblScope>
                     <note type="project"/>
                 </bibl>
                 <bibl type="pasteon" xml:id="r4">
@@ -90,7 +90,7 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2020-02-07">added image link for verso</change>
             <change who="#km" when="2020-01-30">implemented Matt's correction; added cropped images</change>
             <change who="#km" when="2019-11-05">proofed</change>

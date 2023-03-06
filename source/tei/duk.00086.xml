@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -44,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Twenty-Nine Newspaper and Magazine Items</title>
                     <idno type="callno">MS 4to 188</idno>
                     <date notBefore="1854-03-23" notAfter="1892-03-26">After March 23, 1854</date>
@@ -57,9 +57,9 @@
                     <title level="j">New York Daily Tribune</title>
                     <date when="1854-03-23">23 March 1854</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">13</biblScope>
-                    <biblScope type="issue">4034</biblScope>
-                    <biblScope type="pp">5</biblScope>
+                    <biblScope unit="vol">13</biblScope>
+                    <biblScope unit="issue">4034</biblScope>
+                    <biblScope unit="pp">5</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>
@@ -70,7 +70,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-01-22">corrected image name</change>
             <change who="#lmg" when="2011-10-06">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-07-01">Checked.</change>

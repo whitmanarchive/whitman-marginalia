@@ -13,7 +13,7 @@
                     <persName xml:id="lmg">Lauren Grewe</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -40,7 +40,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Walt Whitman's Manuscript Notes on Southey, Browning and Others</title>
                     <idno type="callno"/>
                     <date notBefore="1851-12-01" notAfter="1892-05-26">After December 1, 1851</date>
@@ -64,7 +64,7 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2012-07-23">Transcribed and encoded.</change>
             <change who="#lmg" when="2014-01-30">Checked.</change>
             <change who="#mc" when="2015-05-22">Proofed.</change>

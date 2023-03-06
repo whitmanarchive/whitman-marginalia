@@ -14,7 +14,7 @@
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="as">Ashlyn Stewart</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -49,7 +49,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Dates referring to China</title>
                     <idno type="callnumber">MSS 3829, Box 1, Folder 24</idno>
                     <date xml:id="dat1" notBefore="1857-06-01" notAfter="1857-06-30" cert="high">Around June 23, 1857</date>
@@ -64,7 +64,7 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-15" who="#km">proofed</change>
             <change when="2019-07-17" who="#as">Updated header information</change>

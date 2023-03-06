@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -39,7 +39,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Spring Flowers—marginalia</title>
                     <idno type="callno">Box 40, Folder 66</idno>
                     <date notBefore="1881-01-01" notAfter="1892-03-26">Around 1881</date>
@@ -51,8 +51,8 @@
                     <title level="a">unknown title</title>
                     <title level="j">unknown journal</title>
                     <date>1881</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     
                 </bibl>
             </sourceDesc>
@@ -65,7 +65,7 @@
                 <handNote xml:id="h4" scribeRef="#rel" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-07-06">corrected R.E. Labar's name</change>
             <change who="#nhg" when="2015-03-10">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2013-05-30">Transcribed and encoded.</change>

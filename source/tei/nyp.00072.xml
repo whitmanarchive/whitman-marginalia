@@ -7,13 +7,13 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">Ethnology</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -48,7 +48,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Ethnology</title>
                     <idno type="callnumber">b15520479</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -57,7 +57,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-02" who="#km">proofed</change>
             <change when="2019-03-12" who="#km">transcribed and encoded</change>

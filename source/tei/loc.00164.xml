@@ -13,7 +13,7 @@
                     <persName xml:id="lmg">Lauren Grewe</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -45,7 +45,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The Trapper's Bride</title>
                     <idno type="callno">Box 39, Folder 7</idno>
                     <date notBefore="1856-01-01" notAfter="1892-03-26">After January 1, 1856</date>
@@ -57,8 +57,8 @@
                     <title level="a">The Indians in American Art</title>
                     <title level="j">The Crayon: A Journal Devoted to the Graphic Arts, and the Literature Related to Them</title>
                     <date>January 1856</date>
-                    <biblScope type="vol">3</biblScope>
-                    <biblScope type="pp">27–28</biblScope>
+                    <biblScope unit="vol">3</biblScope>
+                    <biblScope unit="pp">27–28</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>
@@ -69,7 +69,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="type"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2012-01-24">Transcribed and encoded.</change>
             <change who="#nhg" when="2012-05-20">Checked, revised.</change>
         </revisionDesc>

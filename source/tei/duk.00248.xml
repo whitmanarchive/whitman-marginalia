@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The Vanity and the Glory of Literature</title>
                     <idno type="callno">MS 175</idno>
                     <date notBefore="1849-04-01" notAfter="1892-03-26">After April 1, 1849</date>                   
@@ -55,9 +55,9 @@
                     <title level="a">The Vanity and the Glory of Literature</title>
                     <title level="j">The Edinburgh Review</title>
                     <date>April 1849</date>
-                    <biblScope type="vol">89</biblScope>
-                    <biblScope type="issue">180</biblScope>
-                    <biblScope type="pp">149–168</biblScope>
+                    <biblScope unit="vol">89</biblScope>
+                    <biblScope unit="issue">180</biblScope>
+                    <biblScope unit="pp">149–168</biblScope>
                     <note type="project">American Edition</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -82,7 +82,7 @@
                 <handNote xml:id="h4" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2011-08-12">Transcribed and encoded.</change>
             <change who="#nhg" when="2012-03-12">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-09-07">Checked.</change>

@@ -10,7 +10,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="nhg">Nicole Gray</persName><persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -37,7 +37,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Ferdusi, and the primeval mythologists of Hindostan.</title>
                     <idno type="callno">580219</idno>
                     <date notBefore="1838-05-31" notAfter="1892-03-26">Undated</date>
@@ -51,7 +51,7 @@
                 <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-02-24">completed date information, changed ab to list</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#nhg" when="2011-05-22">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-07-02">Checked.</change>

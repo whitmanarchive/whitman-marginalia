@@ -17,7 +17,7 @@
                     <persName xml:id="ano">Alejandro Omidsalar</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -54,7 +54,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Excerpt from North British Review, American Edition, vol. VI</title>
                     <idno type="callno">MS q 186</idno>
                     <date notBefore="1849-08-01" notAfter="1892-03-26">August 1849 or later</date>
@@ -68,7 +68,7 @@
                     <date>August 1849</date>
                     <publisher>Leonard Scott &#38; Co.</publisher>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
+                    <biblScope unit="pp">283, 284, 289, 290, 293, 295, 296, 305, 306</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -79,7 +79,7 @@
                 <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-06" who="#km">added editorial note about scrapbook</change>
             <change when="2015-10-19" who="#mc">Proofed</change>
             <change when="2015-09-21" who="#ano">Transcribed; encoded</change>

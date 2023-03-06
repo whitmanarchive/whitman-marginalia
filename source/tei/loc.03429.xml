@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -40,7 +40,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Book about Louis XIV owned by Whitman</title>
                     <idno type="callno">Box 41, Folder 70</idno>
                     <date notBefore="1889-02-28" notAfter="1889-12-31">1889</date>
@@ -61,7 +61,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-10">added project note target dat1</change>
             <change who="#nhg" when="2015-03-10">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2013-06-25">Transcribed and encoded.</change>

@@ -52,7 +52,7 @@
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">The old-fashioned keel-boats</title> 
                     <idno type="callnumber">MS q 186</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -66,7 +66,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1856-05-31">31 May 1856</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">5</biblScope>
+                    <biblScope unit="page">5</biblScope>
                 </bibl>
                 
                 <bibl xml:id="r2" type="pasteon">
@@ -75,7 +75,7 @@
                     <title level="j">Brooklyn Daily Eagle</title>
                     <date when="1857-06-10">10 June 1857</date>
                     <pubPlace>Brooklyn, New York</pubPlace>
-                    <biblScope type="page">2</biblScope>
+                    <biblScope unit="page">2</biblScope>
                 </bibl>
 
             </sourceDesc>
@@ -86,7 +86,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-02-07" who="#km">corrected image links</change>
             <change when="2019-12-06" who="#km">proofed</change>
             <change when="2019-10-25" who="#as">transcribed and encoded</change>

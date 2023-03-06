@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -43,7 +43,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Magazine Articles and Clippings</title>
                     <idno type="callno">See Frey III:p. 71</idno>
                     <date notBefore="1846-12-01" notAfter="1892-03-26">After December 1, 1846</date>                   
@@ -56,8 +56,8 @@
                     <title level="j">The American Review: A Whig Journal</title>
                     <date>December 1846</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">4</biblScope>
-                    <biblScope type="pp">580–587</biblScope>
+                    <biblScope unit="vol">4</biblScope>
+                    <biblScope unit="pp">580–587</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -67,7 +67,7 @@
                 <handNote xml:id="h2" scribeRef="#hww" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2011-10-22">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-07-03">Checked.</change>
             <change who="#tra" when="2013-10-17">Checked and revised bibliographical information and encoding.</change>

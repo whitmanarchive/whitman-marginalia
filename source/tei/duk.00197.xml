@@ -18,7 +18,7 @@
                     <persName xml:id="tra">Ty Alyea</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -47,7 +47,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Egypt...</title>
                     <idno type="callno">MS 96</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
@@ -62,7 +62,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2020-02-07">added image link for verso</change>
             <change who="#km" when="2020-01-30">corrected date in metadata</change>
             <change who="#km" when="2019-11-05">proofed</change>

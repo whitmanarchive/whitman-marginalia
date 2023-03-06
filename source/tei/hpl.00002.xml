@@ -50,7 +50,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>we know of no beginning in universal literature</title>
                     <idno type="callno"></idno><!-- Need call no. -->
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
@@ -60,11 +60,11 @@
                 <bibl type="base" xml:id="r1"><!-- Brett could not find the source of this clipping when he wrote his article, so I do not have high hopes of finding it.  -AS-->
                     <author></author>
                     <title level="a">Greeks, Romans, and Hebrews</title>
-                    <title level="j"></title>
-                    <date></date>
-                    <publisher></publisher>
-                    <pubPlace></pubPlace>
-                    <biblScope type="pp"></biblScope>
+                    <title level="j"/>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                    <biblScope unit="pp"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -74,7 +74,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-23" who="#km">proofed</change>
             <change when="2019-12-06" who="#as">Transcribed; encoded</change>
         </revisionDesc>

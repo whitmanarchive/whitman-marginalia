@@ -7,13 +7,13 @@
             <titleStmt>
                 <title level="m" type="main" rend="bracketed">Brutish human beings</title>
                 <title level="m" type="sub">a machine readable transcription</title>
-                <author>Walt Whitman</author>
+                <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -48,7 +48,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Brutish human beings</title>
                     <idno type="callnumber">MSS 3829, Box 1, Folder 12</idno>
                     <date xml:id="dat1" notBefore="1857-06" notAfter="1858" cert="high">1857</date>
@@ -63,7 +63,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-10-15" who="#km">proofed</change>
             <change when="2019-04-08" who="#km">transcribed and encoded</change>
         </revisionDesc>

@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp> 
                     <persName xml:id="lt">Lauren Trojniar</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName><persName xml:id="lmg">Lauren Grewe</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor> 
                 <sponsor>University of Nebraska-Lincoln</sponsor> 
                 <funder>The National Endowment for the Humanities</funder> 
@@ -40,7 +40,7 @@
             </notesStmt>   
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author> 
+                    <author sameAs="#ww">Whitman, Walt</author> 
                     <title>"The Social Contract, Or, Principles of Right"</title> 
                     <idno type="callno">MS 4to 100</idno>
                     <date notBefore="1837-01-01" notAfter="1892-03-26">After 1837</date>
@@ -54,7 +54,7 @@
                 <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
             </handNotes> 
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lt" when="2011-06-16">Transcribed and encoded.</change> 
             <change who="#nhg" when="2011-06-23">Checked, revised.</change>
             <change who="#tra" when="2013-11-05">Checked and revised bibliographical information.</change>

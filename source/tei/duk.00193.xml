@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>He is a precursor, in some sort of great differences</title>
                     <idno type="callno">MS 4to 85</idno>
                     <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or later</date>
@@ -54,8 +54,8 @@
                     <title level="a">"The New Jerusalem"</title>
                     <title level="j">reprinted from "Household Words"<!-- There are typos throughout not found in that edition of Housewold words.--></title>
                     <date><!--If above is right, 1856--></date>
-                    <biblScope type="vol"><!--13.--></biblScope>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"><!--13.--></biblScope>
+                    <biblScope unit="pp"/>
                 </bibl>
                 <bibl type="base" xml:id="r2">
                     <author>Anonymous</author>
@@ -64,9 +64,9 @@
                     <date>May 1847</date>
                     <pubPlace>New York</pubPlace>
                     <publisher>Wiley and Putnam</publisher>
-                    <biblScope type="vol">5</biblScope>
-                    <biblScope type="issue">5</biblScope>
-                    <biblScope type="pp">470-481</biblScope>
+                    <biblScope unit="vol">5</biblScope>
+                    <biblScope unit="issue">5</biblScope>
+                    <biblScope unit="pp">470-481</biblScope>
                     <note type="project"/>
                 </bibl>
                 <bibl type="base" xml:id="r3">
@@ -74,8 +74,8 @@
                     <title level="a">unknown title</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
                 <bibl type="base" xml:id="r4">
@@ -83,8 +83,8 @@
                     <title level="a">unknown title</title>
                     <title level="j"/>
                     <date>date unknown</date>
-                    <biblScope type="vol"/>
-                    <biblScope type="pp"/>
+                    <biblScope unit="vol"/>
+                    <biblScope unit="pp"/>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>
@@ -98,7 +98,7 @@
                 <handNote xml:id="h5" scribeRef="#ww" medium="blue-pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-04">completed date information</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-09-08">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-10-08">Checked, revised.</change>

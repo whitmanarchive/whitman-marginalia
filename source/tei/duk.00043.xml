@@ -52,7 +52,7 @@
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Fourier and His Ideas.</title> 
                     <idno type="callnumber">MS q 186</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -66,7 +66,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1857-04-07">7 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">7</biblScope>
+                    <biblScope unit="page">7</biblScope>
                 </bibl>
 
             </sourceDesc>
@@ -77,7 +77,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections; inserted cropped images</change>
             <change when="2019-12-06" who="#km">proofed</change>
             <change when="2019-10-25" who="#as">transcribed and encoded</change>

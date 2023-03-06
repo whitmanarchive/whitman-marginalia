@@ -12,7 +12,7 @@
          <titleStmt>
             <title level="m" type="main" rend="bracketed">Chronological</title>
             <title level="m" type="sub">a machine readable transcription</title>
-            <author>Walt Whitman</author>
+            <author xml:id="ww">Walt Whitman</author>
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
             <respStmt>
@@ -21,7 +21,7 @@
                <persName xml:id="kc">Kirsten Clawson</persName>
                <persName xml:id="kmp">Kenneth M. Price</persName>
                <persName xml:id="km">Kevin McMullen</persName>
-            </respStmt>
+            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -50,7 +50,7 @@
          </notesStmt>
          <sourceDesc>
             <bibl>
-               <author>Walt Whitman</author>
+               <author sameAs="#ww">Whitman, Walt</author>
                <title>[Chronological]</title>
                <date xml:id="dat1" cert="medium" notBefore="1854" notAfter="1860">Between 1854 and 1860</date>
                <idno type="callno">MS q 187</idno>
@@ -64,7 +64,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
          <change when="2020-01-30" who="#km">updated image names, added link to scrapbook in editorial note</change>
          <change when="2019-04-08" who="#km">corrected incorrect date transcription</change>
          <change when="2016-03-07" who="#nhg">made Ken's corrections</change>

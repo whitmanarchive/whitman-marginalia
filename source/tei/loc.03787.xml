@@ -51,7 +51,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Mountain-visiting in East Tennessee</title>
                     <idno type="callnumber">MSS18630, Box 48, Folder 14</idno>
                     <idno type=""></idno>
@@ -65,8 +65,8 @@
                     <title level="j">Harper's New Monthly Magazine</title>
                     <date when="1857-11">November 1857</date>
                     <pubPlace/>
-                    <biblScope type="vol">15</biblScope>
-                    <biblScope type="issue">90</biblScope>
+                    <biblScope unit="vol">15</biblScope>
+                    <biblScope unit="issue">90</biblScope>
                     <note type="project"/>
                 </bibl>
             </sourceDesc>
@@ -77,7 +77,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2019-10-10" who="#km">proofed</change>
             <change when="2019-06-12" who="#as">transcribed, encoded</change>
         </revisionDesc>

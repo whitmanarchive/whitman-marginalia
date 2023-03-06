@@ -21,7 +21,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     <persName xml:id="ano">Alejandro Omidsalar</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -57,7 +57,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
             </publicationStmt>
             <notesStmt><note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>. This document comes from a collected volume, edited by Ludwig Herrig (see "Base Document Citation," above); the pages that Whitman has removed from the volume are an excerpt of a work by Robert Chambers.</note></notesStmt>
             <sourceDesc><bibl>
-                <author>Walt Whitman</author>
+                <author sameAs="#ww">Whitman, Walt</author>
                 <title>Excerpt from Herrig's The British Classical Authors</title>
                 <idno type="callno">MS q 186</idno>
                 <date notBefore="1850-01-01" notAfter="1860">Between 1850 and 1860</date>
@@ -71,7 +71,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                     <date when="1850">1850</date>
                     <publisher>George Westermann</publisher>
                     <pubPlace>Brunswick</pubPlace>
-                    <biblScope type="pp">672, 678-680</biblScope>
+                    <biblScope unit="pp">672, 678-680</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -81,7 +81,7 @@ SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
                 <handNote xml:id="h2" scribeRef="#lh" medium="typescript"/>
             </handNotes>
         </profileDesc> 
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2020-02-06">edited editorial note</change>
             <change who="#km" when="2020-01-31">proofed</change>
             <change who="#mc" when="2015-09-21">Proofed.</change>

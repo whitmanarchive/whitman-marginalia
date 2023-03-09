@@ -84,7 +84,7 @@
             <note type="authorial" place="top" resp="#h1">Early Roman History</note>
             <fw type="header" place="top"><del rend="overstrike" hand="#h1">The Currency</del></fw>
             <fw type="pageNum" place="top right">211</fw>
-            <add rend="pasteon">
+            <addSpan spanTo="#a01" rend="pasteon"/>
                 <floatingText>
                     <body>
                         <ab><hi rend="underline"><handShift new="#h1"/>See to Roman History</hi></ab>
@@ -93,7 +93,7 @@
                 
                     </body>
                 </floatingText>
-            </add>
+            <anchor xml:id="a01"/>
             
             <p><delSpan rend="hashmark" spanTo="#d01"/>whiggism. We resemble the popular party in the English Long Parliament,
                 which, though it was apt at times to be divided, was sure to

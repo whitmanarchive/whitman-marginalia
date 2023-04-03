@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07459">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                <title level="m" type="main">Letter from Paris</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="al">Ashley Lawson</persName> <persName xml:id="tj">Tim Jackson</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno>loc.07459</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>          
+                    <title>of America</title> 
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">MSS45443 Box 1</idno>
+                    <orgName>The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842-1937</orgName>
+                    <note type="project">Transcribed from our own digital image of the original manuscript.</note>
+                    <relatedItem type="text" target="loc.02812"/>
+                    <relatedItem type="document" target="wwa.00142"/>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2016-04-12" who="#nhg">separated verso material into separate file</change>
+            <change when="2011-04-21" who="#tj">Checked, corrected </change>
+            <change when="2011-04-18" who="#al">Transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text type="manuscript">
+        
+        <body>
+
+            <pb xml:id="leaf001v" facs="loc.02812.002_large.jpg" type="verso"/> 
+            
+            <ab>Letter from Paris, <gap reason="cut away" extent="unk"/> in the N.Y. World.</ab>
+            
+            <add rend="pasteon" hand="unk">I have been surprised, however, in visiting the hospitals of Paris at the morning hour, when the most learned and experienced physicians of the capital go through the wards and 
+                prescribe for the patients, at observing the small quantity, and often almost inoperative character, of the medicines they prescribe.  Diet, nursing, and the good care of the devoted sisters of charity,
+                who attend to the wants of the eighty thousand patients who annually pass through the hospitals of Paris, seem to be now much more depended upon to effect cures, than the contents of the apothecaries'
+                gallipots.<note place="inline" resp="unk">292A</note></add>
+            <note place="bottom" resp="unk">292</note>   
+            <pb xml:id="leaf001r" facs="loc.02812.001_large.jpg" type="recto"/>
+        </body>
+    </text>
+</TEI>
+
+
+
+

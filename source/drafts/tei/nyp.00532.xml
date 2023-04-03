@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00532">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" rend="bracketed">Speaking of literary style</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Walt Whitman</author>
+            <author>Voltaire</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="nhg">Nicole Gray</persName>
+               <persName xml:id="kc">Kirsten Clawson</persName>
+               <persName xml:id="km">Kevin McMullen</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>The National Endowment for the Humanities</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2014</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>nyp.00532</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2014 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project" target="#dat1">The quotation from Voltaire comes from a section of his <hi rend="italic">Philosophical Dictionary</hi> entitled "On a Passage in Homer." On the verso of this manuscript Whitman wrote poetic lines, some of which appeared slightly revised in the <date when="1855">1855</date> edition of <hi rend="italic">Leaves of Grass</hi>, in the poem that would eventually be titled "Song of Myself." It seems likely that the lines on recto and verso were written around the same time, dating this manuscript to before or early in 1855.</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Walt Whitman</author>
+               <title rend="bracketed">Speaking of literary style</title>
+               <date xml:id="dat1" cert="medium" notBefore="1850" notAfter="1855">Between 1850 and 1855</date>
+               <idno type="callno">b15520479</idno>
+               <orgName xml:id="nyp">The Henry W. and Albert A. Berg Collection of English and American Literature, New York Public Library</orgName>
+               <note type="project">Transcribed from digital images of the original item.</note>
+               <relatedItem type="text" target="nyp.00023"/>
+               <relatedItem type="document" xml:id="rel01" target="www.00150"/>
+               <note type="project" target="#rel01">On the back of this leaf are poetic lines that would appear, slightly revised, in the poem that would eventually be titled "Song of Myself."</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="#km" when="2016-07-07">checked</change>
+         <change who="#nhg" when="2014-11-07">checked, corrected</change>
+         <change who="#kc" when="2014-09-11">transcribed and encoded</change>
+         <change who="#nhg" when="2014-08-07">metadata extracted and transformed from EAD file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="manuscript">
+      <body>
+         <pb xml:id="leaf001r" facs="nyp_jc.00019.jpg" type="recto"/>
+         
+         <ab>Speaking of literary style in poems, "nothing is more easy," said Voltaire, "than to do violence to nature&#8212;nothing more difficult than to imitate her."</ab>
+         
+         <ab>verse was the first writing of all we know Greek, <del rend="overstrike"><unclear reason="illegible" cert="low" resp="#kc">phea</unclear></del> the Old Testament</ab>
+         
+         <pb xml:id="leaf001v" facs="nyp.00023.001.jpg" type="verso"/>
+</body>
+   </text>
+</TEI>

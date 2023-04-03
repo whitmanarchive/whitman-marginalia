@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+<!-- USE THE OBJECT ID FOR THE VALUE OF @xml:id IN THE FOLLOWING ELEMENT. FOR EXAMPLE:
+     xml:id="zzz.00001"
+     -->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="bmr.00001">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Prose Writers of Germany</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <!-- should author be Frederic H. Hedge? -->
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <name>The Walt Whitman Archive Staff</name>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of
+          Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2010</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>bmr.00001</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+        <availability>
+          <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the
+            Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.
+            Redistribution or republication on other terms, in any medium, requires express written
+            consent from the editors and advance notification of the publisher, Center for Digital
+            Research in the Humanities. Permission to reproduce the graphic images in this archive
+            has been granted by the owners of the originals for this publication only.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+
+        <note type="project" target="#dat1"> </note>
+
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: <!--     THE VALUE OF @xml:id  IN THE FOLLOWING ELEMENT SHOULD BE YOUR INITIALS, IN LOWER CASE. FOR THIS ELEMENT, *DO NOT* PUT A 
+                   POUND SIGN BEFORE YOUR INITIALS. EXAMPLE: xml:id="bb" -->
+          <persName xml:id="tj">Tim Jackson</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Walt Whitman</author>
+
+          <title>Prose Writers of Germany</title>
+          <!-- Bryn Mawr note reads: From the library of Walt Whitman; with his signature; with memorabilia of a former owner, F.S. Gray -->
+          <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+          <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+
+          <idno type="callno">833 AH</idno>
+          <orgName>Bryn
+            Mawr<!-- Bryn Mawr is not yet listed in the Encoding Guidelines --></orgName>
+
+          <note type="project">Transcribed from our own digital image of original manuscript.</note>
+        </bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote xml:id="fg">Frederick Schiller Gray</handNote>
+      </handNotes>
+    </profileDesc>
+    <revisionDesc>
+      <!--   
+        SUPPLY THE DATE AND YOUR INITIALS IN THE FOLLOWING TWO LINES. FOR THE DATE, USE THIS FORMAT:
+        YYYY-MM-DD. 
+        FOR YOUR INITIALS, NOTE THAT THE POUND SIGN (#) SHOULD BE RETAINED, LIKE SO: 
+        who="#bb" 
+      -->
+      <change when="2010-01-11" who="#al">Checked and corrected</change>
+      <change when="2010-02-22" who="#tj">Encoded</change>
+      <change when="2010-02-22" who="#tj">Transcribed</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text type="book">
+    <front>
+      <div1 type="prose">
+        <!--    THE VALUE OF @facs IN THE FOLLOWING ELEMENT SHOULD BE OJECT ID + .001 + .jpg  EXAMPLE:
+              zzz.00001.001.  -->
+        <pb xml:id="leaf001v" facs="bmr.00001.jpg" type="verso"/>
+        <note type="editorial" resp="unk" place="top">RESTORED BY J MACDONALD CO. NORWALK,
+          CONN.</note>
+        <p>Have filled this Vol. over twenty five years &#38; read it off &#38; on many
+          hours, days &#38;  nights &#8212; this written Nov. 24 '88 in Mickle street Camden
+          N J. W W</p>
+        <p>these card-photos Fred Gray NY. (whose father <add rend="insert" place="supralinear">or
+            rather F. G. from his father</add> gave me the book)&#8212;I saw F during the war
+          times &#38; immediately after&#8212;but have lost track of him of later years
+          (rem'ber Dr Russell, Charles Chauncy, Nat Bloom, Fritchy, the beer garden, the girls </p>
+        <milestone unit="undeclared" rend="horbar-short-left"/>
+        <p>1860 '61</p>
+        <milestone unit="undeclared" rend="horbar-short-left"/>
+        <figure n="photograph">
+          <!-- should this be add, or note, or floating text? -->
+          <figDesc>headshot of F.S. Gray</figDesc>
+        </figure>
+
+
+        <pb xml:id="leaf002r" facs="bmr.00001.002.jpg bmr.00001.003.jpg bmr.00001.004.jpg" type="recto"/>
+        <note type="editorial" resp="unk" place="top">
+          <unclear cert="low" resp="#tj">12y/45 } vs/sl</unclear>
+        </note>
+        <note type="editorial" resp="fg" place="inline"><unclear cert="medium">J.S.G</unclear>.
+          Frederick Schiller Gray from his father 12.th Aug. 1856.</note>
+        <note type="authorial" place="top">W. Whitman Aug. '62.</note>
+        <!-- should we have line breaks in notes? -->
+
+        <milestone unit="undeclared" rend="horbar-short-left"/>
+        <p>Aug 29, '62&#8212;F.S. Gray, (at Raeffele's, in 6th st) requested me to keep this
+          book, as a memento of him. He goes in a few days on Gen. Smith's staff, down in the army
+          in Virginia <space extent="about 1 inch" resp="#tj"/> W.W. </p>
+        <milestone unit="undeclared" rend="horbar-short-left"/>
+        <p>Sept. 2. '62&#8212;Fred Gray (at Leotards) in 26th
+          street&#8212;evening&#8212;(he is to go to&#8209;morrow to the army.)</p>
+        <p>
+          <hi rend="underline">Battle of Antietam, Maryland, Sept. '62</hi>&#8212;F.S. has
+          returned from his battle on a two days' furlough&#8212;I spent the evening with him
+          (at Pfaff's &#38; c)&#8212;He gave me a fearful account of the battle&#8209;field at &#189;
+          past 9 <subst>
+            <del rend="overstrike" seq="1">that</del>
+            <add rend="unmarked" place="supralinear" seq="2">the</add>
+          </subst> night <subst>
+            <del rend="overstrike" seq="1">after</del>
+            <add rend="unmarked" place="supralinear" seq="2">following</add>
+          </subst> the engagement&#8212;He <del rend="overstrike">gr</del>crossed it on
+          duty.</p>
+        <p>Oct. 1. '62&#8212;I have called on Mrs Gray and heard that Fred is well and satisfied
+          with his position &#38; duties</p>
+        <p>FSG at <gap extent="3" unit="words" reason="illegible"/>
+          <!-- was serving here -->on Gen Canbys staff, Jan Fst. &#38;c Gs. &#8212;
+          &#8212; at New Orleans June&#8212;Dec&#8212;186</p>
+        <figure n="photograph">
+          <p>Gray, aide de camp, 3d. Sept. '62</p>
+          <figDesc>full photo of F.S. Gray in uniform, by Brassart, Johnson and Williams</figDesc>
+        </figure>
+
+<!-- describe the back of the photograph -->
+        
+        <pb xml:id="leaf002v" facs="bmr.00001.005_large.jpg" type="verso"/>
+
+        <pb xml:id="leaf003v" facs="bmr.00001.006_large.jpg" type="verso"/>
+      
+          <p>Lieut. J.F.S. Gray Aide du camp, Maj. Genl. Wm. F. Smith's Division Franklin's Corps
+            Army of the Potomac care of Genl. Williams A.A.G.</p>
+        <!-- unsure of hand -->
+
+        <pb xml:id="leaf004r" facs="bmr.00001.007_large.jpg" type="recto"/>
+          <titlePage> 
+            <note type="authorial" place="top"><hi rend="circled">Walt Whitman</hi>
+        
+            </note>
+            <docTitle>
+              <titlePart type="main">Prose Writers of Germany</titlePart></docTitle>
+            <docAuthor>Frederic H. Hedge </docAuthor>
+            <note>Illustrated with Portraits</note>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <epigraph><cit><quote>Die deutsche Nation ist nicht die ausgebildetste, nicht die reichste an Geistes&#8211; und Kunstprodukten, aber sie ist die aufgeklaerteste, weil sie die gruendlichste ist, sie ist eine philosophische Nation</quote><bibl>&#8212;Fr. H. Jacobi</bibl></cit></epigraph>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <docImprint>
+              <publisher>Carey and Hart</publisher>
+            <pubPlace>Philadelphia</pubPlace>
+            <date>1848</date>
+
+          
+
+        <pb xml:id="leaf004v" facs="bmr.00001.008.jpg" type="verso"/>
+<note type="editorial" place="top" resp="unk">Rare Bk rm Whitman 833 AH</note>
+              <milestone unit="undeclared" rend="horbar-full-center"/>
+              ENTERED, ACCORDING TO ACT OF CONGRESS, IN THE YEAR 1847; BY CAREY AND HART, IN THE CLERK'S OFFICE OF THE DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.
+              <milestone unit="undeclared" rend="horbar-full-center"/>
+              <milestone unit="undeclared" rend="horbar-full-center"/>
+              STEREOTYPED BY J. FAGAN.
+              <milestone unit="undeclared" rend="horbar-full-center"/>
+              PRINTED BY T.K. AND P.G. COLLINS.
+              <milestone unit="undeclared" rend="horbar-full-center"/>
+              (2)
+            </docImprint>
+              
+          </titlePage>
+        <pb xml:id="leaf005r" facs="bmr.00001.009.jpg" type="recto"/>
+        <add place="marginleft" hand="unk" type="pasteon">
+          <!-- should this be a note? or floating text, or combo? -->
+          <bibl>
+            <title>The Dean of Harvard, Dead: Professor Frederick H. Hedge, of Harvard, Passes Away,
+              Aged 85.</title>
+          </bibl>
+          <p>Phil Press Aug 23 '90</p>
+        </add>
+      </div1>
+    </front>
+  </text>
+</TEI>

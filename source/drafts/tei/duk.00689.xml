@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00689">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Advertisements</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Anonymous</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jb">Joelle Byars</persName>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00689</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability ><p>The text of the original document is in the public domain. Subject to certain exceptions,
+            public domain works may be freely copied or used in the creation of derivative works
+            without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
+            by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
+            of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Advertisements</title>
+                    <idno type="callno"><!-- find call number --></idno>
+                    <date notBefore="1851-01-01" notAfter="1851-12-31">1854</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="rd_441">
+                    <author>Anonymous</author>
+                    <title level="a">Advertisements</title>
+                    <title level="j">American Phrenological Journal</title>
+                    <date notBefore="1851-01-01" notAfter="1851-12-31">1854</date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="vol">19-20</biblScope>
+                    <biblScope type="issue"></biblScope>
+                    <biblScope type="pp">71-72</biblScope>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jb" when="2019-10-29">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <note type="authorial" place="top" resp="#h1">Cosmos Clock</note>
+            <fw type="header" place="top">American Phrenological Journal</fw>    
+            <fw type="pageNum" place="top right">71</fw>
+            <div1>
+                <pb xml:id="leaf001r" facs="duk.00689.001.jpg" type="recto"/>
+                <head>Advertisements.</head>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <p>A LIMITED space of this journal will be given to advertisements on the following terms:</p>
+                <lg type="linegroup">
+                    <l>For a full page, one month, . . .              $75 00</l>
+                    <l>For one column, one month, . . .                20 00</l>
+                    <l>For a half column, one month, . . .             12 00</l>
+                    <l>For a card of four lines, or less, one month, .  1 00</l>
+                </lg>
+                <p>At these prices the smallest advertisement amounts to LESS THAN ONE CENT A LINE FOR EVERY THOUSAND COPIES, our edition being never less than 40,000 copies.</p>
+                <p>Payment in advance for transient advertisements, or a single insertion, at the rates above named, should be remitted.</p>
+                <p>All advertisements in the AMERICAN PHRENOLOGICAL JOURNAL should be sent to the Publishers by the first of the month preceding that in which they are expected to appear.</p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1> 
+            <div1>
+                <fw type="header">OUR PHILADELPHIA BRANCH CABINET.&#8212;</fw>
+                <p>We have opened a Branch Establishment at 231 Arch street, (below Seventh st.,) Philadelphia, where all our Publications, Busts, Skulls, Cabinets for Lecturers, Anatomical Plats, &amp;c., may be obtained, wholesale or retail, at New York prices.</p>
+                <p>Professional Examinations, with charts and full written descriptions of character, given day and evening. Subscriptions received for the JOURNALS.</p>
+                <p>Please address FOWLERS, WELLS &amp; CO., 231 Arch st., Philadelphia.</p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">PHILADELPHIA WASHINGTON SQUARE</fw>
+                <p>WATER-CURE ESTABLISHMENT, No. 81 South Sixth st.&#8212;Dr. H. F. METER and T. D. REA, Proprietors. Obstetrics, and general practice attended to.</p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">"LAKE VIEW WATER-CURE AND HOMEOPATHIC INSTITUTE</fw>
+                <p>at Rochester Monroe Co., N. Y., has no superior in its beautiful and healthful locations, or its appointments and facilities for the comfort and cure of invalids. Room for one hundred and fifty. Horseback exercises. L. D. FLEMING, M. D., Principal and Proprietor.</p>
+                <p>REFERENCES: Gov. Seward, Francis Granger, Lewis Tappan, Horace Mann.</p>
+                <ab>Mch. It.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">LITTELL'S LIVING AGE, 1854&#8212;</fw>
+                <p>A Beautiful Engraving in Each <unclear reason="illegible" cert="high" resp="#jb">Number</unclear>&#8212; The LIVING AGE has been abundantly honored by the approbation of the best judges; it has been pronounced to be sound and vigorous; various and <unclear reason="illegible" cert="high" resp="#jb">entertaining</unclear>; full of spirit and life; uniting the qualities which gratify the scholar, the philosopher, and the man of business, with those which recommend it to their wives and children. We shall now endeavor to add to these intrinsic excellences the greater attractions of Art; and beginning with 1854, every number will contain an impression from the beautiful Steel plate. The 52 Plates <gap reason="illegible"></gap> will alone be worth the price of subscription.</p>
+                <p>This work is made up <unclear reason="illegible" cert="high" resp="#jb">of</unclear> the elaborate and stately Essays of the EDINBURGH QUARTERLY and other Reviews; and BLACKWOOD'S noble criticisms on Poetry, his keen political Commentaries, highly wrought Tales, and vivid descriptions of rural and mountain Scenery; and the contributions to Literature, History and Common Life, by the sagacious SPECTATOR, the sparkling EXAMINER, the judicious ATHEN&#198;UM, the busy and industrious LITERARY GAZETTE, the sensible and comprehensive BRITANNIA, the sober and respectable CHRISTIAN OBSERVER; these are intermixed with the Military and Naval Reminiscences of the United Service, and with the best articles of the DUBLIN UNIVERSITY, NEW MONTHLY, FRASKER'S TAIT'S, AINSWORTH'S HOOD'S and SPORTING MAGAZINES, and of CHAMBERS'S admirable JOURNAL. We do not consider it beneath our dignity to borrow wit and wisdom from PUNCH; and, when we think it good enough, make use of the thunder of THE TIMES. We shall increase our variety by importations from the continent of Europe, and from the new growth of the British colonies.</p>
+                <p>The LIVING AGE is published every Saturday, by LITTELL, SON &amp; COMPANY, corner of Tremont and Bromfield Streets, Boston; Price 12&#189; cents a number, or six dollars a year in advance. Remittances for any period will be thankfully received and promptly attended to.</p>
+                <p>POSTAGE FREE.&#8212;We will send the LIVING AGE, postage free, to all subscribers within the United States who remit in advance, directly to the Office of Publication. the sum of six dollars; thus placing our distant subscribers on the same footing as those nearer to us, and making the whole country our neighborhood.</p>
+                <ab>Feb tf</ab>
+                <byline>LITTELL, SON &amp; COMPANY, Boston.</byline>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">CANCERS, SCROFULA, WHITE SWELLING, SCALD HEAD, &amp;c.&#8212;</fw>
+                <p>Dr. GILBERT, whose success in treating and curing the above diseases in New Orleans and other cities of the South and West, has no parallel in the records of the healing art, has opened an office at 483 Broadway.</p>
+                <p>During the last 16 years, Dr. G. has acquired and sustained the most enviable and widely extended reputation in the cure of Cancers and Wens, WIHOUT ASSISTANCE FROM THE SURGEON'S KINFE&#8212;cases that have frequently re-appeared, after amputation, in other parts of the body, and have defied the skill of the best physicians both in the United States and in Europe.</p>
+                <p>The results of his practice show complete and perfect cures, in 18 cases out of 20, of CANCERS, WENS, WHITE SWELLINGS, TETTER SCALD HEAD, OLD and OBSTINATE ULCERS, and CHRONIC FEMALE DISEASES.</p>
+                <p>For further information in relation to Dr. G.'s practical success, the public are referred to countless testimonials from the most eminent men in society, (from the Senate, the Pulpit, the Bar, the Physicians of the highest eminence, the Army, the Navy, and the private walks of life,) now in the possession of Dr. Gilbert, and to the numerous cases at the present moment under his treatment, rapidly progressing to the most perfect cures.</p>
+                <p>Dr. Gilbert invites all who are sceptical as to his treatment and success in the above painful diseases to call at his office, 483 Broadway, and see and judge for themselves; and particularly the members of the Faculty.</p>
+                <p>Office practice exclusively, except in cases of great emergency.</p>
+                <p>Ladies' Consulting Rooms separate from the Gentlemen's.</p>
+                <p>Office hours from 10 A.M. to 3 P.M.</p>
+                <ab>tf.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <cb/>
+            <div1>
+                <fw type="header">NOW READY, LIPPINCOTT, GRAMBO AND CO.'S NEW AND COMPLETE GAZETTEER OF THE UNITED STATES</fw>
+                <p>Edited by T. BALDWIN AND J. THOMAS, M. D., with a new and superb Map of the United States, engraved on Steel.</p>
+                <p>The publishers take pleasure in announcing the completion of this, the most elaborate, comprehensive, perfect Gazetteer of the United States that has ever insued from the press. In its preparation, no considerations of expense or labor have been allowed to interfere with a work designed to be as perfect as possible in every department, and <gap reason="illegible"/> of its details. Nor have the successive issues of <gap reason="illegible"/> Gazetteers, hurried through the press to claim the market, tempted the publishers to offer their book all the ample Census (of 1851) and other material in the hands of the Editors were fully digested and accurately arranged.</p>
+                <p>When this Gazetteer was first announced, eight hundred pages, at the most, nine hundred, were designed as the limit of the book. But so vast was the amount of matter accumulated through the personal labors of the Editors and their assistants, as well as through the active efforts of several thousand Correspondents in all parts of the United States, the work has swelled to near thirteen thousand pages. The amount of new matter which it contains, all of a recent character, is very large, <gap reason="illegible"/> many instances embracing a <gap reason="illegible"/> and Populations to 1853. This gives it an intrinsic value over every other work of the kind in existence. We therefore offer our Gazetteer confidently, as the only complete and thoroughly reliable Gazetteer of the United States yet published. Price $4. LIPPINCOIT, GRAMBO &amp; CO., Publishers, Philadelphia. For sale by the Booksellers and Country Merchants throughout the United States.</p>
+                <ab>Mch. It.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">MITCHELL'S SERIES OF DISSECTED MAPS.&#8212;</fw>
+                <p>MERRIAM, MORE, &amp; CO., Troy, N.Y., are publishing a series of Dissected Maps, to which they would invite the attention of parents, teachers and others.</p>
+                <p>Now ready, Mitchell's Dissected Map of the United States, price $1 50..</p>
+                <p>Will soon be ready&#8212;</p>
+                <lg>
+                    <l>Mitchell's Dissected Map of the Eastern States.</l> 
+                    <l>''         ''        ''  '' ''  Middle   ''</l>
+                    <l>''         ''        ''  '' ''  Southern ''</l>
+                    <l>''         ''        ''  '' ''  Western  ''</l>
+                </lg>
+                <p>The above are made from Mitchell's <gap reason="illegible"/> Maps, are neatly put up in book form, and will be round to be instructive as well as amusing for the young people. <gap reason="illegible"/> from the trade solicited.</p>
+                <ab><gap reason="illegible"/>h.2<gap reason="illegible"/>.t.</ab>
+                <byline>MERRIAM, MOORE &amp; CO., Troy, N. Y.</byline>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">THE NEW POCKET SYRINGE, WITH DIRECTION FOR ITS USE.&#8212;</fw>
+                <p>The undersigned take pleasure in offering to the public, the Hydropathic Profession, are especially to families, a new and superior INJECTING INSTRUMENT, with an ILLUSTRATED MANUAL, by R. T. TRALL, M.D., giving complete directions for the employment of water injections. The price of THE NEW POCKET SYRINGE is only Three Dollars and a Half, and may be sent by Express to any place desired. All orders containing remittances should be prepaid, and directed of FOWLERS AND WELLS, Clinton Hall, 131 Nassau St., New York.</p>
+                <p>This instrument has been manufactured to order, to meet the wants of Hydropathic physicians and patients. It is more convenient and portable than any apparatus of the kind in use, occupying with its case, but little more space than a common pocket-book, while its <gap reason="illegible"/> material will last a lifetime.</p>
+                <p>Extra Vaginal Tubes, 25 cents.</p>
+                <p>The New Instrument may be sent to any place desired by Express.</p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">HOPES AND HELPS FOR THE YOUNG OF BOTH SEXES,</fw>
+                <p>relating to the Formation of Character, Choice of Avocation, Health, Amusement, Music, Conversation, Cultivation of Intellect, Moral Sentiment, Social Affection, Courtship and Marriage. By Rev. G. S. WEAVER, author of "Lectures on Mental Science," &amp;c.</p>
+                <p>"Wisdom's ways are ways of pleasantness, and all her paths are peace."&#8212;BIBLE.</p>
+                <p>New York: FOWLERS AND WELLS, Publishers, Clinton Hall, 131 Nassau Street. Boston: 124 Washington Street. Philadelphia: 231 Arch Street.</p>
+                <p>So desirous are the Publishers to give this excellent work the widest possible circulation, and to place it within the reach of all young men and all young women, that they make the following liberal offer:</p>
+                <p>For sixty-two cents, a copy of the cheap edition will bes sent by mail, postage prepaid, to any post-office in the United States.</p>
+                <p>For one dollar, two copies will be sent.</p>
+                <p>For five dollars, twelve copies.</p>
+                <p>For ten dollars, twenty-five copies.</p>
+                <p>And any additional number at the same rates.</p>
+                <p>Agents would do well, in every neighborhood, to place a copy of this book in the hands of every family. It will be found invaluable to every youth, male and female, and of great service to Parents, Guardians, and Teachers.</p>
+                <p>When any considerable number of copies are wanted, they should be sent by express, or as freight. Single copies, by mail. All letters and orders, with remittances, should be post-paid, and directed as follows:</p>
+                <p>FOWLERS AND WELLS,</p>
+                <p>Clinton Hall, 131 Nassau Street, New York.</p>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">MELODEONS&#8212;GOODMAN &amp; BALDWIN'S NEW INVENTION.&#8212;</fw>
+                <p>PATENT ORGAN MELODEONS, with TWO BANKS OF KEYS; the only thing of the kind in the country; having TWO STOPS, COUPLES, SWELL, DRAW-STOPS, &amp;c. A sweet and powerful instrument, pronounced by organists to be superior, for churches or organ practice to the medium-sized organs. Turned to the equal temperament; price, $200. Also, the Common Melodeon, of all styles and prices. Being the EXCLUSIVE agent for these instruments, orders are solicited. The usual discount made to the trade, and 12&#189; per cent. to clergymen, purchasing for the use of themselves or of their churches.&#8212;HORACE WATERS, 333 Broadway, N. Y.</p>
+                <ab>Mch. It</ab>
+            </div1>
+            <div1>
+                <fw type="header">HOME FOR ALL; OR THE GRAVEL WALL AND OCTAGON MODE OF BUILDING:</fw>
+                <p>New, cheap, convenient, superior, and adapted to rich and poor, showing its superiority over brick, stone, and frame houses, the cost capacity, beauty, compactness, and utility of octagon houses; the author's residence, barns, and out buildings; board and plank walls; the workingman's dwelling, &amp;c., with engraved illustrations. By O. S. FOWLER. Price prepaid by mail, 87 cents. FOWLERS AND WELLS, Publishers, Clinton Hall, No. 131 Nassau street, New York; Boston, 142 Washington street; Philadelphia, 231 Arch street.</p>
+                <cb/>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">FIRST, BEST AND CHEAPEST!!!</fw>
+                <p>THE NEW YORK WEEKLY SUN, established in 1836, is the first dollar-a-year weekly newspaper ever published. Independent of all political parties and cliques; sustained by all the resources of The Sun Establishment in its collections of the latest news from every part of the world, by telegraph and by correspondents; ever offering something new in the way of Stories and BON-MOTS, reports of Inventions, Prices, Current, Markets, Recipes, Marriages and Deaths, etc., its title to the appellation of The Best Newspaper to be had for the same money is unquestionable, while the rate at which the rate at which it is furnished demonstrates it to be, size and contents conferred, by far the cheapest paper in the world.</p>
+                <p>Any person may obtain the paper by simply enclosing One Dollar in a letter, writing in it his name and the name of the nearest Post Office, and of the County and State where he resides, and directing it to "MOSES S. BEACH, Sun Office, New York."</p>
+                <p>The postage on the Weekly Sun to any place in the State of New York, is only thirteen cents per year, payable quarterly (3&#189; cents) in advance. To any place out of the State, but in any part of the United States, the postage is twenty-six cents per year, payable quarterly (6&#189; cents) in advance.</p>
+                <lg>
+                    <l>TERMS&#8212;PAYABLE IN ADVANCE</l>
+                    <l> For a single copy, one year, . . . . . . . $1 00</l>
+                    <l>Club of 6 copies, . . . . . . . . . . . . .  5 00</l>
+                    <l>Club of 13 copies, . . . . . . . . . . . .  10 00</l>
+                    <l>Club of 20 copies, . . . . . . . . . . . .  15 00</l>
+                </lg>
+                <p>All subscriptions should be sent by mail (post-paid) directed to the Publisher.</p>
+                <p>&#9758;No travelling agents are employed.</p>
+                <p>Specimen copies sent gratis when desired.</p>
+                <p>MOSES S. BEACH, Publisher</p>
+                <p>Corner of Nassau and Fulton Streets,</p>
+                <p>New York City.</p>
+                <ab>Feb 3t</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">A NEW MAGNETO-ELECTRIC MACHINE IMPROVED.&#8212;</fw>
+                <p>The Inventor and Manufacturer presents this machine to the public, with the assurance that it is better adapted to their needs than any heretofore offered. Its construction and arrangement are upon scientific and philosophical principles, rendering it as far superior for medicinal purposes to any other now in use, while its chemical powers are unsurpassed. Unlike all others, it requires no LIQUIDS, ACIDS, or SOLUTIONS of any kind, to create the magnetic current; is always ready for use; is perfectly simple, and not liable to get out of order. Each machine is encased in a box of workmanship, and can be sent by express to any place desired. Price, only $10. All orders should be addressed to FOWLERS AND WELLS, Manufacturer's agents, 131 Nassau street, N. Y.</p>
+                <ab>Mch. b. tf.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">ECLECTIC MEDICIAL INSTITUTE. Cincinnati, Ohio.&#8212;</fw>
+                <p>THE SPRING SESSION of this Medical college will commence on the first Monday of March, 1854, and continue fourteen weeks, with the following Faculty: Prof. of Anatomy, WM. SHERWOOD; Physiology and Institutes, J. R. BUCHANAN; Materia Medica, etc., S. W. L. BICKLEY; Medical Practice, etc., R. S. NEWTON; Obstetrics, etc., JOHN KING; Surgery, etc., Z. FREEMAN; Chemistry, etc., J. W. HOYT. The course will be full and complete in each department, and comprises much practical knowledge, not usually imparted in Medical Schools. The doctrines, of the school are liberal and comprehensive, and much of its instruction is original. The Instituted has been the largest and most successful Medical School ever established in Cincinnati, and its faculty have recently adopted the liberal measure of dispensing with all fees except the matriculation fee, which is $20, and the graduation fee, which is $20. A course in clinical Instruction will also be given in the Clinical Institute, the fee for which (being optional) is $5. Graduates of respectable schools are admitted by a matriculation fee of $10.</p>
+                <p>Students, on arriving in the city, will call at the office of Prof. R. S. NEWTON, on Seventh street, between Vine and Race.</p>
+                <p>The FALL SESSION will commence on the first Monday in November, 1854.&#8212;J. R. BUCHANAN, M. D., Dean.</p>
+                <ab>Mch. 1t. b.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">T. S ARTHUR'S HOME MAGAZINE</fw>
+                <p>gives over 900 large double column octavo pages of Choice Reading Matter in a year. Also, from 12 to 15 Steel Engravings, of a high order of excellency; besides from 150 to 200 Fine Wood Engravings, all for $1 25, in Clubs of Four Subscribers!</p>
+                <p>The Cheapest Monthly Magazine in the World. No periodical in the United States has been more generally or more warmly commended by the Press than the "HOME MAGAZINE."</p>
+                <p>&#9758;Send for Specimen Numbers. They will be furnished free of charge.</p>
+                <p>TERMS, in Advance, $2 a year; 4 copies, one year, $5; 12 do., $15; and one getter up of club.</p>
+                <p>&#9758;The Home Magazine and Godey's Lady's Book sent one year for $3 50. Address, post-paid,</p>
+                <p>T. S. ARTHUR &amp; CO.</p>
+                <byline>107 Walnut Street, Philadelphia.</byline>
+                <ab>Feb. 2t be</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">WATERS' GREAT MUSICAL ESTABLISHMENT.&#8212;</fw>
+                <p>HORACE WATERS, the dealer in Musical Instruments, at No 333 Broadway, has created an immense excitement in the public mind by his energetic, bold and original method of doing business, and his warerooms are constantly crowded with customers. He is the agent for the sale of Gilbert &amp; Co.'s superior Pianos, and Smith's Melodeons, and is constantly supplied with a large and valuable collection of these instruments, from which selections can be made on terms both satisfactory and advantageous. Attentive to every visitor who may favor him with a call, it is not at all surprising that his business would flourish; and we advise all who wish to be liberally and fairly dealt with in the purchase of either a Piano or a Melodeon, to call and test the quality of those on sales at his establishment. It may not be an uninteresting act to a great number, and so we state it that HORACE WATERS will receive payments in monthly instalments from those who desire the convenience. This is certainly better than hiring an instrument.</p>
+                <ab>Feb 1t</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <cb/>
+            <div1>    
+                <head>Travel.</head>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <fw type="header">HUDSON RIVER RAILROAD.&#8212;</fw>
+                <p>Trains leave Chambers Street daily for Albany and Troy.</p>
+                <p>On and after Monday, Dec. 5, 1853, the Trains will run as follows:</p>
+                <p>EXPRESS TRAIN&#8212;7 A.M., through in four hours, connecting with Northern and Western Trains.</p>
+                <p>MAIL TRAIN&#8212;9 A.M. Through Way Trains, 12 M. and 3 P.M.</p>
+                <p>EXPRESS TRAINS&#8212;5 P.M. Accommodation Train at 6 P.M.</p>
+                <p>FOR TARRY TOWN&#8212;At 10&#189; P.M.</p>
+                <p>FOR PEEKSKILL&#8212;At 5&#189; P.M.</p>
+                <p>The Tarrytown, Peekskill and Poughkeepsie Trains stop at all the Way Stations.</p>
+                <p>Passengers taken at Chambers, <gap reason="illegible"/> 13th and 31st Streets.</p>
+                <p>SUNDAY MAIL TRAINS&#8212;At <gap reason="illegible"/> P.M. from Canal Street for Albany, stopping at all Way Stations.</p>
+                <byline>EDMUND FRENCH, Superintendent.</byline>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">NEW YORK AND NEW HAVEN RAILROAD.&#8212;</fw>
+                <p>New Winter Arrangement, commencing Jan. 2, 1854.</p>
+                <p>TRAINS FROM NEW YORK FOR NEW HAVEN.&#8212;Accom.&#8212;At 7 and 11.30 A.M.; and 4.10 P.M.</p>
+                <p>EXPRESS.&#8212;At 8 A.M.; 3 and 4 P.M. The 8 A.M. train stops at Stamford and Bridgeport; the 3 P.M. at Stamford, Norwalk and Bridgeport; the 4 P.M. train at Stamford and Bridgeport.</p>
+                <p>FOR PORT CHESTER AND BRIDGEPORT.&#8212;SPECIAL ACCOMODATION TRAINS.&#8212;At 9.15 A.M. and 6.15 P.M. for Port Chester; at 5 P.M. for Bridgeport.</p>
+                <p>FOR BOSTON, VIA HARTFORD, SPRINGFIELD AND WORCHESTER.&#8212;EXPRESS.&#8212;At 8 A.M. and 4 P.M. Dine and sup at Springfield.</p>
+                <p>FOR CONNECTICUT RIVER, VERMONT RAILROADS, AND MONTREAL.&#8212;At 8 A.M. Dine at Springfield.</p>
+                <p>FOR ACCOMODATION TRAIN OF THE NEW HAVEN, HARTFORD, AND SPRINGFIELD R. R.&#8212;AT 11.30 A.M.</p>
+                <p>FOR CANAL R. R.&#8212;At 8 and 11.30 A.M.</p>
+                <p>FOR NEW HAVEN AND NEW LONDON R. R.&#8212;EXPRESS.&#8212;At 8 A.M. to New London, Norwich, Stonington and Providence, and 3 P.M. to New London only.</p>
+                <p>FOR HOUSATONIC AND NAUGATUCK R. R.&#8212; EXPRESS.&#8212;At 8 A.M. and 3 P.M.</p>
+                <p>FOR DANBURY AND NORWALK R. R.&#8212;ACCOM.&#8212;At <gap reason="illegible"/>A.M. and Express at 3 P.M.</p>
+                <p>TRAINS TO NEW YORK. FROM NEW HAVEN.&#8212;ACCOM.&#8212;At 5.30, 5.45, and 8.35 A.M., and 1 P.M.</p>
+                <p>EXPRESS.&#8212;At 1.10 and 9.25 P.M.</p>
+                <p>FROM NORWALK AND PORT CHESTER.&#8212;SPECIAL ACCOM. trains from Norwalk.&#8212;At 6 A.M.; from Port Chester at 5.30 A.M.</p>
+                <p>See large bill of Advertisement at the Station Houses and Hotels.</p>
+                <p>Vice Pres't. and Supt.'s Office, No. 37 Canal Street' New York. Ass't. Supt.'s Office, Station House, New Haven.</p>
+                <ab>Feb 1t</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">MARCH, 1854.&#8212;</fw>
+                <p>AMERICAN RAILWAY GUIDE for this month contains, in addition to its "POSTED" TIME TABLES of all Railroads in the U.S., a NEW and complete RAILWAY MAP, got up expressly for this work at great expense, and is decidedly the LATEST, being corrected up to date. A few pages of advertisements inserted; and, considering its extensive circulation and IMMENSE MONTHLY EDITIONS, no better medium exists. Price, $7 per hundred; 12 1-2 cts. single copy. Send your orders to</p>
+                <byline>DINSMORE &amp; CO.,</byline>
+                <byline>NO.9 Spruce st., N. Y.</byline>
+                <ab>Feb. 1t.</ab>
+                <milestone unit="undeclared" rend="horbar-full"/>
+            </div1>
+            <div1>
+                <fw type="header">LIFE, HEALTH, HAPPINESS.&#8212;</fw>
+                <p>THE ILLUSTRATED PHRENOLOGICAL JOURNAL&#8212; A repository of Science, Education, Biography, General Literature, News, Mechanism, Agriculture,Commerce, the natural Sciences, and all those progressive movements calculated to reform and elevate mankind. Published at $1 per year, in advance, by FOWLERS AND WELLS, New York.</p>
+                <p>THE WATER-CURE JOURNAL AND HERALD OF REFORMS&#8212;A popular Family Journal, devoted to Hydropathy, Physiology, with Anatomical Engravings, illustrating the human system, with familiar instruction to learners. It is emphatically a guide to health and longevity. Terms, $1 a year.</p>
+                <p>THE HYDROPATHIC QUARTERLY REVIEW&#8212;A new Professional Magazine, devoted to Medical Reform, embracing articles by the best writers, on Anatomy, Physiology, Pathology, Surgery, Therapeutics, Midwifery, etc.; Reports of Remarkable Cases in General Practice, Criticisms on the Theory and Practice of the various Opposing Systems of Medical Science; Reports of the Progress of Health Reform in all its Aspects, etc. etc., with appropriate illustrations. Each number contains from 120 to 200 octavo pages, at TWO DOLLARS a year.</p>
+                <p>Address FOWLERS AND WELLS, Clinton Hall, No.131 Nassau st., New York.</p>
+                <p>AGENIS AND CANVASSERS WANTED in every county.</p>  
+            </div1>
+            <pb xml:id="leaf001v" facs="duk.00689.002.jpg" type="verso"/>
+            <div1>
+                <head>OLD CLINTON HALL.</head>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <p>ABOUT twenty-four years ago, Clinton Hall was built on the corner of Beekman and Nassau streets, New York, for the accommodation of the mercantile Library Association. Besides the large lecture-room, the Association have occupied most of the upper part of the building, while the lower portion has been used for Bookstores, Insurance Offices, Banks, and the Phrenological Cabinet.</p>
+                <p>The Library Association have increased the number of volumes from five to fifty thousand, and their number of patrons from a few hundred to as many thousands; until, indeed, they have been compelled to obtain "more room." They are, therefore, about to remove to a new building, erected for their use, at Astor Place&#8212;a mile and a half above their present location. Old Clinson Hall is to be taken down, and new marble stores put up in its place.</p>
+                <p>THE PHRENOLOGICAL CABINET AND PUBLICATION OFFICE will be removed to the more spacious and commodious store, No. 308 Broadway, between Duane and Pearl streets, opposite the New <cb/>York Hospital, two blocks above the City Hall Park. We expect to move our new quarters early in April. We shall then be able to exhibit to much better advantage our large collection of those rare specimens of human and animal relics, gathered from all parts of the world. The Cabinet will, as heretofore, remain open and FREE to visitors at all hours, day and evening.</p>
+                <p>THE JOURNAL OFFICE will be removed, at the same time, to the same store,308 Broadway, where all letters may be directed, after the 10th of April next. Until the, as now 131 Nassau street. All letters will reach us, however if directed as follows: FOWLERS AND WELLS, New York.</p>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+            </div1>
+            <div1>
+                <fw type="header">THE CALIFORNIA FARMER</fw>
+                <p>a Weekly Quarto Sheet, published in San Francisco by JOHN F. MORSE, at $8 a year.</p>
+                <p>This is an excellent specimen of printing, almost equal to any thing done on the Atlantic shore. Devoted to the agricultural interests of that State, it cannot fail to aid materially the development of her vast resources. We with the <hi rend="italic">California Farmer</hi> the best success.</p>
+            </div1>
+            <div1>
+                <figure type="illustration"><figDesc>An image with many clock faces showing the different times of many cities and countries. New York is the central clock face.</figDesc></figure>
+                <head>UNIVERSAL TIME.</head>
+                <p>THE index points to 12 M. on the dial of the City Hall clock, as we commence writing this paragraph. It would not occur to us, perhaps if the above beautiful design were not before us, that our antipodes, the swarthy Celestials of the great city of Pekin, are just now wrapped in the slumbers of midnight. We are emphatically a "fast" people; but the slow Chinamen are quite ahead of us in a point of time, having reached 12 h. 42m. <hi rend="italic">to-morrow morning!</hi>Our working-men are now eating their dinners, while those of St Petersburg are taking their evening meal, the clocks of that imperial city indicating the hour of 7 P.M. The clocks of Vienna are just six hours faster after ours. In clocks of Vienna are just six hours faster than ours. In Paris it is now 5 h. 5 m. P.M. At all places east of New York, of course, the time is more or less faster. The difference between this city and Boston is about twelve minutes and a half. All places to the westward of us have slower time. At Charleston it still lacks about twenty-three minutes of noon. At San Francisco the business day has hardly commenced, the timepieces there indicated 8 h. 45 m. A.M. A telegraphic message sent from New York, at 12 M., would reach the metropolis of California at <hi rend="italic">a quarter before nine in the morning!</hi></p>
+                <p>Our young readers who are studying geography and astronomy will find it a pleasant an useful recreation to trace out, with a map of the world before them, the interesting facts which this "Clock of All Nations" reveals and suggests, making an applications of them to other places of different longitudinal situations.</p>
+                <p>Our engraving represents a design for an electrical clock, by Messers. Squire &amp; Landers, manufacturing and importing jewellers and watchmakers, of this city, to whom we are indebted for its use. Our friends who may require any thing in their line of business, will do well to remember their number&#8212;97 Fulton street, New York.</p>
+            </div1>
+    </body>        
+    </text>
+</TEI>

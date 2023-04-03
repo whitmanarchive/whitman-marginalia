@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="tex.00350">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Quatrains of Omar Khayyaám</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">unknown</author>
+                <editor role="general">Kenneth M. Price</editor>
+                <editor role="general">Ed Folsom</editor>
+                <editor role="contributing">Matt Cohen</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>tex.00350</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <author>Omar Khayyam</author>
+                    <title>Rubaiyat of Omar Khayyam</title>
+                    <idno type="callno">PK 6513 A1 1872 cop.5</idno>
+                    <date notBefore="1872-01-01" notAfter="1892-05-26"/>
+                    <orgName xml:id="tex">The Walt Whitman Collection, Harry Ransom Humanities Research Center, The University of Texas at Austin</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Omar Khayyam</author>
+                    <title>Rubáiyát of Omar Khayyám, the Astronomer-Poet of Persia.</title>
+                    <date when="1872-01-01">1872</date>
+                    <publisher>Bernard Quaritch</publisher>
+                    <pubPlace>London</pubPlace>
+                </bibl>
+                <bibl type="pasteon" xml:id="r2">
+                    <author>unknown author</author>
+                    <title>unknown title</title>
+                    <date>date unknown</date>
+                    <note type="project"/>
+                </bibl>
+                <bibl type="pasteon" xml:id="r3">
+                    <author>unknown author</author>
+                    <title level="a">Omar Khayyam's Age</title>
+                    <title level="a">Current Criticism</title>
+                    <title level="j">The Critic</title>
+                    <biblScope type="vol">3</biblScope>
+                    <date when="1885-03-01">March 1885</date>
+                    <biblScope type="pp">143</biblScope>
+                    <note type="project"/>
+                    </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2012-06-17">Transcribed and encoded.</change>
+            <change who="#lmg" when="2013-07-08">Checked.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <front>
+        <pb xml:id="leaf001v" facs="tex.00350.001.jpg" type="verso"/>
+            <add rend="pasteon" source="#r2">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf002r" facs="tex.00350.001.jpg" type="recto"/>
+                            <ab><handShift new="#h1"/><milestone unit="undeclared" rend="horbar-short-center"/></ab>
+            <ab rend="centered"><handShift new="#h1"/>Post 8vo. cloth, pp. 91. Price 5<hi rend="italic">s</hi>.</ab>
+                            <ab rend="centered">THE QUATRAINS OF OMAR KHAYYÁM.</ab>
+            <ab rend="centered">Translated into English Verse by E. H. WHINFIELD, M.A., Late of the Bengal Civil Service.</ab>
+                            <p>Omar Khayyám (the tent-maker) was born about the middle of the fifth century of the Hejirah, corresponding to the
+                                eleventh of the Christian era, in the <choice><orig>neighbourhood</orig><reg>neighborhood</reg></choice> of Naishapur, the capital of Khorasán., and died in 517 A.H.
+            (‑1122 A.D.). His life thus extended through the reigns of the Seljuk Kings, Alp Arslan, Malik Shah, Mahmud,
+            Barkiarok, and Muhammad.</p>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                            <ab rend="centered">LONDON: TR⇐BNER &amp; CO., 57 <hi rend="smallcaps">AND</hi> 59, LUDGATE HILL.</ab>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <note type="authorial" resp="#h2">NE‑</note>
+            <add rend="pasteon" source="#r3">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf003r" facs="tex.00350.001.jpg" type="recto"/>
+                            <milestone unit="undeclared" rend="horbar-short-center"/>
+                            <head type="main-authorial">O<hi rend="smallcaps">MAR</hi> K<hi rend="smallcaps">HAYYAM'S</hi> A<hi rend="smallcaps">GE</hi>:</head><p>&#8212;Miss Amelia B. Edwards, in her
+                                review of the new edition of Fitzgerald's translation of Omar
+                                Khayyam with Elihu Vedder's drawings (<hi rend="italic">Academy</hi>, November
+                                29, 1884), says that the poet lived and died about eight hundred
+                                years ago, and that the dates of his birth and death are not
+                                exactly known. The date of his birth is not exactly known,
+                                but that of his death is. Omar left the Nishapur College in
+                                1042, corrected the Calendar during Malik Shah's reign (1072-
+                                92), and died in 1124, over one hundred years of age, at Nishapur,
+                                where his grave is still to be seen. 'Omar and his two
+                                celebrated school-fellows, the great minister of the Selju<hi rend="italic">q</hi>s,
+                                Nizam el Mulk, and the founder of the Ismaili Dynasty (the
+                                Assassins), <hi rend="italic">H</hi>assan Saba<hi rend="italic">h</hi>, were, as Nizam el Mulk says in his
+                                <hi rend="italic">Vassaya</hi>, quoted by Khondemir, of about the same age, and
+                                Nizam el Mulk was born in the year 1017. The minister was
+                                killed by one of <hi rend="italic">H</hi>assan's followers in the year 1092. <hi rend="italic">H</hi>assan
+                                died, shortly after Omar, in the year 1125. &#8212;<hi rend="italic">A. Houtum-
+                                    Schindler, in The Academy.</hi></p>
+                            <milestone unit="undeclared" rend="horbar-short-center"/>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <pb xml:id="leaf004r" facs="tex.00350.002.jpg" type="recto"/>
+            <titlePage>
+            <note type="authorial" resp="#h3" place="top">Walt Whitman</note>
+                <docTitle><titlePart type="main" rend="centered">RUBÁIYÁT
+            <hi rend="smallcaps">OF</hi>
+                OMAR <hi rend="underline" hand="#h2" xml:id="u1">KHAYYÁM,</hi></titlePart>
+            <note type="authorial" resp="#h2" corresp="#u1">See p. <subst><del rend="overwrite" seq="1">7</del><add rend="overwrite" place="over" seq="2">8</add></subst> prose&#8212;</note>
+            <titlePart type="desc">THE ASTRONOMER-POET OF PERSIA.</titlePart></docTitle>
+            <docImprint>Rendered into English Verse.
+            THIRD EDITION.
+                <pubPlace>LONDON:</pubPlace>
+                <name>BERNARD QUARITCH</name>,
+                <district>PICCADILLY</district>.
+                <docDate when="1872">1872</docDate>.</docImprint>
+            </titlePage>
+            </front>
+        <body>
+            <pb xml:id="leaf005v" facs="tex.00350.003.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">viii</fw>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM,</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p>pension of 1200 <hi rend="italic">mithkáls</hi> of gold, from the treasury of
+                NaishápÚr.</p>
+            <span rend="singleLine-left" hand="#h2" from="#p1"/><p xml:id="p1">"At NaishápÚr thus lived and died Omar Khayyám,
+            'busied,' adds the Vizier, 'in winning knowledge of
+            'every kind, and especially in Astronomy, wherein he
+            'attained to a very high <choice><orig>pre-eminence</orig><reg>preeminence</reg></choice>. Under the Sulttanate
+            'of Malik Shah, he came to Merv, and obtained
+            'great praise for his proficiency in science, and the
+            'Sultan showered <choice><orig>favours</orig><reg>favors</reg></choice> upon him.'</p>
+            <p>"When Malik Shah determined to reform the calendar,
+            Omar was one of the eight learned men employed
+            to do it; the result was the <hi rend="italic">Jaláli</hi> era (so called from
+            <hi rend="italic">Jalal-u-din</hi>, one of the king's names)&#8212;'a computation
+            of time,' says Gibbon, 'which surpasses the Julian, and
+            approaches the accuracy of the Gregorian style.' He
+            is also the author of some astronomical tables, entitled
+            Zíji-Maliksháhí," and the French have lately republished
+            and translated an Arabic Treatise of his on Algebra.</p>
+            <span rend="bracket-left, bracket-right" hand="#h2" xml:id="s1" from="#s1" to="#s2"/><p xml:id="p2a" next="#p2b">"His Takhallus or poetical name (Khayyaám) signifies
+            a Tent-maker, and he is said to have at one time exercised
+            that trade, perhaps before Nizám-ul-Mulk's generosity</p><anchor xml:id="s2"/>
+            <pb xml:id="leaf006r" facs="tex.00350.004.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">ix</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="bracket-left, bracket-right" hand="#h2" xml:id="s3" from="#s3" to="#s4"/><p xml:id="p2b" prev="#p2a">raised him to independence. Many Persian
+            poets similarly derive their names from their occupations;
+            thus we have Attár, 'a druggist,' Assár, 'an oil
+            presser,' &amp;c.<ref target="#n1" xml:id="ref1">(1)</ref> Omar himself alludes to his name in the
+            following whimsical lines:&#8212;</p><anchor xml:id="s4"/>
+            <lg type="linegroup"><l>'Khayyaám, who stitched the tents of science,</l>
+                <l>Has fallen in grief's furnace and been suddenly burned;</l>
+                <l>The shears of Fate have cut the tent ropes of his life,</l>
+                <l>And the broker of Hope has sold him for nothing!'</l>
+            </lg>
+            <p>"We have only one more anecdote to give of his Life,
+            and that relates to the close; it is told in the anonymous
+            preface which is sometimes prefixed to his poems; it
+            has been printed in the Persian in the appendix to
+            Hyde's <hi rend="italic">Veterum Persarum Religio</hi>, p. 499; and D'Herbelot
+            alludes to it in his BibliothÈque, under <hi rend="italic">Khiam</hi>:<ref target="#n2" xml:id="ref2">(2)</ref>&#8212;</p>
+            <p>"'It is written in the chronicles of the ancients that
+            'this King of the Wise, Omar Khayyám, died at</p>
+            <note xml:id="n1" target="#ref1" type="authorial" place="bottom" anchored="true">Though all these, like our Smiths, Archers, Millers, Fletchers,
+                &amp;c., may simply retain the Surname of an hereditary calling.</note>
+            <note xml:id="n2" target="#ref2" type="authorial" place="bottom" anchored="true">"Philosophe Musulman qui a vÉ en Odeur de SaintetÉ dans
+                la Fin du premier et le Commencement du second SiÈcle," no part
+                of which, except the "Philosophe," can apply to <hi rend="italic">our</hi> Khayyám.</note>
+            <pb xml:id="leaf007r" facs="tex.00350.005.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">xi</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p>'when I chanced to revisit NaishápÚr, I went to his
+            'final resting-place, and lo! it was just outside a garden,
+            'and trees laden with fruit stretched their boughs over
+            'the garden wall, and dropped their flowers upon his
+            'tomb, so as the stone was hidden under them.'"</p>
+            <p>Thus far&#8212;without fear of Trespass&#8212;from the Calcutta
+            Review. The writer of it, on reading in India
+            this story of Omar's Grave, was reminded, he says, of
+            Cicero's Account of finding Archimedes' Tomb at Syracuse,
+            buried in grass and weeds. I think Thorwaldsen
+            desired to have roses grow over him; a wish religiously
+            fulfilled for him to the present day, I believe. However,
+            to return to Omar.</p>
+            <p xml:id="p3a" next="#p3b">Though the Sultan "<choice><orig>shower'd</orig><reg>showered</reg></choice> <choice><orig>Favours</orig><reg>Favors</reg></choice> upon him,"
+            <span rend="singleLine-right" hand="#h2" xml:id="s5" from="#s5" to="#s6"/><hi rend="underline" hand="#h2">Omar's Epicurean Audacity of Thought and Speech
+            caused him to be regarded askance in his own Time
+            and Country.</hi><anchor xml:id="s6"/> He is said to have been especially hated
+            and dreaded by the SÚfis, whose Practice he ridiculed,
+            and whose Faith amounts to little more than his own
+            when <choice><orig>stript</orig><reg>stripped</reg></choice> of the Mysticism and formal recognition of
+            Islamism under which Omar would not hide. Their</p>
+            <fw type="sig" place="bottom">C</fw>
+            <pb xml:id="leaf007v" facs="tex.00350.006.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xii</fw>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM,</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p xml:id="p3b" prev="#p3a" next="#p3c">Poets, including Háfiz, who are (with the exception of
+            Firdausi) the most considerable in Persia, borrowed
+            largely, indeed, of Omar's material, but turning it to a
+            mystical Use more convenient to Themselves and the
+            People they addressed; a People quite as quick of Doubt
+            as of Belief; as keen of Bodily Sense as of Intellectual;
+            and delighting in <hi rend="underline" hand="#h2">a cloudy composition of both, in which
+            they could float luxuriously between Heaven and Earth,
+            <span rend="singleLine-left" hand="#h2" xml:id="s7" from="#s7" to="#s8"/>and this World and the Next, on the wings of a poetical
+            expression, that might serve indifferently for either.</hi><anchor xml:id="s8"/>
+            Omar was too honest of Heart as well as of Head for
+            this. Having failed (however mistakenly) of finding
+            any Providence but Destiny, and any World but This,
+            <span rend="singleLine-left" hand="#h2" xml:id="s9" from="#s9" to="#s10"/>he set about making the most of it; preferring rather
+            to soothe the Soul through the Senses into Acquiescence
+            with Things as he saw them, than to perplex it with
+            vain disquietude after what they <hi rend="italic">might be</hi>.<anchor xml:id="s10"/> It has been
+            seen, however, that his Worldly Ambition was not
+            exorbitant; and <hi rend="underline" hand="#h2">he very likely takes a humorous or
+            perverse pleasure in exalting the gratification of Sense
+            above that of the Intellect,</hi> in which he must have</p>
+            <pb xml:id="leaf008r" facs="tex.00350.007.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">xiii</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p xml:id="p3c" prev="#p3b">taken great delight, although it failed to answer the
+            Questions in which he, in common with all men, was
+            most vitally interested.</p>
+            <p xml:id="p4a" next="#p4b"><hi rend="underline" hand="#h2">For whatever Reason, however, Omar, as before said,
+            has never been popular in his own Country, and</hi> therefore
+            has been but scantily transmitted abroad. The
+            MSS. of his Poems, mutilated beyond the average
+            Casualties of Oriental Transcription, are so rare in the
+            East as scarce to have <choice><orig>reacht</orig><reg>reached</reg></choice> Westward at all, in spite
+            of all the acquisitions of Arms and Science. There is
+            no copy at the India House, none at the Bibliothèque
+            Imperiále of Paris. We know but of one in England:
+            No. 140 of the Ouseley MSS. at the Bodleian, written
+            at Shiraz, <hi rend="smallcaps">A.D.</hi> 1460. This contains but 158 Rubáiyát.
+            One in the Asiatic Society's Library at Calcutta (of
+            which we have a Copy), contains (and yet incomplete)
+            516, though swelled to that by all kinds of Repetition
+            and Corruption. So Von Hammer speaks of <hi rend="italic">his</hi> Copy
+            as containing about 200, while Dr. Sprenger catalogues
+            the Lucknow MS. at double that Number.<ref target="#n3a" xml:id="ref3">(1)</ref> The Scribes,</p>
+            <note xml:id="n3a" next="#n3b" target="#ref3" type="authorial" place="bottom" anchored="true">"Since this Paper was written (adds the Reviewer in a note),</note>
+            <pb xml:id="leaf008v" facs="tex.00350.008.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xiv</fw>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM,</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p xml:id="p4b">too, of the Oxford and Calcutta MSS. seem to do their
+            Work under a sort of Protest; each beginning with a
+            Tetrastich (whether genuine or not), taken out of its
+            alphabetical order; the Oxford with one of Apology;
+            the Calcutta with one of Expostulation, supposed (says
+            a Notice prefixed to the MS.) to have risen from a
+            Dream, in which Omar's mother asked about his future
+            fate. It may be rendered thus:&#8212;</p>
+            <span rend="singleLine-left" hand="#h2" from="#lg1"/><lg type="linegroup" xml:id="lg1"><l>"Oh Thou who burn'st in Heart for those who burn</l>
+            <l>"In Hell, whose fires thyself shall feed in turn;</l>
+            <l>"How long be crying, 'Mercy on them, God!'</l>
+            <l>"Why, who art Thou to teach, and He to learn?"</l></lg>
+            <p>The Bodleian Quatrain pleads Pantheism by way of
+            Justification</p>
+            <lg type="linegroup"><l>"If I myself upon a looser Creed</l>
+            <l>"Have loosely strung the Jewel of Good deed,</l>
+            <l>"Let this one thing for my Atonement plead:</l>
+            <l>"That One for Two I never did mis-read."</l></lg>
+            <span rend="doubleLine-left" hand="#h2" xml:id="s11" from="#s11" to="#s12"/><p xml:id="p5a" next="#p5b">The Reviewer, to whom I owe the Particulars of
+            Omar's Life, concludes his Review <hi rend="underline" hand="#h2">by comparing him</hi></p><anchor xml:id="s12"/>
+            <note xml:id="n3b" target="#ref3" type="authorial" place="bottom" anchored="true">"we have met with a Copy of a very rare Edition, printed at Calcutta
+            in 1836. This contains 238 Tetrastichs, with an Appendix
+            containing 54 others not found in some MSS."</note>
+            <pb xml:id="leaf009r" facs="tex.00350.009.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">xv</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="doubleLine-right" hand="#h2" xml:id="s13" from="#s13" to="#s14"/><p xml:id="p5b" prev="#p5a" next="p5c"><hi rend="underline" hand="#h2">with Lucretius, both as to natural Temper and Genius,</hi>
+            and as acted upon by the Circumstances in which he
+            lived. Both indeed were men of subtle, strong, and
+            cultivated Intellect, fine Imagination, and Hearts passionate
+            for Truth and Justice; who justly revolted
+            from their Country's false Religion, and false, or
+            foolish, Devotion to it; but who yet fell short of
+            replacing what they subverted by such better <hi rend="italic">Hope</hi>
+            as others, with no better Revelation to guide them,
+            had yet made a Law to themselves. Lucretius, indeed,
+            with such material as Epicurious furnished, satisfied
+            himself with the theory of so vast a machine fortuitously
+            constructed, and acting by a Law that implied
+            no Legislator; and so composing himself into a Stoical
+            rather than Epicurean severity of Attitude, sat down
+            to contemplate the mechanical Drama of the Universe
+            which he was part Actor in; himself and all about
+            him (as in his own sublime description of the Roman
+            Theatre) discoloured with the lurid reflex of the
+            Curtain suspended between the Spectator and the
+            Sun. Omar, more desperate, or more careless of any</p><anchor xml:id="s14"/>
+            <pb xml:id="leaf009v" facs="tex.00350.010.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xvi</fw>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM,</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="doubleLine-left" hand="#h2" xml:id="s15" from="#s15" to="#s16"/><p xml:id="p5c" prev="#p5b">so complicated System as resulted in nothing but
+            hopeless Necessity, flung his own Genius and Learning
+            with a bitter or humorous jest into the general Ruin
+            which their insufficient glimpses only served to reveal;
+            and, pretending sensual pleasure as the serious purpose
+            of Life, only <hi rend="italic">diverted</hi> himself with speculative problems
+            of Deity, Destiny, Matter and Spirit, Good and Evil,
+            and other such questions, easier to start than to run
+            down, and the pursuit of which becomes a very weary
+            sport at last!</p>
+            <p xml:id="p6a" next="#p6b">With regard to the present Translation. The original
+            Rubáiyát (as, missing an Arabic Guttural, these<anchor xml:id="s16"/>
+            <hi rend="italic">Tetrastichs</hi> are more musically called) are independent
+            Stanzas, consisting each of four Lines of equal, though
+            varied, Prosody; sometimes <hi rend="italic">all</hi> rhyming, but oftener
+            (as here imitated) the third line a blank. Something
+            as in the Greek Alcaic, where the penultimate line
+            seems to lift and suspend the Wave that falls over in
+            the last. As usual with such kind of Oriental Verse,
+            the Rubáiyát follow one another according to Alphabetic
+            Rhyme&#8212;a strange succession of Grave and Gay.</p>
+            <pb xml:id="leaf010r" facs="tex.00350.011.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">xvii</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p xml:id="p6b" prev="#p6a">Those here selected are strung into something of an
+            Eclogue, with perhaps a less than equal proportion of
+            the "Drink and make-merry," which (genuine or not)
+            recurs over-frequently in the Original. Either way,
+            the Result is sad enough: saddest perhaps when most
+                <span rend="singleLine-right" hand="#h2" xml:id="s17" from="#s17" to="#s18"/>ostentatiously merry: more apt to move Sorrow than
+            Anger toward the old Tentmaker, who, after vainly
+            endeavouring to unshackle his Steps from Destiny, and
+            to catch some authentic Glimpse of T<hi rend="smallcaps">OMORROW</hi>, fell<anchor xml:id="s18"/>
+            back upon T<hi rend="smallcaps">ODAY</hi> (which has <choice><orig>out-lasted</orig><reg>outlasted</reg></choice> so many
+            Tomorrows!) as the only Ground he got to stand
+            upon, however momentarily slipping from under his
+            Feet.</p>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <p>While the second Edition of this version of Omar
+            was preparing, Monsieur Nicolas, French Consul at
+            Resht, published a very careful and very good Edition
+            of the Text, from a lithograph copy at Teheran, comprising
+            464 Rubáiyát, with translation and notes of
+            his own.</p>
+            <p xml:id="p7a" next="#p7b">Mons. Nicolas, whose Edition has reminded me of</p>
+            <pb xml:id="leaf010v" facs="tex.00350.012.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">xviii</fw>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM,</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="singleLine-right" hand="#h2" xml:id="s28" from="#s28" to="#s29"/><span rend="singleLine-left" hand="#h2" xml:id="s21" from="#s21" to="#s22"/><span rend="singleLine-left" hand="#h2" xml:id="s19" from="#s19" to="#s20"/><p xml:id="p7b" prev="#p7a">several things, and instructed me in others, does not
+            consider Omar to be the material Epicurean that I<anchor xml:id="s22"/>
+            <span rend="singleLine-left" hand="h2" xml:id="s23" from="#s23" to="#s24"/><span rend="singleLine-left" hand="#h2" xml:id="s25" from="#s25" to="#s26"/>have literally taken him for, but a Mystic, shadowing<anchor xml:id="s20"/>
+            the Deity under the figure of Wine, Wine-bearer, &amp;c.,
+            as Háfiz is supposed to do; in short, a Súfi Poet like<anchor xml:id="s24"/><anchor xml:id="s26"/><anchor xml:id="s29"/>
+            Háfiz and the rest.</p>
+            <p>I cannot see reason to alter my opinion, formed as
+            it was more than a dozen years ago when Omar was first
+            shown me by one to whom I am indebted for all I know
+            of Oriental, and very much of other, literature. He
+            admired Omar's Genius so much, that he would gladly
+            have adopted any such Interpretation of his meaning
+            as Mons. Nicolas' if he could.<ref target="n4" xml:id="ref4">(1)</ref> That he could not,
+            appears by his Paper in the Calcutta Review already
+            so largely quoted; in which he argues from the Poems
+            themselves, as well as from what records remain of
+            the Poet's Life.</p>
+            <p xml:id="p8a" next="#p8b">And if more were needed to disprove Mons. Nicolas'</p>
+            <note xml:id="n4" target="#ref4" type="authorial" place="bottom" anchored="true">Perhaps would have edited the Poems himself some years ago.
+            He may now as little approve of my Version on one side, as of Mons.
+            Nicolas' Theory on the other.</note>
+            <pb xml:id="leaf011r" facs="tex.00350.013.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">THE ASTRONOMER-POET OF PERSIA.</fw>
+            <fw type="pageNum" place="top right">xix</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <p xml:id="p8b" prev="#p8a">Theory, there is the Biographical Notice which he
+            himself has drawn up in direct contradiction to the
+            Interpretation of the Poems given in his Notes.
+            (See pp. 13-14 of his Preface.) Indeed I hardly
+            knew poor Omar was so far gone till his Apologist
+            informed me. For here we see that, whatever were
+            the Wine that Háfiz drank and sang, the veritable
+            Juice of the Grape it was which Omar used, not
+            only when carousing with his friends, but (says Mons.
+            Nicolas) in order to excite himself to that pitch of
+            Devotion which others reached by cries and "hurlemens."
+            And yet, whenever Wine, Wine-bearer &amp;c.,
+            occur in the Text&#8212;which is often enough&#8212;Mons.
+            Nicolas carefully annotates "Dieu," "La Divinité,"
+            &amp;c.: so carefully indeed that one is tempted to think
+            that he was indoctrinated by the Súfi with whom he
+            read the Poems. (Note to Rub. ii. p. 8.) A Persian
+            would naturally wish to vindicate a distinguished
+            Countryman; <hi rend="underline" hand="#h2">and a </hi>Súfi<hi rend="underline" hand="#h2"> to <choice><orig>enrol</orig><reg>enroll</reg></choice> him in his own sect,
+            which already comprises all the chief Poets of Persia.</hi></p>
+            <p>What historical Authority has Mons. Nicolas to show</p>
+            <fw type="sig" place="bottom">D</fw>
+            <pb xml:id="leaf012v" facs="tex.00350.014.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">4</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XI."><l>With me along the strip of Herbage strown</l>
+            <l>That just divides the desert from the sown,</l>
+            <l>Where name of Slave and Sultán is forgot&#8212;</l>
+                <l>And Peace to Máhmúd on his golden Throne!</l></lg>
+            <span rend="singleLine-left" hand="#h2" from="#lg2"/><lg type="stanza" n="XII." xml:id="lg2"><span rend="bracket-left" hand="#h2" xml:id="s30" from="#s30" to="#s31"/><l>A Book of Verses underneath the Bough,</l>
+            <l>A Jug of Wine, a Loaf of Bread&#8212;and Thou</l>
+            <l>Beside me singing<anchor xml:id="s31"/> in the Wilderness&#8212;</l>
+            <l>Oh, Wilderness were Paradise enow!</l></lg>
+            <lg type="stanza" n="XIII."><l>Some for the Glories of This World; and some</l>
+            <l>Sigh for the Prophet's Paradise to come;</l>
+            <l>Ah, take the Cash, and let the Credit go,</l>
+                <l>Nor heed the rumble of a distant Drum!<ref target="n5" xml:id="ref5">(8)</ref></l></lg>
+            <lg type="stanza" n="XIV."><l>Look to the blowing Rose about us&#8212;"Lo,</l>
+            <l>"Laughing," she says, "into the world I blow,</l>
+            <l>"At once the silken tassel of my Purse</l>
+                <l>"Tear, and its Treasure on the Garden throw."<ref target="n6" xml:id="ref6">(9)</ref></l></lg>
+            <pb xml:id="leaf013r" facs="tex.00350.015.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">5</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XV."><l>And those who husbanded the Golden grain,</l>
+            <l>And those who flung it to the winds like Rain,</l>
+            <l>Alike to no such aureate Earth are <choice><orig>turn'd</orig><reg>turned</reg></choice></l>
+            <l>As, buried once, Men want dug up again.</l></lg>
+            <lg type="stanza" n="XVI."><l>The Worldly Hope men set their Hearts upon</l>
+            <l>Turns Ashes&#8212;or it prospers; and anon,</l>
+            <l>Like Snow upon the Desert's dusty Face,</l>
+            <l>Lighting a little hour or two&#8212;was gone.</l></lg>
+            <span rend="singleLine-right" hand="#h2" from="#lg3"/><span rend="bracket-right" hand="#h2" from="#lg3"/><lg type="stanza" n="XVII." xml:id="lg3"><l>Think, in this <choice><orig>batter'd</orig><reg>battered</reg></choice> Caravanserai</l>
+            <l>Whose Portals are alternate Night and Day,</l>
+            <l>How Sultán with his Pomp</l>
+            <l>Abode his <choice><orig>destin'd</orig><reg>destined</reg></choice> Hour, and went his way.</l></lg>
+            <lg type="stanza" n="XVIII."><l>They say the Lion and the Lizard keep</l>
+                <l>The Courts where Jamshyd gloried and drank deep:<ref target="n7" xml:id="ref7">(10)</ref></l>
+            <l>And Bahrám, that great Hunter&#8212;the Wild Ass</l>
+            <l>Stamps <choice><orig>o'er</orig><reg>over</reg></choice> his Head, but cannot break his Sleep.</l></lg>
+            <pb xml:id="leaf013v" facs="tex.00350.016.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">6</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="singleLine-left" hand="#h2" from="#lg4"/><span rend="bracket-left" hand="#h2" from="#lg4"/><lg type="stanza" xml:id="lg4" n="XIX."><l>I sometimes think that never blows so red</l>
+                <l>The Rose as where some buried Cæsar bled;</l>
+            <l>That every Hyacinth the Garden wears</l>
+            <l>Dropt in her Lap from some once lovely Head.</l></lg>
+            <span rend="singleLine-left" hand="#h2" from="#lg5"/><span rend="bracket-left" hand="#h2" from="#lg5"/><lg type="stanza" n="XX." xml:id="lg5"><l>And this reviving Herb whose tender Green</l>
+            <l>Fledges the River-Lip on which we lean&#8212;</l>
+            <l>Ah, lean upon it lightly! for who knows</l>
+            <l>From what once lovely Lip it springs unseen!</l></lg>
+            <lg type="stanza" n="XXI."><l>Ah, my Belovéd, fill the Cup that clears</l>
+            <l><choice><orig>T<hi rend="smallcaps">O-DAY</hi></orig><reg>Today</reg></choice> of past Regret and future Fears:</l>
+                <l><hi rend="italic"><choice><orig>To-morrow</orig><reg>Tomorrow</reg></choice>!</hi>&#8212;Why, <choice><orig>To-morrow</orig><reg>Tomorrow</reg></choice> I may be</l>
+                <l>Myself with Yesterday's <choice><orig>Sev'n</orig><reg>Seven</reg></choice> thousand Years.<ref target="n8" xml:id="ref8">(11)</ref></l></lg>
+            <lg type="stanza" n="XXII."><l>For some we loved, the loveliest and the best</l>
+            <l>That from his Vintage rolling Time has <choice><orig>prest</orig><reg>pressed</reg></choice>,</l>
+            <l>Have drunk their Cup a Round or two before,</l>
+            <l>And one by one crept silently to rest.</l></lg>
+            <pb xml:id="leaf014r" facs="tex.00350.017.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">7</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XXIII."><l>And we, that now make merry in the Room</l>
+            <l>They left, and Summer dresses in new bloom,</l>
+            <l>Ourselves must we beneath the Couch of Earth</l>
+            <l>Descend&#8212;ourselves to make a Couch&#8212;for whom?</l></lg>
+            <lg type="stanza" n="XXIV."><l>Ah, make the most of what we yet may spend,</l>
+            <l>Before we too into the Dust descend;</l>
+            <l>Dust into Dust, and under Dust, to lie,</l>
+            <l>Sans Wine, sans Song, sans Singer, and&#8212;sans End!</l></lg>
+            <lg type="stanza" n="XXV."><l>Alike for those who for<choice><orig>T<hi rend="smallcaps">O-DAY</hi></orig><reg>Today</reg></choice> prepare,</l>
+            <l>And those that after some <choice><orig>T<hi rend="smallcaps">O-MORROW</hi></orig><reg>Tomorrow</reg></choice> stare,</l>
+                <l>A Muezzín from the Tower of Darkness cries,</l>
+            <l>"Fools! your Reward is neither Here nor There."</l></lg>
+            <lg type="stanza" n="XXVI."><l>Why, all the Saints and Sages who <choice><orig>discuss'd</orig><reg>discussed</reg></choice></l>
+            <l>Of the Two Worlds so learnedly are thrust</l>
+            <l>Like foolish Prophets forth; their Words to Scorn</l>
+            <l>Are <choice><orig>scatter'd</orig><reg>scattered</reg></choice>, and their Mouths are <choice><orig>stopt</orig><reg>stopped</reg></choice> with Dust.</l></lg>
+            <pb xml:id="leaf014v" facs="tex.00350.018.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">8</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="singleLine-left" hand="#h2" from="#lg6"/><lg type="stanza" n="XXVII." xml:id="lg6"><l>Myself when young did eagerly frequent</l>
+            <l>Doctor and Saint, and heard great argument</l>
+            <l>About it and about: but evermore</l>
+            <l>Came out by the same door where in I went.</l></lg>
+            <span rend="singleLine-left" hand="#h2" from="#lg7"/><lg type="stanza" n="XXVIII." xml:id="lg7"><l>With them the seed of Wisdom did I sow,</l>
+            <l>And with my own hand wrought to make it grow;</l>
+            <l>And this was all the Harvest that I <choice><orig>reap'd</orig><reg>reaped</reg></choice>&#8212;</l>
+            <l>"I came like Water, and like Wind I go."</l></lg>
+            <lg type="stanza" n="XXIX."><l>Into this Universe, and <hi rend="italic">Why</hi> not knowing,</l>
+            <l>Nor <hi rend="italic">Whence</hi>, like Water willy-nilly flowing;</l>
+            <l>And out of it, as Wind along the Waste,</l>
+            <l>I know not <hi rend="italic">Whither</hi>, willy-nilly blowing.</l></lg>
+            <lg type="stanza" n="XXX."><l>What, without asking, hither hurried <hi rend="italic">Whence?</hi></l>
+            <l>And, without asking, <hi rend="italic">Whither</hi> hurried hence!</l>
+            <l>Oh, many a Cup of this forbidden Wine</l>
+            <l>Must drown the memory of that insolence!</l></lg>
+            <pb xml:id="leaf015r" facs="tex.00350.019.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">9</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="bracket-right" hand="#h2" xml:id="s33" from="#s33" to="#s34"/><lg type="stanza" n="XXXI."><l>Up from Earth's Centre through the Seventh Gate</l>
+                <l>I rose, and on the Throne of Saturn sate,<ref target="n9" xml:id="ref9">(12)</ref></l>
+            <l>And many a Knot <choice><orig>unravel'd</orig><reg>unraveled</reg></choice> by the Road;</l>
+            <l>But not the Master-knot of Human Fate.</l></lg>
+            <lg type="stanza" n="XXXII."><l>There was the Door to which I found no Key;</l>
+            <l>There was the Veil through which I could not see:</l>
+            <l>Some little talk awhile of M<hi rend="smallcaps">E</hi> and T<hi rend="smallcaps">HEE</hi></l>
+                <l>There was&#8212;and then no more of T<hi rend="smallcaps">HEE</hi> and M<hi rend="smallcaps">E</hi>.<ref target="n10" xml:id="ref10">(13)</ref></l></lg>
+            <lg type="stanza" n="XXXIII."><l>Earth could not answer; nor the Seas that mourn</l>
+            <l>In flowing Purple, of their Lord forlorn;</l>
+            <l>Nor rolling Heaven, with all his Signs <choice><orig>reveal'd</orig><reg>revealed</reg></choice></l>
+            <l>And hidden by the sleeve of Night and Morn.</l></lg><anchor xml:id="s34"/>
+            <lg type="stanza" n="XXXIV."><l>Then of the T<hi rend="smallcaps">HEE IN</hi> M<hi rend="smallcaps">E</hi> who works behind
+            The Veil, I lifted up my hands to find</l>
+            <l>A Lamp amid the Darkness; and I heard,</l>
+            <l>As from Without&#8212;"T<hi rend="smallcaps">HE</hi> M<hi rend="smallcaps">E WITHIN</hi> T<hi rend="smallcaps">HEE BLIND</hi>!"</l></lg>
+            <pb xml:id="leaf015v" facs="tex.00350.020.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">10</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XXXV."><l>Then to the Lip of this poor earthen Urn</l>
+            <l>I <choice><orig>lean'd</orig><reg>leaned</reg></choice>, the Secret of my Life to learn:</l>
+            <l>And Lip to Lip it <choice><orig>murmur'd</orig><reg>murmured</reg></choice>&#8212;"While you live,</l>
+            <l>"Drink!&#8212;for, once dead, you never shall return."</l></lg>
+            <lg type="stanza" n="XXXVI."><l>I think the Vessel, that with fugitive</l>
+            <l>Articulation <choice><orig>answer'd</orig><reg>answered</reg></choice>, once did live,</l>
+            <l>And drink; and Ah! the passive Lip I kiss'd,</l>
+            <l>How many Kisses might it take&#8212;and give!</l></lg>
+            <span rend="singleLine-left" hand="#h2" from="#lg8"/><lg type="stanza" n="XXXVII." xml:id="lg8"><l>For I remember stopping by the way</l>
+            <l>To watch a Potter thumping his wet Clay:</l>
+            <l>And with its all-obliterated Tongue</l>
+            <l>It <choice><orig>murmur'd</orig><reg>murmured</reg></choice>&#8212;"Gently, Brother, gently, pray!"<ref target="#n11" xml:id="ref11">(14)</ref></l></lg>
+            <lg type="stanza" n="XXXVIII."><l>Listen&#8212;a moment listen!&#8212;Of the same</l>
+            <l>Poor Earth from which that Human Whisper came</l>
+            <l>The luckless Mould in which Mankind was cast</l>
+            <l>They did compose, and call'd him by the name.</l></lg>
+            <pb xml:id="leaf016r" facs="tex.00350.021.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">13</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XLVII."><l>When You and I behind the Veil are past,</l>
+            <l>Oh but the long long while the World shall last,</l>
+            <l>Which of our Coming and Departure heeds</l>
+            <l>As the <choice><orig>S<hi rend="smallcaps">EV'N</hi></orig><reg>Seven</reg></choice> S<hi rend="smallcaps">EAS</hi> should heed a pebble-cast.</l></lg>
+            <span rend="bracket-left" hand="#h2" xml:id="s35" from="#s35" to="#s36"/><lg type="stanza" n="XLVIII."><l>A Moment's Halt&#8212;a momentary taste</l>
+            <l>Of B<hi rend="smallcaps">EING</hi> from the Well amid the Waste&#8212;</l>
+            <l>And Lo!&#8212;the phantom Caravan has <choice><orig>reach'd</orig><reg>reached</reg></choice></l>
+            <l>The N<hi rend="smallcaps">OTHING</hi> it set out from<anchor xml:id="s36"/>&#8212;Oh, make haste!</l></lg>
+            <lg type="stanza" n="XLIX."><l>Would you that spangle of Existence spend</l>
+            <l>About <hi rend="smallcaps">THE SECRET</hi>&#8212;quick about it, Friend!</l>
+            <l>A Hair perhaps divides the False and True&#8212;</l>
+            <l>And upon what, prithee, does Life depend?</l></lg>
+            <lg type="stanza" n="L."><l>A Hair perhaps divides the False and True;</l>
+            <l>Yes; and a single Alif were the clue&#8212;</l>
+            <l>Could you but find it&#8212;to the Treasure-house,</l>
+            <l>And peradventure to T<hi rend="smallcaps">HE</hi> M<hi rend="smallcaps">ASTER</hi> too;</l></lg>
+            <pb xml:id="leaf017r" facs="tex.00350.022.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">15</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="singleLine-right" hand="#h2" from="#lg9"/><lg type="stanza" n="LV." xml:id="lg9"><l>You know, my Friends, with what a brave Carouse</l>
+            <l>I made a Second Marriage in my house;</l>
+            <l>Divorced old barren Reason from my Bed,</l>
+            <l>And took the Daughter of the Vine to Spouse.</l></lg>
+            <lg type="stanza" n="LVI."><l>For "I<hi rend="smallcaps">S</hi>" and "I<hi rend="smallcaps">S-NOT</hi>"though with Rule and Line,<ref target="#n12" xml:id="ref12">(18)</ref></l>
+            <l>And "U<hi rend="smallcaps">P-AND-DOWN</hi>" by Logic I define,</l>
+            <l>Of all that one should care to fathom, I</l>
+            <l>Was never deep in anything but&#8212;Wine.</l></lg>
+            <lg type="stanza" n="LVII."><l>Ah, but my Computations, People say,</l>
+            <l>Reduced the Year to better reckoning?&#8212;Nay,</l>
+            <l>'Twas only striking from the Calendar</l>
+            <l>Unborn <choice><orig>To-morrow</orig><reg>Tomorrow</reg></choice>, and dead Yesterday.</l></lg>
+            <lg type="stanza" n="LVIII."><l>And lately, by the Tavern Door agape,</l>
+            <l>Came shining through the Dusk an Angel Shape</l>
+            <l>Bearing a Vessel on his Shoulder; and</l>
+            <l>He bid me taste of it; and 'twas&#8212;the Grape!</l></lg>
+            <pb xml:id="leaf018r" facs="tex.00350.023.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">17</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="LXIII."><l>Oh threats of Hell and Hopes of Paradise!</l>
+            <l>One thing at least is certain&#8212;<hi rend="italic">This</hi> Life flies;</l>
+            <l>One thing is certain and the rest is Lies;</l>
+            <l>The Flower that once has blown for ever dies.</l></lg>
+            <lg type="stanza" n="LXIV."><l>Strange, is it not? that of the myriads who</l>
+            <l>Before us pass'd the door of Darkness through</l>
+            <l>Not one returns to tell us of the Road,</l>
+            <l>Which to discover we must travel too.</l></lg>
+            <lg type="stanza" n="LXV."><l>The Revelations of Devout and <choice><orig>Learn'd</orig><reg>Learned</reg></choice></l>
+            <l>Who rose before us, and as Prophets <choice><orig>burn'd</orig><reg>burned</reg></choice>,</l>
+            <l>Are all but Stories, which, awoke from Sleep</l>
+            <l>They told their fellows, and to Sleep <choice><orig>return'd</orig><reg>returned</reg></choice>.</l></lg>
+            <span rend="singleLine-right" hand="#h2" from="#lg10"/><lg type="stanza" n="LXVI." xml:id="lg10"><l>I sent my Soul through the Invisible,</l>
+            <l>Some letter of that After-life to spell:</l>
+            <l>And by and by my Soul <choice><orig>return'd</orig><reg>returned</reg></choice> to me,</l>
+            <l>And <choice><orig>answer'd</orig><reg>answered</reg></choice> "I Myself am <choice><orig>Heav'n</orig><reg>Heaven</reg></choice> and Hell:"</l></lg>
+            <pb xml:id="leaf018v" facs="tex.00350.024.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">18</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="singleLine-left" hand="#h2" xml:id="s37" from="#s37" to="#s38"/><lg type="stanza" n="LXVII."><l><choice><orig>Heav'n</orig><reg>Heaven</reg></choice> but the Vision of <choice><orig>fulfill'd</orig><reg>fulfilled</reg></choice> Desire,</l>
+            <l>And Hell the Shadow of a Soul on fire,</l>
+            <l>Cast on the Darkness into which Ourselves,</l>
+            <l>So late <choice><orig>emerg'd</orig><reg>emerged</reg></choice> from, shall so soon expire.</l></lg>
+            <lg type="stanza" n="LXVIII."><l>We are no other than a moving row</l>
+            <l>Of Magic Shadow-shapes that come and go</l>
+            <l>Round with this Sun-<choice><orig>illumin'd</orig><reg>illumined</reg></choice> Lantern held</l>
+            <l>In Midnight by the Master of the Show;<ref target="#n13" xml:id="ref13">(21)</ref></l></lg>
+            <lg type="stanza" n="LXIX."><l>Impotent Pieces of the Game He plays</l>
+            <l>Upon this <choice><orig>Chequer</orig><reg>Checker</reg></choice>-board of Nights and Days;</l>
+            <l>Hither and thither moves, and checks, and slays,</l>
+            <l>And one by one back in the Closet lays.</l></lg><anchor xml:id="s38"/>
+            <lg type="stanza" n="LXX."><l>The Ball no question makes of Ayes and Noes,</l>
+            <l>But Right or Left as strikes the Player goes;</l>
+            <l>And He that <choice><orig>toss'd</orig><reg>tossed</reg></choice> you down into the Field,</l>
+            <l><hi rend="italic">He</hi> knows about it all&#8212;<hi rend="smallcaps">HE</hi> knows&#8212;HE knows!<ref target="#n14" xml:id="ref14">(22)</ref></l></lg>
+            <pb xml:id="leaf019r" facs="tex.00350.025.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">19</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="LXXI."><l>The Moving Finger writes; and, having writ,</l>
+            <l>Moves on: nor all your Piety nor Wit</l>
+            <l>Shall lure it back to cancel half a Line,</l>
+            <l>Nor all your Tears wash out a Word of it.</l></lg>
+            <span rend="bracket-right" hand="#h2" from="#lg11"/><span rend="singleLine-right" hand="#h2" from="#lg11"/><lg type="stanza" n="LXXII." xml:id="lg11"><l>And that inverted Bowl they call the Sky,</l>
+            <l>Whereunder crawling <choice><orig>coop'd</orig><reg>cooped</reg></choice> we live and die,</l>
+            <l>Lift not your hands to <hi rend="italic">It</hi> for help&#8212;for It</l>
+            <l>As impotently rolls as you or I.</l></lg>
+            <lg type="stanza" n="LXXIII."><l>With Earth's first Clay They did the Last Man knead,</l>
+            <l>And there of the Last Harvest <choice><orig>sow'd</orig><reg>sowed</reg></choice> the Seed:</l>
+            <l>And the first Morning of Creation wrote</l>
+            <l>What the Last Dawn of Reckoning shall read.</l></lg>
+            <lg type="stanza" n="LXXIV."><l>Y<hi rend="smallcaps">ESTERDAY</hi> <hi rend="italic">This</hi> Day's Madness did prepare;</l>
+            <l><choice><orig>T<hi rend="smallcaps">O</hi>-M<hi rend="smallcaps">ORROW'S</hi></orig><reg>Tomorrow's</reg></choice> Silence, Triumph, or Despair:</l>
+            <l>Drink! for you know not whence you came, nor why:</l>
+            <l>Drink! for you know not why you go, nor where.</l></lg>
+            <fw type="sig" place="bottom">G</fw>
+            <pb xml:id="leaf020r" facs="tex.00350.026.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">21</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="LXXIX."><l>What! from his helpless Creature be repaid</l>
+            <l>Pure Gold for what he lent us dross-<choice><orig>allay'd</orig><reg>allayed</reg></choice>&#8212;</l>
+            <l>Sue for a Debt we never did contract,</l>
+            <l>And cannot answer&#8212;Oh the sorry trade!</l></lg>
+            <lg type="stanza" n="LXXX."><l>Oh Thou, who didst with pitfall and with gin</l>
+            <l>Beset the Road I was to wander in,</l>
+            <l>Thou wilt not with <choice><orig>Predestin'd</orig><reg>Predestined</reg></choice> Evil round</l>
+            <l>Enmesh, and then impute my Fall to Sin!</l></lg>
+            <span rend="doubleLine-right" hand="#h2" from="#lg12"/><lg type="stanza" n="LXXXI." xml:id="lg12"><l>Oh Thou, who Man of baser Earth didst make,</l>
+            <l>And <choice><orig>ev'n</orig><reg>even</reg></choice> with Paradise devise the Snake:</l>
+            <l>For all the Sin wherewith the Face of Man</l>
+            <l>Is <choice><orig>blacken'd</orig><reg>blackened</reg></choice>&#8212;Man's Forgiveness give&#8212;and take!</l></lg>
+            <ab>* * * * * *</ab>
+            <pb xml:id="leaf020v" facs="tex.00350.027.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">22</fw>
+            <fw type="header" place="top" rend="smallcaps">RUBÁIYÁT OF</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <span rend="bracket-left" hand="#h2" xml:id="s39" from="#s39" to="#s40"/><lg type="stanza" n="LXXXII."><l>As under cover of departing Day</l>
+            <l>Slunk hunger-stricken Ramazán away,</l>
+            <l>Once more within the Potter's house alone</l>
+            <l>I stood, surrounded by the Shapes of Clay.</l></lg>
+            <note type="authorial" place="right" resp="#h2" corresp="#s39">see
+            p 34</note>
+            <lg type="stanza" n="LXXXIII."><l>Shapes of all Sorts and Sizes, great and small,</l>
+            <l>That stood along the floor and by the wall;</l>
+            <l>And some loquacious Vessels were; and some</l>
+            <l><choice><orig>Listen'd</orig><reg>Listened</reg></choice> perhaps, but never <choice><orig>talk'd</orig><reg>talked</reg></choice> at all.</l></lg>
+            <lg type="stanza" n="LXXXIV."><l>Said one among them&#8212;"Surely not in vain</l>
+            <l>My substance of the common Earth was <choice><orig>ta'en</orig><reg>taken</reg></choice></l>
+            <l>And to this Figure moulded, to be broke,</l>
+            <l>Or trampled back to shapeless Earth again."</l></lg>
+            <lg type="stanza" n="LXXXV."><l>Then said a Second&#8212;"<choice><orig>Ne'er</orig><reg>Never</reg></choice> a peevish Boy</l>
+            <l>"Would break the Bowl from which he drank in joy;</l>
+            <l>"And He that with his hand the Vessel made</l>
+            <l>"Will surely not in after Wrath destroy.</l></lg><anchor xml:id="s40"/>
+            <pb xml:id="leaf021r" facs="tex.00350.028.jpg" type="recto"/>
+            <span rend="bracket-right" hand="#h2" xml:id="s41" from="#s41" to="#s42"/><fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">23</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="LXXXVI."><l>After a momentary silence spake</l>
+            <l>Some Vessel of a more ungainly Make;</l>
+            <l>"They sneer at me for leaning all awry:</l>
+            <l>"What! did the Hand then of the Potter shake?"</l></lg>
+            <!-- To the left of this span: either something WW started writing then crossed out (less likely) or an x or something as a marker (more likely) --><span rend="bracket-left" hand="#h2" from="#lg13"/><lg type="stanza" n="LXXXVII." xml:id="lg13"><l>Whereat some one of the loquacious Lot&#8212;</l>
+            <l>I think a Súfi pipkin&#8212;waxing hot&#8212;</l>
+            <l>"All this of Pot and Potter&#8212;Tell me then,</l>
+            <l>"Who makes&#8212;Who sells&#8212;Who buys&#8212;Who <hi rend="italic">is</hi> the
+                Pot?"<ref target="#n15" xml:id="ref15">(24)</ref></l></lg>
+            <span rend="singleLine-right" hand="#h2" from="#lg14"/><lg type="stanza" n="LXXXVIII." xml:id="lg14"><l>"Why," said another, "Some there are who tell</l>
+            <l>"Of one who threatens he will toss to Hell</l>
+            <l>"The luckless Pots he <choice><orig>marr'd</orig><reg>marred</reg></choice> in making&#8212;Pish!</l>
+            <l>"He's a Good Fellow, and 'twill all be well."</l></lg><anchor xml:id="s42"/>
+            <lg type="stanza" n="LXXXIX."><l>"Well," <choice><orig>murmur'd</orig><reg>murmured</reg></choice> one, "Let whoso make or buy,</l>
+            <l>"My Clay with long Oblivion is gone dry:</l>
+            <l>"But fill me with the old familiar Juice,</l>
+            <l>"Methinks I might recover by and by."</l></lg>
+            <pb xml:id="leaf023r" facs="tex.00350.029.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">OMAR KHAYYÁM.</fw>
+            <fw type="pageNum" place="top right">25</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <lg type="stanza" n="XCIII."><l>Indeed the Idols I have loved so long</l>
+            <l>Have done my credit in Men's eye much wrong:</l>
+            <l>Have <choice><orig>drown'd</orig><reg>drowned</reg></choice> my Glory in a shallow Cup,</l>
+            <l>And sold my Reputation for a Song.</l></lg>
+            <lg type="stanza" n="XCIV."><l>Indeed, indeed, Repentance oft before</l>
+            <l>I swore&#8212;but was I sober when I swore?</l>
+            <l>And then and then came Spring, and Rose-in-hand</l>
+            <l>My thread-bare Penitence apieces tore.</l></lg>
+            <lg type="stanza" n="XCV."><l>And much as Wine has <choice><orig>play'd</orig><reg>played</reg></choice> the Infidel,</l>
+            <l>And <choice><orig>robb'd</orig><reg>robbed</reg></choice> me of my Robe of Honour&#8212;Well,</l>
+            <l>I wonder often what the Vintners buy</l>
+            <l>One half so precious as the stuff they sell.</l></lg>
+            <span rend="doubleLine-left" hand="#h2" from="#lg15"/><span rend="bracket-right" hand="#h2" from="#lg15"/><span rend="bracket-right" hand="#h2" from="#lg15"/><lg type="stanza" n="XCVI." xml:id="lg15"><l>Yet Ah, that Spring should vanish with the Rose!</l>
+            <l>That Youth's sweet-scented manuscript should close!</l>
+            <l>The Nightingale that in the branches sang,</l>
+            <l><hi rend="underline" hand="#h2"><hi rend="underline" hand="#h2">Ah whence, and </hi></hi>whither <hi rend="underline" hand="#h2"><hi rend="underline" hand="#h2">flown again,</hi></hi> who knows!</l></lg>
+            <pb xml:id="leaf024v" facs="tex.00350.030.jpg" type="verso"/>
+            <ab rend="centered">NOTES.</ab>
+            <span rend="singleLine-left" hand="#h2" from="#n16"/><note xml:id="n16" type="authorial" anchored="false">(1)The "<hi rend="italic">False Dawn;" Subhi Kázib</hi>, a transient Light
+            on the Horizon about an hour before the <hi rend="italic">Subhi sádik</hi>, or
+            True Dawn; a well-known Phenomenon in the East.</note>
+            <note xml:id="n17" type="authorial" anchored="false"><p>(2)New Year. Beginning with the Vernal Equinox,
+            it must be remembered; and (howsoever the old Solar
+            Year is practically superseded by the clumsy <hi rend="italic">Lunar</hi>
+            Year that dates from the Mohammedan Hijra) still
+            commemmorated by a Festival that is said to have been
+            appointed by the very Jamshyd whom Omar so often
+            talks of, and whose yearly Calendar he helped to rectify.</p>
+                <p>"The sudden approach and rapid advance of the
+                Spring," says Mr. Binning, "are very striking. Before
+                the Snow is well off the Ground, the Trees burst into
+                Blossom, and the Flowers start from the Soil. At <hi rend="italic">Naw
+                Rooz</hi> (<hi rend="italic">their</hi> New Year's Day) the Snow was lying in
+                patches on the hills and in the shaded <choice><orig>Vallies</orig><reg>Valleys</reg></choice>, while
+                the Fruit-trees in the Garden were budding beautifully,
+                and green Plants and Flowers springing upon the Plains
+                on every side&#8212;</p>
+                <lg type="stanza"><l>'And on old Hyems' Chin and icy Crown</l>
+                <l>'An odorous Chaplet of sweet Summer buds</l>
+                <l>'Is, as in mockery, set&#8212;'&#8212;</l></lg></note>
+            <pb xml:id="leaf025r" facs="tex.00350.031.jpg" type="recto"/>
+            <fw type="header" place="top" rend="smallcaps">NOTES.</fw>
+            <fw type="pageNum" place="top right">31</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <note xml:id="n18" type="authorial" anchored="false">sunk, like the Master of Ravenswood, while pursuing
+                his Gúr.
+            <lg type="stanza"><l>The Palace that to <choice><orig>Heav'n</orig><reg>Heaven</reg></choice> his pillars threw,</l>
+            <l>And Kings the forehead on his threshold drew&#8212;</l>
+            <l>I saw the solitary Ringdove there,</l>
+            <l>And "Coo, coo, coo," she cried; and "Coo, coo, coo."</l></lg>
+            <p>This Quatrain Mr. Binning found, among several of
+            Háfiz and others, inscribed by some stray hand among
+            the ruins of Persepolis. The Ringdove's ancient <hi rend="italic">Péhlevi
+            Coo, Coo, Coo,</hi> signifies also in Persian "<hi rend="italic">Where? Where?
+            Where?</hi>" In Attár's "Bird-parliament" she is reproved
+            by the Leader of the Birds for sitting still, and for ever
+            harping on that one note of lamentation for her lost
+            Yúsuf.</p>
+            <p>Apropos of Omar's Red Roses in Stanza xix, I am
+            reminded of an old English Superstition, that our Anemone
+            Pulsatilla, or purple "Pasque Flower," (which
+            <span rend="singleLine-right" hand="#h2" xml:id="s43" from="#s43" to="#s44"/>grows plentifully about the Fleam Dyke, near Cambridge),
+            grows only where Danish Blood has been spilt.</p><anchor xml:id="s44"/></note>
+            <note xml:id="n19" type="authorial" anchored="false">(11)A thousand years to each Planet.</note>
+            <note xml:id="n20" type="authorial" anchored="false">(12)Saturn, Lord of the Seventh Heaven.</note>
+            <note xml:id="n21" type="authorial" anchored="false">(13)M<hi rend="smallcaps">E-AND-</hi>T<hi rend="smallcaps">HEE</hi>: some dividual Existence or Personality
+            distinct from the Whole.</note>
+            <note xml:id="n22" type="authorial" anchored="false">(14)One of the Persian Poets&#8212;Attár, I think&#8212;has
+            a pretty story about this. A thirsty Traveller dips
+            his hand into a Spring of Water to drink from. By</note>
+            <pb xml:id="leaf026v" facs="tex.00350.032.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">34</fw>
+            <fw type="header" place="top" rend="smallcaps">NOTES.</fw>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <note xml:id="n23" type="authorial" anchored="false">(19)The Seventy-two Religions supposed to divide the
+            World, <hi rend="italic">including</hi> Islamism, as some think: but others
+            not.</note>
+            <note xml:id="n24" type="authorial" anchored="false">(20)Alluding to Sultan Mahmúd's Conquest of India
+            and its dark people.</note>
+            <note xml:id="n25" type="authorial" anchored="false">(21)<hi rend="italic">Fánúsi khiyál</hi>, a Magic-lanthorn still used in India;
+            the cylindrical Interior being painted with various
+            Figures, and so lightly poised and ventilated as to revolve
+            round the lighted Candle within.</note>
+            <note xml:id="n26" type="authorial" anchored="false">(22)A very mysterious Line in the Original:
+            <lg type="stanza"><l>O dánad O dánad O dánad O&#8212;&#8212;</l></lg>
+            breaking off something like our Wood-pigeon's Note,
+            which she is said to take up just where she left off.</note>
+            <span rend="bracket-left" hand="#h2" xml:id="s45" from="#s45" to="#s46"/><note xml:id="n27" type="authorial" anchored="false">(23)Parwín and Mushtari&#8212;The Pleiads and Jupiter.</note>
+            <note xml:id="n28" type="authorial" anchored="false"><p>(24)This Relation of Pot and Potter to Man and his
+            Maker figures far and wide in the Literature of the
+            World, from the time of the Hebrew Prophets to the
+            present; when it may finally take the name of "Pottheism,"
+            by which Mr. Carlyle ridiculed Sterling's
+            "Pantheism." <hi rend="italic">My</hi> Sheikh, whose knowledge flows in
+            from all quarters, writes to me&#8212;</p><anchor xml:id="s46"/>
+            <p>"Apropos of old Omar's Pots, did I ever tell you the
+            sentence I found in 'Bishop Pearson on the Creed'?"
+            "Thus are we wholly at the disposal of His will, and
+            our present and future condition, framed and ordered
+            by His free, but wise and just, decrees. "<hi rend="italic">Hath not the</hi></p></note>
+        </body>
+    </text>
+</TEI>

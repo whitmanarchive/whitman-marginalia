@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01100">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction to Gould's Copy of <hi rend="italic">Gems from Walt Whitman</hi></title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Ashlyn Stewart</author>
+<respStmt>
+<resp>Transcription and encoding</resp>
+  <persName xml:id="as">Ashlyn Stewart</persName>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+  <editionStmt>
+<edition><date>2022</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>anc.01100</idno> 
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+  <addrLine>P.O. Box 884100</addrLine>
+  <addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<availability>
+  <p>
+    This text is made available under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    .
+  </p>
+  <p>
+    The text encoding was created and/or prepared by the
+    <title level="m">Walt Whitman Archive</title>
+    and is licensed under a
+    <ref target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License
+    </ref>
+    (CC BY 4.0). Any reuse of these materials should credit the
+    <title level="m">Walt Whitman Archive</title> and Kenneth M. Price.
+  </p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+  <p>Written for Ashlyn Stewart's comprehensive exams and to supplement her work on the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> dev site in 2022.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+  <change when="2022-05-09" who="#as">formatted footnotes and added captions</change>
+  <change when="2022-05-01" who="#as">created page</change>
+</revisionDesc>
+</teiHeader>
+
+<text type="ancillary">
+<body>
+  <div1>
+    <head type="main">Gould's Copy of <hi rend="italic">Gems from Walt Whitman</hi></head>
+    
+    <p>Elizabeth Porter Gould (1848-1906) collected lines from her poetic hero Walt Whitman in an abridged and excerpted volume of his poetry, <hi rend="italic">Gems from Walt Whitman</hi>, in 1889.  The book highlights what a middle-class white woman with literary leanings considered to be the best, brightest, and most inviting pieces of the great poet’s work.  All but one of the poems are excerpted from the 1881 edition of <hi rend="italic">Leaves of Grass</hi>, framed by original poetry and biographical information that Gould added to the volume.</p>
+    
+    <p>We don’t know much about how Gould compiled <hi rend="italic">Gems</hi>.  She did not leave behind manuscripts pertaining to the collection.  She did not write about her composition process in surviving letters.  And she did not publish an explicit “editorial policy” that would allow a scholar to know what rationale she followed when selecting her poems.  Instead, we have just one small clue from Gould: in one of her later works,<hi rend="italic"> Anne Gilchrist and Walt Whitman</hi>, Gould reflects on a time she talked to Whitman about <hi rend="italic">Gems</hi> and shares that her guiding principle “was considered one of taste rather than of morals.”<note type="authorial" xml:id="n1">Elizabeth Porter Gould, <hi rend="italic">Anne Gilchrist and Walt Whitman</hi> (Philadelphia: David McKay, 1900), 25.</note></p>
+    
+    <p>The historical moment in which Gould authored <hi rend="italic">Gems</hi> affirms her statement about the role her personal taste played in shaping the book.  Gould’s scrapbook-like approach, with its heavy editorial hand, was not uncommon in the period’s thriving book-club and parlor-study culture.<note type="authorial" xml:id="n2">Edward Whitley, “Elizabeth Porter Gould, Author of <hi rend="italic">Leaves of Grass</hi>: Gender, Editing, and the Nineteenth-Century Literary Marketplace,” <hi rend="italic">English Literary History</hi> 75, no. 2 (2008): 471.  I am deeply indebted to Whitley’s careful scholarship and thoughtful interpretation of <hi rend="italic">Gems</hi> in this edition.</note>  Upper-middle class white women who participated in many literary clubs often selected favorite lines from beloved volumes and pasted the texts into scrapbooks with additional annotation as acts of creative appreciation.  Whitman scholar Ed Whitley says it best when he explains that many woman readers-turned-writers “considered printed texts to be works-in-progress that readers actively contributed to rather than as finished products that they passively consumed,” which “allowed women to think of themselves as the authors of other people’s texts.”<note type="authorial" xml:id="n3">Whitley, “Elizabeth Porter Gould,” 476 and 471.</note>  Gould’s literary parlor tradition helped create <hi rend="italic">Gems</hi>&#8212;a work that features lines that Gould wanted herself and others in circles like hers to enjoy, reflect on, engage with, and continue sharing.</p>
+    
+    <p>Gould likely found creative fulfillment from completing <hi rend="italic">Gems</hi>, and the fact she chose to publish it shows that she hoped others would appreciate her take on Whitman.  Fortunately for her, the book received contemporary praise from her fellow Whitmanites.  William Sloane Kennedy hoped that Gould’s book could reach new readers, telling her in a letter that “we need just such a book <hi rend="italic">to make converts with!</hi>”<note type="authorial" xml:id="n4">William Sloane Kennedy to Gould, 19 June 1889, in Whitmania Collection, vol. 2, Boston Public Library, quoted. in Whitley, “Elizabeth Porter Gould,” 476.</note>  Even William Dean Howells chimed in, telling Gould that her "little book" highlighted Whitman "in his supreme moments."<note type="authorial" xml:id="n5">William Dean Howells to Gould, 12 January 1891, in Whitmania Collection, vol. 2, Boston Public Library, quoted. in Whitley, “Elizabeth Porter Gould,” 475.</note></p>  
+    
+    <p>Whitman himself had known about the book and authorized it in a letter to David McKay in December 1888,<note type="authorial" xml:id="n6"><ref target="https://whitmanarchive.org/biography/correspondence/tei/med.00859.html">Walt Whitman to David McDay, 27 December 1888</ref></note> though he was immediately ambivalent about the project: he told Traubel that same day that the “gems” genre “fit with some books&#8212;some books fit with [it]: but Leaves of Grass is different."<note type="authorial" xml:id="n7">Traubel, 3:395–96; Four abridged volumes of Whitman appeared in his lifetime, all of which he regretted. Chronologically, they are William Michael Rossetti’s 1868 <hi rend="italic">Poems by Walt Whitman</hi>, Ernest Rhys’s 1886 <hi rend="italic">Leaves of Grass: The Poems of Walt Whitman [Selected], Gems from Walt Whitman,</hi> and Arthur Stedman’s 1892 <hi rend="italic">Walt Whitman: Selected Poems.</hi></note> Still, by July 1889 Whitman hoped the same as Kennedy when speaking with Traubel, saying “wouldn't it be funny, Horace, if the book should be a success&#8212;should sell?”<note type="authorial" xml:id="n8">Traubel, 5:340</note>  Whitman acknowledged the book's release in an October letter to Bucke, calling it "a neat looking little oblong booklet," and said "what it may am't to we will see."<note type="authorial" xml:id="n9"><ref target="https://whitmanarchive.org/biography/correspondence/tei/loc.07710.html">Walt Whitman to Richard Maurice Bucke, 12 October 1889.</ref></note></p>
+    
+    <p>Perhaps because Gould did not include an explicit editorial policy in her volume, scholars have worked to assign her one that is more studied than simply collecting and appreciating a favorite author of hers for herself and others.  "Personal taste" has not been a sufficient rationale in the eyes of the scholars that studied the book after she created it.  Namely, critics have decided that her book tried to tone down Whitman to make him more acceptable for a wider readership.  Ed Folsom says the book put Whitman through a “sanitizing process” that made him more “palatable,” and David Reynolds emphasizes that <hi rend="italic">Gems</hi> was suitable for “the most pristine middle-class Victorian parlor.”<note type="authorial" xml:id="n10">David S. Reynolds, <hi rend="italic">Walt Whitman’s America: A Cultural Biography</hi> (New York: Alfred A. Knopf, 1995), 569; Ed Folsom, “Leaves of Grass, Junior: Whitman’s Compromise with Discriminating Tastes,” <hi rend="italic">American Literature</hi> 63 (1991): 663.</note>  In contrast, Ed Whitley has tried to rehabilitate Gould’s approach by placing it within historical context, and has defended the work by pointing out that her excerpts from “Song of the Universal” and “Gods” engage with Whitman’s portrayals of the body.</p>
+    
+    <p>This digital edition does not ask readers to enter the debate scholars have prioritized about the worthiness of <hi rend="italic">Gems</hi>.  Readers do not need to decide how worthy Gould’s selections are based on how heavily they feature certain Whitman ideas, themes, and lines.  Instead, readers might accept that Gould’s choices were made by her own personal taste and engage with the work as a piece of creative remix rather than judge how well it captured their or other scholars’ ideas of the truest Whitman.</p>
+    
+    <p><hi rend="italic">Gems from Walt Whitman</hi> has been masterfully edited for the <hi rend="italic">Walt Whitman Archive</hi> by Whitley and can be viewed <ref target="https://whitmanarchive.org/published/other/tei/Gems.html">here</ref>.  His digital edition of a <hi rend="italic">Gems</hi> copy donated to the University of Iowa Libraries presents a strong reading text for any user who wants to learn more about the book more generally.  Rather than duplicate Whitley’s efforts, this edition builds on his <hi rend="italic">Gems</hi> by focusing on the features of one particular copy: Gould’s own, in which she left marginal notes and added new compositions.  In any copy of <hi rend="italic">Gems</hi>, Gould’s typed additions frame Whitman’s poetry, but in this copy her manuscript annotations weave through Whitman’s text still more fluidly.  Early in the volume, for example, her handwriting bookends a facsimile image of Whitman’s handwriting, blending the two authors’ hands into one work.  Reading Gould’s own copy of <hi rend="italic">Gems</hi> shows us even more concretely that the author viewed her work as co- and continuing-authorship with Whitman.  </p>
+    
+    <p>No records exist of this copy’s provenance before it arrived at the University of Nebraska-Lincoln via a private sale in the early 2000s.  Nonetheless, Gould’s holograph additions can reveal key facts about its journey.  To start, the opening page of the volume features Gould’s handwritten inscription of the volume to “Mr. Trowbridge,” presumably John Townsend Trowbridge (1827-1916), a writer who corresponded with Whitman and others in his circle.  The personal connection between Gould and Trowbridge is unknown; however, both lived in the Boston area and likely ran in similar circles, particularly in their regard for Whitman.  The inscription to Trowbridge is undated, but it is likely that Gould returned to this copy of <hi rend="italic">Gems</hi> multiple times after its late 1889 publication before giving it as a gift. That is, the handwritten notes are likely more to herself than Trowbridge, and they capture years of continued reflection on both Whitman and her own work after <hi rend="italic">Gems</hi>'s publication.  </p>
+      
+    <p>Chronologically, her dated additions are as follows. The last page of frontmatter is filled with a handwritten poem dated August 1891. Then, she adds to the end of her biographical and bibliographical note that Whitman “died in Camden March 26 1892 and was buried in his tomb in the Camden Cemetery.”  Finally, she updates the citation of her opening poem “To Walt Whitman” to show that it was republished in Boston in 1894.  It is also worth noting that the final printed poem in <hi rend="italic">Gems</hi>&#8212;“Twilight,” published in the <hi rend="italic">Century</hi> in December 1887&#8212;was the latest Whitman poem in the volume, perhaps presenting a moment of closure, both thematically and chronologically.  In her copy, though, Gould updates the ending to include a holograph transcription of “Death’s Valley,” a poem not published until April 1892 in Harper’s Monthly Magazine.  Yet again, she has revisited the volume to keep it current with the now-late Whitman and end the volume in step with his life. She follows “Death’s Valley,” and ends the poetry portion of the book, with one more splice from <hi rend="italic">Leaves of Grass</hi>: “Camerado, this is no book&#8212; / Who touches this, touches a man. / So long.”  In this closing, Gould bids farewell to not only the reader but also to Whitman, to her writing project, and to this particular copy of <hi rend="italic">Gems</hi>.</p>
+    
+    <p>One of the central themes of Gould's handwritten additions is Whitman's famous seventieth birthday party, which occurred shortly before the book debuted.  The birthday party and her accompanying poem seem to be a sore spot for Gould.  She likely didn't know it, but Whitman explictly asked Traubel to invite her a few days before the party, when "the rule excluding women [from the party] had been rescinded."<note type="authorial" xml:id="n11">Traubel, 5:196</note>  Traubel must have followed through, because Gould sent him a riff on "Song at Sunset," which borrows the first line of the Whitman poem and continues to round out four quatrains.  Some months later, she was distraught to find out that her birthday poem had not been included in <hi rend="italic">Camden Compliment to Walt Whitman</hi>.  She was so upset by the perceived slight that she sent another copy of her "Song at Sunset" birthday poem to Whitman in December 1889 explaining the mistake and told Whitman she hoped he would "see I did not forget you" and would know about her continual efforts "to bring to you the friendly love of our American people."<note type="authorial" xml:id="n12"><ref target="https://whitmanarchive.org/biography/correspondence/tei/loc.02232.html">Elizabeth Porter Gould to Walt Whitman, 30 December 1889</ref></note></p>  
+    
+    <p>She begins this copy of <hi rend="italic">Gems</hi> by filling the blank frontmatter pages with her "Song at Sunset" birthday poem, perhaps in an effort to preserve the omitted poem in another document.  To introduce her verse, she includes granular detail about the party, even that it took place "at five o'clock P. M."  Here she reminds the reader that she was included in the celebration, even if the <hi rend="italic">Camden Compliment to Walt Whitman</hi> record doesn't reflect it.  Whether she transcribed her poem into this copy of <hi rend="italic">Gems</hi> before or after she sent the poem and explanation to Whitman, she does not pass up another opportunity to share her poetry with the world, even via her handwritten addition.  That first line of “Song at Sunset” appears again later, this time alongside a few lines from “When Lilacs Last in the Dooryard Bloom’d” (though she refers to it by its wider heading “Memories of President Lincoln.”)  Interjected into the middle of the volume, the two poems call attention to the reality that Whitman, too, is no longer with Gould outside of the pages of his familiar poems.</p>
+    
+    <p>Bidding farewell to Whitman, both in the volume and outside of it, could not have been easy for Gould.  She deeply admired Whitman's work, and she at least partially explains why in "To Walt Whitman," the opening poem to <hi rend="italic">Gems</hi>.  She praises his willingness to break his art from the bounds of convention for the sake of self-expression.  She says that his "legacy for ages hence" is his commitment to being "as true to self as nature."  She saw his poetry as bringing his clear-eyed perception of "nature's shrine" to the reading masses without "limit[ing] soul divine" by clouding his thoughts with appeasement and poetic protocol. She also held in esteem Whitman the man.  She was deeply moved by his service in hospitals during the Civil War, and her essay about his time closes the volume.  She thanked him for sending her a picture of himself&#8212;an "added kindness"&#8212;in 1891.<note type="authorial" xml:id="n13"><ref target="https://whitmanarchive.org/biography/correspondence/tei/loc.02231.html">Elizabeth Porter Gould to Walt Whitman, 16 April 1891</ref></note>  Gould was a tried-and-true Whitmanite, and <hi rend="italic">Gems</hi> was a statement of how his creative work continued to shape her own.</p>
+    
+    <p>It is clear that, much as Gould felt Whitman’s text was open for her own writing and additions, she believed her own <hi rend="italic">Gems</hi> was also a text she could annotate and expand as her relationship with Whitman evolved, particularly after his death.  She reframes the work, underscores poems of particular interest to her throughout the volume, and adds still more gems from Whitman to continue the book.  Her selected volume, an interpretation of what Whitman meant to her brought to life on the page, was a site for her to continue to reflect on the poet even after publication&#8212;and <hi rend="italic">Gems</hi> was an invitation for other readers to do the same.</p>
+   
+  </div1>
+</body>
+</text>
+</TEI>

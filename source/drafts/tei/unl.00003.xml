@@ -1,0 +1,2579 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="unl.00003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Tupper's Complete Poetical Works</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="mft">Martin Farquhar Tupper</author>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="slg">Samantha Gilmore</persName>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>unl.00003</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain
+                        exceptions, public domain works may be freely copied or used in the creation
+                        of derivative works without permission, or authorization, of the former
+                        copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and
+                        is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/"
+                            >Creative Commons Attribution 4.0 International License</ref> (CC BY
+                        4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Tupper's Complete Poetical Works</title>
+                    <idno type="callno">PR5699.T5.A17</idno>
+                    <date notBefore="1853">1853 or later</date>
+                    <orgName xml:id="unl">University of Nebraska-Lincoln Archives and Special
+                        Collections</orgName>
+                    <note type="project">Transcribed from digital images of the original
+                        item.</note>
+                </bibl>
+                <bibl type="base">
+                    <author>Martin Farquhar Tupper</author>
+                    <title level="m">Tupper's Complete Poetical Works</title>
+                    <pubPlace>Boston</pubPlace>
+                    <date>1853</date>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="blue pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#mft" medium="type"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#slg" when="2019-10-16">Transcribed and encoded.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+
+
+        <front>
+            <pb xml:id="leaf001r" facs="unl_sg.00001.jpg" type="recto"/>
+
+            <titlePage>
+                <note type="authorial" resp="#h1" place="top-right">W.W. '<unclear
+                        reason="illegible" cert="high" resp="#slg">8</unclear>2</note>
+
+                <docTitle>
+                    <titlePart type="main">TUPPER'S<lb/>COMPLETE<lb/>POETICAL WORKS:</titlePart>
+                </docTitle>
+
+                <docTitle>
+                    <titlePart type="sub">CONTAINING<lb/> "PROVERBIAL PHILOSOPHY," "A THOUSAND<lb/>
+                        LINES," "HACTENUS," "GERALDINE,"<lb/> AND "MISCELLANEOUS POEMS:"<lb/> WITH A
+                        PORTRAIT OF THE AUTHOR.</titlePart>
+                </docTitle>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <byline>A NEW EDITION</byline>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <docImprint><pubPlace>BOSTON:</pubPlace> PHILLIPS, SAMPSON AND COMPANY,<lb/> 110
+                    WASHINGTON STREET. <docDate when="1853">1853.</docDate></docImprint>
+            </titlePage>
+        </front>
+
+
+
+        <body>
+            <div1>
+
+
+                <pb xml:id="leaf002r" facs="unl_sg.00002.jpg" type="recto"/>
+
+                <head>THE WORDS OF WISDOM.</head>
+
+                <lg type="stanza">
+                    <l><span rend="singleLine-right" hand="#h2" xml:id="s1" from="#s1" to="#s2"
+                            /><span rend="singleLine-left" hand="#h2" xml:id="s3" from="#s3"
+                            to="#s2"/><hi rend="smallcaps">FEW</hi> and precious are the words which
+                        the lips of Wisdom utter:</l>
+                    <l>To what shall their rarity be likened? What price shall count their
+                        worth?</l>
+                    <anchor xml:id="s2"/>
+                    <l>Perfect and much to be desired, and giving joy with riches,</l>
+                    <l>No lovely thing on earth can picture all their beauty.</l>
+                    <l>They be chance pearls, flung among the rocks by the sullen waters of
+                        Oblivion.</l>
+                    <l>Which Diligence loveth to gather, and hang round the neck of Memory;</l>
+                    <l>They be white-winged seeds of happiness, wafted from the island of the
+                        blessed,</l>
+                    <l>Which Thought carefully tendeth, in the kindly garden of the heart;</l>
+                    <l>They be sproutings of an harvest for eternity, bursting through the tilth of
+                        time,</l>
+                    <l>Green promise of the golden wheat, that yieldeth angels' food;</l>
+                    <l>They be drops of the crystal dew, which the wings of seraphs scatter,</l>
+                    <l>When on some brighter Sabbath, their plumes quiver most with delight;</l>
+                    <l>Such, and so precious, are the words which the lips of Wisdom utter.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <note place="supraliner" type="authorial" resp="#h1">&#10003; &#10003;
+                        &#10003;</note>
+                    <span rend="singleLine-right" hand="#h1" xml:id="s4" from="#s4" to="#s5"/>
+                    <span rend="singleLine-left" hand="#h1" xml:id="s6" from="#s6" to="#s5"/>
+                    <span rend="singleLine-right" hand="#h2" xml:id="s7" from="#s7" to="#s5"/>
+                    <span rend="singleLine-left" hand="#h2" xml:id="s8" from="#s8" to="#s5"/>
+                    <l>Yet more, for the half is not said, of their might, and dignity, and
+                        value,</l>
+                    <l>For live-giving be they glorious, redolent of sanctity and heaven:</l>
+                    <l>As the fumes of hallowed incense, that veil the throne of the Most High;</l>
+                    <l>As the beaded bubbles that sparkle on the rim of the cup of Immortality;</l>
+                    <l>As wreaths of the rainbow spray, from the pure cataracts of Truth.</l>
+                    <l>Such, and so precious, are the words which the lips of Wisdom utter.</l>
+                    <anchor xml:id="s5"/>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Yet once again, loving student, suffer the praises of thy teacher.</l>
+                    <l>For verily the sun of the mind, and the life of the heart, is Wisdom:</l>
+                    <l>She is pure and full of light, crowning gray hairs with lustre,</l>
+                    <l>And kindling the eye of youth with a fire not its own;</l>
+                    <l>And her words, whereunto canst thou liken them> for earth cannot show their
+                        peers:</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf003r" facs="unl_sg00003.jpg" type="recto"/>
+                <fw type="header" place="top">OF TRUTH IN THINGS FALSE.</fw>
+                <fw type="pageNum" place="top-right">13</fw>
+
+                <lg type="stanza">
+                    <l>Somewhat of fair and good, though blotted by the finger of corruption:</l>
+                    <l>And if error cometh in like a flood, it mixeth with streams of truth,</l>
+                    <l>And the Adversary loveth to have it so, for thereby many are decoyed.</l>
+                    <l>Providence is dark in its permissions; yet one day, when all is known,</l>
+                    <l>The universe of reason shall acknowledge how just and good were they;</l>
+                    <l>For the wise man leaneth on his wisdom, and the righteous trusteth to his
+                        righteousness,</l>
+                    <l>And those who thirst for independence, are suffered to drink of
+                        disappointment.</l>
+                    <l>Wherefore?&#8212;to prove and humble them; and to teach the idolaters of
+                        truth,</l>
+                    <l>That it is but the ladder unto Him, on whom only they should trust.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="singleLine-right" hand="#h1" xml:id="s9" from="#s9" to="#s10"/>
+                    <l>There is truth in the wildest scheme that imaginative heat hath
+                        engendered,</l>
+                    <l>And a man may gather somewhat from the crudest theories of fancy:</l>
+                    <l>The alchemist laboureth in folly, but catcheth chance gleams of wisdom.</l>
+                    <anchor xml:id="s10"/>
+                    <l>And findeth out many inventions, though his crucible breed not gold;</l>
+                    <l>The sinner, toying with witchcraft, thinketh to delude his fellows,</l>
+                    <l>But there be very spirits of evil, and what if they come at his bidding;</l>
+                    <l>He is a bold bad man who dareth to tamper with the dead;</l>
+                    <l>For their whereabout lieth in a mystery&#8212;that vestibule leading to
+                        Eternity,</l>
+                    <l>The waiting-room for unclad ghosts, before the presence-chamber of their
+                        King:</l>
+                    <l>Mind may act upon mind, though bodies be far divided;</l>
+                    <l>For the life is in the blood, but souls communicate unseen:</l>
+                    <l>And the heat of an excited intellect, radiating to its fellows,</l>
+                    <l>Doth kindle dry leaves afar off, while the green wood around it is
+                        unwarmed.</l>
+                    <l>The dog may have a spirit as well as his brutal master;</l>
+                    <l>A spirit to live in happiness; for why should he be robbed of his
+                        existence?</l>
+                    <l>Hath he not a conscience of evil, a glimmer of moral sense,</l>
+                    <l>Love and hatred, courage and fear, and visible shame and pride?</l>
+                    <l>There may be a future rest for the patient victims of the cruel;</l>
+                    <l>And a season allotted for their bliss, to compensate for unjust
+                        suffering.</l>
+                    <l>Spurn not at seeming error, but dig below its surface for the truth;</l>
+                    <l>And beware of seeming truths, that grow on the roots of error:</l>
+                    <l>For comely are the apples that spring from the Dead Sea's cursed shore:</l>
+                    <l>But within are they dust and ashes, and the hand that plucked them shall rue
+                        it.</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf004r" facs="unl_sg00004.jpg" type="recto"/>
+                <fw type="header" place="top">OF HIDDEN USES.</fw>
+                <fw type="pageNum" place="top-right">17</fw>
+
+                <lg type="stanza">
+                    <l>Not long hath the twisted leaf, the fragrant gift of China,</l>
+                    <l>Nor that nutritious root, the boon of far Peru,</l>
+                    <l>Nor the many-<choice>
+                            <orig>coloured</orig>
+                            <reg>colored</reg>
+                        </choice>dahlia, nor the gorgeous flaunting cactus,</l>
+                    <l>Nor the multitude of fruits and flowers, ministered to life and luxury;</l>
+                    <l>Even so, there be virtues yet unknown in the wasted foliage of the elm,</l>
+                    <l>In the sun-dried harebell of the downs, and the hyacinth drinking in the
+                        meadow,</l>
+                    <l>In the sycamore's winged fruit, and the facet-cut cones of the cedar;</l>
+                    <l>And the pansy and bright geranium live not alone for beauty,</l>
+                    <l>Nor the waxen flower of the arbute, though it dieth in a day,</l>
+                    <l>Nor the sculptured crest of the fir, unseen but by the stars;</l>
+                    <l>And the meanest weed of the garden serveth unto many uses,</l>
+                    <l>The salt tamarisk, and juicy flag, the freckled orchis, and the daisy.</l>
+                    <l>The world may laugh at famine when forest-trees yield bread,</l>
+                    <l>When acorns give out fragrant drink,(5) and the sap of the linden is as
+                        fatness:</l>
+                    <l>For every green herb, from the lotus to the darnel,</l>
+                    <l>Is rich with delicate aids to help incurious man.</l>
+                </lg>
+                <lg type="stanza">
+                    <l><hi rend="circled" hand="#h1">Still, Mind is up and stirring, and pryeth in
+                            the corners of contrivance,</hi></l>
+                    <l><hi rend="circled" hand="#h1">Often from the dark recesses picking out bright
+                            seeds of truth:</hi></l>
+                    <!-- circles do not render; target will not work -->
+                    <note type="authorial" place="right" resp="#h1">!</note>
+                    <l>Knowledge hath clipped the lightning's wings, and mewed it up for a
+                        purpose,</l>
+                    <l>Training to some domestic task the fiery bird of heaven;</l>
+                    <l>Tamed is the spirit of the storm, to slave in all peaceful arts,</l>
+                    <l>To walk with husbandry and science; to stand in the vanguard against
+                        death:</l>
+                    <l>And the chemist balanceth his elements with more than magic skill,</l>
+                    <l>Commanding stones that they be bread, and draining sweetness out of the
+                        wormwood.</l>
+                    <l>Yet man, heedless of a God, counteth up vain reckonings,</l>
+                    <l>Fearing to be jostled and starved out, by the too prolific increase of his
+                        kind;</l>
+                    <l>And asketh, in unbelieving dread, for how few years to come</l>
+                    <l>Will the black cellars of the world yield unto him fuel for his winter.</l>
+                    <l>Might not the wide-ways sea be pent within narrower bounds?</l>
+                    <l>Might not the arm of diligence make the tangled wilderness a garden?</l>
+                    <l>And for aught thou canst tell, there may be a thousand methods</l>
+                    <l>If comforting thy limbs in warmth, though thou kindle not a spark.</l>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf005r" facs="unl_sg.00005.jpg" type="recto"/>
+                <fw type="header" place="top">OF INDIRECT INFLUENCES.</fw>
+                <fw type="pageNum" place="top-right">23</fw>
+
+                <head>Of INDIRECT INFLUENCES.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">FACE</hi> thy foe in the field, and perchance thou wilt
+                        meet thy master,</l>
+                    <l>For the sword is chained to his wrist, and his <choice>
+                            <orig>armour</orig>
+                            <reg>armor</reg>
+                        </choice> buckled for the battle;</l>
+                    <l>But find him when he looketh not for thee, aim between the joints of his
+                        harness,</l>
+                    <l>And the crest of his pride will be humbled, his cruelty will bite the
+                        dust</l>
+                    <l>Beard not a lion in his den, but fashion the secret pitfall,</l>
+                    <l>So shalt thou conquer the strong, thyself triumphing in weakness.</l>
+                    <l>The hurricane rageth fiercely, and the promontory standeth in its might,</l>
+                    <l>Breasting the artillery of heaven, as darts glance from the crocodile;</l>
+                    <l>But the small continual creeping of the silent footsteps of the sea</l>
+                    <l>Mineth the wall of adamant, and stealthily compasseth its ruin.</l>
+                    <l>The weakness of accident is strong, where the strength of design is weak:</l>
+                    <l>And a casual analogy convinceth, when a mind beareth not argument.</l>
+                    <l>Will not a man listen? be silent; and prove thy maxim by example:</l>
+                    <l>Never fear, thou losest not thy hold, though thy mouth doth not render a
+                        reason.</l>
+                    <l>Contend not in wisdom with a fool, for thy sense maketh much of his
+                        conceit;</l>
+                    <l>And some errors never would have thriven, had it not been for learned
+                        refutation;</l>
+                    <l>Yea, much evil hath been caused by an honest wrestler for truth,</l>
+                    <l>And much of unconscious good, by the man that hated wisdom:</l>
+                    <l>For the intellect judgeth closely, and if thou overstep thy argument,</l>
+                    <l>Or seem not consistent with thyself, or fail in thy direct purpose,</l>
+                    <l>The mind that went along with thee, shall stop and return without thee,</l>
+                    <l>And thou shalt have raised a foe, where thou mightest have won a friend.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Hints, shrewdly strown, mightily disturb the spirit,</l>
+                    <note type="authorial" place="right" resp="#h1">&#8212;</note>
+                    <l>Where a barefaced accusation would be too ridiculous for calumny:</l>
+                    <l>The sly suggestion toucheth nerves, and nerves contract the frongs,</l>
+                    <l>And the sensitive miimosa of affection trembleth to its root;</l>
+                    <l>And friendships, the growth of half a century, those oaks that laugh at
+                        storms,</l>
+                    <l>Have been cankered in a night by a worm, even as the prophet's gourd.</l>
+                    <l>Hast thou loved, and not known jealousy? for a sidelong look</l>
+                    <l>Can please or pain thy heart more than the multitudes of proofs:</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf006r" facs="unl_sg.00006.jpg" type="recto"/>
+                <fw type="header" place="top">OF INDIRECT INFLUENCES.</fw>
+                <fw type="pageNum" place="top-right">25</fw>
+
+                <lg type="stanza">
+                    <l>He stealeth all goodly names, as worth, and value, and substance,</l>
+                    <l>Which be the ancient heritage of Virtue, but such an one ascribeth unto
+                        Wealth:</l>
+                    <l>He spurneth the needy sage, whose wisdom hath enrich nations,</l>
+                    <l>And the sons of poverty and learning, without whom earth were a desert.</l>
+                    <l>Music, the soother of cares, the tuner of the dank discordant
+                        heart-strings,</l>
+                    <l>It is nought unto such an one but sounds, whereby some earn their living:</l>
+                    <l>The poem, and the pictures, and the statue, to him seem idle baubles,</l>
+                    <l>Which wealth condescendeth to <choice>
+                            <orig>favour</orig>
+                            <reg>favor</reg>
+                        </choice>, to gain him the name of patron.</l>
+                    <l>But little wotteth he the might of the means his folly despiseth;</l>
+                    <l>He considereth not that these be the wires which move the puppets of the
+                        world.</l>
+                    <l>A sentence hath formed a character, (7) and a character subdued a
+                        kingdom;</l>
+                    <l>A picture hath ruined souls, or raised them to commerce with the skies:</l>
+                    <l>The pen hath shaken nations, and stablished the world in peace;</l>
+                    <l>And the whole full horn of plenty been filled from the vial of science.</l>
+                    <l>He regardeth man as sensual, the monarch of created matter,</l>
+                    <l>And careth not aught for mind, that linketh him with spirits unseen:</l>
+                    <l>He feedeth his carcass and is glad, though his soul be faint and
+                        famished,</l>
+                    <l>And the dull brute power of the body bindeth him a captive to himself.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>
+                        <span rend="bracket-right" hand="#h1" xml:id="s11" from="#s11" to="#s12"/>
+                        <span rend="bracket-left" hand="#h1" xml:id="s13" from="#s13" to="#s12"/>Man
+                        liveth from hour to hour, and knoweth not what may happen;</l>
+                    <l>Influences circle him on all sides, and yet must he answer for his
+                        actions,</l>
+                    <anchor xml:id="s12"/>
+                    <note type="authorial" place="right" resp="#h1" target="#s12">?</note>
+                    <l>For the being that is master of himself, bendeth events to his will,</l>
+                    <l>But a slave to selfish passion is the wavering creature of circumstance.</l>
+                    <l>To this man temptation is a poison, to that man it addeth <choice>
+                            <orig>vigour</orig>
+                            <reg>vigor</reg>
+                        </choice>;</l>
+                    <l>And each may render to himself influences good or evil.</l>
+                    <l>As thou directest the power, harm or advantage will follow;</l>
+                    <l>And the torrent that swept the valley, may be led to turn a mill;</l>
+                    <l>The wild electric flash, that could have kindled comets,</l>
+                    <l>May by the ductile wire give ease to an ailing child.</l>
+                    <l>For outward matter or event, fashion not the character within,</l>
+                    <l>But each man, yielding or resisting, fashioneth his mind for himself.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Some have said, What is in a name?&#8212;most potent plastic influence;</l>
+                    <l>A name is a word of character, and repetition stablisheth the fact;</l>
+                    <l>And greatest is the power of a name, when its power is least suspected.</l>
+                </lg>
+
+                <fw type="sig" place="bottom-left">2</fw>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf007v" facs="unl_sg.00007.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">62</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>Help thee to humour infirmities, to wink at innocent errors,</l>
+                    <l>To take small count of forms, to bear with prejudice and fancy:</l>
+                    <l>Discretion guard thine asking, discretion aid thine answer,</l>
+                    <l><span rend="bracket-right" hand="#h2" xml:id="s14" from="#s14" to="#s15"/>
+                        <span rend="bracket-left" hand="#h2" xml:id="s16" from="#s16" to="#s15"
+                        />Teach thee that well-timed silence hath more eloquence than speech,</l>
+                    <anchor xml:id="s15"/>
+                    <l>Whisper thee, thou art Weakness, though thy cause be strength,</l>
+                    <l>And tell thee, the keystone of an arch can be loosened with least <choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice> from within.</l>
+                    <l>The snows of Hecla lie around its troubled smoking Geysers;</l>
+                    <l>Let the cool streams of prudence temper the hot spring of zeal:</l>
+                    <l>So shalt thou gain thine <choice>
+                            <orig>honourable</orig>
+                            <reg>honorable</reg>
+                        </choice> end, nor lose the midway prize;</l>
+                    <l>So shall thy life be useful, and thy young heart happy.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>OF TRIFLES.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">YET</hi> once more, saith the fool, yet once, and is it
+                        not a little one?</l>
+                    <l>Spare me this folly yet an hour, for what is one among so many?</l>
+                    <l>And he blindeth his conscience with lies, and stupefieth his heart with
+                        doubts;&#8212;</l>
+                    <l>Whom shall I harm in this matter? and a little ill breedeth much good;</l>
+                    <l>My thoughts, are they not mine own? and they leave no mark behind them;</l>
+                    <l>And if God so pardoneth crime, how should these petty sins affect
+                        him?&#8212;</l>
+                    <l>So he transgresseth yet again, and falleth by little and little,</l>
+                    <l>Till the ground crumble beneath him, and he sinketh in the gulf
+                        despairing.</l>
+                    <l>For there is nothing in the earth so small that it may not produce great
+                        things,</l>
+                    <l>And no swerving from a right line, that may not lead eternally astray.</l>
+                    <l>A landmark tree was once a see, and the dust in the balance maketh a
+                        difference;</l>
+                    <l>And the cairn is heaped high by each one flinging a pebble:</l>
+                    <l>The dangerous bar in the <choice>
+                            <orig>harbour's</orig>
+                            <reg>harbor's</reg>
+                        </choice> mouth is only grains of sand;</l>
+                    <l>And the shoal that hath wrecked a navy is the work of a colony of worms:</l>
+                    <l>Yea, and a despicable gnat may madden the mighty elephant;</l>
+                    <l>And the living rock is worn by the diligent flow of the brook.</l>
+                    <l>Little art thou, O man, and in trifles thou contendest with thine equals,</l>
+                    <l>For atoms must crowd upon atoms, ere crime groweth to be a giant.</l>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf008r" facs="unl_sg.00008.jpg" type="recto"/>
+                <fw type="header" place="top">OF THINKING.</fw>
+                <fw type="pageNum" place="top-right">71</fw>
+
+                <lg type="stanza">
+                    <l>Yea, let the heathen be thy teacher, who adoreth many gods,</l>
+                    <l>For there is no wide-spread error that hath not truth for its beginning.</l>
+                    <l>Be content; thine eye cannot see all the sides of a cube at one view,</l>
+                    <l>Nor thy mind in the self-same moment follow two ideas:</l>
+                    <l>There are now many marvels in thy creed, believing what thou seest,</l>
+                    <l>Then let not the conceit of intellect hinder thee from worshipping
+                        mystery</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF THINKING.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">REFLECTION</hi> is a flower of a mind, giving out
+                        wholesome fragrance,</l>
+                    <l>But reverie is the same flower, when rank and running to seed.</l>
+                    <l>Better to read little with thought, than much with levity and quickness</l>
+                    <l>For mind is not as merchandise, which decreaseth in the using,</l>
+                    <l>But liker to the passions of man, which rejoice and expand in exertion:</l>
+                    <l>Yet live not wholly on thine own ideas, lest they lead thee astray;</l>
+                    <l>For in spirit, as in substance, thou art a social creature;</l>
+                    <l>And if thou leanest on thyself, thou rejectest the guidance of thy
+                        betters</l>
+                    <l>Yea, thou contemnest all men,&#8212;Am I not wiser than they?</l>
+                    <l>Foolish vanity hath blinded thee, and warped thy weak judgment;</l>
+                    <l>For, though new ideas flow from new springs, and enrich the treasury of
+                        knowledge,</l>
+                    <l>Yet listen often, ere thou think much; and look around thee ere thou
+                        judgest.</l>
+                    <l>Memory, the <choice>
+                            <sic>daugter</sic>
+                            <corr>daughter</corr>
+                        </choice> of Attention, is the teeming mother of Wisdom,</l>
+                    <l><hi rend="circled" hand="#h1">And safer is he that storeth knowledge, than he
+                            that would make it for himself.</hi></l>
+                    <note type="authorial" resp="#h1" place="right">!</note>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Imagination is not thought, neither is fancy reflection:</l>
+                    <l>Thought paceth like a hoary sage, but imagination hath wings as an eagle:</l>
+                    <l>Reflection sternly considereth, nor is sparing to condemn evil,</l>
+                    <l>But fancy lightly laugheth, in the sun-clad garden of amusement.</l>
+                    <l>For the shy game of the fowler is the quickest shot is the surest;</l>
+                    <l>But with slow care and measured aim the gunner pointeth his cannon:</l>
+                    <l>So for all less occasions, the surface thought is best,</l>
+                    <l>But to be master of the great take thou heavier metal.</l>
+                    <l>It is a good thing, and a wholesome, to search out bosom sins,</l>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf009v" facs="unl_sg.00009.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">102</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>For, alas, how few be friends, of whom charity hath hoped well!</l>
+                    <l>How few there be among men who forget themselves for others!</l>
+                    <l>Each one seeketh his own, and looketh on his brethren as rivals,</l>
+                    <l>Masking envy with friendship, to serve his secret ends.</l>
+                    <l>And the world, that corrupteth all good, hath wronged that sacred name,</l>
+                    <l>For it calleth any man friend, who is not known for an enemy;</l>
+                    <l>And such be as the flies of summer, while plenty sitteth at thy board;</l>
+                    <l>But who can wonder at their flight from the cold denials of want?</l>
+                    <l>Such be as vultures round a carcass, assembled together for the feast:</l>
+                    <l>But a sudden noise scareth them, and forthwith are thy specks among the
+                        clouds.</l>
+                    <l>There be few, O child of sensibility, who deserve to have thy confidence;</l>
+                    <l>Yet weep not, for there are some, and such some live for thee:</l>
+                    <l>To them is the chilling world a drear and barren scene,</l>
+                    <l>And gladly seek they such as thou art, for seldom find they the occasion:</l>
+                    <l>For, though no man excludeth himself from the high capability of
+                        friendship,</l>
+                    <l>Yet verily is the man a marvel whom truth can write a friend.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF LOVE.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">THERE</hi> is a fragrant blossom, that maketh glad the
+                        garden of the heart:</l>
+                    <l><hi rend="underline">Its root lieth deep</hi>; <hi rend="underline">it
+                            is</hi> delicate, <hi rend="underline">yet</hi> lasting, as lilac crocus
+                        of autumn;</l>
+                    <l>Loneliness and thought are the dews that water it morn and even;</l>
+                    <l>Memory and Absence cherish it, as the balmy breathings of the south:</l>
+                    <l>Its sun is the brightness of affection, and it bloometh in the borders of
+                        Hope;</l>
+                    <l>Its companions are gentle flowers, and the brier withereth by its side.</l>
+                    <l>I saw it budding in beauty; I felt the magic of its smile;</l>
+                    <l>The violet rejoiced beneath it, the rose stooped down and kissed it;</l>
+                    <l>And I thought some cherub had planted there a truant flower of Eden,</l>
+                    <l>As a bird bringeth foreign seeds, that they may flourish in a kindly soil</l>
+                    <l>I saw, and asked not its name; I knew no language was so wealthy,</l>
+                    <l>Though every heart of every clime findeth its echo within.</l>
+                    <l>And yet what shall I say? Is a sordid man capable of&#8212;Love?</l>
+                </lg>
+
+            </div1>
+
+
+            <pb xml:id="leaf010r" facs="unl_sg.00010.jpg" type="recto"/>
+            <fw type="header" place="top">OF LOVE.</fw>
+            <fw type="pageNum" place="top-right">103</fw>
+
+            <div1>
+                <lg type="stanza">
+                    <l>Hath a seducer known it? Can an adulterer perceive it?</l>
+                    <l>Or he that seeketh strange women, can he feel its purity?</l>
+                    <l><span rend="bracket-right" hand="#h2" xml:id="s17" from="#s17" to="#s18"/>
+                        <span rend="bracket-left" hand="#h2" xml:id="s19" from="#s19" to="#s18"/>Or
+                        he that changeth often, can he know its truth?</l>
+                    <anchor xml:id="s18"/>
+                    <l>Longing for another's happiness, yet often destroying its own;</l>
+                    <l>Chaste, and looking up to God, as the fountain of tenderness and joy;</l>
+                    <l>Quiet, yet flowing deeps, as the Rhine among rivers;</l>
+                    <l>Lasting, and knowing not change&#8212;it walketh with Truth and
+                        Sincerity.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Love:&#8212;what a volume in a word, an ocean in a tear,</l>
+                    <l>A seventh heaven in a glance, a whirlwind in sigh,</l>
+                    <l>The lightning in a touch, a millennium in a moment:</l>
+                    <l>What consecrated joy or woe in blest or blighted love!</l>
+                    <l>For it is, that native poetry springing up indigenous to Mind,</l>
+                    <l>The heart's own-country music thrilling all its chords,</l>
+                    <l>The story without an end that angels throng to hear,</l>
+                    <l>The word, the king of words, carved on Jehovah's heart!</l>
+                    <l>Oh! call thou snake-eyed malice mercy, call envy honest praise,</l>
+                    <l>Count selfish raft for wisdom, and coward treachery for prudence,</l>
+                    <l>Do homage to blaspheming unbelief as to bold and free philosophy,</l>
+                    <l>And estimate the recklessness of license as the right attribute of
+                        liberty,&#8212;</l>
+                    <l>But with the world, thou friend and scholar, stain not this pure name;</l>
+                    <l>Nor suffer the majesty of Love to be likened to the meanness of desire:</l>
+                    <l>For Love is no more such, than seraphs' hymns are discord,</l>
+                    <l>And such is no more Love, the &#230;na's breath is summer.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Love is a sweet idolatry, enslaving all the soul,</l>
+                    <l>A mighty spiritual force, warring with the dullness of matter,</l>
+                    <l>An angel-mind breathed into a mortal, though fallen, yet how beautiful!</l>
+                    <l>All the devotion of the heart in all its depth and grandeur.</l>
+                    <l>Behold that pale geranium, pent within the cottage window;</l>
+                    <l>How yearningly it stretcheth to the light its sickly long-staked leaves,</l>
+                    <l>How it straineth upward to the sun, coveting his sweet influences,</l>
+                    <l>How real a living sacrifice to the God of all its worship!</l>
+                    <l>Such is the soul that loveth; and so the rose-tree of affection</l>
+                    <l>Bendeth its every leaf to look on those dear eyes,</l>
+                    <l>Its every blushing petal basketh in the light,</l>
+                    <l>And all its gladness, all its life, is hanging on their love.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>If the love of the heart is blighted, it buddeth not again;</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf010v" facs="unl_sg.00011.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">104</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>If that pleasant song is forgotten, it is to be learnt no more:</l>
+                    <l>Yet often that will thought look back, and weep over early affection;</l>
+                    <l>And the dim notes of that pleasant song will be heard as a reproachful
+                        spirit,</l>
+                    <l>Moaning in &#230;olian strains over the desert of the heart,</l>
+                    <l>Where the hot siroccos of the world have withered its one oasis</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF MARRIAGE.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="circled"><hi rend="smallcaps">SEEK</hi> a good wife of thy God, for
+                            she is the best gift of his providence</hi></l>
+                    <l><hi rend="circled">Yet ask not in bold confidence that which he hath not
+                            promised.</hi></l>
+                    <l><hi rend="circled">Thou knowest not his good-will:&#8212;be thy prayer then
+                            submissive there unto;</hi></l>
+                    <l><hi rend="circled">And leave thy petition to his mercy, assured that he will
+                            deal well with thee.</hi></l>
+                    <l>If thou art to have a wife of thy youth, she is now living on the earth;</l>
+                    <l>Therefore think of her, and pray for her weal; yea, though thou hast not seen
+                        her.</l>
+                    <span rend="bracket-right" hand="#h2" xml:id="s20" from="#s20" to="#s21"/>
+                    <span rend="bracket-left" hand="#h2" xml:id="s22" from="#s22" to="#s21"/>
+                    <l>They that love early become like-minded, and the tempter touches them
+                        not.</l>
+                    <anchor xml:id="s21"/>
+                    <l>They grow up leaning on each other, as the olive and vine.</l>
+                    <l>Youth longeth for a kindred spirit, and yearneth for a heart that can commune
+                        with his own;</l>
+                    <l>He meditateth night and day, doting on the image of his fancy.</l>
+                    <l>Take heed that what charmeth thee is real, nor springeth of thine own
+                        imagination;</l>
+                    <l>And suffer not trifles to win thy love; for a wife is thine unto death.</l>
+                    <l>The harp and the voice may thrill thee,&#8212;sound may enchant thine
+                        ear,</l>
+                    <l>But considere thou, the hand will wither, and the sweet notes turn to
+                        discord:</l>
+                    <l>The eye, so brilliant at even, may be red with sorrow in the morning;</l>
+                    <l>And the sylph-like form of elegance must writhe in the crampings of pain.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>O happy lot, and hallowed, even as the joy of angels,</l>
+                    <l>Where the golden chain of godliness is entwined with the roses of love:</l>
+                    <l>But beware, thou seem not to be holy, to win favour in the eyes of a
+                        creature,</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf011r" facs="unl_sg.00012.jpg" type="recto"/>
+                <fw type="header" place="top">OF MARRIAGE.</fw>
+                <fw type="pageNum" place="top-right">105</fw>
+
+                <lg type="stanza">
+                    <l>For the guilt of the hypocrite is deadly, and winneth thee wrath
+                        elsewhere.</l>
+                    <span rend="bracket-left" hand="#h2" xml:id="s23" from="#s23" to="#s24"/>
+                    <span rend="singleLine-right" hand="#h2" xml:id="s25" from="#s25" to="#s26"/>
+                    <l>The idol of thy heart is, as thou, a probationary sojourner on earth;</l>
+                    <anchor xml:id="s26"/>
+                    <span rend="bracket-right" hand="#h2" xml:id="s27" from="#s27" to="#s28"/>
+                    <l>Therefore be chary of her soul, for that is a jewel in her casket.</l>
+                    <anchor xml:id="s24"/>
+                    <anchor xml:id="s28"/>
+                    <l>Let her be a child of God, that she bring with her a blessing to thy
+                        house,&#8212;</l>
+                    <l>A blessing above riches, and leading contentment in its train:</l>
+                    <l>Let her be an heir of heaven; so shall she help thee on thy way;</l>
+                    <l>For those who are one in faith, fight double-handed against evil.</l>
+                    <l>Take heed lest she love thee before God; that she be not an idolator</l>
+                    <span rend="singleLine-left" hand="#h2" xml:id="s29" from="#s29" to="#s30"/>
+                    <l>Yet see thou that she love thee well: for her heart is the heart of
+                        woman;</l>
+                    <anchor xml:id="s30"/>
+                    <l>And the triple nature of humanity must be bound by a triple chain,</l>
+                    <l>For soul and mind and body&#8212;godliness, esteem, and affection.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="singleLine-left" hand="#h2" xml:id="s31" from="#s31" to="#s32"/>
+                    <l>How beautiful is modesty! it winneth upon all beholders:</l>
+                    <anchor xml:id="s32"/>
+                    <l>But a word or a glance may destroy the pure love that should have been for
+                        thee.</l>
+                    <l>Affect not to despise beauty; no one is freed from its dominion:</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>But regard it not a
+                        pearl of price<note type="authorial" place="inline" resp="#h2"
+                        >)</note>:&#8212;it is fleeting as the bow in the clouds.</l>
+                    <note type="authorial" place="right" resp="#h2">?</note>
+                    <l>If the character within be gentle, it often hath its index in the
+                        countenance:</l>
+                    <span rend="singleLine-left" hand="#h2" xml:id="s33" from="s33" to="#s34"/>
+                    <l>The soft smile of a loving face is better than <choice>
+                            <orig>splendour</orig>
+                            <reg>splendor</reg>
+                        </choice> that hath fadeth quickly</l>
+                    <anchor xml:id="s34"/>
+                    <l>When thou choosest a wife, think not only of thyself,</l>
+                    <l>But of those God may give thee of her, that they reproach thee not for their
+                        being;</l>
+                    <l>See that he hath given her heath, lest thou lose her early and weep;</l>
+                    <l>See that she springeth of a wholesome stock, that thy little ones perish not
+                        before thee:</l>
+                    <l>For many a laughing cheek been bright with the glare of madness</l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="singleLine-left" hand="#h2" xml:id="s35" from="s35" to="#s36"/>
+                    <l>Mark the converse of one thou lovest, that it be sim<hi rend="underline"
+                            >p</hi>le and <hi rend="underline">since</hi>re;</l>
+                    <anchor xml:id="s36"/>
+                    <l>For an artful or <hi rend="underline">fal</hi>se wo<hi rend="underline"
+                            >ma</hi>n shall set thy pil<hi rend="underline">lo</hi>w wit<hi
+                            rend="underline">h thorns.</hi></l>
+                    <l>O<hi rend="underline">bse</hi>rve her de<hi rend="underline">por</hi>tment
+                        with ot<hi rend="underline">he</hi>rs, w<hi rend="underline">h</hi>en she
+                            th<hi rend="underline">inket</hi>h not that t<hi rend="underline"
+                            >ho</hi>u art <hi rend="underline">nigh</hi>,</l>
+                    <l>For with thee will the blushes of love conceal the true <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg>
+                        </choice> of her mind</l>
+                    <l>Hath she learning? it is good, so that <hi rend="underline">modest</hi>y go
+                        with it:</l>
+                    <l>Hath she wisdom? is it precious, <note type="authorial" place="inline"
+                            resp="#h2">(</note>but beware that though exceed;<note type="authorial"
+                            place="inline" resp="#h2">)</note></l>
+                    <l>For woman must be subject, and the true mastery is of the mind.</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>Be joined to thine
+                        equal in rank, or the foot of pride will kick at thee:<note type="authorial"
+                            place="inline" resp="#h2">)</note></l>
+                    <l>And look not only for riches, lest thou be mated with misery:</l>
+                    <l>Marry not without means; for so shouldst thou tempt Providence;</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf011v" facs="unl_sg.00013.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">106</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>But wait not for more than enough; for marriage is the duty of most men;</l>
+                    <l>Grievous indeed must be the burden that shall outweigh innocence and
+                        health,</l>
+                    <l>And a well-assorted marriage hath not many cares.</l>
+                    <l>In the day of thy joy consider the poor; thou shalt reap a rich harvest of
+                        blessing;</l>
+                    <l>For these be the pensioners of One who filleth up thy cup with pleasures;</l>
+                    <l>In the day of thy joy be thankful; He hath well deserved thy praise;</l>
+                    <l>Mean and selfish is the heart that seeketh him only sorrow.</l>
+                    <l>For her sake, who leaneth on thine arm, court not the notice of the
+                        world,</l>
+                    <l>And remember that so<hi rend="underline">ber</hi> pri<hi rend="underline"
+                            >va</hi>cy is c<hi rend="underline">ome</hi>lier than public <hi
+                            rend="underline">dis</hi>play.</l>
+                    <l>If thou marriest, thou art allied unto strangers: see they be not such as
+                        shame thee:</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Bride and bridgegroom, <note type="authorial" place="inline" resp="#h2"
+                            >(</note>pilgrims of life,<note type="authorial" place="inline"
+                            resp="#h2">)</note> henceforward to travel together,</l>
+                    <l>In this the beginning of your journey, <note type="authorial" place="inline"
+                            resp="#h2">(</note>neglect not the favour of Heaven:<note
+                            type="authorial" place="inline" resp="#h2">)</note></l>
+                    <span rend="singleLine-right" hand="#h2" xml:id="s37" from="s37" to="#s38"/>
+                    <l>And at eventide k<hi rend="underline">ne</hi>el ye to<hi rend="underline"
+                            >geth</hi>er, that yo<hi rend="underline">ur</hi> joy be not
+                        unhallowed:</l>
+                    <anchor xml:id="s38"/>
+                    <l>Angels that are round you shall be glad, those loving ministers of mercy,</l>
+                    <l>And the richest blessings of your God shall be poured on his <choice>
+                            <orig>favoured</orig>
+                            <reg>favored</reg>
+                        </choice> children.</l>
+                    <l>Marriage is a figure and an earnest of holier things unseen,</l>
+                    <l>And reverence well becometh the symbol of dignity and glory.</l>
+                    <l>Keep thy heart pure, lest thou do <choice>
+                            <orig>dishonour</orig>
+                        <reg>dishonor</reg></choice> to thy state;</l>
+                    <l>Selfishness is base and hateful; but love considereth not itself.</l>
+                    <l>The wicked turneth good into evil, for his mind is warped within him:</l>
+                    <l>But the heart of the righteous is chaste; his conscience casteth off sin.</l>
+                    <l>If th<hi rend="underline">ou</hi> <hi rend="underline">wilt</hi> be <hi rend="underline">lov</hi>ed, <hi rend="underline">rend</hi>er imp<hi rend="underline">lic</hi>it con<hi rend="underline">fiden</hi>ce;</l>
+                    <l>If thou wouldst not suspect, receive full confidence in turn:</l>
+                    <l>For where trust is not reciprocal, the love that trusted withereth.</l>
+                    <l>Hid<hi rend="underline">e no</hi>t your <hi rend="underline">gri</hi>ef nor
+                        your <hi rend="underline">gladne</hi>ss; be<hi rend="underline"> open</hi>
+                        one wi<hi rend="underline">th the other</hi>,</l>
+                    <l>Let bitterness be strange unto your tongues, but sympathy a dweller in your
+                        hearts:</l>
+                    <l>Imparting halveth the evils, while it is doubleth the pleasures of life,</l>
+                    <l>But sorrows breed and thicken in the gloomy bosom of Reserve.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Young wife, be not forward, nor forget that modesty becometh thee:</l>
+                    <l>If it be discarded now, who will not hold it feigned before?</l>
+                    <l>But be not as a timid,&#8212;there is <choice>
+                            <orig>honour</orig>
+                            <reg>honor</reg>
+                        </choice> due to thine estate;</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf012r" facs="unl_sg.00014.jpg" type="recto"/>
+                <fw type="header" place="top">OF EDUCATION.</fw>
+                <fw type="pageNum" place="top-right">107</fw>
+
+                <lg type="stanza">
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>A matron's modesty
+                        is dignified:<note type="authorial" place="inline" resp="#h2">)</note></l>
+                    <l>Be kind to the friends of thine husband, for the love they have to him:</l>
+                    <l>And gently bear with his infirmities; has thou no need of his
+                        forbearance?</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>Be not always in
+                        each other's company;<note type="authorial" place="inline" resp="#h2"
+                            >)</note>
+                        <note type="authorial" place="inline" resp="#h2">(</note>it is often good to
+                        be alone;<note type="authorial" place="inline" resp="#h2">)</note></l>
+                    <l><span rend="singleLine-left" hand="#h2" xml:id="s39" from="s39" to="#s40"
+                        />And if there be too much sameness, <note type="authorial" place="inline"
+                            resp="#h2">(</note>ye cannot but grow weary of each other:<note
+                            type="authorial" place="inline" resp="#h2">)</note></l>
+                    <anchor xml:id="s40"/>
+                    <l>Ye have each a soul to be nourished, and a mind to be taught in wisdom,</l>
+                    <l>Therefore, as accountable for time, help one another to improve it.</l>
+                    <l><span rend="singleLine-left" hand="#h2" xml:id="s41" from="s41" to="#s42"/>If
+                        ye feel love to decline, track out quickly the secret cause; <note
+                            type="authorial" place="inline" resp="#h2">&#8212;</note></l>
+                    <l><span rend="singleLine-right" hand="#h2" xml:id="s43" from="s43" to="#s42"
+                        />Let it not rankle for a day, but <hi rend="underline">con</hi>fess and
+                            b<hi rend="underline">ew</hi>ail it to<hi rend="underline"
+                        >get</hi>her:</l>
+                    <anchor xml:id="s42"/>
+                    <l>Speedily seek to be reconciled, for l<hi rend="underline">ov</hi>e is the <hi
+                            rend="underline">life </hi>of m<hi rend="underline">arri</hi>age;</l>
+                    <l>And be ye co-partners in triumph, conquering the peevishness of self.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l><span rend="singleLine-left" hand="#h2" xml:id="s44" from="s44" to="#s45"
+                        />Let no one have thy confidence, O wife, saving they husband:<note
+                            type="authorial" place="inline" resp="#h2">&#8212;</note></l>
+                    <l>Have not a friend more intimate,<span rend="singleLine-right" hand="#h2"
+                            xml:id="s46" from="s46" to="#s45"/>O husband, than thy wife.<anchor
+                            xml:id="s45"/></l>
+                    <l>In the joy of a well-ordered home, be warned that this is not your rest;</l>
+                    <l>For the substance to come may be forgotten in the present beauty of the
+                        shadow.</l>
+                    <l>If ye are blessed with children, ye have a fearful pleasure,</l>
+                    <l>A deeper care and a higher joy, and the range of your existence is
+                        widened.</l>
+                    <l>If God in wisdom refused them, thank him for an unknown mercy:</l>
+                    <l>For how can ye tell if they might be a blessing or a curse?</l>
+                    <l>Yet ye may pray, like Hannah, simply dependent on his will:</l>
+                    <l>Resignation sweeteneth the cup, but impatience dasheth it with vinegar.</l>
+                    <l>Now this is the sum of the matter:&#8212;if ye will be happy in marriage,</l>
+                    <l>Confide, love, and be patient: be faithful, firm, and holy.</l>
+                </lg>
+
+                <note type="authorial" place="center" resp="#h2"><milestone unit="undeclared"
+                        rend="horbar-full"/></note>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF EDUCATION.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">A BABE</hi> in a house is a well-spring of pleasure, a
+                        messenger of peace and love:</l>
+                    <l>A resting-place for innocence on earth; a link between angels and men:</l>
+                    <l>Yet is it a talent of trust, a loan to be rendered back with interest;</l>
+                    <l>A delight, but redolent of care; honey-sweet, but lacking not the bitter.</l>
+                    <l>For character groweth day by day, and all things aid it in unfolding,</l>
+                </lg>
+
+            </div1>
+
+            <div1>
+
+                <pb xml:id="leaf013v" facs="unl_sg.00015.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">118</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>I turned aside to weep; I lost him a little while:</l>
+                    <l>I looked, and years had past: he was hoar with the winter of his age.</l>
+                    <l>And what was not his hope? where was the balm for his sadness?</l>
+                    <l>The memory of the past was guilt: the feeling of the present, remorse.</l>
+                    <l>Then he set his affections on gold, he worshipped the shrine of Mammon.</l>
+                    <l>And to lay richer gifts before his idol, he starved his own bowels;</l>
+                    <l>So, the youth spent in profligacy ended in the gripings of want:</l>
+                    <l>The miser grudged himself husks, to take deeper vengeance of the
+                        prodigal.</l>
+                    <l>And I said, this is sorrow; but pity cannot reach it.</l>
+                    <l>This is to be wretched indeed, to be guilty without repentance</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head><note type="authorial" place="inline" resp="#h2">&#43;</note>OF JOY.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">MY</hi> soul was sickened within me, so I sought the
+                        dwelling-place of Joy</l>
+                    <l>And I met it not in laughter; I found it not in wealth or power;</l>
+                    <l>But I saw it in the pleasant home, where religion smiled upon content,</l>
+                    <l>And the satisfied ambition of the heart rejoiced in the <choice>
+                            <orig>favour</orig>
+                            <reg>favor</reg>
+                        </choice> of its God.</l>
+                    <l>Behold the happy man, his face is rayed with pleasure,</l>
+                    <l>His thoughts are of calm delight, and none can know his blessedness;</l>
+                    <l>I have watched him from his infancy, and seen him in the grasp of death,</l>
+                    <l>Yet never have I noted on his brow the cloud of desponding sorrow.</l>
+                    <l>He hath knelt beside his cradle; his mother's hymn lulled him to sleep:</l>
+                    <l>In childhood he hath loved holiness, and drank from that fountain-head of
+                        peace.</l>
+                    <l>Wisdom took him for her scholar, guiding his steps in purity:</l>
+                    <l>He lived unpolluted by the world; and his young heart hated sin.</l>
+                    <l>But he owned not the spurious religion engendered of faction and
+                        moroseness,</l>
+                    <l>Neither were the sproutings of his soul seared by the brand of
+                        superstition.</l>
+                    <l>His love is pure and single, sincere, and knoweth not change:</l>
+                    <l>Behold his one beloved, she leaneth on his arm,</l>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf014r" facs="unl_sg.00016.jpg" type="recto"/>
+                <fw type="header" place="top">OF JOY.</fw>
+                <fw type="pageNum" place="top-right">119</fw>
+
+                <lg type="stanza">
+                    <l>And he looketh on the years that are past, to review the dawn of her
+                        affection.</l>
+                    <l>Memory is sweet unto him as a perfect landscape to the sight;</l>
+                    <l>Each object is lovely in itself, but the whole is the harmony of nature.</l>
+                    <l>Behold his little ones around him, they bask in the sunshine of his smile</l>
+                    <l>And infant innocence and joy lighten their happy faces;</l>
+                    <l>He is holy, and they <choice>
+                            <orig>honour</orig>
+                            <reg>honor</reg>
+                        </choice> him; he is loving, and they love him;</l>
+                    <l>He is consistent, and they esteem him; he is firm, and they fear him.</l>
+                    <l>His friends are the excellent among men; and the bands of their friendships
+                        are strong;</l>
+                    <l>His house is the palace of peace: for the Prince of Peace is there.</l>
+                    <l>As the wearied man to his couch, as the thoughtful man to his musings,</l>
+                    <l>And though he often sin, he returneth with weeping eyes:</l>
+                    <l>For he feeleth the mercies of forgiveness, and gloweth with warmer
+                        gratitude.</l>
+                </lg>
+
+                <lg type="stanza" xml:id="lg1">
+                    <l><hi rend="circled">Thus did he walk in happiness, and sorrow was a stranger
+                            to his soul;</hi></l>
+                    <l><hi rend="circled">The light of affection sunned his heart, the tear of the
+                            grateful bedewed his feet,</hi></l>
+                    <l><hi rend="circled">He put his hand with constancy to good, and angels knew
+                            him as a brother,</hi></l>
+                    <note type="authorial" place="right" resp="#h1">&#10003;</note>
+                    <l><hi rend="circled">And the busy satellites of evil trembled as at God's
+                            ally:</hi></l>
+                    <l><hi rend="circled">He used his wealth as a wise steward, making him friends
+                            for futurity;</hi></l>
+                    <l><hi rend="circled">He bent his learning to religion, and religion was with
+                            him at the last:</hi></l>
+                    <l><hi rend="circled">For I saw him after many days, when the time of his
+                            release was come.</hi></l>
+                    <note type="authorial" place="right" resp="#h1">&#10003;</note>
+                    <l><hi rend="circled">And I longed for a congregated world, to behold that dying
+                            saint.</hi></l>
+                    <l><hi rend="circled">As the aloe is green and well-liking, till the last best
+                            summer of its age,</hi></l>
+                    <l><hi rend="circled">And then hangeth out its golden bells to mingle glory with
+                            corruption;</hi></l>
+                    <l><hi rend="circled">As a meteor travelleth in <choice>
+                                <orig>splendour</orig>
+                                <reg>splendor</reg>
+                            </choice>, but bursteth in dazzling light;</hi></l>
+                    <note type="authorial" place="right" resp="#h1">&#10003;</note>
+                    <l><hi rend="circled">Such was the end of the righteous: his death was the sun
+                            at his setting.</hi></l>
+                </lg>
+
+                <note type="authorial" place="right" resp="#h1" target="#lg1">True</note>
+
+                <lg type="stanza">
+                    <l>Look on this picture of joy, and remember that portrait of sorrow:</l>
+                    <l>Behold the beauty of holiness, behold the deformity of sin!</l>
+                    <l>How long, ye sons of men, will ye scorn the words of wisdom?</l>
+                    <l>How long will ye hunt for happiness in the caverns that breed despair?</l>
+                    <l>Will ye comfort yourselves in misery, by denying the existence of
+                        delight,</l>
+                    <l>And from experience in woe, will <choice>
+                            <sic>ve</sic>
+                            <corr>ye</corr>
+                        </choice> reason that none are happy?</l>
+                </lg>
+            </div1>
+
+
+            <div1>
+
+                <pb xml:id="leaf015v" facs="unl_sg.00017.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">166</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>And, even like as exiles of idolatry, should quaff from the cisterns of
+                        creation</l>
+                    <l>Stagnant draughts, for those fresh springs that rise in the Creator.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Only, being burthened with the body, spiritual appetite is warped,</l>
+                    <l>And sensual man, with taste corrupted, drinketh of pollutions:</l>
+                    <l>Impulse is left, but indiscriminate; his hunger feasteth upon carrion;</l>
+                    <l>His natural love of beauty doteth over beauty in decay.</l>
+                    <l>He still thirsteth for the beautiful; but his delicate ideal hath grown
+                        gross,</l>
+                    <l>And the very sense of thirst hath been fevered from affection into
+                        passion.</l>
+                    <l>He remembereth the blessedness of light, but it is with an old man's
+                        memory,</l>
+                    <l>A blind old man from infancy, that once hath seen the sun,</l>
+                    <l>Whom long experience of night hath darkened in his cradle recollections,</l>
+                    <l>Until his brightest thought of noon is but a shade of black.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>This then is thy charm, O beauty, all pervading;</l>
+                    <l>And this thy wondrous strength, O beauty, conqueror of all:</l>
+                    <l>The outline of our shadowy best, the pure and comely creature,</l>
+                    <l>That winneth on the conscience with a saddening admiration:</l>
+                    <l>And some untutored thirst for God, the root of every pleasure,</l>
+                    <l>Native to creatures, yea in ruin, and dating from the birthday of the
+                        soul.</l>
+                    <l>For God sealeth up the sum, confirmed exemplar of proportions,</l>
+                    <l>Rich in love, full of wisdom, and perfect in the pentitude of Beauty. (8)</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF FAME.</head>
+
+                <lg type="stanza">
+                    <span rend="bracket-left" hand="#h1" xml:id="s47" from="s47" to="#s48"/>
+                    <span rend="bracket-right" hand="#h1" xml:id="s49" from="s49" to="#s48"/>
+                    <l><hi rend="smallcaps">BLOW</hi> the trumpet, spread the wing, fling thy scroll
+                        upon the sky,</l>
+                    <l>Rouse the slumbering world, O Fame, and fill the sphere with echo:</l>
+                    <l>&#8212;Beneath thy blast they wake, and murmurs come hoarsely on the
+                        wind,</l>
+                    <l>And flashing eyes and bristling hands proclaim they hear thy message:</l>
+                    <l>Rolling and surging as a sea, that upturned flood of faces</l>
+                    <l>Hasteneth with its million tongues to spread the wondrous tale;</l>
+                    <anchor xml:id="s48"/>
+                </lg>
+                <note type="authorial" resp="#h1" place="bottom">&#10003;</note>
+
+            </div1>
+
+
+
+
+            <div1>
+                <pb xml:id="leaf016r" facs="unl_sg.00018.jpg" type="recto"/>
+                <fw type="header" place="top">OF NEGLECT.</fw>
+                <fw type="pageNum" place="top-right">179</fw>
+
+                <lg type="stanza">
+                    <l>Alas, thou <choice>
+                            <sic>nast</sic>
+                            <corr>hast</corr>
+                        </choice> a juster grief, defrauded of their kindness:</l>
+                    <l>It is a theme for tears to feel the soft heart hardening,</l>
+                    <l>The frozen breath of apathy sealing up the fountain of affection;</l>
+                    <l>It is a pang keen only to the best, to be injured well-deserving,</l>
+                    <l>And slumbering Neglect is injury,&#8212;could ye not watch one hour?</l>
+                    <l>When God himself complained, it was that none regarded,</l>
+                    <l>And indifference bowed to the rebuke, Thou gavest Me no kiss when I came
+                        in.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="bracket-left" hand="#h2" xml:id="s80" from="s80" to="#s81"/>
+                    <l>Moreover, praise is good; <choice>
+                            <orig>honour</orig>
+                            <reg>honor</reg>
+                        </choice> is a treasure to be hoarded;</l>
+                    <l>A good man's praise foreshadoweth God's, and in His smile is heaven:</l>
+                    <l>But men walk on in hardihood, steeling their sinfulness to censure,</l>
+                    <l>And where rebuke is ridiculed, the love of praise were an infirmity;</l>
+                    <l>The judge thou heedest not in fear, cannot have deep homage of thy hope,</l>
+                    <l>And who then is the wise of this world, that will own he trembleth at his
+                        fellows?</l>
+                    <l>Calm, careless, and insensible, he mocketh blame or calumny,</l>
+                    <l>Neither should his dignity be humbled to some pittance of their praise:</l>
+                    <l>The rather, let false pride affect to trample on the treasure</l>
+                    <l>Which evermore in secret strength unconquered Nature prizeth;</l>
+                    <l>Rather, shall he stifle now the rising bliss of triumph,</l>
+                    <l>Lest after, in the world's Neglect, he must acknowledge bitterness.</l>
+                    <anchor xml:id="s81"/>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="bracket-left" hand="#h2" xml:id="s82" from="s82" to="#s83"/>
+                    <l>For lo, that world is wide, a huge and crowded continent,</l>
+                    <l>Its brazen sun is mammon, and its iron soil is care,</l>
+                    <l>A world full of men, where each man clingeth to his idol;</l>
+                    <l>A world full of men, where each man cherisheth his sorrow;</l>
+                    <l>A world full of men, multitude shoaling upon multitude;</l>
+                    <l>A surging sea, where every wave is burdened with an argosy of self;</l>
+                    <l>A boundless beach, where every stone is a separate microscopic world;</l>
+                    <l>A forest of innumerable trees, where every root is independent.</l>
+                    <anchor xml:id="s83"/>
+                </lg>
+
+                <lg type="stanza">
+                    <l>What then is the marvel or the shame, if units be lost among the million?</l>
+                    <l>Canst thou reasonably murmur, if a leaf drop off unnoticed?</l>
+                    <l>Wondrous in architecture, intricate and beautiful, delicately tinged and
+                        scented,</l>
+                    <l>Exquisite of feeling and mysterious in life, none cared for its growth, or
+                        its decay:</l>
+                    <l>None? yea,&#8212;no one of its fellows,&#8212;nor cedar, palm, nor
+                        bramble&#8212;</l>
+                </lg>
+
+            </div1>
+
+
+
+
+
+            <div1>
+                <pb xml:id="leaf017v" facs="unl_sg.00019.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">184</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>Where is the sick untended, or in prison, and they visited him not?</l>
+                    <l>The hungry is fed, and the thirsty satisfied, till ability set limits to the
+                        will,</l>
+                    <l>And those who did it unto them, have done it unto God!</l>
+                    <l>For human benevolence is large, though many matters dwarf it,</l>
+                    <l>Prudence, ignorance, imposture, and the straitenings of circumstance and
+                        time.</l>
+                    <l>And if to the body, so to the mind, the mass of men are generous:</l>
+                    <l>Their estimate who know us best, is seldom seen to err:</l>
+                    <l>Be sure the fault is thine, as pride, or shallowness, or vanity,</l>
+                    <l>If all around thee, good and bad, neglect thy seeming merit:</l>
+                    <l>No man yet deserved, who found not some to love him;</l>
+                    <l>And he that never kept a friend need only blame himself:</l>
+                    <l>Many for unworthiness will droop and die, but all are not unworthy;</l>
+                    <l>It must indeed be cold clay soil that killeth every seed.</l>
+                    <l>Therefore examine thy state, O self-accounted martyr of Neglect,</l>
+                    <l>It may be, thy merit is a cubit, and thy measure thereof a furlong:</l>
+                    <l>But grant it greater than thy thoughts, and grant that men thy fellows</l>
+                    <l>For pleasure, business, or interest, misuse, forget, neglect thee,&#8212;</l>
+                    <l>Still be thou conqueror in this, the consciousness of high deservings;</l>
+                    <l>Let it suffice thee to be worthy; faint not thou for praise;</l>
+                    <l>For that thou art, be grateful; go humbly even in thy confidence;</l>
+                    <l>And set thy foot on the neck of an enemy so harmless as Neglect.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>OF CONTENTMENT.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">GODLINESS</hi>with Contentment,&#8212;these be the
+                        pillars of felicity,<note type="authorial" place="inline" resp="#h2"
+                            >)</note></l>
+                    <l>Jachin, wherewithal it is established, and Boaz, in the which is
+                        strength:(13)</l>
+                    <l>And upon their capitals is lily-work, the lotus fruit and flower,</l>
+                    <l>Those fair and fragrant types of holiness, innocence, and beauty;</l>
+                    <l>Great gain pertaineth to the pillars, nets and chains of wreathen gold,</l>
+                    <l>And thy stand up straight in the temple porch, the house where Glory
+                        dwelleth.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>The body craveth meats, and the spirit is athirst for peacefulness;</l>
+                    <l>He that hath these, hath enough; for all beyond is vanity.</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+                <pb xml:id="leaf018r" facs="unl_sg.00020.jpg" type="recto"/>
+                <fw type="header" place="top">OF HONESTY.</fw>
+                <fw type="pageNum" place="top-right">227</fw>
+
+                <lg type="stanza">
+                    <l>For, in a simple village church, among those classic shades</l>
+                    <l>Which sylvan Evelyn loved to rear, (his praise and my delight,)</l>
+                    <l>These, the words of truth, are writ upon his sepulchre</l>
+                    <l>Who learnt much lore, and knew all trees from the cedar to the hyssop on the
+                        wall.</l>
+                    <l>A just conjunction, godliness and honesty, ministering to both worlds,</l>
+                    <l>Well wed, and ill to be divided, a pair that God hath joined together.</l>
+                    <span rend="curlyBrace-left" hand="#h2" xml:id="s50" from="s50" to="#s51"/>
+                    <l>I touch not now the vulgar thought, as of tricks and cheateries in trade;</l>
+                    <l>I speak of honest purpose, character, speech and action:</l>
+                    <l>For an honest man hath special need of charity, and prudence,</l>
+                    <l>If a deep and humbling self-acquaintance, and of blessed commerce with his
+                        God,</l>
+                    <anchor xml:id="s51"/>
+                    <l>So that the keennesses of truth may be freed from asperities of censure,</l>
+                    <l>And the just but vacillating mind be not made the pendulum of arguments:</l>
+                    <l>For a false reason, shrewdly put, can often not be answered on the
+                        instant,</l>
+                    <l>And prudence looketh unto faith, content to wait solutions:</l>
+                    <l>Yea, it looketh, yea, it waiteth, still holding honesty in leash,</l>
+                    <l>Lest, as a hot young hound, it track not game, but vermin.</l>
+                    <l>Many a man of honest heart, but ignorant of self and God,</l>
+                    <l>Hath followed the marsh-fires of pestilence, esteeming them the lights of
+                        truth;</l>
+                    <l>He heard a cause which he had not skill to solve,&#8212;and so received it
+                        gladly,</l>
+                    <l>And that cause brought its consequence of harm to an unstable soul.</l>
+                    <l>Prudence for a man's own sake, never should be separate from honesty</l>
+                    <l>And charity, for other's good and his, must still be joined therewith:</l>
+                    <l>For the harshly chiding tongue hath neither pleasuring nor profit,</l>
+                    <l>And the cold unsympathizing heart never gained a good.</l>
+                    <l>Sin is a sore, and folly is a fever; touch them tenderly for healing;</l>
+                    <l>The bad chirurgeon's awkward knife harmeth spite of honesty.</l>
+                    <l>Still, a rough diamond is better than the polished paste,&#8212;</l>
+                    <l>That courteous flattering foll, who spake of vice as virtue:</l>
+                    <l>And honesty, even by itself, though making many adversaries,</l>
+                    <l>Whom prudence might have set aside, or charity have softened,</l>
+                    <l>Evermore will prosper at the last, and gain a man great <choice>
+                            <orig>honour</orig>
+                            <reg>honor</reg>
+                        </choice></l>
+                    <l>By giving others many goods, to his own cost and hindrance.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Freedom is father of the honest, and sturdy Independence is his brother:</l>
+                    <l>These three, with heart and hand, dwell together in unity.</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf019v" facs="unl_sg.00021.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">242</fw>
+                <fw type="header" place="top">PROVERBIAL PHILOSOPHY.</fw>
+
+                <lg type="stanza">
+                    <l>I have shown thee thy captivity to Law; yet bade thee hide Humilities;</l>
+                    <l>I have lifted the curtains of Memory; and smoothed the soft pillow of
+                        Rest.</l>
+                    <l>Experience had his sober hour; and Character its keen appreciation;</l>
+                    <l>And holy Anger stood sublime, where Hatred fell condemned.</l>
+                    <l>Prayer spake the mind of God, even in his own good words;</l>
+                    <l>And Zeal, with kindness warmly mixt, allied him top Discretion.</l>
+                    <l>I led three with the Train of Religion, to be dazzled at the name of the
+                        Triune.</l>
+                    <l>Thought confessed his unseen fears; and Speech declared his triumphs;</l>
+                    <l>I sang the blessedness of books; and commended the prudence of a letter;</l>
+                    <l>Riches found their room, either unto <choice>
+                            <orig>honour</orig>
+                            <reg>honor</reg>
+                        </choice>&#8212;or despising;</l>
+                    <l>Inventions took their lower place, for all things come of God.</l>
+                    <l>I scorned Ridicule; nor would humble me for Praise; for I had gained
+                        Self-knowledge;</l>
+                    <l>And pleased fervently for Brutes, who suffer for man's sin.</l>
+                    <l>Then, I rose to Friendship; and bathed in all the tenderness of Love;</l>
+                    <l>Knew the purity of Marriage: and blessed the face of Children.</l>
+                    <l>And whereas by petulance or pride, I had haply said some evil,</l>
+                    <l>Mine after-thought was Tolerance, to bear the faults of all:</l>
+                    <l>Many faults, ill to hear, bred the theme of Sorrow;</l>
+                    <l>Many virtues, dear to see, induced the gush of Joy.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="curlyBrace-left" hand="#h2" xml:id="s52" from="s52" to="#s53"/>
+                    <l>Thus, for a while, as leaving thee in joy, was I loth to break that
+                        spell;</l>
+                    <l>I roamed to other things and thoughts, and fashioned other books.</l>
+                    <l>But in a season of reflection, after many days,</l>
+                    <l>A thought stood before me in its garment of the past,&#8212;and lo, a legion
+                        with it!</l>
+                    <l>They came in thronging bands,&#8212;I could not fight nor fly
+                        them,&#8212;</l>
+                    <l>And so they took me to their tent, the prisoner of thoughts.</l>
+                    <anchor xml:id="s53"/>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Then, I bade thee greet me well, and heed my cheerful counsels;</l>
+                    <l>For every day we have a Friend, who changeth not with time.</l>
+                    <l>Gladly did I speak of my commission, for I felt it graven on my heart,</l>
+                    <l>And could not hold my wiser peace, but magnified mine office.</l>
+                    <l>Mystery had left her echoes in my mind, and I discoursed her secret:</l>
+                    <l>And thence I turned aside to Man, and judged him for his Gifts.</l>
+                    <l>Beauty, noble thesis, had a world of sweets to sing of,</l>
+                </lg>
+            </div1>
+
+
+
+            <div1>
+
+
+                <pb xml:id="leaf020r" facs="unl_sg.00022.jpg" type="recto"/>
+                <fw type="header" place="top">NATURE'S NOBLEMAN.</fw>
+                <fw type="pageNum" place="top-right">261</fw>
+
+                <lg type="stanza">
+                    <l>For ever young,&#8212;though life's old age</l>
+                    <l>Hath every nerve unstrung:</l>
+                    <l>The heart, the heart is a heritage</l>
+                    <l>That keeps the old man young!</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>NATURE'S NOBLEMAN.</head>
+
+                <lg type="stanza">
+                    <l><note type="authorial" place="inline" resp="#h2">(</note><hi rend="smallcaps"
+                            >AWAY</hi> with false fashion,<note type="authorial" place="inline"
+                            resp="#h2">)</note> so calm and so chill,</l>
+                    <l>Where pleasure itself cannot please;</l>
+                    <l>Away with cold breeding, that faithlessly still</l>
+                    <l>Affects to be quite at its ease;</l>
+                    <l>For the deepest in feeling is highest in rank,</l>
+                    <l>The freest is first in the band,</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>And nature's own
+                        Nobleman, friendly and frank,</l>
+                    <l>Is a man with his heart in his hand!<note type="authorial" place="inline"
+                            resp="#h2">)</note></l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Fearless in honesty, gentle yet just,</l>
+                    <l>He warmly can love,&#8212;and can hate,</l>
+                    <l>Nor will he bow down with his face in the dust</l>
+                    <l>To Fashion's intolerant state:</l>
+                    <l>For best in good breeding, and highest in rank,</l>
+                    <l>Though lowly or poor in the land,</l>
+                    <l>Is nature's own Nobleman, friendly and frank,</l>
+                    <l>The man with his heart in his hand!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l><hi rend="italic">His</hi> fashion is passion, sincere and intense,</l>
+                    <l><hi rend="italic">His</hi> impulses, simple and true,</l>
+                    <l>Yet tempered by judgment, and taught by good sense,</l>
+                    <l>And cordial with me, and with you:</l>
+                    <l>For the finest in manners, as highest in rank,</l>
+                    <l>It is <hi rend="italic">you</hi>, man! or <hi rend="italic">you</hi>, man!
+                        who stand</l>
+                    <l>Nature's own Nobleman, friendly and frank,&#8212;</l>
+                    <l>A man with his heart in his hand!</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf020v" facs="unl_sg.00023.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">262</fw>
+                <fw type="header" place="top">A THOUSAND LINES.</fw>
+
+                <head>N<hi rend="underline">E</hi>VER G<hi rend="underline">I</hi>VE <hi
+                        rend="underline">U</hi>P.</head>
+
+                <lg type="stanza">
+                    <span rend="bracket-left" hand="#h2" xml:id="s54" from="s54" to="#s55"/>
+                    <l><hi rend="smallcaps">NEVER</hi> give up! it is wiser and better</l>
+                    <l>Always to hope, than once to despair;</l>
+                    <anchor xml:id="s55"/>
+                    <l>Fling off the load of Doubt's cankering fetter,</l>
+                    <l>And break the dark spell of tyrannical care:</l>
+                    <l>Never give up! or the burthen may sink you,&#8212;</l>
+                    <l>Providence kindly has mingled the cup,</l>
+                    <l>And in all trials or troubles, bethink you,</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>The watchword of
+                        life must be, Never give up!<note type="authorial" place="inline" resp="#h2"
+                            >)</note></l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Never give up! there are chances and changes</l>
+                    <l>Helping the hopeful, a hundred to one,</l>
+                    <l>And through the chaos High Wisdom arranges</l>
+                    <l>Ever success,&#8212;if you'll only hope on:</l>
+                    <l>Never give up! for the wisest is boldest,</l>
+                    <l>Knowing that Providence mingles the cup,</l>
+                    <l>And of all maxims the best, as the oldest,</l>
+                    <l>Is the true watchword of Never give up!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Never give up!&#8212;though the grape-shot may rattle,</l>
+                    <l>Or the full thunder-cloud over you burst,</l>
+                    <l>Stand like a rock,&#8212;and the storm or the battle</l>
+                    <l>Little shall harm you, though doing their worst:</l>
+                    <l>Never give up!&#8212;if adversity presses,</l>
+                    <l>Providence wisely has mingled the cup,</l>
+                    <l>And the best counsel, in all your distresses,</l>
+                    <l>Is the stout watchword of Never give up!</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>THE SUN.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">BLAME</hi> not, ye million worshippers of
+                        gold&#8212;</l>
+                    <l>Modern idolaters&#8212;their works and ways,</l>
+                    <l>When Asia's children, in the times of old,</l>
+                    <l>Knelt to the sun, outpouring prayer and praise</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+
+                <pb xml:id="leaf021r" facs="unl_sg.00024.jpg" type="recto"/>
+                <fw type="header" place="top">FORGIVE AND FORGET.</fw>
+                <fw type="pageNum" place="top-right">265</fw>
+
+                <lg type="stanza">
+                    <l>And Meekness is writhing in torment and thrall,</l>
+                    <l>By the hands of Ingratitude wrung,&#8212;</l>
+                    <l>In the heat of injustice, unwept and unfair,</l>
+                    <l>While the anguish is festering yet,</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>None, none but an
+                        angel, or God, can declare?<note type="authorial" place="inline" resp="#h2"
+                            >)</note></l>
+                    <l><hi rend="underline">"I now can forgive and forget."</hi></l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>But, if the bad spirit is chased from the heart,</l>
+                    <l>And the lips are in penitence steep'd,</l>
+                    <l>With the wrong so repented the wrath will depart,</l>
+                    <l>Though scorn on injustice were heaped;</l>
+                    <l>For the best compensation is paid for all ill,</l>
+                    <l>When the cheek with contrition is wet,</l>
+                    <l>And every one feels it is possible still,</l>
+                    <l>At once to forgive and forget.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l> To forget? It is hard for a man with a mind,</l>
+                    <l>However his heart may forgive,</l>
+                    <l>To blot out all perils and dangers behind,</l>
+                    <l>And but for the future to live:</l>
+                    <l>Then how shall it be? for at every turn</l>
+                    <l>Recollection the spirit will fret,</l>
+                    <l>And the ashes of injury <choice>
+                            <orig>smoulder</orig>
+                            <reg>smolder</reg>
+                        </choice> and burn,</l>
+                    <l>Though we strive to forgive and forget.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Oh, hearken! my tongue shall the riddle unseal,</l>
+                    <l>And mind shall be partner with heart,</l>
+                    <l>While thee to thyself I bid conscience reveal,</l>
+                    <l>And show thee how evil thou art:</l>
+                    <l>Remember thy follies, thy sins, and&#8212;thy crimes,</l>
+                    <l>How vast is that infinite debt!</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>Yet Mercy hath seven
+                        by seventy times</l>
+                    <l><hi rend="underline">Been swift to forgive and forget!</hi><note
+                            type="authorial" place="inline" resp="#h2">)</note></l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Brood not on insults or injuries old,</l>
+                    <l>For thou art injurious too,&#8212;</l>
+                    <l>Count not their sum till the total is told,</l>
+                    <l>For thou art unkind and untrue:</l>
+                </lg>
+
+                <fw type="sig" place="bottom">12</fw>
+
+            </div1>
+
+
+
+            <div1>
+
+
+                <pb xml:id="leaf022r" facs="unl_sg.00037.jpg" type="recto"/>
+                <fw type="header" place="top">MY MIND'S KINGDOM.</fw>
+                <fw type="pageNum" place="top-right">269</fw>
+
+                <lg type="stanza">
+                    <l>From thy throne in some bright sphere</l>
+                    <l>On this poor brother grovelling here;</l>
+                    <l>For I, too, I can stoutly sing</l>
+                    <l>I am every inch a king!</l>
+                    <l>A king of Thought, a Potentate</l>
+                    <l>Of glorious spiritual state,</l>
+                    <l>A king of Thought, a king of Mind,</l>
+                    <l>Realms unmapp'd and undefined,&#8212;</l>
+                    <l>A king! beneath no man's control,</l>
+                    <l>Invested with a royal soul,</l>
+                    <l>Crown'd by God's imperial hand</l>
+                    <l>Before him as a king to stand,</l>
+                    <l>And by His wisdom train'd and taught</l>
+                    <l>To rule my realm as King of Thought.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>O thoughts,&#8212;how ill my fellow-men,</l>
+                    <l>O thoughts,&#8212;how scanty my poor pen</l>
+                    <l>Can guess or tell the myriad host</l>
+                    <l>Wherewith you crowd my kingdom's coast!</l>
+                    <l>For I am hemm'd and throng'd about</l>
+                    <l>With your triumphant rabble-rout,</l>
+                    <l>Hurried along by that mad flood,</l>
+                    <l>The joy-excited <choice>
+                            <sic>multitud</sic>
+                            <corr>multitude</corr>
+                        </choice></l>
+                    <l>A conqueror, borne upon the foam,</l>
+                    <l>Of his great people's gladness home,</l>
+                    <l>A monarch in his grandest state,</l>
+                    <span rend="bracket-left" hand="#h2" xml:id="s56" from="s56" to="#s57"/>
+                    <l>On whom a thousand thousand wait!</l>
+                    <l>Lo! they come&#8212;my Tribes of Thought,</l>
+                    <l>Fierce and flush'd and fever-fraught!</l>
+                    <anchor xml:id="s57"/>
+                    <l>From the horizon all around</l>
+                    <l>I hear with pride their coming sound;</l>
+                    <l>See! their banners circling near,&#8212;</l>
+                    <l>Glittering groves of shield and spear,</l>
+                    <l>Flying clouds of troopers gay,</l>
+                    <l>Serried lines in dark array,</l>
+                    <l>Veterans calm with temper'd sword,</l>
+                    <l>And a dishevelled frantic horde,&#8212;</l>
+                    <l>On they come with furious force,</l>
+                    <l>Tramping foot and thundering horse,</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf022v" facs="unl_sg.00025.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">270</fw>
+                <fw type="header" place="top">A THOUSAND LINES.</fw>
+
+                <lg type="stanza">
+                    <l>On they come, converging loud,</l>
+                    <l>With clanging arms, a glorious crowd</l>
+                    <l>Shouting impatient, fierce and free,</l>
+                    <l>For me, their Monarch, yea, for me!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Then, in my majesty and power,</l>
+                    <l>I quell the madness of the hour,</l>
+                    <l>Bid that tumultuous turmoil cease,</l>
+                    <l>And frown my multitudes to peace.</l>
+                    <l>Each to his peril and his post!</l>
+                    <l>All hush'd throughout my might host:</l>
+                    <l>Courage clear, and duty stern,&#8212;</l>
+                    <l>Heads that freeze and hearts that burn;</l>
+                    <l>Marshalled straight in order due,</l>
+                    <l>Legions! pass in swift review,</l>
+                    <l>Bending to my blazoned will,</l>
+                    <l>Loyal to that standard still,</l>
+                    <l>And hailing me with homage then</l>
+                    <span rend="singleLine-left" hand="#h2" xml:id="s58" from="s58" to="#s59"/>
+                    <l>King of Thoughts&#8212;and thus, of Men!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>What? am I powerless to control</l>
+                    <l>Nations, by my single soul?</l>
+                    <l>What? have I not made thousands thrill</l>
+                    <l>By the mere impulse of my will,</l>
+                    <anchor xml:id="s59"/>
+                    <span rend="bracket-right" hand="#h2" xml:id="s60" from="s60" to="#s61"/>
+                    <l>When the strong Thought goes forth, and binds</l>
+                    <l>Captive a wandering herd of minds?</l>
+                    <l>And is not this to reign alone</l>
+                    <l>More than the ermine and the throne,</l>
+                    <l>The jewelled state, the gilded rooms,</l>
+                    <l>The mindless man in borrowed plumes?</l>
+                    <l>Yes,&#8212;if Eternity be true,</l>
+                    <l>And Time both false and fleeting too,</l>
+                    <l>Then, humbler kings, my boast be this,</l>
+                    <l>"My mind to me a kingdom is.<choice>
+                            <sic>'</sic>
+                            <corr>"</corr>
+                        </choice></l>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="singleLine-left" hand="#h2" xml:id="s62" from="s62" to="#s63"/>
+                    <l>And what, though weak and slow of speech,</l>
+                    <l>Ill to comfort, dull to teach?</l>
+                    <anchor xml:id="s63"/>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+
+                <pb xml:id="leaf023r" facs="unl_sg.00026.jpg" type="recto"/>
+                <fw type="header" place="top">MY MIND'S KINGDOM.</fw>
+                <fw type="pageNum" place="top-right">271</fw>
+
+                <lg type="stanza">
+                    <l>What, though hiding from the ken</l>
+                    <l>Of my small prying fellow-men,&#8212;</l>
+                    <l>Still within my musing mind,</l>
+                    <l>Wisdom's secret stores I find,</l>
+                    <l>And, little noticed, sweetly feed</l>
+                    <l>On hidden manna, meat indeed,</l>
+                    <l><hi rend="underline" hand="#h2">Blessed thoughts I never told</hi></l>
+                    <l>Unconsidered, uncontroll'd,</l>
+                    <l>Rushing by as thick and fast</l>
+                    <l>As autumn leaves upon the blast:</l>
+                    <l>Or better, like the gracious rain</l>
+                    <l>Dropping on some thirsty plain.</l>
+                    <l>And is not this to be a king,</l>
+                    <l>To carry in my heart a spring</l>
+                    <l>Of ceaseless pleasures, deep and pure,</l>
+                    <l><hi rend="underline" hand="#h2">Wealth cannot buy, nor power
+                        procure?</hi></l>
+                    <l>Yea,&#8212;by the poet's artless art,</l>
+                    <l>And the sweet searchings of his heart,</l>
+                    <l>By his unknown, unheeded bliss,</l>
+                    <l>"My mind to me a kingdom is."</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Place me on some desert shore</l>
+                    <l>Foot of man ne'er wandered o'er;</l>
+                    <l>Lock me in a lonely cell</l>
+                    <l>Beneath some prison citadel;</l>
+                    <l>Still, here or there, within I find</l>
+                    <l>My quiet kingdom of the Mind;</l>
+                    <l>Nay,&#8212;mid the tempest fierce and dark,</l>
+                    <l>Float me on peril's frailest bark,</l>
+                    <l>My quenchless soul could sit and think</l>
+                    <l>And smile at danger's dizziest brink:</l>
+                    <l>And wherefore?&#8212;God, my God, is still</l>
+                    <l>King of kings in good and ill;</l>
+                    <l>And where dwelleth&#8212;every where&#8212;</l>
+                    <l>Safety supreme and peace are there;</l>
+                    <l>And where he reigneth&#8212;all around&#8212;</l>
+                    <l>Wisdom, and love, and power are found;</l>
+                    <l>And reconciled to Him and bliss,</l>
+                    <l>"My mind to me a kingdom is."</l>
+                </lg>
+
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf023v" facs="unl_sg.00027.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">272</fw>
+                <fw type="header" place="top">A THOUSAND LINES.</fw>
+
+                <lg type="stanza">
+                    <l>Thus for my days; each waking hour</l>
+                    <l>Grand with majesty and power,</l>
+                    <l>Every minute rich in treasure,</l>
+                    <l>Gems of peace, and pearls of pleasure.</l>
+                    <l>And for my nights&#8212;those wondrous nights?</l>
+                    <l>How manifold my Mind's delights,</l>
+                    <l>When the young truant, gladly caught</l>
+                    <l>In its own labyrinths of thought,</l>
+                    <l>Finds there is another realm to range,</l>
+                    <l>The dynasties of Chance and Change.</l>
+                    <l>O dreams,&#8212;what know I not of dreams?</l>
+                    <l>Their name, their very essence, seems</l>
+                    <l>A tender light, not dark nor clear,</l>
+                    <l>A sad sweet mystery wild and dear,</l>
+                    <l>A dull soft feeling unexplained,</l>
+                    <span rend="bracket-left" hand="#h2" xml:id="s64" from="s64" to="#s65"/>
+                    <l>A lie half true, a truth half feigned:</l>
+                    <l>O dreams,&#8212;what know I not of dreams?</l>
+                    <l>When Reason, with inebriate gleams,</l>
+                    <l>Loses from his wise control</l>
+                    <anchor xml:id="s65"/>
+                    <l>The prancing Fancies of the soul,</l>
+                    <l>And sober Judgement, slumbering still,</l>
+                    <l>Sets free Caprice to guide the Will.</l>
+                    <l>Within one night have I not spent</l>
+                    <l>Years of adventurous banishment,</l>
+                    <l>Strangely groping like the blind</l>
+                    <l>In the dark caverns of my mind?</l>
+                    <l>Have I not dwelt, from eve till morn,</l>
+                    <l>Lifetimes in length for praise or scorn,</l>
+                    <l>With fancied joys, ideal woes,</l>
+                    <l>And all sensation's warmest glows,</l>
+                    <l>Wondrously thus expanding Life</l>
+                    <l>Though seeming scenes of peace or strife,</l>
+                    <span rend="bracket-right" hand="#h2" xml:id="s66" from="s66" to="#s67"/>
+                    <l>Until I verily reign sublime,</l>
+                    <l>A great creative king of Time?</l>
+                    <anchor xml:id="s67"/>
+                </lg>
+
+                <lg type="stanza">
+                    <l>And there are people, things, and places,</l>
+                    <l>Usual themes, familiar faces,</l>
+                    <l>A second life, that looks as real</l>
+                    <l>As this dull world's own unideal,</l>
+                </lg>
+
+
+            </div1>
+
+            <div1>
+
+                <pb xml:id="leaf024r" facs="unl_sg.00028.jpg" type="recto"/>
+                <fw type="header" place="top">BYEGONES.</fw>
+                <fw type="pageNum" place="top-right">277</fw>
+
+                <head>HOME.</head>
+                <head type="sub">FOR MUSIC.</head>
+
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">I NEVER</hi> left the place that knew me,</l>
+                    <l>And may never know me more,</l>
+                    <l>Where the chords of kindness drew me,</l>
+                    <l>And have gladdened me of yore,</l>
+                    <l>But my secret soul has smarted</l>
+                    <l>With a feeling full of gloom</l>
+                    <l>For the days that are departed,</l>
+                    <l>And the place I call'd my Home.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>I am not of those who wander</l>
+                    <l>Unaffectioned here and there,</l>
+                    <l>But my heart must still be fonder</l>
+                    <l>Of my sites of joy or care;</l>
+                    <l>And I point sad memory's finger</l>
+                    <l>(Though my faithless foot may roam)</l>
+                    <l>Where I've most been made to linger</l>
+                    <l>In the place I call'd my Home</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>BYEGONES.</head>
+                <head type="sub">FOR MUSIC.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">"LET</hi> byegones be byegones,"&#8212;they foolishly
+                        say,</l>
+                    <l>And bid me be wise and forget them;</l>
+                    <span rend="bracket-left" hand="#h2" xml:id="s68" from="s68" to="#s69"/>
+                    <l><hi rend="underline" hand="#h2">But old recollections are active
+                        to-day,</hi></l>
+                    <span rend="singleLine-right" hand="#h2" xml:id="s70" from="s70" to="#s69"/>
+                    <l>And I can do nought but regret them;</l>
+                    <anchor xml:id="s69"/>
+                    <l>Though the present be pleasant, all joyous and gay,</l>
+                    <l>And promising well for the morrow,</l>
+                    <l>I love to look back on the years past away,</l>
+                    <l>Embalming my byegones in sorrow.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>If the morning of life has a mantle of gray,</l>
+                    <l>Its noon will be blither and brighter,</l>
+                </lg>
+
+            </div1>
+
+
+
+
+            <div1>
+                <pb xml:id="leaf024v" facs="unl_sg.00029.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">278</fw>
+                <fw type="header" place="top">A THOUSAND LINES.</fw>
+
+                <lg type="stanza">
+                    <l>If March has its storm, there is sunshine in May,</l>
+                    <l>And light out of darkness is lighter:</l>
+                    <l>Thus the present is pleasant, a cheerful to-day,</l>
+                    <l>With a wiser, a soberer gladness,</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>Because it is tinged
+                        with the mellowing ray</l>
+                    <l><hi rend="underline" hand="#h2">Of a yesterday's sunset of sadness.<note
+                                type="authorial" place="inline" resp="#h2">)</note></hi></l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>RULE, BRITANNIA!</head>
+                <head type="sub">A <unclear reason="illegible" cert="medium" resp="#slg"
+                        >STI</unclear>RRING SONG FOR PATRIOTS, IN THE YEAR 1860.</head>
+
+                <ab>To the tune of "Wha wouldna fight for Charlie?"</ab>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">RISE!</hi> ye gallant youth of Britain,</l>
+                    <l>Gather to your country's call,</l>
+                    <l>On your hearts he name is written,</l>
+                    <l>Rise to help her, one and all!</l>
+                    <l>Cast away each feud and faction,</l>
+                    <l>Brood not over wrong nor ill,&#8212;</l>
+                    <l>Rouse your virtues into action,</l>
+                    <l>For we love our country still,&#8212;</l>
+                    <l>Hail, Britannia! Rule, Britannia!</l>
+                    <l>Raise that thrilling shout once more;</l>
+                    <l>Rule, Britannia! Rule, Britannia!</l>
+                    <l>Conqueror over sea and shore!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>France is coming, full of bluster,</l>
+                    <l>Hot to wipe away her stain,</l>
+                    <l>Therefore, brothers, here we muster</l>
+                    <l>Just to give it her again!</l>
+                    <l>And if foemen, blind with fury,</l>
+                    <l>Dare to cross our ocean-gulf,</l>
+                    <l>Wait not then for judge nor jury,&#8212;</l>
+                    <l>Shoot them as you would a wolf!</l>
+                </lg>
+
+
+            </div1>
+
+            <div1>
+
+                <pb xml:id="leaf025r" facs="unl_sg.00030.jpg" type="recto"/>
+                <fw type="header" place="top">OLD HAUNTS&#8212;THE BATTLE OF ROLEIA.</fw>
+                <fw type="pageNum" place="top-right">293</fw>
+
+                <head>OLD HAUNTS.</head>
+                <head type="sub">FOR MUSIC.</head>
+
+
+                <lg type="stanza">
+                    <l>&#8212;</l>
+                    <span rend="singleLine-right" hand="#h2" xml:id="s71" from="s71" to="#s72"/>
+                    <l><hi rend="smallcaps">I LOVE</hi> to linger on my track</l>
+                    <l>Wherever I have dwelt,</l>
+                    <l>In after years to loiter back,</l>
+                    <anchor xml:id="s72"/>
+                    <l>And feel as once I felt;</l>
+                    <l>My foot falls lightly on the sward,</l>
+                    <l>Yet leaves a deathless dint,</l>
+                    <l>With tenderness I still regard</l>
+                    <l>Its unforgotten print.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Old places have a charm for me</l>
+                    <l>The new can ne'er attain,</l>
+                    <l>Old faces&#8212;how I long to see</l>
+                    <l>Their kindly looks again!</l>
+                    <l>Yet, these are gone:&#8212;while all around</l>
+                    <l>Is changeable as air,</l>
+                    <l>I'll anchor in the solid ground,</l>
+                    <l>And root my memories there!</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>THE BATTLE OF ROLEIA</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">YE</hi> children of the veterans</l>
+                    <l>Who fought for faithless Spain,</l>
+                    <l>And for ungrateful Portugal</l>
+                    <l>Pour'd out their blood like rain,&#8212;</l>
+                    <l>Come near me, and hear me,</l>
+                    <l>For I would tell you well</l>
+                    <l>How gallantly your fathers fought,</l>
+                    <l>Or gloriously they fell!</l>
+                </lg>
+
+            </div1>
+
+
+
+
+            <div1>
+                <pb xml:id="leaf026v" facs="unl_sg.00031.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">302</fw>
+                <fw type="header" place="top">HACTENUS.</fw>
+
+                <lg type="stanza">
+                    <l>The foe was rushing on his fate</l>
+                    <l>At chosen Waterloo.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>What? should the hunter waste his strength,</l>
+                    <l>Nor hold his good hounds back</l>
+                    <l>Before he knows they near the foes</l>
+                    <l>And open on the track?</l>
+                    <l>No: let "surprise" blight Frenchmen's eyes,</l>
+                    <l>For truly thy shall rue</l>
+                    <l>The giant skill that, stern and still,</l>
+                    <l>Drew them to Waterloo!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Hotly the couriers gallop up</l>
+                    <l>To Richmond's festive scene,&#8212;</l>
+                    <l>Alone, and alone the chieftain stood</l>
+                    <l>Undaunted and serene;</l>
+                    <l>Ready, ready,&#8212;staunch and steady,&#8212;</l>
+                    <l>And forth the orders flew</l>
+                    <l>That marched us off to Quatre Bras,</l>
+                    <l>And whelming Waterloo.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Begin, begin with Quatre Bras,</l>
+                    <l>That twin-born field of fame</l>
+                    <l>Where many a gallant name,</l>
+                    <l>That battle-field, which seemed to yield</l>
+                    <l>An earnest and review</l>
+                    <l>And did at Waterloo.</l>
+                </lg>
+
+
+                <note type="authorial" place="center" resp="#h2"><milestone unit="undeclared"
+                        rend="horbar-short-center"/></note>
+
+
+                <lg type="stanza">
+                    <l>We heard from far old Blucher's guns,</l>
+                    <l>At Ligny's blazing street,</l>
+                    <l>And hurried on to Weimar's aid,</l>
+                    <l>Right glad the foe to meet;</l>
+                    <l>A score of miles to Quatre Bras;</l>
+                    <l>But still to arms we stood,</l>
+                    <l>And cheerly rushed without a pause</l>
+                    <l>To win the Boissy wood.</l>
+                </lg>
+            </div1>
+
+
+
+            <div1>
+                <pb xml:id="leaf027v" facs="unl_sg.00032.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">314</fw>
+                <fw type="header" place="top">HACTENUS</fw>
+
+                <lg type="stanza">
+                    <l>This, this is wisdom, manful and serene,</l>
+                    <l>Towards God all penitence and prayer and trust,</l>
+                    <l>But to the troubles of this shifting scene</l>
+                    <l>Simply courageous and sublimely just:</l>
+                    <l>Be then such wisdom thin, my heart within,&#8212;</l>
+                    <l>There is no foe nor woe nor grief but&#8212;Sin.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+            <div1>
+
+                <head>THE HEART'S HUSBAND.</head>
+                <head type="sub">FOR MUSIC.</head>
+
+                <lg type="stanza">
+                    <l><note type="authorial" place="inline" resp="#h2">(</note><hi rend="smallcaps"
+                            >GO</hi>, leave me to weep for the years that are past,</l>
+                    <l>For my youth, and its friends, and its pleasures all dead,</l>
+                    <l>My spring and my summer are fading too fast,</l>
+                    <l>And I long to live over the days that are fled;<note type="authorial"
+                            place="inline" resp="#h2">)</note></l>
+                    <l>It is not for sorrows or sins on my track</l>
+                    <l>That I mournfully cast my fond yearnings behind,&#8212;</l>
+                    <l>&#8212;Ah, no,&#8212;from affection I love to look back,</l>
+                    <l>It is only my heart that has wedded my Mind.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>And still, let the Mind that has married a Heart</l>
+                    <l>Though loving, be strong as a King in his pride,</l>
+                    <l>And ever command that all weakness depart</l>
+                    <l>From the realm that he rules in soul of his bride;</l>
+                    <l>For what, if all time and all pleasures decay?</l>
+                    <l>My Mind is myself, an invincible chief,&#8212;</l>
+                    <l>Like a child's broken toys are the years past away,</l>
+                    <l>And my Heart, half-ashamed, has forgotten her grief.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+
+            <div1>
+                <pb xml:id="leaf028v" facs="unl_sg.00033.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">328</fw>
+                <fw type="header" place="top">HACTENUS</fw>
+
+                <ab>II.</ab>
+
+                <lg type="stanza">
+                    <l>Soft little butterfly-guest of my heart,</l>
+                    <l>Whither now flittest thou, spirit of mine?</l>
+                    <l>Woe,&#8212;for thy merriment must it depart</l>
+                    <l>Naked and frigid and pallid to pine?</l>
+                </lg>
+
+                <ab>III.</ab>
+
+                <lg type="stanza">
+                    <l>Soul, thou tiny truant dear,</l>
+                    <l>Bosom friend for many a year,</l>
+                    <l>Restless little darling, say,</l>
+                    <l>Whither stealest thou away?</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Pallid as a fainting maid,</l>
+                    <l>Naked, icy-cold, afraid,</l>
+                    <l>Is then all thy wit in vain,&#8212;</l>
+                    <l>Shalt thou never laugh again?</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>NO SURRENDER.</head>
+                <head type="sub">FOR MUSIC.</head>
+
+                <lg type="stanza">
+                    <l><note type="authorial" place="inline" resp="#h2">(</note><hi rend="smallcaps"
+                            >EVER</hi> constant, ever true,</l>
+                    <l>Let the word be, No surrender;<note type="authorial" place="inline"
+                            resp="#h2">)</note></l>
+                    <l>Boldly dare and greatly do!</l>
+                    <l>This shall bring us bravely through,</l>
+                    <l>No surrender, No surrender;</l>
+                    <l>And though Fortune's smiles be few</l>
+                    <l>Hope is always spring new,</l>
+                    <l>Still inspiring me and you</l>
+                    <l>With a magic&#8212;No surrender!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Nail the colors to the mast,</l>
+                    <l>Shouting glad, No surrender!</l>
+                    <l>Troubles near are all but past&#8212;</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf029r" facs="unl_sg.00034.jpg" type="recto"/>
+                <fw type="header" place="top">ERRATA&#8212;IMPROMPTU.</fw>
+                <fw type="pageNum" place="top-right">335</fw>
+
+                <lg type="stanza">
+                    <l>The pledge and promise of our Father's love!</l>
+                    <l>God guard the babe; and cherish the young child;</l>
+                    <l>And bless the boy with nurture wise and mild;</l>
+                    <l>And lead the lad, and yearn upon the youth;</l>
+                    <l>And make the man a man of trust and truth;</l>
+                    <l>Through life and death uphold him all his days,</l>
+                    <l>And then translate him to Thyself with praise!</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>ERRATA.</head>
+                <head type="sub">AN AUTHOR'S COMPLAINT.</head>
+
+                <note type="authorial" place="right" resp="#h1">&#10003;</note>
+
+                <lg type="stanza">
+                    <l><hi rend="circled"><hi rend="smallcaps">O Friends</hi> and brothers, judge me
+                            not unheard,</hi></l>
+                    <l><hi rend="circled">Make not a man offender for a word:</hi></l>
+                    <l><hi rend="circled">For often have I noted seeming fault</hi></l>
+                    <l><hi rend="circled">That harm'd my rhymes, and made my reasons halt,</hi></l>
+                    <l><hi rend="circled">Whilst all that error was some printer's sloth,</hi></l>
+                    <note type="authorial" place="right" resp="#h1">&#10003;</note>
+                    <l><hi rend="circled">Who, scorning rhyme and reason, slew them both:</hi></l>
+                    <l><hi rend="circled">Be ye then liberal to your far-off friend</hi></l>
+                    <l><hi rend="circled">Where garbled, guess him; and where maim'd amend</hi></l>
+                    <l><hi rend="circled">Trust him for wit, when types have marr'd the
+                        word,</hi></l>
+                    <l><hi rend="circled">And wisdom, too, where only blockheads err'd.</hi></l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>IMPROMPTU.</head>
+                <head type="sub">TO ONE WHO SAID THAT SHE DISLIKED POETRY.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">LADY,</hi> thou lovest high and holy Thought,</l>
+                    <l>And noble deeds, and hopes sublime or beauteous,</l>
+                    <l>Thou lovest charities in secret wrought,</l>
+                    <l>And all things pure and generous and duteous;</l>
+                </lg>
+
+            </div1>
+
+
+
+
+
+
+            <div1>
+
+                <pb xml:id="leaf030r" facs="unl_sg.00035.jpg" type="recto"/>
+                <fw type="header" place="top">"THE WARM YOUNG HEART."</fw>
+                <fw type="pageNum" place="top-right">337</fw>
+
+                <lg type="stanza">
+                    <l>The star of Charity and Truth,</l>
+                    <l>Of cheerful thoughts and sage,</l>
+                    <l>The lamp to guide my steps in youth,</l>
+                    <l>And gladden mine old age!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>O brother, yield: thy fiery Mars,</l>
+                    <l>For all his mailed might,</l>
+                    <l>Is not so strong among the stars</l>
+                    <l>As mine, the Queen of night:</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>A Queen to shine all nights away,</l>
+                    <l>And make the morn more clear,</l>
+                    <l>Contentment gilding everyday,&#8212;</l>
+                    <l>&#8212;There is no twilight here!</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Yes; in a trial world like this</l>
+                    <l>Where all that comes&#8212;is sent,</l>
+                    <l>Learn how divine a thing it is</l>
+                    <l>To smile and be content!</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>"THE WARM YOUNG HEART."</head>
+                <head type="sub">FOR MUSIC.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">A BEAUTIFUL</hi> face, and a form of grace</l>
+                    <l>Were a pleasant sight to see,</l>
+                    <l>And gold, and gems, and diadems,</l>
+                    <l>Right excellent they be:</l>
+                    <l>But beauty and gold, tho' both be untold,</l>
+                    <l>Are things of a worldly mart,</l>
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>The wealth that I
+                        prize, above ingots or eyes,</l>
+                    <l>Is a heart,&#8212;a warm young heart!<note type="authorial" place="inline"
+                            resp="#h2">)</note></l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>O face most fair, shall thy beauty compare</l>
+                    <l>With affection's glowing light?</l>
+                </lg>
+
+                <fw type="sig" place="bottom">15</fw>
+
+            </div1>
+
+
+
+
+
+
+
+
+
+            <div1>
+
+                <pb xml:id="leaf031r" facs="unl_sg.00036.jpg" type="recto"/>
+                <fw type="header" place="top">FRIENDS.</fw>
+                <fw type="pageNum" place="top-right">347</fw>
+
+
+                <lg type="stanza">
+                    <l>My scathed and frozen from,</l>
+                    <l>For heart and hand together we'll stand,</l>
+                    <l>And mock at the baffled storm,</l>
+                    <l>Ha, ha! Together.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>And so when grief is withering the leaf,</l>
+                    <l>And checking hope's young flower,</l>
+                    <l>And frosts do bite with their teeth so white</l>
+                    <l>In disappointment's hour,</l>
+                    <l>Tho' it might o'erwhelm either ivy or elm</l>
+                    <l>If alone each stood in the strife,</l>
+                    <l>If heart and hand together they stand,</l>
+                    <l>They may laugh at the troubles of life,</l>
+                    <l>Ha, ha! Together.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>FRIENDS.<note type="authorial" place="inline" resp="#h1">!!</note></head>
+
+
+                <lg type="stanza">
+
+                    <l><note type="authorial" place="inline" resp="#h1">(</note><hi rend="smallcaps"
+                            >I CANNOT</hi> move a mile upon this earth,</l>
+                    <l>I could not, did I walk from end to end,</l>
+                    <l>But there I find a heart of wit and worth,</l>
+                    <l>Some gracious spirit to be hailed a friend:<note type="authorial"
+                            place="right" resp="#h1">&#10003;</note></l>
+                    <l>O there are frequent angels unawares,</l>
+                    <l>And many have I met upon my way,</l>
+                    <l>Kind Christian souls, to make me rich with prayers,</l>
+                    <l>Whilst in like a coin their mercies I repay;</l>
+                    <l>And oft the sun of praise hath lit mine eyes,</l>
+                    <l>Generous praise and just encouragement,</l>
+                    <l>From some who say I help them to be wise,</l>
+                    <l>And teach them to be happy in content:</l>
+                    <l>Ah soul, rejoice! for thou hast thickly sown</l>
+                    <l>The living world with friendships all thine own.<note type="authorial"
+                            place="inline" resp="#h1">)</note></l>
+
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+
+
+            <div1>
+                <pb xml:id="leaf031v" facs="unl_sg.00038.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">396</fw>
+                <fw type="header" place="top">MISCELLANEOUS POEMS.</fw>
+
+                <lg type="stanza">
+                    <l>It is a terrible thing to dream</l>
+                    <l>Of strangled throats and heart-blood spilt,</l>
+                    <l>And ghosts that in the darkness gleam,</l>
+                    <l>And horrid eyes of midnight guilt.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l><note type="authorial" place="inline" resp="#h2">(</note>I love a dream, I
+                        dread a dream,<note type="authorial" place="inline" resp="#h2">)</note></l>
+                    <l>Sometimes all bright and full of gladness,</l>
+                    <l>But other times my brain will teem</l>
+                    <l>With sights that urge the mind to madness.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>INFANT CHRIST, WITH A WREATH OF FLOWERS.</head>
+                <head type="sub">FROM A PICTURE BY CORREGGIO.</head>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">YES,</hi>&#8212;I can fancy, in the spring</l>
+                    <l>Of childhood's sunny hours,</l>
+                    <l>That nature's infant, priest, and king,</l>
+                    <l>Lov'd to gaze on flowers:</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>For lightly, 'mid the wreck of all,</l>
+                    <l>When torn from Eden's bowers,</l>
+                    <l>Above the billows of the fall</l>
+                    <l>Floated gentle flowers.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Unfallen, sinless, undefil'd,</l>
+                    <l>Fresh bath'd in summer showers,</l>
+                    <l>What wonder that the holy child</l>
+                    <l>Lov'd to play with flowers?</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>In these he saw his Father's face,</l>
+                    <l>All Godhead's varied powers,</l>
+                    <l>And joy'd each attribute to trace</l>
+                    <l>In sweet unconscious flowers:</l>
+                </lg>
+
+            </div1>
+
+            <div1>
+
+                <pb xml:id="leaf032r" facs="unl_sg.00039.jpg" type="recto"/>
+                <fw type="header" place="top">MARRIAGE.</fw>
+                <fw type="pageNum" place="top-right">415</fw>
+
+                <lg type="stanza">
+                    <l>You bride,&#8212;a tear for thee!</l>
+                    <l>A tear in all thy gladness;</l>
+                    <l>For thy young heart shall not see</l>
+                    <l>Joy unmix'd with sadness.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Young bride,&#8212;a smile for thee!</l>
+                    <l>To shine away thy sorrow,</l>
+                    <l>For heaven is kind to-day, and we</l>
+                    <l>Will hope as well to-morrow.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l>Young bride,&#8212;a prayer for thee!</l>
+                    <l>That all thy hopes possessing,</l>
+                    <l>Thy soul may praise her God, and he</l>
+                    <l>May crown thee with his blessing.</l>
+                </lg>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            </div1>
+
+
+            <div1>
+
+                <head>MARRIAGE.</head>
+
+                <lg type="stanza">
+                    <span rend="bracket-left" hand="#h2" xml:id="s73" from="s73" to="#s74"/>
+                    <l><hi rend="smallcaps">IT</hi> is most genial to a soul refined,</l>
+                    <l>When love can smile unblushing, unconcealed,</l>
+                    <anchor xml:id="s74"/>
+                    <span rend="singleLine-left" hand="#h2" xml:id="s75" from="s75" to="#s76"/>
+                    <l>When mutual thoughts, and words, and acts are kind,</l>
+                    <l>And inmost hopes and feelings are revealed;</l>
+                    <l>When interest, duty, trust, together bind,</l>
+                    <l>And the heart's deep affections are unsealed,</l>
+                    <l>When for each other live the kindred pair,&#8212;</l>
+                    <l>Here is indeed a picture passing fair!</l>
+                    <anchor xml:id="s76"/>
+                </lg>
+
+                <lg type="stanza">
+                    <span rend="singleLine-left" hand="#h2" xml:id="s77" from="s77" to="#s78"/>
+                    <l>Hail, happy state! which few have heart to sing,</l>
+                    <l>Because they feel how faintly words express</l>
+                    <l>So kind, and dear, and chaste, and sweet a thing</l>
+                    <l>As tried affection's lasting tenderness;&#8212;</l>
+                    <l>Yet, stop, my venturous muse! and fold thy wing</l>
+                    <l>Nor to a shrine so sacred rudely press;</l>
+                    <span rend="bracket-right" hand="#h2" xml:id="s79" from="s79" to="#s78"/>
+                    <l>For, marriage,&#8212;thine is still a silent boast,</l>
+                    <l>"Like beauty unadorned, adorned the most."</l>
+                    <anchor xml:id="s78"/>
+                </lg>
+
+            </div1>
+
+
+
+
+
+
+
+        </body>
+    </text>
+</TEI>

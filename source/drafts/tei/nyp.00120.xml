@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Poem</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>nyp.00120</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Whitman used the newspaper clipping pasted to this page to derive specific ideas for his works of poetry. No image of the verso is available.</note>             
+            </notesStmt>
+            <sourceDesc>
+
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Poem</title>       
+                    <date xml:id="dat1"></date>
+                    <idno type="callno"/>
+                    <orgName xml:id="nyp">The Oscar Lion Papers, 1914&#8211;1955, New York Public Library, New York, N.Y.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-11-07" who="#nhg">checked, corrected</change>
+            <change when="2014-09-11" who="#kc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            
+            <pb xml:id="leaf001r" facs="nyp.00120.001.jpg" type="recto"/>
+            <head type="main-authorial"><handShift new="#h1"/>Poem</head>
+            
+            <add rend="pasteon">
+                <q who="unknown" type="printed"><handShift new="#h2"/>
+                    <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf002r" facs="m_1260908u.jpg" type="recto"/>
+                        <p xml:id="p1a" next="p1b">To struggle is not to suffer. Heaven grants to few of us a life of untroubled prosperity, and grants it least of all to its favourites. Charles I. carried, as it was thought by a keen Italian judge of physiognomy, a pre-destination to misery written in his features. And it is probable that if any Cornelius Agrippa had then been living, to show him in early life the strife, the bloodshed, the triumphs of enemies, the treacheries of friends, the separation for ever from the familiar faces of his hearth, which darkened the years from 1642 to 1649, he would have said&#8212;"Prophet of wo! if I bear to live through this vista of seven years, it is because at the further end of it thou showest me the consolation of a scaffold." And yet our persuasion is, that in the midst of its deadly agitations and its torments of suspense, probably enough by the energies of hope, or even of anxiety which exalted it, that period of bitter conflict was found by the king a more ennobling life than he <hi rend="italic">would</hi> have found in</p>
+                    </body></floatingText></q>
+            </add>
+            
+            <add rend="pasteon"><handShift new="#h2"/>
+                <q who="unknown" type="printed">
+                    <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf003r" facs="m_1260908u.jpg" type="recto"/>
+                        <p xml:id="p1b" prev="p1a">the torpor of a prosperity too profound. To be cloyed perpetually is a worse fate than sometimes to stand within the vestibule of starvation; and we need go no further than the confidential letters of the court ladies of this and other countries to satisfy ourselves how much worse in its effects upon happiness than any condition of alarm and peril, is the lethargic repose of luxury too monotonous, and of security too absolute. If therefore Gold <gap reason="cut away" atLeast="1" unit="chars"/></p>
+                    </body></floatingText></q>
+            </add>
+            
+            <ab><handShift new="#h1"/><hi rend="underline">Poem</hi> (idea)</ab>
+            <ab>"To struggle is not to suffer"</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            
+                <ab>bold and strong invocation of suffering&#8212;to try how much one can stand</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+                <ab><hi rend="underline">overture</hi>&#8212;a long list of words&#8212;the sentiment of suffering, oppression, despair, anguish</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+                <ab>collect (rapidly present) terrible scenes of suffering</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+                <ab>"Then man is a god"</ab>
+            <ab>Then he walks over all</ab>
+    
+        </body>
+    </text>
+</TEI>

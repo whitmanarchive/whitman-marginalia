@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"On Style"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00014</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"On Style"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1845-10">Oct 1845</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="type"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-10-24">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00007.jpg" type="recto"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/>Style. J.D.W.</note>
+            <note type="authorial" resp="#h2" place="top right"><handShift new="#h2"/>3</note>
+            <note type="authorial" resp="#h3" place="top left"><handShift new="#h3"/>+</note>
+            <note type="authorial" resp="#h3" place="top right"><handShift new="#h3"/>4)</note>
+            <fw type="date" place="top left">1845.]</fw>
+            <fw type="pageNum" place="top right">357</fw>
+            <fw type="header" place="top"><hi rend="italic">The River.</hi></fw>
+            <delSpan rend="hashmark" spanTo="#ds001" hand="#h2"/>
+            <div1>
+                <p><handShift new="#h1"/>with agitation and vehemence. I was informed that there was
+                    no such city, town or village in the county! My hair fairly rose on end, like
+                    "quills upon the fretful porcupine." I perused my deed of conveyance again and
+                    again. There it was plainly, in black and white, "the city of
+                    Franklin"&#8212;"lots 500 and 501 on National Avenue." I traversed the county in
+                    all directions, wearied every traveler with my inquiries, disturbed the inmates
+                    of every log hut, and got myself kicked out of one or two for my impetuosity of
+                    manner. It was labor lost. In the language of that region, I was "done
+                    for"&#8212;"diddled." Civic honors!&#8212;rent roll!&#8212;blocks of buildings!
+                    Alas! My dreams has fled&#8212;so had my money. My obliging friend of the
+                    steamboat was a man of imagination, as well as of profound morality; the city
+                    existed <hi rend="italic">on his map</hi> "The scoundrel!" said<cb/> I, "let me
+                    catch him again!"&#8212;But instead of my catching him he had evidently caught
+                    me&#8212;something of a difference as I found. One thing I did catch&#8212;the
+                    fever-and-ague. I took it at a log-house, in the vicinity of a slight
+                    swamp"&#8212;as the owner of the shantee called a three mile morass&#8212;and
+                    had it a trifle over nine weeks. The ghost of my father wouldn't have known
+                    me!</p>
+                <p>this was my <hi rend="italic">first speculation</hi>, It may be imagined in what
+                    mood I traveled after this adventure, but it cannot well be imagined why, after
+                    this lesson, I continued the pleasing game of getting rich without labor. The
+                    result of my gains as a speculator may be expressed by a cipher, or any number
+                    of them together, as $0,000, etc. I returned "a sadder, but a wiser man," the
+                    owner of eighty acres of wild land, and in debt eleven thousand dollars!</p>
+                <anchor xml:id="ds001"/>
+
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+                <lg>
+                    <head type="main-authorial" rend="smallcaps"><handShift new="#h1"/><handShift new="#h1"/>THE RIVER.</head>
+                    <head type="sub"><hi rend="smallcaps">FROM THE SWEDISH OF TEGNER.</hi></head>
+                    <lg type="linegroup">
+                        <l>Fast by the River's trickling source I sit</l>
+                        <l>And view the new-born offspring of the skies;</l>
+                        <l>Cradled on naked fell, a nursling yet,</l>
+                        <l>Fed by his mother-cloud's soft breast, he lies.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>But lo! the heaven-born streamlet swelling flows,</l>
+                        <l>Dreaming e'en now of fame, the woods adown;</l>
+                        <l>And, as his bosom heaves with longing throes,</l>
+                        <l>His wavelets rock the mirrored sun and moon/</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>And now he scorns beneath the first to creep,</l>
+                        <l>Or hemmed by narrow mountain walls to flow,</l>
+                        <l>But madly tumbles down the headlong steep,</l>
+                        <l>And foams along the pebbly dell below.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>"Come on! come on!" he every brookling hails,</l>
+                        <l>"Here sands absorb, and suns exhaust, your force;</l>
+                        <l>Ye brothers come! through smiling fields and vales,</l>
+                        <l>I lead you down to our primeval source."</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>Now to the plains in triumph he descends,</l>
+                        <l>With dark blue train and state that homage claim;</l>
+                        <l>Parched fields his breath revives as on he bends</l>
+                        <l>His course, baptizing nations with his name.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>And bards, in strains divine, his praises sing,</l>
+                        <l>Tall ships are on his bosom borne away,</l>
+                        <l>Proud cities court him, flowery meadows cling</l>
+                        <l>Around his knees, and sue him to delay.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>But they detain him not; with ceaseless haste</l>
+                        <l>Fair fields and gilded towns he hurries by,</l>
+                        <l>Nor slacks his tide impetuous, till at last</l>
+                        <l>He on his father's bosom falls&#8212;to die!</l>
+                    </lg>
+                </lg>
+            </div1>
+
+            <fw type="footnote" place="bottom left">Vol II.&#8212;NO. IV.</fw>
+            <fw type="footenote" place="bottom">25</fw>
+            <pb xml:id="leaf001v" facs="rut_nhg.00008.jpg" type="verso"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h3"/>by J D. Whelpley (I
+                    think)<handShift new="#h1"/></note>
+            <fw type="date" place="top right">[Oct.,</fw>
+            <fw type="pageNum" place="top left">358</fw>
+            <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw>
+            <div1>
+                <head type="main-authorial" rend="smallcaps"><handShift new="#h1"/>ON STYLE</head>
+                <p><hi rend="smallcaps">THERE</hi> is a something in the compositions of a good
+                    writer, that affects us more sensibly than either his manner of his style; and
+                    which, in absence of a better word, may be named his <hi rend="italic">character:</hi> signifying, that as the taste of the writer appears in the
+                        <hi rend="italic">style</hi>, and his genius in the <hi rend="italic">manner</hi>, so his natural disposition, as a man, is discovered in the <hi rend="italic">character</hi> of his writings. Since there is a character of
+                    nations, as well as of individuals, this will appear in the prevalancy of a
+                    certain spirit among a number of contemporary writers of the same nation.</p>
+                <p><span rend="doubleLine-left" hand="#h2" xml:id="dl001" from="#dl001" to="#dl002"/>It may be advanced without danger of contradiction, that <hi rend="underline" hand="#h2">the value of an author to the world, is chiefly in the
+                        "character" of what he says,</hi>&#8212;using that word in the sense just
+                    now adopted for it;&#8212;and this is evident, upon the reflection that <hi rend="underline" hand="#h2">that a great writer loses nothing essential by
+                        translation;</hi><anchor xml:id="dl002"/> and that style and manner are
+                    almost inappreciable by another age and nation. However much our taste and fancy
+                    may be gratified by a perfect understanding of our own writers, what is truly
+                    valuable in them may be as perfectly expressed in a coarser dialect. If we may
+                    judge by the kind of works that have come down to us from antiquity, <hi rend="underline" hand="#h2">the duration of a work, and the fame of an
+                        author, depend almost exclusively upon the elevation of his sentiments</hi>;
+                    and those elegances for which he is admired, are either such as flow directly
+                    from this source, or they are artificial advantages proper to his language and
+                    age, and of little moment to posterity</p>
+                <p><note type="authorial" resp="#h2" place="left"><handShift new="#h2"/>☞</note><handShift new="#h1"/><span rend="doubleLine-left" hand="#h2" xml:id="dl003" from="#dl003" to="#dl004"/>Longinus, a critic of
+                    exalted genius, and who has himself taken rank among the best writers, advises
+                    that <hi rend="underline" hand="#h2">an author who means to out-last his
+                        century, shall imagine what judgement Homer or Plato would give upon his
+                        work:</hi> but we can hardly think of these heroes in authorship, as
+                    curiously commenting on the style or manner of a writer ; but rather fancy them
+                        <hi rend="underline" hand="#h2">weighing the substance of what he says, and
+                        sounding the depth of his sentiment&#8212;for those were the points that
+                        seem most to have occupied them in the composition of their own
+                            works.<anchor xml:id="dl004"/></hi></p>
+                <p>The English writer may place himself under as wise advisers, in the judgements of
+                    the masters of his own tongue ; though none of these arrived ever at that
+                    purity<cb/> and singleness, which made the older Greeks the unapproachable
+                    models of <hi rend="italic">style</hi>. A generous emulation of antiquity has
+                    kept alive the spirit of our literature; not to the exclusion of that free
+                    manner and indulgence of fancy, which is proper to the moderns, nor to the
+                    extinction or neglect of our proper idiom ; but by drawing attention continually
+                    to the better parts of humanity, and favoring the indulgence of manly and
+                    generous sentiments.</p>
+                <p>No better example can be chosen of this kind of imitation, than appears in the
+                    philosophical writings of Lord Bacon; wherein he emulates the design of Socrates
+                    and his pupils, who bent their efforts to increase human happiness, not only by
+                    a present entertainment, but by turning all speculation into the channels of
+                    economy and morals. The prose style of English being at its formation when the
+                    Lord Chancellor composed his treatises, a great deal of another kind of
+                    imitation was prevalent. Not only the sentiments, but the idiom and manner of
+                    Greek writers was often roughly adopted, and mingled in a blind confusion with
+                    the Gothic prejudice and imagery of that age. In a history, composed by him, of
+                    Henry Seventh, Lord Bacon reproduces the manner, but not the spirit of
+                    Thucydides, rolling trains of polity and eulogy through periods of perilous
+                    weight and involution : but the spirit of the work is altogether English and
+                    monarchic.</p>
+                <p>Perhaps there are no writings in the world, if we except Homer's, where character
+                    appears with such a power and constancy as in <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>; yet in him, even, there is a great deal that is harsh and
+                    displeasing. Now if it could be shown that his excellence is either
+                    characteristic, or in emulation of the ancients, but that all his grossness and
+                    extravagancy is either imitated from others, or belonged to the conversation of
+                    his age, a perfect argument would have been found for this nobler kind of
+                    imitation, and as perfect a caution against the inferior sort. Who can
+                    contemplate, without delight, the idea of a writer who should unite classic
+                    purity with English spirit and variety;&#8212;the splendid and fortunate
+                    conjunction of the two master spirits of genius, the English and the Greek?</p>
+                <p>We are the most fortunate people in <pb xml:id="leaf002r" facs="rut_nhg.00009.jpg" type="recto"/>
+                    <fw type="date" place="top left">1845.]</fw>
+                    <fw type="pageNum" place="top right">359</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw> the world in
+                    respect of examples; for, beside our own writers, from the age of Chaucer to
+                    that of Addison, and many great instances since, we have possession of the
+                    oldest and wisest of all books; and with a little diligence, can arrive at all
+                    that is excellent of the Greeks and Romans. At this banquet of knowledge there
+                    is so endless a profusion, and so exquisite a variety, an hundred lives could
+                    not utterly exhaust it. It is a special happiness that no man need jostle or
+                    rival his neighbor; but each, selecting for himself, may make a sweet of
+                    peculiar flavor.</p>
+                <p><span rend="singleLine-left" hand="#h2" xml:id="dl005" from="#dl005" to="#dl006"/>The great variety of style and manner to be found in English writing, offering
+                    such a diversity of models, seems to make it impossible that the language should
+                    ever attain a classic purity, or the manner of good writing be reduced to any
+                    particular standard.<anchor xml:id="dl006"/>The Greeks had an advantage which no
+                    modern nation possesses, of employing few foreign phrases, and of using no
+                    compounded words whose meaning did not appear in the composition. But because
+                    our language is taken partly from the Latin and Greek, its compounds of those
+                    sources are loosely employed, without regard to their exact meaning : so that
+                    none write or speak correctly but such as know the radical words of these,
+                    beside those of their own tongue. Long and sounding words make the strongest
+                    impression upon the ear, and are more easily employed than phrases of several
+                    monosyllables. A feeble writer may hide the weakness of his meaning under a
+                    crowd of sounding terminations, huddled together without attention to their
+                    proper use: and this accident is alone sufficient to account for the difference
+                    between good writing and good conversation in English. <span rend="singleLine-left" hand="#h2" xml:id="dl007" from="#dl007" to="#dl008"/>A Greek who knew the exact meaning of a word at first hearing, because of his
+                    familiarity with its radicals, might speak as perfectly as he wrote; and if he
+                    used long words, his audience entered easily into his meaning. But a writer of
+                    English must refrain from any but the simplest expressions, or his hearers are
+                    as little likely to understand, as he is to speak, with exactness&#8212;a
+                    serious hindrance to the perfection of our tongue, and one which it seems unable
+                    ever to overcome.<anchor xml:id="dl008"/></p>
+                <p>But from this apparent misfortune, a very positive advantage may be gathered. An
+                    author who is pedantically or technically inclined, can make no popular display
+                    with subtleties or false learning, and <cb/> must adhere closely to the
+                    commonest notions and expressions; at the same time that an infinite variety of
+                    phrase lies always within reach.</p>
+                <p>Those writers of modern times who trusted solely to the excellence of their
+                    sentiments, have preferred the popular phrase; so that all the best parts of
+                    modern literature are in a dialect that all understand. But where the desire of
+                    popularity prevails over the pride of learning, there may be a disposition to
+                    debase a language, and fill it with barbarisms, which as certainly obscure the
+                    sense as the most learned affectations; and with the greater disadvantage of
+                    being forgotten in the next generation.</p>
+                <p>Simplicity of style, and naturalness of manner, leave the reader free to receive
+                    what is intrinsically good; so that in writing and speaking, as in manners, the
+                    chief excellence seems to lie in the avoidance of every thing irrelevant or
+                    superfluous, that every purer excellence, of thought or sentiment, may appear in
+                    its natural light. Ingenuity and order must indeed be everywhere present, in a
+                    work of entertainment; but flashes of character, at important moments, astonish
+                    and take possession of the soul. In the simple words,</p>
+                <l>"Wisdom is justified of her children,"</l>
+                <p>we discover an exhaustless depth: all that is grand and imperishable in human
+                    character appears in it. Such sayings have the miraculous power to bring a
+                    century of experience within the compass of an instant. <span rend="doubleLine-right" hand="#h2" xml:id="dl009" from="#dl009" to="#dl010"/><hi rend="underline" hand="#h2">Since all that is sublime and the
+                        sentiment of immortality, the grandeur of a composition increases, as it
+                        draws nearer to the heights of contemplation.</hi><anchor xml:id="dl010"/>
+                    <span rend="doubleLine-right" hand="#h2" xml:id="dl011" from="#dl011" to="#dl012"/>Works of character stand through all ages, not so much as
+                    monuments to their authors, (for they seem rather to be the product of an age
+                    than of a man,) as like mountains emulating the heavens, and sending down
+                    fertilizing streams <anchor xml:id="dl012"/></p>
+                <p>And yet, even in inspiration, there is logic; and a reason is concealed in every
+                    mystery. What is so well done, must have been done deliberately. <span rend="doubleLine-right" hand="#h2" xml:id="dl013" from="#dl013" to="#dl014"/>"Nothing," says Longinus, "can be truly great, that is the result of
+                    accident." The noblest works discover as much skill as vigor.<anchor xml:id="dl014"/><note type="authorial" resp="#h2" place="right"><handShift new="#h2"/>☜</note><handShift new="#h1"/>
+                    <span rend="singleLine-right" hand="#h2" xml:id="dl015" from="#dl015" to="#dl016"/>If nature has given genius, it is a proof of wisdom to use it
+                    with discretion. <anchor xml:id="dl016"/></p>
+                <p>Nor will any reader be satisfied with images or thoughts, be they never so
+                    admirable in themselves, unless they are <pb xml:id="leaf002v" facs="rut_nhg.00010.jpg" type="verso"/>
+                    <fw type="date" place="top right">[Oct.,</fw>
+                    <fw type="pageNum" place="top left">360</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw> naturally
+                    combined, and make an impression as a whole. Many writers, of inferior genius,
+                    have secured a great popularity by the art of making a clear and strong
+                    impression of some trivial matter; having such a regard for the reader's esteem
+                    as to obtrude nothing upon him that is inappropriate, or fanciful. Those
+                    licenses, as they are called, of poetry, seem not originally to have been the
+                    freedoms of a drunken fancy, but strokes of judgment, that an idea or image may
+                    reach us unimpeded by an unnecessary formality. There is a pleasure in congruity
+                    alone, which reconciles us to an object that is unnatural in itself; and a
+                    cultivated taste endures the marvelous only when it is consistent, or has a
+                    meaning. Homer and <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, though full of extravagances when compared with nature, yet make one
+                    extravagance arise so naturally out of another, they satisfy the most exquisite
+                    propriety.</p>
+                <p><span rend="doubleLine-left" hand="#h2" xml:id="dl017" from="#dl017" to="#dl018"/> If then there be any universal principle of art, it must be, that every
+                    member of a composition agree in its intent and figure with some other member,
+                    as well as with the whole; <anchor xml:id="dl018"/> just as, in architecture,
+                    the parts and ornaments of the column repeat and illustrate those of the
+                    entablature, and these again, those of the whole building; or better still, as,
+                    to a practiced eye, each member of a human body seems to agree with and suggest
+                    the whole. And this comparison will perfectly illustrate what is intended by the
+                        <hi rend="italic">character</hi> to be discovered in a composition; for as
+                    the form and proportion of the body harmonizes with the characteristics of the
+                    mind which inspires it, so will every least member of a well composed work agree
+                    with the idea that suggested and governs it. Human bodies discover an
+                    inexhaustible variety of beauty, correspondent with as many shade of character;
+                    works of artists and writers vary as remarkably with the disposition of their
+                    authors. When the ornaments of a style are <hi rend="italic">added</hi> or
+                    affixed to the subject matter, instead of growing out of it by suggestion of
+                    fancy, the effect is like that of ornaments fixed upon a wooden mansion, without
+                    regard to any real or apparent use. But if there be an art of adornment, it is
+                    at least as critical as it is suggestive and rejects far more than it proposes.
+                        <span rend="singleLine-left" hand="#h2" xml:id="dl019" from="#dl019" to="#dl020"/> A poem or a picture is sometimes composed of exquisitely
+                    finished parts, so pleasing in themselves that nothing prevents their author's
+                    immortality of fame, but a want of unity or singleness of effect.<anchor xml:id="dl020"/> Even in the very <cb/> best works incongruities appear
+                    which mar our pleasure. But the kind of consistency, whose want most effectually
+                    prevents the reputation of a work, appears not so much in disregard of
+                    probability as in violation of the spirit. Could we, for example, imagine Hamlet
+                    indulging in vivacious gaiety, or Tom Jones moralizing in the manner of
+                    Allworthy, we might think the author either had some design on our penetration,
+                    or else had forgot himself. This kind of inconsistency appears in those popular <choice>
+                        <orig>melo-dramas</orig>
+                        <reg>melodramas</reg>
+                    </choice>, where the hero, a person designedly painted as the victim of every
+                    impulse, is made the mouthpiece of exalted and humane sentiments. Such pieces
+                    may be very agreeable in the representation, but bear no inspection as wholes,
+                    and are perishable accordingly. <span rend="doubleLine-right" hand="#h2" xml:id="dl021" from="#dl021" to="#dl022"/> A writer whose single design
+                    appears clearly in all he says, may violate every other rule, and yet commands
+                    entire respect: it seems to be enough that he discovers character and a purpose.
+                        <anchor xml:id="dl022"/></p>
+                <p>So essential is exaltation of sentiment in works of art, a landscape, even, gives
+                    no pleasure to the taste, unless, in some manner, this quality is discovered in
+                    it. Skilful painters, perceiving this necessity, avoid too close an imitation of
+                    nature, and by certain extraordinary combinations produce impressions of
+                    life=likeness in inanimate things, as though a spirit moved them. Animals are
+                    represented expressing qualities that appear only in human beings, and images of
+                    men seem inspired with a divine soul.</p>
+                <p>Such works leave no impression of their detail, but are recollected as wholes, as
+                    we remember a person. When, on the other hand, this quality is absent, the parts
+                    make a deep impression as it happens with fanciful authors who say quotable
+                    things, full of point and sense, but whose works are rather a magazine, than an
+                    armament of wit.</p>
+                <p>It is frequently observed that figures in some excellent landscapes serve only to
+                    divert attention, though unworthy of notice in themselves; and contrariwise, an
+                    indifferent landscape is often so managed as to obscure an admirable figure: the
+                    character of the two discovering no congruity. The same may be observed in some
+                    works of fiction, which their author intended should have a moral use; and to
+                    that end, has given his proverbs and maxims in a dish by themselves; but a more
+                    ingenious writer so blends hi moral with the story, it has the effect, like a
+                    thread of gold, of strengthening and enli- <pb xml:id="leaf003r" facs="rut_nhg.00011.jpg" type="recto"/>
+                    <fw type="date" place="top left">1845.]</fw>
+                    <fw type="pageNum" place="top right">361</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw> vening the
+                    whole tissue. In Homer and Chaucer, the narrative invariably suggests the moral;
+                    but in many celebrated modern works there is either no moral at all, (and
+                    therefore no dignity,) or the author goes out of his way to lug one in. The most
+                    trifling ornament of an ancient cathedral has a propriety, and would serve no
+                    other design: but a skilless architect destroys the character of his fabric by
+                    efforts to gratify the eye. the outside of a perfect mansion agrees with the
+                    interior, and even suggests it. Every interspace in the walls tells of something
+                    correspondent within&#8212;pilasters and buttresses remind of arches and party
+                    walls&#8212;casements and fire-places typify the facade. But these
+                    correspondences please the fancy only; and unless a design of solid use be
+                    apparent in the whole, no one respects it.</p>
+                <p>That the presence of a character is essential, appears in the transiency of even
+                    the most admirable poems, where the whole excellence lies in the ingenious
+                    expression of a passion, as of love or grief, repeated through a variety of
+                    changes. Very little of this kind of writing, however exquisite in its kind,
+                    outlasts the century in which it was composed. Artificial sentiments,
+                    originating in the philosophy of the age or sect, or in social differences,
+                    suffer the same fate. Nothing is found to be more dangerous to an esteem for a
+                    writer, than the discovery in him of a respect for the cliques and opinions of
+                    his day; as nothing is likelier to ensure it, than perceiving in him a
+                    magnanimity which regards no difference or deficiency, either of intellect or
+                    fortune. Indeed the critic himself as greatest need of such magnanimity to
+                    refrain from insulting the want of it in his author.</p>
+                <p>Authors who have outlived their century have been at great pains to qualify
+                    everything with a meaning. Excesses of pure wit, melody, or sentiment, weary
+                    upon the second reading, and are forgotten; but in the best works, this first
+                    kind of pleasure is succeeded by another that is permanent; and what was enjoyed
+                    at first for its agreeable impression, delights much more for the depth and
+                    completeness of its meaning. There is an inexpressionable satisfaction to be
+                    enjoyed in the consistency and good sense of a great writer. Whatever <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> says, in his best moods, though not elegant or witty in itself, has a
+                    propriety in illustration of his moral, which makes it excellent and valuable;
+                    but when such passages are quoted apart, they seem dwindled into mere <cb/>
+                    conceits. Since there is a pleasure of discord and contrast, as well as of
+                    harmony and propriety, we are wearied with a continual appearance of the same
+                    kind of beauty or feeling. A single passion drawn out through a long poem,
+                    without its natural contrasts, wearies and soon disgusts; for we feel that in
+                    nature every sentiment, even the highest, has its proper cause and beginning,
+                    and rises by opposition to its climax, and falls to the its ending, as naturally
+                    as a piece of music. There is but little pleasure in a string of pearls, or a
+                    dinner of sweets served in courses; or in a human figure divested of its natural
+                    irregularities; <span rend="doubleLine-right" hand="#h2" xml:id="dl023" from="#dl023" to="#dl024"/>and the greatest masters of design, as well as of
+                    poetry and music, mingle sharp turns and discords with their correspondent
+                        melodies.<anchor xml:id="dl024"/>
+                    <span rend="doubleLine-right" hand="#h2" xml:id="dl025" from="#dl025" to="#dl026"/> If there be a proof that a character or ruling principle is
+                    the source of all that is excellent in art, it is in this necessity of a mixture
+                    of rough and smooth; <anchor xml:id="dl026"/> for to present a plain truism
+                    mystically, the character, or moral nature, rules over jarring elements, and
+                    acts in the office of a mediator between good and ill. <span rend="doubleLine-right" hand="#h2" xml:id="dl027" from="#dl027" to="#dl028"/> In nature nothing is more obvious than the mixture of contrasts and discords;
+                    signified in mythology by the endless conflict of good and evil angels.<anchor xml:id="dl028"/> When the poets have chosen to represent a paradise they
+                    have invariably placed a hell near it, as though one could not be imagined but
+                    in contrast with the other. Earthly paradises are found in islands dangerous of
+                    access, or in a valley battlemented with snowy summits. Danger is the gate of
+                    delight; pain the portal, or the postern, of pleasure. <span rend="doubleLine-right" hand="#h2" xml:id="dl029" from="#dl029" to="#dl030"/> Night precedes and follows day; for every light there is a shade, for every
+                    sweet a bitter; even melody itself is a succession of discords and harmonies,
+                    and a soft surface a field of minute asperities. <anchor xml:id="dl030"/></p>
+                <p>Longinus makes exception in favor of eloquence, that it is given by nature, while
+                    all other arts are imitative and acquired. He argues that the sublime of
+                    eloquence, arising from natural character, can have nothing of artifice, and
+                    that it prevails by force and not by skill. Quintilian, on the contrary,
+                    inclining more to the use of rhetoric, advises the employment of every artifice,
+                    and trusts less to nature. These two opinions, which neither of their authors
+                    entertained to the degree of absurdity, are advocated by one and another class
+                    of writers. Essayists of the light and brilliant manner, who find their account
+                    in an excess of fancy and invention, to set off common-place mat- <pb xml:id="leaf003v" facs="rut_nhg.00012.jpg" type="verso"/>
+                    <fw type="date" place="top right">[Oct.,</fw>
+                    <fw type="pageNum" place="top left">362</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw> ter in gay
+                    and pleasant colors, contend for nature; while rhetoricians, critics, and
+                    historians, feeling the weight of their topics, are willing to help their styles
+                    with artificial props and rules. The few who have attained a happy union of art
+                    and nature, seem to have trusted with a careless confidence to the worth of
+                    their ideas; and used no art but to exclude what was improper: but to attain
+                    such a self-reliance, it is evident a writer must have discharged all trivial
+                    intentions, and be bent upon something intrinsically good and useful. His
+                    solicitude will then constrain him to employ all those reserves and cautions
+                    that are used in conversation on some important affair. </p>
+                <p>Some writers, and these the best, seem to have taken a hint form the musicians:
+                    beginning modestly and rising, upon occasion, to the height of grandeur,
+                    yielding at intervals to softer impulses. Few passages of actual life, we expect
+                    the grand and marvelous only at wide intervals, and are satisfied, for
+                    intermediate portions, with ingenuity or good sense. <span rend="doubleLine-left" hand="#h2" xml:id="dl031" from="#dl031" to="#dl032"/>Skilful artists subdue the body of their piece to a tone of mediocrity, the
+                    better to set off principal figures taking care that the shadows on either hand,
+                    like the collaterals of a poem, shall pass into obscurity of indefiniteness.</p>
+                <anchor xml:id="dl032"/>
+                <p>Historians sometimes observe an inverted order, and instead of making the
+                    circumstance illustrate the characters, subject the characters to the
+                    circumstances, as though the actors in their drama were introduced for
+                    experiments' sake; or as if men had been created for the uses of philosophy. If
+                    there be any philosophy of history, it must be a part of ethics, and not of
+                    physiology or mechanics. To treat the characters of his nation as a chemist
+                    employs his substances, for the purpose of a theory, discovers either a vast
+                    superiority, or as great modesty, in the historian. A chronicle without
+                    character is perhaps the dullest of human works; but in an interesting history,
+                    human will appears, tending to success or ruin, in the degree of its virtue; and
+                    this spirit in the story of each event, accomplishing or failing of its ends,
+                    divides the narrative, like an epic poem, into books and episodes. The rise and
+                    fall of a great chief, the pride and ruin of a wealthy city, marches of armies,
+                    battles, revolutions, institutions seem but so many vents of human character,
+                    subordinate themselves, and receiving all their <cb/> lustre from the purposes
+                    discovered in their progress and accomplishment.</p>
+                <p>In the Anabasis of Xenophon, an army of mercenary troops, led by a young
+                    adventurer, and stimulated by no greater hope than that of safety, draw our
+                    imagination after them in a series of adventures, remarkable only as they are
+                    obstacles in the way of a human design. Their story is a narrative of the hopes
+                    and virtuous acts of their leader, who inspired them with his own spirit. But
+                    when the same leader attempts a civil narrative of many complicated parts, his
+                    work becomes a mere chronicle, with only here and there a passage of interest.
+                    The affairs which Thucydides described are but illustrations, in his hands, of
+                    the Greek character, and the spirit of rival States; Xenophon's continuation of
+                    them resembles a compilation from various authors, put together under no one
+                    idea.</p>
+                <span rend="singleLine-right" hand="#h2" xml:id="dl033" from="#dl033" to="#dl034"/>
+                <p>There is a power in some writers and speakers, which proceeds either from
+                    singleness of idea, or from that versatile force which gives unity to the most
+                    rambling efforts of fancy. Either nothing occurs but what is proper, or by sheer
+                    wit they find the same meaning in all that appears. Milton is an example of the
+                    first, and <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> of the second kind of power; for the one never says anything aside
+                    from the point, and the other wrests every thing to bear upon it. Other writers,
+                    though powerful, seem, like Hercules, to have no purpose of their own, but
+                    rather obey the occasion, than make or master it.</p>
+                <anchor xml:id="dl034"/>
+                <span rend="singleLine-right" hand="#h2" xml:id="dl035" from="#dl035" to="#dl036"/>
+                <p>A great writer or speaker engages seriously with his topic, as with an enemy
+                    which he must subdue, and brings against it every weapon if which he is master.
+                    He relieves the intervals of declamation with serviceable wit or anecdote; but
+                    all point one way and have one effect. His unity is real, his variety only
+                    apparent; and his rhetoric is the art of a cannonier, which directs the missile,
+                    not urges it. </p>
+                <anchor xml:id="dl036"/>
+                <span rend="doubleLine-right" hand="#h2" xml:id="dl037" from="#dl037" to="#dl038"/>
+                <p>When the master of his own thought heaps epithet on epithet, each exceeds the
+                    last, and doubles its force. In a complex narrative he is in no danger of losing
+                    the connection, but goes on involving periods, till we are in fear for him and
+                    anticipate the end; where, with a single word, he strikes all home.<anchor xml:id="dl038"/> There is a regular sell and flow in fancy, as it were a
+                    sea, over which the soul breathes, and moves it. As the depth of this sea, so
+                    are its waves; and under a great spirit they are raised and borne forward with a
+                    slow and majestic motion&#8212;as in Milton, <pb xml:id="leaf004r" facs="rut_nhg.00013.jpg" type="recto"/>
+                    <fw type="date" place="top left">1845.]</fw>
+                    <fw type="pageNum" place="top right">363</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw> whose vast
+                    force moves the deepest depths and carries forward the whole mind.</p>
+                <p>When the variety of a subject is very great, a greater degree of the
+                    consolidating power must have been exerted to bind it in a whole. By this power,
+                    the genius of a great writer is discovered&#8212;more than by any other. <span rend="singleLine-left" hand="#h2" xml:id="dl039" from="#dl039" to="#dl040"/>In the tragedies of <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, for example, the entire history of each character is expressed in a
+                    few remarks, that seem dropped without design; and the fate of each is made to
+                    hang upon some accident, so slight and natural, it would attract no attention
+                    but for its consequences. The unity of <choice>
+                        <orig>Shakspeare's</orig>
+                        <reg>Shakespeare's</reg>
+                    </choice> dramas, is a unity not of time, or place, or circumstance, but far
+                    more profound, of character.<anchor xml:id="dl040"/> Each event, and the
+                    catastrophe, are accomplished, not by a chain of natural and fatal necessities,
+                    but by elements of character prevailing in the persons of the drama. <del rend="erasure"><span rend="singleLine-left" hand="#h2" xml:id="dl041" from="#dl041" to="#dl042"/></del> This writer, like Homer, seems to have
+                    been inspired with that perfect generosity of sentiment, which takes nature and
+                    human beings, without cavil, as they are. Under this feeling he unfolds, without
+                    sarcasm, every variety and change of character; as the painter, with equal
+                    sobriety represents either beauty of deformity. The least partiality or
+                    prejudice, infects a writer's reputation with a mortal decline. Even delicate
+                    sentiment, because it is conventional, has only a perishable excellence; a
+                    mixture of innocent falsehood causes its decay. Graces and philosophies pass
+                    away with fashions and superstitions, but the moral spirit breathes life into a
+                    work, and enables it to endure. </p>
+                <p>A great deal has been said in praise of eloquence, as the most powerful of all
+                    instruments for guiding and controlling the multitude; but the orator is limited
+                    to a topic and occasion, and cannot deal much in principles. An author on the
+                    contrary may treat his subject as he likes, and is sure of a deliberate hearing.
+                    As it is rather the conduct and character of an orator that persuades, so there
+                    is a secret something in the spirit of a book, which influences the reader in a
+                    manner of which he is for the most part unconscious. As the spirit of a proud
+                    man affects everything he says and does, through all pretences of humility, we
+                    feel his presence accordingly, and are swayed by it in a peculiar manner.<anchor xml:id="dl042"/> But this power is exercised at the best advantage behind
+                    the mask of a novel or a history. The circumstances, are so chosen and
+                    narrated,<cb/> and the whole arranged in such a method, (though, it may be, with
+                    no deliberate design on the author's part,) as constantly to impress his
+                    governing idea. The literature of an age may be so thoroughly tainted with the
+                    moral obliquities of that age, as to ensure its oblivion; and, on the contrary,
+                    certain ages have been fired with such a liberality and generosity of sentiment,
+                    as had power to preserve a great number of their authors, even to the fifth in
+                    rank. A reader, who understands his author's spirit, form an involuntary
+                    judgement of him, be he never so charitable or cautious in expressing it. Nor is
+                    the world altogether deceived by the finest pretences, brought forward with the
+                    most delightful ingenuity. A rough honest writer full of sense and devoid of
+                    vanity may outlive his century with no attractions of arty, while mellifluous
+                    poets sink with all their elegances into contempt. <span rend="singleLine-right" hand="#h2" xml:id="dl043" from="#dl043" to="#dl044"/> But there is a
+                    something in works of true genius for which our language has no name, unless it
+                    be misapplied one of inspiration: a spirit in so close alliance with freedom, it
+                    has hitherto appeared only in ages of civil and religious liberty. To
+                    characterize this admirable quality by saying that it excites love in us for him
+                    in whom it appears, would be to do it great injustice; for we not only love but
+                    venerate him, and are won to an admiration of all that he says and
+                    does,&#8212;of his name, his nation, and his age; this spirit must be a rarer
+                    essence of love, so universal as to embrace not only friends and country, but
+                    all mankind, and even earth itself. Hence the universality of Homer and <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>; for, whatever they knew and loved&#8212;that they represented; but
+                    they knew and loved all that could be known and approved.<anchor xml:id="dl044"/> There is a word, now almost disused, but anciently great and serious import,
+                    which comes nearer to expressing the whole spirit of genius than any other and
+                    that word is Honor: when it unites a feeling of deference and veneration with a
+                    sentiment of liberal equality. It exercises the same justice in matters of the
+                    heart, that conscience does in those of business. By valuable considerations men
+                    of ability may be drawn into the defence of a bad cause; but their heart rebels
+                    against their head, and their genius forsakes them; enlist, on the other hand, a
+                    weak ability under the colors of Honor, at once every power comes in play, and
+                    the whole man is aroused. The sentiment, in its purity, <pb xml:id="leaf004v" facs="rut_nhg.00014.jpg" type="verso"/>
+                    <note type="authorial" resp="#h2" place="top right"><handShift new="#h2"/>x</note>
+                    <fw type="date" place="top right">[Oct.,</fw>
+                    <fw type="pageNum" place="top left">364</fw>
+                    <fw type="header" place="top"><hi rend="italic">On Style.</hi></fw>
+                    <handShift new="#h1"/>falls almost exactly under Cicero's description of
+                    friendship, "Est autem nihil aliud, nisi omnium divinarum humanarumque rerum,
+                    cum benevolentia et coritatē, summa consensio:&#8212;quâ quidam haud
+                    scio, an excepta sapientia quidquam melius homini sit a diis immortalibus
+                    daturum." "It is nothing else than the exalted harmony of all things human and
+                    divine; and I know not if heaven has given man anything more precious, if we
+                    except wisdom." It is more than probable that Cicero, himself inspired with this
+                    principle, intends it under the name, "amicitia;" since every degree of
+                    friendship depends upon a sensibility to this more universal sentiment.</p>
+                <p>If an author or an orator is bold enough to resolve upon outlasting his century,
+                    he will perhaps be wise enough to search out the secret of fame; and once master
+                    of it, and of its contraries, will cultivate the one and avoid the other. As
+                    soon as the intermixture of invention and opinion, behind which a bad sentiment
+                    has fortified itself, is perished by the effect of revolutions in taste, the
+                    fame of it decline, and all its labored excellences are forgotten; but what is
+                    intrinsically good, can fall only by the accidents of time.</p>
+                <span rend="singleLine-left" hand="#h2" xml:id="dl045" from="#dl045" to="#dl046"/>
+                <p>In the writings of Bacon, there is a something that makes us feel continually,
+                    and breeds in us a reverence for all that is excellent in nature and in man. It
+                    discovers great consequences in little matters, and teaches to despise nothing;
+                    so that this author, by reason of his spirit, more than of his invention, became
+                    the patron of a new epoch in reason; having turned the wisest minds to observe
+                    those common particulars, which were before contemptuously overlooked.<anchor xml:id="dl046"/> A profound but sagacious reverence appears in every action
+                    of his life, and seems to have been the cause as much of his misfortunes as of
+                    his prosperity. But there is a sentiment more delightful than this, (though it
+                    be less the mark of intelligence,) which gives their peculiar charm to the
+                    characters of <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, and since his day to all the finer parts of our literature. It had
+                    its rise in the national feeling of England, refined to a social virtue; a
+                    sentiment of liberty and tolerance, the precursor and parent of civil and
+                    religious freedom; and in no author are these so perfectly discovered as in <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>. Honor and liberty are the subject of his story: an honor not testy
+                    nor finical, but original in the breast; and liberty that began <cb/> earlier
+                    than revolutions. There is hardly a character in his dramas that fails, either
+                    directly or by contrast, to impress these sentiments. As good proof may be drawn
+                    Homer, that it is the moral spirit of a work which perpetuates its fame and
+                    fixes its rank; for in him two virtues, prudence and the love of glory, shine in
+                    rare union; so mingled and tempered by respect for every degree of worth, his
+                    poem seems permeated with an ichor, that shines in it as in the bodies of the
+                    gods. A prose version of Homer, in the common dialect, loses nothing of this
+                    excellence; for these principles are but the more conspicuously grand, when
+                    stripped of all ornaments&#8212;like the mountains, divested of their
+                    forests.</p>
+                <span rend="singleLine-left" hand="#h2" xml:id="dl047" from="#dl047" to="#dl048"/>
+                <p>With such examples to inspire him with that generous emulation which is the life
+                    of literature, a man of letters who understands the liberty he enjoys, will
+                    doubtless use it as becomes a man. It is his privilege to assume no disguises: a
+                    free people delights in a free speech; for our freedom is of the heart as well
+                    as of the hands, though all are not quick to claim their birthright. We are at
+                    liberty to speak truth, the most difficult and dangerous of acts. To despise
+                    violence, and the narrow heart; to venerate that ancient wisdom which raised us
+                    to this height; to believe in the unalterable name of truth, and in the
+                    permanency of those principles on which all literature, and indeed all human
+                    arts, are a faint and broken comment; to avoid uncouth novelties, and to value
+                    nothing that cannot be converted to an ethical use; above all, to cultivate the
+                    liberal mind; these are the aim of letters in our own as they have been in all
+                    free ages.</p>
+                <anchor xml:id="dl048"/>
+                <p>Republics seem to be governed, or at least guided, by writers and speakers; for
+                    these alone, of professions, cultivate in themselves ideas which govern and
+                    organize states. The spirit of a self educated moralist is of necessity one of
+                    perfect liberty. Such a republican spirit we conceive to have animated the
+                    heroes and patriots of old who knew no mode of policy but religion and virtue.
+                    These they would have paramount to all constitutions; they would not suffer
+                    monarchs, or senates, or popular assemblies, under pretences of dignity, or
+                    authority, or freedom, to throw off those moral riders which reason has
+                    appointed to govern every sort of rude power."* <hi rend="smallcaps">J.D.W.</hi></p>
+                <fw type="footnote" place="bottom">*Burke, Letter to Wm. Elliot.</fw>
+            </div1>
+        </body>
+    </text>
+</TEI>

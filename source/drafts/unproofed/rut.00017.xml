@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Pleasures of the Pen"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00017</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"Pleasures of the Pen"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1847-01">January 1847</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-05">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00025.jpg" type="recto"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/>Pleasures of the
+                Pen</note>
+            <note type="authorial" resp="#h2" place="top right"><handShift new="#h3"/>5</note>
+            <fw type="date" place="top left">1847.]</fw>
+            <fw type="pageNum" place="top right">27</fw>
+            <fw type="header" place="top"><hi rend="italic">To the Hudson</hi></fw>
+
+            <div1>
+                <lg type="poem">
+                    <head type="main-authorial"><hi rend="smallcaps">TO THE HUDSON</hi></head>
+                    <lg type="linegroup">
+                        <head type="sub">I.</head>
+                        <l><hi rend="smallcaps">FLOW</hi> on, flow on, thou rock-girt sea!</l>
+                        <l>Freest where all else is free&#8212;</l>
+                        <l>Calm as that stormless resting-place</l>
+                        <l>Whose image sleeps upon thy face,</l>
+                        <l>As though on earth one scene were given,</l>
+                        <l>As quiet and as fair as Heaven;</l>
+                        <l>Smooth as the plain, though mountain-born,</l>
+                        <l>Child of the Highlands, flow on, flow on.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">II.</head>
+                        <l>Child of the Highlands, around thee lie</l>
+                        <l>Scenes whose fame may never die:</l>
+                        <l>Altars where glows our country's fire;</l>
+                        <l>Shrines whose flame may ne'er expire,</l>
+                        <l>Until Oblivion's wave shall roll</l>
+                        <l>Deep o'er the wave where sleeps the Pole;</l>
+                        <l>And patriot tongues pronounce with shame</l>
+                        <l>Vernon's sainted chieftain’s name</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">III.</head>
+                        <l>Sweet stream! how oft, when evening sun</l>
+                        <l>Upon the towering crow-nest hung,</l>
+                        <l>And shred its deep, deep crimson glow</l>
+                        <l>On all the varied scenes below,</l>
+                        <l>How oft I've gazed, and deemed the while,</l>
+                        <l>Sure 'twas some seraph's gladsome smile,</l>
+                        <l>Gilding with such unearthly light,</l>
+                        <l>A scene so beautiful and bright.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">IV.</head>
+                        <l>Gay streamed its ray on flood and fell,</l>
+                        <l>On granite cliff, and wooded dell;</l>
+                        <l>Few clouds the western verge that fringed,</l>
+                        <l>With countless varying hues were tinged,</l>
+                        <l>Whilst distant Newburg's slender spires,</l>
+                        <l>Seemed glowing with unearthly fires,</l>
+                        <l>And the far <hi rend="italic">Caatskill's</hi> lofty height</l>
+                        <l>Were bathed in floods of silver light.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">V.</head>
+                        <l>Grim smiled old Putnam's storied towers,</l>
+                        <l>Old Clinton's mounds and cedar bowers,</l>
+                        <l>And mouldering walls and ruins gray,</l>
+                        <l>Gleamed brightly in that evening ray;</l>
+                        <l>E'en sadly smiled the <hi rend="italic">Traitor's Home</hi>,</l>
+                        <l>And fled its dim, its grave-like gloom,</l>
+                        <l>As if that sun like mercy came,</l>
+                        <l>To lighten even <hi rend="italic">Arnold's shame,</hi></l>
+                    </lg>
+
+                    <pb xml:id="leaf001v" facs="rut_nhg.00026.jpg" type="verso"/>
+                    <fw type="date" place="top left">28</fw>
+                    <fw type="pageNum" place="top right">[January,</fw>
+                    <fw type="header" place="top"><hi rend="italic">The Pleasures of the
+                        Pen.</hi></fw>
+
+                    <lg type="linegroup">
+                        <head type="sub">VI.</head>
+                        <l>But fell its rays most cheerly, where</l>
+                        <l>A nation trains her youth to war;</l>
+                        <l>Where Ringgold, loved, lamented name!</l>
+                        <l>First trod the path that led to fame,</l>
+                        <l>And Barbor, generous and brave,</l>
+                        <l>Gained wreaths that decked his soldier's grave,</l>
+                        <l>When, foremost in the gallant fight,</l>
+                        <l>He fell on proud Monterey's height.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">VII.</head>
+                        <l>Nor can ye give, West Point, to fame,</l>
+                        <l>A nobler, or more spotless name,</l>
+                        <l>Than Irwin's, dauntless, kind and true,</l>
+                        <l>For whom a nation's tears are due;</l>
+                        <l>Whose heart, though soft as coyest maids,</l>
+                        <l>Yet tamed the foe of Floras' glades,</l>
+                        <l>And on <hi rend="italic">Resaca Palma's</hi> field,</l>
+                        <l>Deep drunk of <hi rend="italic">Mexan</hi> blood his steel.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <head type="sub">VIII.</head>
+                        <l>Child of the Hills, no lovelier stream</l>
+                        <l>Did e'er in summer sunlight gleam;</l>
+                        <l>No nobler on its azure breast</l>
+                        <l>E'er wore God's image so imprest;</l>
+                        <l>Linked by ties that bind thee fast</l>
+                        <l>To the future, and the past&#8212;</l>
+                        <l>Loveliest of all the streams of song,</l>
+                        <l>Child of the Highlands, flow on, flow on.</l>
+                    </lg>
+                </lg>
+            </div1>
+
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+            <div1>
+                <head type="main-derived"><hi rend="smallcaps">THE PLEASURES OF THE PEN.</hi></head>
+                <q who="Mark Akenside" type="extract">
+                    <lg type="poem">
+                        <l>"Those ever-blooming sweet, which, form the store</l>
+                        <l>Of Nature, fair Imagination, culls,</l>
+                        <l>To charm the enlivened soul."&#8212;<hi rend="italic">Akenside</hi></l>
+                    </lg>
+                </q>
+
+                <p>"<hi rend="smallcaps">POETRY</hi>," says Elizabeth Barrett, "is its own exceeding
+                    great reward!;' and another recent writer, we believe, has something like the
+                    following :&#8212; "The love of knowledge is in itself the attainment of
+                    knowledge. Poverty and trial discourage it in vain;&#8212;they seem, on the
+                    contrary, rather to accelerate its progress. It supplies the scarcity of time by
+                    the concentration of attention, and replaces comfort by self-denial." The
+                    poverty and misfortunes of literary men have been frequently rehearsed, and the
+                    theme has employed eloquent pens and engaged the world's sympathies. Little,
+                    however, has been attempted on the other side of the question. The <hi rend="italic">shades</hi> of literary life have been deepened so often as
+                    almost to have obscured whatever <hi rend="italic">lights</hi> the brighter view
+                    of their circumstances may have exhibited.&#8212; That the latter do exist none
+                    can doubt, although the balance of evidence may not be found to be to a
+                    preponderating extent. D'Israeli, it will be recollected, has contrived,
+                    however, to present us with two noble tomes mainly devoted to this
+                    topic&#8212;his last work,&#8212;which he classically entitles "<hi rend="italic">The Amenities of Literature</hi>" upon the authority of Pliny,
+                    who styles</p>
+
+                <pb xml:id="leaf002r" facs="rut_nhg.00027.jpg" type="recto"/>
+                <fw type="date" place="top left">1847.]</fw>
+                <fw type="pageNum" place="top right">33</fw>
+                <fw type="header" place="top"><hi rend="italic">The Pleasures of the Pen.</hi></fw>
+                <p>that the true devotees to literature and literary pursuits should become the
+                    willing, if not eager victims of the passion, in a still stronger degree? If men
+                    are characterized by their company, why then may they not be by their choice of
+                    books? Doubtless many a dormant genius has received its first impulse and
+                    direction from some particular author; and in some cases, to this cause may be
+                    primarily ascribed the beneficial and important purposes to which that genius
+                    has been applied. Our allusion to that old favorite, <hi rend="italic">Robinson
+                        Crusoe</hi>, reminds us of many illustrious men of letters with whom it
+                    became a first and favorite book. Among these might be named Marmontel,
+                    Rousseau, Blair, Beattie, Johnson, Chalmers, Scott, Clare, and Charles Lamb; the
+                    last of whom, in his confession of the fact, says, "That its deep interest and
+                    familiar style, render it alike delightful to all ranks and classes." Johnson
+                    also admitted more, adding, he believed "Nobody ever laid down the book without
+                    wishing it longer;" and Marmontel's testimony is no less decidedly approving;
+                    for he states that Robinson Crusoe was the first book he ever read with
+                    exquisite pleasure; and he believed every boy in Europe would say the same
+                    thing. Would it be believed, however, that the MS. of this identical production
+                    was refused when offered for publication, by nearly the entire body of the
+                    publishers of London? although the one that bought it soon cleared one thousand
+                    guineas by its sales.</p>
+
+                <p>"The Pilgrim's Progress," of Bunyan, is another universal favorite&#8212; perhaps
+                    the most perfect and picturesque specimen of allegorical writing in any
+                    language; the peculiarity of which, is its striking <choice>
+                        <orig>versimilitude</orig>
+                        <reg>verisimilitude</reg>
+                    </choice>, imparting to the pure creations of the author's rich, exuberant
+                    imagination, the strong impress of reality. Modern criticism, indeed, has
+                    ventured to assign to this work a rank even equal with that of Homer, the
+                    sublime epic of Milton, and the mighty genius of the world's great poet!
+                    Coleridge, referring to Bunyan's " Pilgrim," observes, that "though composed in
+                    the lowest style of English, it is without slang or false grammar. This
+                    wonderful work is one of the few which may be read over repeatedly at different
+                    times, and each time with a new and different pleasure. I read it once as a
+                    theologian, and let me assure you there is great theological acumen in the work;
+                    once with devotional feeling, and once as a poet. I would not have believed
+                    beforehand, that <choice>
+                        <orig>Calvanism</orig>
+                        <reg>Calvinism</reg>
+                    </choice> could be painted in such exquisitely delightful colors. I know of no
+                    book, (the Bible being excepted, as above all comparison) which, according to my
+                    judgment and experience, I could so safely recommend, as teaching and enforcing
+                    the whole system of saving truth, as the Pilgrim's Progress. I am convinced that
+                    it is incomparably the best summary of evangelical Christianity ever produced by
+                    a writer not miraculously inspired." Little dreamed the poor, despised,
+                    oppressed preaching tinker, what an almost superhuman influence his humble pen
+                    was destined to exert in all after time, upon the best interests of mankind. And
+                    it might prove an ingenious problem for the curious to solve, to enumerate the
+                    almost incalculable amount of copies of this extraordinary production, which
+                    have already been presented to the public in the several languages of the
+                    civilized world.</p>
+
+                <p>Sidney's <hi rend="itlaic">Arcadia</hi>, so ripe with apophthegmatic lore, and
+                    the pure fount of song of that "true and gentle poet," Spenser, were the
+                    well-known chosen associates of many master minds of old&#8212;such as Milton, <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, Waller, Cowley, etc. Dr. Johnson loved old Isaac Walton's life of Dr.
+                    Donne, and Lady Wortley Montague's Letters. He says, according to Boswell, that
+                    the reader who does not relish the first fruits of the first named work is no
+                    philosopher, and he who does not enjoy the second, is no Christian.</p>
+
+                <p>Benjamin Franklin says that Plutarch's Lives, Defoe's Essay on Projects, and a
+                    work entitled Essays to do Good, were his three favorite books, and <fw type="pageNum" place="bottom">3</fw>
+                    <pb xml:id="leaf002v" facs="rut_nhg.00028.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">34</fw>
+                    <fw type="date" place="top right">[January,</fw>
+                    <fw type="header" place="top"><hi rend="italic">The Pleasures of the
+                        Pen.</hi></fw> those from which he derived the most advantage. Speaking of
+                    the last, he states :&#8212;" When I was a boy, I met with this book, which was
+                    written, I think, by the father of Dr. Mather, of Boston. It gave me such a turn
+                    of thinking, as to have an influence on my conduct through life; for I have
+                    always set a greater value on the character of a doer of good, than any other
+                    kind of reputation , and if I have been a useful citizen, the public owes the
+                    advantage of it to that book." Franklin, again, has been the favorite of many
+                    young persons, who have had to thank his sagacious pages and his maxims of
+                    industry and economy for their future success in life. It is beautiful thus to
+                    see wisdom become traditionary, says the writer above alluded to. "When at
+                    school," writes Dr. Alexander Murray, the celebrated orientalist, "I read
+                    Paradise Lost, which from that time has influenced and inflamed my imagination.
+                    I cannot describe the ardor or various feelings with which I perused, studied,
+                    and admired that first-rate work."</p>
+
+                <p>Speaking of this sublime production of Milton,&#8212;a work, by the way, every
+                    body admires, but scarce any body reads,&#8212;what a vast mine of poetic wealth
+                    does it enclose? which, unlike that of its great compeer, seems in the present
+                    day, more than ever, to lie undisturbed, unfathomed, and the deep treasures of
+                    which appear altogether too massive and gorgeous for the purposes of our modern
+                    mercenary and unpoetic age.</p>
+
+                <p>Ossian was the favorite of two distinguished characters, who certainly appear
+                    very dissimilar in all other respects, except in that of their literary
+                    tastes&#8212;Napoleon and Dr. Parr. The latter says, "I read Ossian when a boy,
+                    and was enamored with it. When at college, I again read Ossian with increased
+                    delight. I now, although convinced of the imposture, find pleasure in reading
+                    Macpherson." Hudibras was a great favorite with Dr. Blair, author of the
+                    celebrated "Sermons." He used to read it through once every year.</p>
+
+                <p>We forgot to mention Chaucer's text book&#8212;it was Aristotle's Philosophy:
+                    Shelley's choice was Sophocles, and Keat's also&#8212;a copy of which was found
+                    clasped to his breast, under his <note xml:id="n1" target="#ref1" type="authorial" place="left" anchored="true"><handShift new="#h3"/>(Shelly's)</note><ref target="#n1" xml:id="ref1" rend="insertion"/> vest,
+                    when he was drowned. Homer, Virgil, and Horace, have charmed and inspired a host
+                    of illustrious men, whose names are too many here to cite. Bossuet, the French
+                    divine, was once found with Homer on his table, while preparing one of his
+                    famous orations, when he exclaimed to his visitor, "I have always Homer beside
+                    me when I compose my sermons; for I love to light my lamp at the sun." Hume and
+                    Fox both sought their relaxation from severer toils, in luxuriating over the
+                    glowing pages of Virgil and Euripides. Burns' first and fondly cherished tome
+                    was the Life of William Wallace, and his next the Life of Hannibal. '*
+                    Hannibal," says he, "gave my young ideas such a turn, that I used to strut in
+                    raptures up and down after the recruiting drum and bagpipe, and wish myself tall
+                    enough to be a soldier; while the story of Wallace poured a Scottish prejudice
+                    into my veins, which will boil along there till the flood-gates of life shut in
+                    eternal rest." <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> has been the universal favorite of the sons of genius; but the
+                    enthusiasm of one humble admirer, Joseph Blacket, the shoemaker poet, is too
+                    interesting to be passed over. In his twelfth year, Blacket witnessed Keinble's
+                    performance of Richard III. Before this he had neither read nor beheld a play;
+                    but thenceforth <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> was his favorite author. "I robbed the pillow of its due," says he,
+                    "and in the summer season, would read till the sun had far retired, then wait
+                    with anxious expectation for his earliest gleam, to discover to my enraptured
+                    fancy the sublime beauties of that great master." In consequence of this close
+                    study of <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, a dramatic tone, observes his biographer, "pervaded the whole mass of
+                    his papers. I have traced it on bills, receipts, backs of letters,
+                    shoe-patterns, slips of paperhangings, grocery wrappers, magazine covers,
+                    battalion orders for the volun- <pb xml:id="leaf003r" facs="rut_nhg.00029.jpg" type="recto"/>
+                    <fw type="date" place="top left">1847.]</fw>
+                    <fw type="pageNum" place="top right">335</fw>
+                    <fw type="header" place="top"><hi rend="italic">The Pleasures of the
+                        Pen.</hi></fw> teer corps of St. Pancras, wherein he served, and on various
+                    other scraps, on which his ink could scarcely be made to retain the impression
+                    of his thoughts; yet most of them crowded on both sides, and much
+                    interlined."</p>
+
+                <p>Hazlitt's pet book was Rousseau's "Confessions." He confesses the intense delight
+                    he derived from its perusal at an early age. Swift's <hi rend="italic">Tale of a
+                        Tub </hi>was the singular choice of Cobbett. He gives the following account
+                    of his first meeting with it:</p>
+
+                <q who="William Cobbett" type="extract">"When only eleven years old, with three
+                    pence in my pocket&#8212;my whole fortune, I perceived, at Richmond, in a
+                    book-seller's window, this little book, marked 'price three pence,.' Its odd
+                    title excited my curiosity; I bought it in place of my supper. So impatient was
+                    I to examine it, that I got over into a field at the upper corner of Kew
+                    Gardens, and sat down to read on the shady side of a hay-stack.&#8212; The book
+                    was so different from any thing I had read before&#8212;it was something so new
+                    to my mind, that, though I could not at all understand some parts of it, still
+                    it delighted me beyond measure, and produced, what I have always considered, a
+                    sort of birth of intellect. I read on till it was dark, without any thought of
+                    supper or bed. When I could see no longer, I put it into my pocket and fell
+                    asleep beside of the stack, till the birds awaked me in the morning; and then I
+                    started off, still reading my little book. I could relish nothing beside; I
+                    carried it about with me wherever I went, till when about twenty years old, I
+                    lost it in a box that fell overboard in the bay of Fundy."</q>
+
+                <p>Thompson's <hi rend="italic">Seasons</hi> was Bloomfield's favorite selection: it
+                    was also Clare's; and even the celebrated bibliographer, Dr. Dibdin, admits that
+                    he enjoyed many quiet readings while seated in the deepening glooms of Bagley
+                    Wood, or near the magnificent expanse of water at Blenheim. He designates the
+                    "Castle of Indolence" as one of the most enchanting poems in the language,
+                    although it has not yet acquired that reputation it deserves. Lord Byron's
+                    greatest favorites were Burton's Anatomy of Melancholy, D'Israeli's
+                    Illustrations of the Literary Character, and Scott's novels. The first work, he
+                    says, contains more solid information than any twenty other works ever compiled
+                    in the English language; the second, he says, he read perhaps oftener than any,
+                    and that it had often been to him a consolation and a pleasure; of the last
+                    named, Scott's novels, he tells us&#8212;" I never travel without them; they are
+                    a perfect library in themselves&#8212;a perfect literary treasure; I could read
+                    them once a year with new pleasure." Johnson confessed that Old Burton was the
+                    first book that ever compelled him to rise from his bed earlier than he
+                    otherwise would have wished. How many, like Lord Oxford, have enjoyed the
+                    delicious humor of "Don Quixotte?" and some may even have, also, coveted the
+                    acquisition of the pure Castilian to ensure its keener relish.</p>
+
+                <p>Among the pleasures of the pen, may therefore be classed the love of study, and a
+                    passion for reading. Says Burton on this head: "Looking about this world of
+                    books, I could even live and die among such meditations, and take more delight
+                    and true comfort of mind in them, than in all wealth or sport. There is a
+                    sweetness, which, as Circe's cup, bewitcheth a student: he cannot leave off, as
+                    well may witness those many laborious hours, days and nights, spent in their
+                    voluminous treatises. So sweet is the delight of study. The last day is <hi rend="italic">prioris discipulus</hi>. From the time that Cicero poured
+                    forth his feelings in his oration for the poet Archias, innumerable are the
+                    testimonies of men of letters, of the pleasurable delirium of their researches.
+                    Richard de Bury, of Durham, was so enamoured of his literary collections, that
+                    he gave utterance, it will be remembered, to his love of books, under the title
+                    of his "<hi rend="italic">Philobiblion</hi>."</p>
+
+                <p>(To be Continued.)</p>
+
+            </div1>
+
+            <pb xml:id="leaf003v" facs="rut_nhg.00030.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">36</fw>
+            <fw type="date" place="top right">[January,</fw>
+            <fw type="header" place="top"><hi rend="italic">Don Giovanni.</hi></fw>
+
+            <delSpan rend="hashmark" spanTo="#d01"/>
+            <div1>
+                <head type="main-authorial"><hi rend="smallcaps">DON GIOVANNI.</hi></head>
+                <head type="sub"><hi rend="smallcaps">TRANSLATED FROM THE GERMAN.</hi></head>
+
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">THE ARRIVAL.</hi></head>
+                    <p>A Light travelling carriage stopped at the hotel of the Three Lions in the
+                        Kohlmarkt at Prague. The whole army of servants hurried out of the house;
+                        one of them opened the carriage door, and offered his hand to a pretty young
+                        woman; she alighted, and a young gentleman followed her, humming a cheerful
+                        tune.</p>
+                    <p>"Saint Nepumuk!" exclaimed the landlord, who had just stepped out of the
+                        door&#8212;" do I see aright? Herr Von Mozart!"</p>
+                    <p>"You see I keep my promise," replied Mozart, bowing politely to him. "Here
+                        lam again! and you may keep me the whole season! That I may not be too wild,
+                        I have brought my wife along with me."</p>
+                    <p>The landlord bowed low to the lady, and taking breath for a solemn speech,
+                        began:</p>
+                    <p>"Most respected Madame Von Mozart"&#8212; </p>
+                    <p>Mozart interrupted him with&#8212;" let all that alone now, and show us our
+                        rooms; let us have some refreshment, and send word to Guardasoni that I have
+                        arrived." He offered his arm to his wife, the landlord obediently followed;
+                        and the gang of butlers and servants came loaded with trunks and boxes,
+                        which they had taken out of the carriage.</p>
+                    <p>A handsome young man, who was passing through the market when he heard from a
+                        waiter the name of the newly arrived, hastened up stairs into Mozart's room,
+                        and threw himself into his arms with exclamations of joy.</p>
+                    <p>"Is the deuce in this wild bird ?" cried Mozart; "you almost frightened me!"
+                        and turning to his wife, he introduced the young man to her. "Well, how do
+                        you like him ? It is he&#8212;Luigi Bassi, I mean."</p>
+                </div2>
+
+                <div2>
+                    <head type="main-authorial"><hi rend="smallcaps">THE LIBRETTO.</hi></head>
+                    <p>"I sing this evening the part of the Count, in your Opera of Figaro, Master
+                        Mozart," said Bassi.</p>
+
+                    <p>"Well," replied Mozart, " what do the people of Prague say to the opera?"</p>
+
+                    <p>"Come this evening to the theatre and you will hear; it is the twelfth
+                        representation in sixteen days, and we give it to-night, because Duke Antoin
+                        of Saxony asked for it."</p>
+
+                    <p>"Ho! ho! and what does Strobach say?"</p>
+
+                    <p>"Strobach and the whole orchestra say every night after the representation,
+                        that they would like to play it over again, although it was a hard piece of
+                        work."</p>
+
+                    <p>Mozart rubbed his hands cheerfully, and said to his wife, "did I not tell you
+                        the good citizens of Prague would soon drive away all my
+                        fretting?&#8212;Well, for that piece of kindness, I will write them such au
+                        opera as is not to be seen every day. I have an excellent Libretto,
+                        Bassi,&#8212;a bold, mad thing, full of spirit and fire! Du Pont composed it
+                        for me. He said he would not have done it for any body else, because none
+                        else had courage for it; to me it was welcome. I have had the </p>
+                </div2>
+
+            </div1>
+            <anchor xml:id="d01"/>
+
+        </body>
+    </text>
+</TEI>

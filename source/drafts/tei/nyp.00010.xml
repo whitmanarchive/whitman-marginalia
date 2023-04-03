@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="nyp.00010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">The superiority of Emerson's writings</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="es">Jeannette Schollaert</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>nyp.00010</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2014 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">The manuscript is bound in a volume, the cover of which dates the manuscript as "c. 1854." This date seems likely. The earliest possible date would be 1847, when Whitman's first known reference to Emerson was published in the December 15, 1847, issue of the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>             
+            </notesStmt>
+            <sourceDesc>              
+                <bibl>
+                        <author>Walt Whitman</author>
+                        <title rend="bracketd">The superiority of Emerson's writing</title>                  
+                        <idno type="callno">b15520479</idno>
+                        <date xml:id="dat1" notBefore="1847" notAfter="1855" cert="medium">About 1854</date>
+                        <orgName xml:id="nyp">The Henry W. and Albert A. Berg Collection of English and American Literature, New York Public Library</orgName>
+                        <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-07-19" who="#nhg">checked, corrected</change>
+            <change when="2016-06-27" who="#km">checked</change>
+            <change when="2016-02-16" who="#es">checked, corrected pbs, updated add rend values, corrected handful of typos, added choice tag</change>
+            <change when="2014-09-24" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <pb xml:id="leaf001r" facs="1169317.jpg" type="recto"/>
+            
+            <p>The superiority of Emerson's writings is in their character&#8212;they mean something. <subst><add rend="unmarked" place="inline" seq="2">He</add> <del rend="overstrike" seq="1">They</del></subst> may be obscure, but <subst><del rend="overstrike" seq="1">they are</del> <add rend="unmarked" place="supralinear" seq="2">he is</add></subst> certain.&#8212;Any <add rend="insertion" place="supralinear">other</add> of the best <del rend="overstrike">known</del> American writers has in general a clearer style <del rend="overstrike">than he</del>&#8212;<del rend="overstrike">any one is</del> has more of the received grace and ease&#8212;is less questioned <del rend="overstrike">and</del> or forbidden <add rend="insertion" place="supralinear">than he</add>&#8212;makes a <subst><del rend="overstrike" seq="1">better</del> <add rend="unmarked" place="supralinear" seq="2">handsomer</add></subst> appearance in <add rend="insertion" place="supralinear">the</add> society of <add rend="insertion" place="supralinear">the</add> books&#8212;sells better&#8212;passes <del rend="overstrike">for</del> his time <subst><del rend="overstrike" seq="1">more</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">deeper</add></del> <add rend="insertion" place="supralinear" seq="4">more apparently</add></subst> in the popular understanding; yet there is something in the solitary specimen <add rend="lasso" place="supralinear">of New England</add> that outvies them all.&#8212;<add rend="unmarked" place="supralinear">He has what none else have; he does what none else does.&#8212;</add>He pierces the crusts that envelope the secrets of life.&#8212;He joins <add rend="insertion" place="supralinear">on equal terms</add> the <del rend="overstrike">great</del> few <add rend="insertion" place="supralinear">great</add> sages and original seers.&#8212;He represents the freeman, America, the individual. He represents the gentleman.&#8212;<subst><del rend="overstrike" seq="1">In</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="inline" seq="2">Of</add></del> <del rend="overstrike" seq="5"><add rend="umnarked" place="supralinear" seq="4">By</add></del></subst> <subst><del rend="overwrite" seq="1">n</del><add rend="overwrite" place="over" seq="2">N</add></subst>o teacher or poet, of old times or modern times, has <subst><del rend="overstrike" seq="1">there been</del> <add rend="unmarked" place="supralinear" seq="2">made</add></subst> a better report <del rend="overstrike">made</del> of manly and womanly qualities, heroism, chastity, tempera<subst><del rend="overwrite" seq="1">te</del><add rend="overwrite" place="over" seq="2">nce</add></subst>, friendship, fortitude.&#8212;None have <subst><del rend="overstrike" seq="1">shown in</del> <add rend="unmarked" place="supralinear" seq="2">given</add></subst> more beautiful 
+                
+            <pb xml:id="leaf001v" facs="1169318.jpg" type="verso"/>
+                
+            <pb xml:id="leaf002r" facs="1169319.jpg" type="recto"/> <subst><del rend="overstrike" seq="1">portraits</del> <add rend="unmarked" place="supralinear" seq="2">accounts</add></subst> of truth and justice.&#8212;His words shed light to the best souls; they do not admit of argument. As a sprig from the pine tree or a glimpse any where into the daylight<del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#km">,</unclear></del> belittles all artificial flower work and all the painted scenery of theatres, so are live words in a book, <subst><del rend="overstrike" seq="1">toward</del> <add rend="unmarked" place="supralinear" seq="2">compared to</add></subst> cunningly composed words.&#8212;<add rend="unmarked" place="supralinear">A</add> Few <add rend="insertion" place="supralinear">among men (soon perhaps to become many)</add> will enter <subst><del rend="overstrike" seq="1">on equal terms</del> <add rend="unmarked" place="supralinear" seq="2">easily</add></subst> into Emerson's meanings; <del rend="overstrike">but</del> <subst><del rend="overstrike" seq="1">to</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> those <del rend="overstrike">few</del> he will be well-beloved.&#8212;The flippant writer, the orthodox critic, the <del rend="overstrike">great majo</del> numbers of good or indifferent imitators, will not comprehend him; to them he will indeed be a transcendentalist, a writer of sunbeams and moonbeams, a strange <choice><orig>an</orig><reg>and</reg></choice> unapproachable person.</p>
+            
+            <pb xml:id="leaf002v" facs="1169320.jpg" type="verso"/>
+        </body>
+    </text>
+</TEI>

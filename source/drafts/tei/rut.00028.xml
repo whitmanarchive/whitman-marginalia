@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00028">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Letters of Junius</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00028</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1"><!-- DATE NOTE HERE --></note>             
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Walt Whitman</author>
+                        <editor>Edward F. Grier</editor>
+                        <title xml:id="efg">The Collected Writings of Walt Whitman</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>New York University Press</publisher>
+                            <date when="1984">1984</date>
+                            <biblScope type="page">1775&#8211;1776</biblScope>
+                            <biblScope type="volume">5</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">Letters of Junius</title>                  
+                    <idno type="callno">Ac. 605</idno><!-- Although this item is listed under this call number in Rutgers' catalogs, the MS appears to have gone missing, as Rutgers is currently unable to locate it. -->
+                    <date xml:id="dat1" cert="high" when="1855">1855</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University Libraries, Rutgers, The State University of New Jersey</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-07-12" who="#km">corrected repository and source bibl info; transcription/encoding still needs second check</change>
+            <change when="2015-01-24" who="#jc">checked</change>
+            <change when="2014-10-22" who="#kc">encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+                <head type="main-authorial">Letters of Junius<milestone unit="undeclared" rend="horbar-short-center"/>1769&#8212;70&#8212;71</head>
+                <p><table>
+                <row>
+                    <cell>("Transition School")</cell>
+                    <cell>James Thomson&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1700&#8212;1748</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>William Cowper&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1731&#8212;1800</cell>
+                </row>
+                <row>
+                    <cell>Ellegy in <lb/> Church Yard</cell>
+                    <cell>Thomas Gray&#8212; <milestone unit="undeclared" rend="horbar-short-center"/> <lb/> William Collins&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1716&#8212;1771 <lb/> 1720&#8212;1756</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Mark Akenside&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1721&#8212;1770</cell>
+                </row>
+                <row>
+                    <cell>Ossian</cell>
+                    <cell>James Macpherson</cell>
+                    <cell>1737&#8212;1796</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Thos Chatterton&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1752&#8212;1770</cell>
+                </row>
+                <row>
+                    <cell>Reliques of <lb/> Ancient Poetry</cell>
+                    <cell>Dr. Thos Percy&#8212; <milestone unit="undeclared" rend="horbar-short-center"/> <lb/> Robert Burns&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1755 <lb/> 1759<add rend="unmarked" place="supralinear">?</add>&#8212;1796</cell>
+                </row>
+                <row>
+                    <cell>("Modern Literature")</cell>
+                    <cell>(&#8212;Sir Jas. Mackintosh <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1765&#8212;1832</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>James Montgomery&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>Born 1771</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Sir Walter Scott&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1771&#8212;1832</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>H.K. White&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1785&#8212;1806</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Robt Bloomfield&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1766&#8212;1823</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Ann Letitia Barbauld&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1743&#8212;1825</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Lord Byron&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1788&#8212;1824</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Percy Bysshe Shelley&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1792&#8212;1822</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Geo. Crabbe&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1754&#8212;1832</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Thos. Campbell&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1777&#8212;1843</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Thos. Moore&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1780</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Robt. Southey&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1774&#8212;1843</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Wm Wordsworth&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1770&#8212;1850</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Saml. Taylor Coleridge</cell>
+                    <cell>1773&#8212;1834</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Felicia Hemans&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1794&#8212;1835</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>L.E. Landon&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1802&#8212;1838</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>T.B. Macaulay&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1800 still living</cell>
+                </row>
+                <row>
+                    <cell>Scotch</cell>
+                    <cell>Jas. Hogg&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1772&#8212;1835</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Robt. Tannahill&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1774&#8212;1810</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Allan Cunningham&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1784&#8212;1842</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Wm. Motherwell&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1797&#8212;1835</cell>
+                </row>
+                <row>
+                    <cell>Novelists</cell>
+                    <cell>Ann Radcliffe&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1764&#8212;1823</cell>
+                    <cell>Hazlitt <lb/> 1780&#8212;1830</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Maria Edgeworth&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1771</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>? Edward Lytton Bulwer&#8212; &#8212;</cell>
+                    <cell>1784</cell>
+                    <cell>Chas Lamb <lb/> 1775&#8212;1835</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>Charles Dickens, about</cell>
+                    <cell>1812</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>G.P.R. James&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1801</cell>
+                </row>
+                <row>
+                    <cell>orators</cell>
+                    <cell>Wm. Pitt Earl of Chatham</cell>
+                    <cell>1708&#8212;1778</cell>
+                    <cell>Carlyle <lb/> born 1795</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>2d Wm Pitt&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1759&#8212;1806</cell>
+                </row>
+                <row>
+                    <cell><!-- Cell block empty --></cell>
+                    <cell>C.J. Fox&#8212; <milestone unit="undeclared" rend="horbar-short-center"/></cell>
+                    <cell>1748&#8212;1806</cell>
+                </row>
+                <row>
+                    <cell>Henry Grattan<milestone unit="undeclared" rend="horbar-short-center"/>1750&#8212;1829</cell>
+                    <cell>Brogham&#8212;1779</cell>
+                </row>
+                <row>
+                    <cell>Geo. Ganning&#8212; 1770&#8212;1827</cell>
+                    <cell>Peel<milestone unit="undeclared" rend="horbar-short-center"/> 1788</cell>
+                </row>
+                <row>
+                    <cell>O'Connell <milestone unit="undeclared" rend="horbar-short-center"/> 1774&#8212;1847</cell>
+                </row>
+            </table>
+                </p>
+            
+        </body>
+    </text>
+</TEI>

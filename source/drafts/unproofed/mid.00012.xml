@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="mid.00012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Hindu Drama</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="cb">Caterina Bernardini</persName>
+
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mid.00012</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain
+                        exceptions, public domain works may be freely copied or used in the creation
+                        of derivative works without permission, or authorization, of the former
+                        copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and
+                        is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/"
+                            >Creative Commons Attribution 4.0 International License</ref> (CC BY
+                        4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Thoreau and Others on Indian Poetry and Indian Drama</title>
+                    <idno type="callno"/>
+                    <date/>
+                    <orgName xml:id="mid">Middlebury College Library, Special Collections</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Unknown author</author>
+                    <title>The HindÚ Drama</title>
+                    <date when="1857">1857</date>
+                    <publisher>Westminster Review</publisher>
+                    <pubPlace/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="blue-pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#cb" when="2018-01-12">proofed</change>
+            <change who="#lmg" when="2014-02-05">checked.</change>
+            <change who="#lmg" when="2012-07-21">transcribed and encoded.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001v" facs="mid.00012.001.jpg" type="verso"/>
+            <note type="authorial" resp="#h2" place="top">Hindu Drama (specimens rather too strongly
+                Anglicised).</note>
+            <fw type="date" place="top left"><handShift new="#h1"/>1857</fw>
+            <fw type="header" rend="italic" place="top">The HindÚ Drama.</fw>
+            <fw type="pageNum" place="top right">199</fw>
+            <cb/>
+            <del rend="hashmark" hand="#h3"><del rend="hashmark" hand="#h2"><p>controversy is
+                        strewn, look both respectable and enduring by the side of the porcelain ware
+                        of this Theology of reflection. We cannot qusetion herein the justice of
+                        history, which has ever denied the eclectic a separate niche in her temple,
+                        and has obliged the theologian who has spent a life in accommodations and
+                        concessions to submit to be tried by the standard of strict
+                            Orthodoxy."&#8212;<hi rend="italic">Scwarz</hi>, p. 429.</p>
+                    <p>The two sections of Theology, then, which seem at present in possession of
+                        the field, have, it appears, no root in themselves, and can wield no
+                        permanent power over opinion. The Orthodox Theology is intrinsically the
+                        weakest, but externally the most powerfully backed. It is a mere
+                        ecclesiastical flag, hoisted to give a colour of legitimacy to the way
+                        against conscience. It may reign, but will not persuade; and its fortunes
+                        are linked, for good and for evil, to those of the conservative and
+                        aristocratic party in Europe.The Mediation-Theology exercises a respectable
+                        sway over opinion, but is essentially shifting, indeterminate, and relative.
+                        Whether or not circumstances may occur which would rekindle a real and
+                        honest speculative Theology, it is idle to discuss. Should, however, some
+                        renovating impulse be communicated to thought from without, it is impossible
+                        that the experience of the past should be wasted. Real ground has been
+                        gained. Intelligent men understand each other better; good sense and
+                        earnestness have more and more weight. Meanwhile, the solid acquisition to
+                        theological science has been won by the small and uninfluential circle of
+                        scholars who have devoted their conscientious industry to the critical and
+                        historical matters which have become so intimately bound up with the
+                        Christian religion. While all the speculative attempts confess more or less
+                        of defect and exhaustion, this school alone has established results. Its
+                        power has lain also in its possessing a definite aim, and a limited
+                        material. Criticism does not, like speculation, set out on a voyage of
+                        discovery, or undertake the construction of a religion <hi rend="italic">À
+                            priori</hi>. Its problem is comparatively narrow, and even this is not
+                        its own selection. What is the character and value of the Christian records?
+                        All of us were asking this question, either aloud, or in the silence of our
+                        own hearts, and receiving mere accidental and most unsatisfactory answers.
+                        Criticism attempts to answer this question, on distinctly stated principles
+                        of inquiry&#8212;principles not arbitrarily laid down, but the same by which
+                        all other written records whatsoever must be tested. When it has once
+                        answered this question, its work is done. We are <cb/> not to look for
+                        infinite discoveries in this direction. The point can be settled; and the
+                        time is ripe for a settlement. While speculation is in abeyance, this, the
+                        preliminary of all theological speculation, can be arranged. And once
+                        settled, historical criticism has discharged its mission, the Renaissance
+                        movement is complete, and philology may lay down her arms, with the
+                        satisfaction of having removed at least one of the great stumbling-blocks in
+                        the way of the truth-loving and serious religious inquirer.</p></del></del>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="main-authorial" rend="centered">ART. II.&#8212;THE HINDU DRAMA.</head>
+            <p>1. <hi rend="italic">Sakoontalá; or, the Lost Ring. An Indian Drama. Translated into
+                    English Prose and Verse, from the Sanskrit of Kálidása.</hi> By Monier Williams,
+                M.A., Professor of Sanskrit at the East India College, Haileybury. Hertford: Stephen
+                Austin. 1855.</p>
+            <p>2. <hi rend="italic">Vikramorvasi, an Indian Drama. Translated into English Prose,
+                    from the Sanskrit of Kálidása.</hi> By Edward Byles Cowell, B.A. Hertford:
+                Stephen Austin. 1851.</p>
+            <p>3. <hi rend="italic">Málaviká und Agnimitra, ein Drama des Kálidása in funf Akten,
+                    &amp;c. (Málaviká and Adnimirka, a Drama by Kálidása.</hi> Translated from the
+                Sanskrit for the first time, by Albrecht Weber.) Berlin. 1856.</p>
+            <p>4. <hi rend="italic">Le Chariot d'Enfant, Drame en Vers. Traduction du Drame Indien
+                    du Roi Soudraka.</hi> Par MM. MÉry et GÉrard de Nerval. Paris. 1850.</p>
+            <p>H<hi rend="smallcaps">ORACE</hi> W<hi rend="smallcaps">ALPOLE</hi> said, "Life is a
+                comedy to those who think, a tragedy to those who feel." Had he lived a hundred
+                years later, he might have added, "and to those who both think and feel, who temper
+                their passion with reason, and enliven their reason with sentiment, it is a HindÚ
+                play." This mingling of the mask and the cothurnus, exciting passions only for the
+                pleasure of allaying them, is essentially the characteristic of the Indian
+                drama.</p>
+            <p>Translations from the Sanskrit are yearly produced in Germany, France, England, and
+                even Italy; but when we remember that specimens by good hands of some of the best
+                literary pieces of India (<hi rend="italic">e.g.</hi> the "Sakoontalá," of Sir W.
+                Jones, and the "Bhagavad-Gitá" of Sir C. Wilkins), have</p>
+            <pb xml:id="leaf002v" facs="mid.00012.002.jpg" type="verso"/>
+            <fw type="pageNum" place="top left">214</fw>
+            <fw type="header" rend="italic" place="top">The HindÚ Drama.</fw>
+            <fw type="date" place="top right">April,</fw>
+            <cb/>
+            <p>antiquarianism to the enjoyment of the higher charms of literature. The last German
+                version was that of Lobedanz, in 1854.</p>
+            <p>Twenty years later than Sir W. Jones, Antoine LÉonard de ChÉzy found a MS. of the
+                "Shakuntalá" in the Bibliothèque Royale, and studied Sanskrit for the sole purpose
+                of enjoying its beauties, of which he had heard, in their original form. He gave the
+                French an elegant free rendering of the piece, and his almost extravagant devotion
+                to it formed the counterpart of Göthe's enthusiastic admiration.</p>
+            <p>"Good wine needs no bush," and certainly Mr. Williams's translation seems in every
+                respect to rise about our praise. If any excuse were wanting for giving the public
+                an opportunity of reading the master-piece of the Indian drama, in a form that is
+                worthy of it&#8212;the fine thoughts of a great Indian poet rendered by the
+                beautiful expression of an English poet&#8212;for Mr. Williams has proved himself to
+                be no stranger on Parnassus,&#8212;it would be found in the readablenss and
+                enjoyableness of that translation itself; the book is its own excuse. But, on the
+                other hand, those among us who care&#8212;and what man of education does
+                not?&#8212;to know the beauties that various ages and lands of the world have
+                produced, will rejoice to have Sir W. Jones's translation superseded.</p>
+            <p>Mr. Williams has rightly understood those modern rules of translation from one tongue
+                to another, which determine how much of the original is capable of being rendered
+                into metre&#8212;how much absolutely demands the easier mediume of prose. This in
+                itself requires the observation of a mind by no means common-place. We will not now
+                enter into the <hi rend="italic">vexata quæstio</hi> of whether the philosophical
+                poetry (or rather, perhaps, <hi rend="italic">poetical philosophy</hi>), the
+                metrical Puránas and other half-scientific works of India, are better rendered into
+                English by prose or metre. We believe that no general rule&#8212;such as that metre
+                should be rendered by metre, prose by prose&#8212;will hold good in the case of
+                Indian literature. We confess that the subject seems to us of more importance than
+                the form in deciding this question. But the doubt arises in a lesser degree with
+                respect to the drama. Here prose and metre are mingled, as the Hindú author rightly
+                perceived the error of making people talk metre about the merest trifles on the
+                stage any more than in common life, and knew, on the other hand, that rhythm was the
+                best&#8212;and on the stage, perhaps, the only efficient&#8212;vehicle for the finer
+                outbursts of <cb/> passion and poetical feeling. His object was to combine the
+                natural and the effective, and so far he has succeeded. It then became a question
+                whether, on the one hand, prose or verse could best develope this art of the
+                original in the translation, &#8212;on the other, whether it were <hi rend="italic"
+                    >possible</hi> to follow the system of the Hindú author. The "Shakuntalá" has
+                been translated into plain prose throughout by Sir W. Jones, into metre throughout
+                by Lobedanz, into mingled prose and verse by Ernst Meier in German, and by Mr.
+                Williams in English, and we do not hesitate to give our verdict in favour of the
+                last. He has proved the possibility of what is, in truth, by no means an easy
+                task&#8212;finding a conversational prose for the merely conversational portions of
+                the original, and an easy metre&#8212;the change to which from prose does not jar
+                upon the ear of the reader&#8212; for its metrical portions. Moreover, he has felt
+                the suggestiveness of some of the shorter musical couplets for English rhyme, and he
+                has introduced it with much tact and delicacy. As a general rule it is easy to
+                translate the Sanskrit. The <hi rend="italic">shloka,</hi> or couplet, is always
+                complete in itself, <hi rend="italic">teres atque rotundus.</hi> The prose is
+                straightforward and simple. But when we come to handle the various metres of the
+                drama, and to find a line of Sanskrit succeeded by one of Prákrit, it is by no means
+                a light task to do justice at the same time to the meaning and the music of the
+                Hindú poet. Mr. Williams has not only succeeded in doing so, but he is also the
+                first translator who has done so, and we congratulate him on his success.</p>
+            <p>We cannot conclude the expression of our admiration of this recent <hi rend="italic"
+                    >chef-d'&#x99;uvre</hi> of Oriental translation, without a few words on the
+                external garb in which it appears. Mr. Austin, of Hertford, is well known already as
+                the Mæcenas of Indianists. The liberality of the publisher has given an impulse to
+                the ambition of the writer. In the present instance he has spared neither expense
+                nor trouble in finding a robe of state suited to Shakuntalá's beauty. He has
+                collected from the illuminated MSS. of the British Museum and the East India House a
+                large number of splendid chromatic borders, head-pieces, tail-pieces, and arabesques
+                of every description, and added all the luxuries that fine wood-cuts, choice paper,
+                and clear type can supply. If Mr. Williams has given the Orientalist a <hi
+                    rend="italic">bonne-bouche</hi>, Mr. Austin, resolved that the general reading
+                public should not be denied a share of this rich mind of Eastern gems, has given us
+                all a masterpiece of illustration</p>
+            <add rend="pasteon" source="#r1"><q who="unknown" type="written"><floatingText
+                        rend="flat">
+                        <body>
+                            <pb xml:id="leaf003r" facs="mid.00012.002.jpg" type="recto"/>
+                            <p>and typography, which is a real contribution no less to the library
+                                than to the boudoir.</p>
+                        </body>
+                    </floatingText></q></add>
+        </body>
+    </text>
+</TEI>

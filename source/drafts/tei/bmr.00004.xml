@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="bmr.00004">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Dante's Divine Comedy: The Inferno</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <name>The Walt Whitman Archive Staff</name>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2010</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>bmr.00004</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+        <availability>
+          <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+
+        <note type="project" target="#dat1"> </note>
+
+        <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+        
+          <persName xml:id="tj">Tim Jackson</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Walt Whitman</author>
+          
+            <title>Divine comedy: the Inferno / A literal prose translation, with the text of the original collated from the best editions, and explanatory notes, by John A. Carlyle</title>
+          <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+          <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+          
+          <idno type="callno">851 D23dEca</idno>
+          <orgName>Bryn Mawr</orgName>
+
+          <note type="project">Transcribed from our own digital image of original manuscript.</note>
+        </bibl>
+
+      </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+      <!--   
+        SUPPLY THE DATE AND YOUR INITIALS IN THE FOLLOWING TWO LINES. FOR THE DATE, USE THIS FORMAT:
+        YYYY-MM-DD. 
+        FOR YOUR INITIALS, NOTE THAT THE POUND SIGN (#) SHOULD BE RETAINED, LIKE SO: 
+        who="#bb" 
+      -->
+      <change when="2010-01-11" who="#al">Checked and corrected</change>
+      <change when="2010-04-06" who="#tj">Encoded</change>
+      <change when="2010-04-06" who="#tj">Transcribed</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text type="manusrcipt">
+    <body>
+      <div1 type="prose">
+      <!--    THE VALUE OF @facs IN THE FOLLOWING ELEMENT SHOULD BE OJECT ID + .001 + .jpg  EXAMPLE:
+              zzz.00001.001.  -->
+        <pb xml:id="leaf001r" facs="brm.00004.001jpg" type="recto"/>
+        
+      <p><lb/>DANTE'S
+          <lb/>DIVINE COMEDY:
+          <lb/>THE INFERNO.
+          <lb/>A Literal Prose Translation,
+          <lb/>WITH
+          <lb/>THE TEXT OF THE ORIGINAL COLLATED FROM THE BEST EDITIONS,
+          <lb/>AND EXPLANATORY NOTES.
+          <lb/>BY JOHN A. CARLYLE, M.D.
+          <lb/>O degli altri poeti onore e lume,
+          <lb/>Vagliami il lungo studio e il grande amore,
+          <lb/>Che m'han fatto cercar lo tuo volume.
+          <lb/><hi rend="ital">Infern.</hi>i., 82&#8212;4.
+          <lb/>NEW YORK:
+          <lb/>HARPER &#38; BROTHERS, PUBLISHERS,
+          <lb/>82 CLIFF STREET.
+          <lb/>1849.
+         
+      </p>
+        
+          <pb xml:id="leaf001V" facs="brm.00004.002jpg" type="verso"/>
+          
+          <p><note type="editorial" resp="unk" place="margintop">Rare Bk rm Whitman 851 Da3dEca</note>
+             
+          </p>
+        
+          <pb xml:id="leaf002r" facs="brm.00004.003.jpg" type="verso"/>
+          <p><note type="authorial" resp="Walt Whitman" place="margintop">July, 1862</note></p>
+          <p><note type="authorial" resp="Walt Whitman" place="margintop">Prof. Charles Witte of Berlin, (Prussia) after many years investigation &#38;c. and collecting 407 different MS copies of the Inferno, has just published a <hi rend="underline">new edition</hi>, based on four of the most authentic MSS at Rome, Florence and Berlin; with, (it is said) important variations from preceding editions It is in one large vol. quarto with a photographic portrait of Dante.</note>
+          <lb/>THE INFERNO.
+              </p>
+        
+      </div1>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07951">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Proverbial Philosophy: A Book of Thoughts and
+                    Arguments, Originally treated.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="mft">Martin Farquhar Tupper</author>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="slg">Samantha Gilmore</persName>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.07951</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original document is in the public domain. Subject to certain
+                        exceptions, public domain works may be freely copied or used in the creation
+                        of derivative works without permission, or authorization, of the former
+                        copyright owners.</p>
+                    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and
+                        is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/"
+                            >Creative Commons Attribution 4.0 International License</ref> (CC BY
+                        4.0).</p>
+                    <p>Permission to reproduce the graphic images in this archive has been granted
+                        by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Proverbial philosophy: a book of thoughts and arguments</title>
+                    <idno type="callno"> PR5699.T5 A72</idno>
+                    <date notBefore="1838">1838 or later</date>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt
+                        Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <note type="project">Transcribed from digital images of the original
+                        item.</note>
+                </bibl>
+                <bibl type="base">
+                    <author>Martin Farquhar Tupper</author>
+                    <title level="m">Proverbial Philosophy: A Book of Thoughts and Arguments,
+                        Originally treated.</title>
+                    <date>1838</date>
+                    <pubPlace>London</pubPlace>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="blue pencil"/>
+                <handNote xml:id="h2" scribeRef="#mft" medium="type"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#slg" when="2019-10-14">Transcribed and encoded.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <front>
+            <pb xml:id="leaf001r" facs="loc_sg.00035.jpg" type="recto"/>
+
+            <titlePage>
+                <note type="authorial" resp="#h1" place="top-right">W.W. '75</note>
+
+                <docTitle>
+                    <titlePart type="main"><handShift new="#h2"/>Proverbial Philosophy:</titlePart>
+                </docTitle>
+
+                <docTitle>
+                    <titlePart type="sub">A Book of<lb/>THOUGHTS AND ARGUMENTS,<lb/>Originally
+                        Treated</titlePart>
+                </docTitle>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <byline>BY <docAuthor>MARTIN FARQUHAR TUPPER, <hi rend="smallcaps">Esq.
+                        M.A.</hi></docAuthor></byline>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <docImprint><pubPlace>London:</pubPlace> JOSEPH RICKERYBY, SHERBOURN LANE,<lb/>KING
+                    WILLIAM STREET, CITY. <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <docDate when="1847">MDCCCXXXVIII</docDate>.</docImprint>
+            </titlePage>
+        </front>
+
+
+
+        <body>
+            <div1>
+
+
+                <pb xml:id="leaf002r" facs="loc_sg.00037.jpg" type="recto"/>
+                <fw type="pageNum" place="top">25</fw>
+
+                <head>Of Compensation.</head>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><span rend="singleLine-right" hand="#h1" xml:id="s1" from="#s1" to="#s2"/><hi
+                            rend="smallcaps">EQUAL</hi> is the government of heaven in allotting
+                        pleasures among men,pleasures among men,</l>
+                    <l>And just the eternal law, that hath wedded happiness to virtue.</l>
+                    <l>For verily on all things else broodeth disappointment with care,</l>
+                    <l>That childish man may be taught the shallowness of earthly enjoyment<anchor
+                            xml:id="s2"/></l>
+                    <l>Wherefore, ye that have enough, envy ye the rich man his abundance?</l>
+                    <l>Wherefore, daughters of affluence, covet ye the cottager's content?</l>
+                    <l>Take the good with the evil, for ye are all pensioners of God,</l>
+                    <l>And none may choose or refuse the cup His wisdom mixeth.</l>
+                    <l>The poor man rejoiceth at his toil, and his daily bread is sweet to him;</l>
+                    <l>Content with present good, he looketh not for evil to the future:</l>
+                </lg>
+                <fw type="sig" place="bottom-right">C</fw>
+
+            </div1>
+
+
+            <div1>
+
+                <pb xml:id="leaf003r" facs="loc_sg.00039.jpg" type="recto"/>
+                <fw type="pageNum" place="top">33</fw>
+
+                <head>Of Indirect Influences.</head>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">FACE</hi> thy foe in the field, and perchance thou wilt
+                        meet thy master,</l>
+                    <l>For the sword is chained to his wrist, and his armour buckled for the
+                        battle;</l>
+                    <l>But find him when he looketh not for thee, aim between the joints of his
+                        harness,</l>
+                    <l>And the crest of his pride will be humbled, his cruelty will bite the
+                        dust.</l>
+                    <l>Beard not a lion in his den, but fashion the secret pitfall,</l>
+                    <l>So shalt thou conquer the strong, thyself triumphing in weakness.</l>
+                    <l>The hurricane rageth fiercely, and the promontory standeth in its might,</l>
+                    <l>Breasting the artillery of heaven, as darts glance from the crocodile:</l>
+                    <l><hi rend="circled" hand="#h1">But the small continual creeping of silent footsteps of
+                            the sea</hi></l>
+                </lg>
+
+
+
+                <pb xml:id="leaf003v" facs="loc_sg.00040.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">34</fw>
+                <fw type="header" place="top">Of Indirect Influences.</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><hi rend="circled" hand="#h1">Mineth the wall of adamant, and stealthily compasseth its
+                            ruin.</hi></l>
+                    <l>The weakness of accident is strong, where the strength of design is weak:</l>
+                    <l>And a casual analogy convinceth, where a mind beareth not argument.</l>
+                    <l>Will not a man listen? be silent; and prove thy maxim by example:</l>
+                    <l>Never fear thou losest not thy hold, though thy mouth doth not render a
+                        reason.</l>
+                    <l>Contend not in wisdom with a fool, for thy sense maketh much of his
+                        conceit;</l>
+                    <l>And some errors never would have thriven, had it not been for learned
+                        refutation.</l>
+                    <l>Yea, much evil hath been caused by an honest wrestler for truth,</l>
+                    <l>And much of unconscious good, by the man that hated wisdom:</l>
+                    <l>For the intellect judgeth shrewdly, and if thou overstep thy argument,</l>
+                    <l>Or seem not consistent with thyself, or fail in thy direct purpose,</l>
+                    <l>The mind that went along with thee, shall stop and return without thee,</l>
+                    <l>And thou shalt have raised a foe, where thou mightest have won a friend.</l>
+                </lg>
+
+            </div1>
+
+
+            <div1>
+
+                <pb xml:id="leaf004v" facs="loc_sg.00042.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">40</fw>
+                <fw type="header" place="top">Of Memory.</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l>Beams of the Sun, streams from the River, branches of the might Tree,</l>
+                    <l>Some bearing fruit, some bearing leaves, and some diseased and
+                        barren,&#8212;</l>
+                    <l>Some for the feast, some for the floor, and some,&#8212;how many,&#8212;for
+                        the fire?</l>
+                    <l>Memory may be but a power of coming to the treasury of fact,</l>
+                    <l>A momentary self-desertion, an absence in spirit from the now,</l>
+                    <l>An actual coursing hither and thither, by the mind, slipped from its
+                        leash,</l>
+                    <l>A life, as in the mystery of dreams, spent within the limits of a moment.</l>
+                </lg>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">A BRUTISH</hi> man knoweth not this, neither can a fool
+                        comprehend it,</l>
+                    <l>But there be secrets of the memory, deep, wondrous, and fearful.</l>
+                    <l>Were I at Petra, could I not declare, My soul hath been here before me?</l>
+                    <l>Am I strange to the columned halls, the calm dead grandeur of Palmyra</l>
+                    <span rend="bracket-left" hand="#h1" xml:id="s3" from="#s3" to="#s4"/>
+                    <l>Know I not thy mount, O Carmel! Have I not voyaged on the Danube,</l>
+                    <l>Nor seen the glare of Arctic snows,&#8212;nor the black tents of the
+                        Tartar?</l>
+                    <l>Is it then a dream, that I remember the face of them of old</l>
+
+                    <note hand="#h1" place="bottom-right">accepted</note>
+                    <anchor xml:id="s4"/>
+                </lg>
+
+
+                <pb xml:id="leaf005r" facs="loc_sg.00043.jpg" type="recto"/>
+                <fw type="header" place="top">Of Memory.</fw>
+                <fw type="pageNum" place="top-right">41</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <span rend="bracket-right" hand="#h1" xml:id="s5" from="#s5" to="#s6"/>
+                    <l>While wandering in the prove with Plato, and listening to Zeno in the
+                        porch?</l>
+                    <l>Paul have I seen, and Pythagoras,&#8212;an the Stagyrite hath spoken me
+                        friendly,</l>
+                    <l>And His meek eye looked also upon me, standing with Peter in the palace.</l>
+                    <l>Athens and Rome, Persepolis and Sparta, am I not a freeman of you all?</l>
+                    <anchor xml:id="s6"/>
+                    <l>And chiefly can my yearning heart forget thee, O Jerusalem?&#8212;</l>
+                    <l>For the strong magic of conception, mingled with the fumes of memory,</l>
+                    <l>Giveth me a life in all past time, yea, and addeth substance to the
+                        future.</l>
+                    <l>Be ye my judges, imaginative minds, full-fledged to soar into the sun,</l>
+                    <l>Whose grosser natural thoughts the chemistry of wisdom hath sublimed,</l>
+                    <l>Have ye not confessed to a feeling, a consciousness strange and vague,</l>
+                    <l>That ye have gone this way before, and walk again your daily life,</l>
+                    <l>Tracking an old routine, and on some foreign strand,</l>
+                    <l>Where bodily ye never were before, finding your own footsteps?</l>
+                    <l>Hath not at times some recent friend looked out an old familiar,</l>
+                    <l>Some newest circumstance or place teemed as with ancient memories?</l>
+                    <l>A startling sudden flash lighteth up all for an instant,</l>
+                </lg>
+                <fw type="sig" place="bottom-right">D</fw>
+
+            
+            
+            <pb xml:id="leaf006r" facs="loc_sg.00046.jpg" type="recto"/>
+            <fw type="header" place="top">Of Memory.</fw>
+            <fw type="pageNum" place="top-right">43</fw>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            
+            <lg type="stanza">
+                <span rend="bracket-right" hand="#h1" xml:id="s7" from="#s7" to="#s8"/>
+                <l><hi rend="smallcaps">TO</hi> be pained for a minute, to fear for an hour, to hope for a week: how long and weary!</l>
+                <l>But to remember forescore years, is to look back upon a day.</l>
+                <anchor xml:id="s8"/><note place="right" type="authorial" resp="#h1" target="#s7">&#8592;</note>
+                <l>An avenue seemeth to lengthen in the eyes of the wayfaring man,</l>
+                <l>But let him turn, those stationed elms crowd up within a yard:</l>
+                <l>Pace the lamp-lit streets of some sleeping city,</l>
+                <l>The multitude of cressets shall seem one, in the false picture of perspective;</l>
+                <l>Even so, in sweet treachery, dealeth the aged himself,</l>
+                <l>He gazeth on the green hill-tops, while the marshes beneath are hidden;</l>
+                <l>And the partial telescope of memory pierceth the blank between,</l>
+                <l>To look with lingering love at the fair star of childhood.</l>
+                <l>Life is as the current spark on the miner's wheel of flints;</l>
+                <l>Whiles it spinneth, there is light; stop it, all is darkness.</l>
+                <l>There is but the flitting moment, wherein to hope or to enjoy,</l>
+                <l>But in the calendar of memory, that moment is all time.</l>
+            </lg>
+                
+                <fw type="sig" place="bottom-right">D 2</fw>
+                
+            </div1>
+            
+            
+            
+            <div1>
+
+                <pb xml:id="leaf007r" facs="loc_sg.00048.jpg" type="recto"/>
+                <fw type="header" place="top">Of Experience.</fw>
+                <fw type="pageNum" place="top-right">73</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l>For youth suspecteth nought, till manhood, bitterly learned,</l>
+                    <l>Mistrusteth all, overleaping the mark; and age correcteth his excess.</l>
+                    <l>Suspicion is the scaffold unto faith, a temporary needful eyesore</l>
+                    <l>By which the strong man's dwelling is slowly builded up behind:</l>
+                    <l>But soon as the top-stone hath been set to the well-proved goodly
+                        pyramid,</l>
+                    <l>The scaffold is torn down, and well-timed trust taketh its long leave of
+                        suspicion.</l>
+                    <l><hi rend="circled" hand="#h1">A thousand volumes in a thousand tongues, enshrines the
+                            lessons of Experience,</hi></l>
+                    <l><hi rend="circled" hand="#h1">Yet a man shall read them all, and go forth none the
+                            wiser:</hi></l>
+                    <l><hi rend="circled" hand="#h1">For a self-love lendeth him a glass, to <choice>
+                                <orig>colour</orig>
+                                <reg>color</reg>
+                            </choice> all he connecth,</hi></l>
+                    <l><hi rend="circled" hand="#h1">Lest in the features of another, he find his own
+                            complexion.</hi></l>
+                    <l><hi rend="circled" hand="#h1">But thou, student of Wisdom, feed on the marrow of the
+                            matter;</hi></l>
+                    <l><hi rend="circled" hand="#h1">If thou wilt suspect, let it be thyself: if thou wilt
+                            expect, let it not be gladness.</hi></l>
+                </lg>
+
+                <fw type="sig" place="bottom-right">F</fw>
+
+            </div1>
+            
+            
+            
+            <div1>
+                
+                <pb xml:id="leaf008r" facs="loc_sg.00065.jpg" type="recto"/>
+                <fw type="header" place="top">Of estimating Character.</fw>
+                <fw type="pageNum" place="top-right">75</fw>
+                
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                <lg type="stanza">
+                    <l>Judge not of things by their events: neither of character by providence;</l>
+                    <l>And count not a man more evil, because he is more unfortunate.</l>
+                    <l>For blessings of a better covenant lie not in the sunshine of prosperity;</l>
+                    <l>But pain and chastisement the rather show the wise Father's love.</l>
+                </lg>
+                
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">BEHOLD</hi> that daughter of the world: she is full of gaiety and gladness;</l>
+                    <l>The diadem of rank is on her brow, uncounted wealth is in her coffers.</l>
+                    <l><span rend="bracket-right" hand="#h1" xml:id="s9" from="#s9" to="#s10"/>
+                        <span rend="bracket-left" hand="#h1" xml:id="s11" from="#s11" to="#s12"/>She tricketh out her beauty like Jezebel, and is welcome in the court of kings;</l>
+                    <anchor xml:id="s10"/>
+                    <anchor xml:id="s12"/>
+                    <l>She is queen of the fools of fashion, and ruleth the revels of luxury.</l>
+                    <l>And though she sitteth not as Tamar, nor standeth in the ways as Rahab,</l>
+                    <l>Yet in the secret of her chamber, she shrinketh not from dalliance and guilt.</l>
+                    <l>She careth not if there be a God, or a soul, or a time of retribution,</l>
+                    <l>Pleasure is the idol of her heart: she thirsteth for no purer heaven.</l>
+                    <l>And she laugheth with light good <choice>
+                        <orig>humour</orig>
+                        <reg>humor</reg>
+                    </choice>, and all men praise her gentleness;</l>
+                </lg>
+                
+                <fw type="sig" place="bottom-right">F 2</fw>
+                
+            </div1>
+                    
+
+
+            <div1>
+
+                <pb xml:id="leaf009r" facs="loc_sg.00051.jpg" type="recto"/>
+                <fw type="header" place="top">Of Revelation.</fw>
+                <fw type="pageNum" place="top-right">113</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l>The element of all things are the same, though nature hath mixed them with a
+                        difference,</l>
+                    <l>And Learning delighteth to discover the affinity of seeming opposites:</l>
+                    <l>So out of great things and small, draweth he the secrets of the universe,</l>
+                    <l>And argueth the cycles of the stars, from a pebble flung by a child.</l>
+                    <l>It is pleasant to note all plants, from the rush to the spreading cedar,</l>
+                    <l>From the giant king of palms,(13) to the lichen that staineth its stem;</l>
+                    <l>To watch the workings of instinct, that grosser reason of brutes,&#8212;</l>
+                    <l>The river-horse browsing in the jungle, the plover screaming on the moor,</l>
+                    <l><hi rend="circled" hand="#h1">The dog at his master's feet, and the walrus anchored to the iceberg;</hi></l>
+                    <l><hi rend="circled" hand="#h1">To trace the consummate skill that hath modelled the anatomy of insects,</hi></l>
+                    <l><hi rend="circled" hand="#h1">Small fowls that sun their wings on the petals of wild flowers;</hi></l>
+                    <l><hi rend="circled" hand="#h1">To learn a use in the beetle, and more than a beauty in the butterfly;</hi></l>
+                    <l>To <choice>
+                            <orig>recognise</orig>
+                            <reg>recognize</reg>
+                        </choice> affections in a moth, and look with admiration on a spider.</l>
+                    <l>It is glorious to gaze upon the firmament, and see from far the mansions of
+                        the blest,</l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf010r" facs="loc_sg.00053.jpg" type="recto"/>
+                <fw type="pageNum" place="top">121</fw>
+
+                <head>Of a Trinity.</head>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">DESPISEST</hi> thou, shrewd reckoner, the God of a good
+                        man's worship?</l>
+                    <l>And shall thy calculating folly gainsay the unity of three?</l>
+                    <l>Look now abroad, I pray thee, for analogy holdeth in all things,</l>
+                    <l>And the Maker hath stamped his image on every creature of his hand:</l>
+                    <l>Show me the matter, or the spirit, that is not three in one,</l>
+                    <l>And I will show thee a marvel&#8212;a being which He hath not created.</l>
+                    <l>Thyself hast within thyself body and life and reason;</l>
+                    <l>Matter and breath and instinct unite in all beasts of the field:</l>
+                    <l>Substance, coherence, and weight fashion of the fabric of the earth;</l>
+                    <l><hi rend="circled" hand="#h1">The will, the doing, and the deed combine to frame a
+                            fact:</hi></l>
+                    <l><hi rend="circled" hand="#h1">The stem, the leaf, and the flower; beginning, middle, and
+                            end;</hi></l>
+                </lg>
+
+            </div1>
+
+
+
+            <div1>
+
+                <pb xml:id="leaf011r" facs="loc_sg.00055.jpg" type="recto"/>
+                <fw type="pageNum" place="top">137</fw>
+
+                <head>Of Reading.</head>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><hi rend="smallcaps">ONE</hi> drachma for a good book, and a thousand talents
+                        for a true friend:&#8212;</l>
+                    <l>So standeth the market, where scarce is ever costly.</l>
+                    <l>Yea, were the diamonds of Golconda common as shingles on the shore,</l>
+                    <l><hi rend="circled" hand="#h1">A ripe apple would ransom kings before a shining
+                            stone:</hi></l>
+                    <l><hi rend="circled" hand="#h1">And so, were a wholesome book as rare as an honest
+                            friend,</hi></l>
+                    <l><hi rend="circled" hand="#h1">To choose the book be mine: the friend let another
+                            take.</hi></l>
+                    <l><hi rend="circled" hand="#h1">For altered looks and jealousies and fears have none
+                            entrance there;</hi></l>
+                    <l>The silent volume listeneth well, and speaketh when thou listest.</l>
+                    <l>It praiseth thy good without envy; it chideth thine evil without malice;</l>
+                    <l>Is is to thee thy waiting slave, and thine unbending teacher.</l>
+                    <l>Need to <choice>
+                            <orig>humour</orig>
+                            <reg>humor</reg>
+                        </choice> no caprice, need to bear with no infirmity;</l>
+                </lg>
+
+                <fw type="sig" place="bottom-right">K</fw>
+
+
+
+                <pb xml:id="leaf012r" facs="loc_sg.00057.jpg" type="recto"/>
+                <fw type="header" place="top">Of Reading.</fw>
+                <fw type="pageNum" place="top-left">139</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l>Trees yielding all fruits, whose leaves are for the healing of the
+                        nations;</l>
+                    <l>Groves of knowledge, where all my eat, nor fear a flaming sword;</l>
+                    <l>Gentle comrades, kind advisers; friends, comforts, treasures;</l>
+                    <l>Helps, governments, diversities of tongues; who can weigh your worth?</l>
+                    <l>To walk no longer with the just; to be driven from the porch of science;</l>
+                    <l>to bid long adieu to those intimate ones, poets, philosophers, and
+                        teachers;</l>
+                    <l>To see no record of the sympathies which bind thee in communion with the
+                        good;</l>
+                    <l>To be thrust from the feet of Him, who spake as never man spake;</l>
+                    <l><hi rend="circled" hand="#h1">To have no avenue to heaven but the dim aisle of
+                            superstition,</hi></l>
+                    <l><hi rend="circled" hand="#h1">To live as an Esquimaux, in lethargy; to die as the Mohawk
+                            in ignorance;</hi></l>
+                    <l>O what were life, but a blank? what were death, but a terror?</l>
+                    <l>What were man, but a burden to himself? what were mind, but misery?</l>
+                    <l>Yea, let another Omar burn the full library of knowledge,</l>
+                    <l>And the broad world may perish in the flames, offered on the ashes of its
+                        wisdom!</l>
+                </lg>
+
+                <fw type="sig" place="bottom-right">K 2</fw>
+
+            </div1>
+
+
+            <div1>
+                <pb xml:id="leaf013v" facs="loc_sg.00060.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">150</fw>
+                <fw type="header" place="top">Of Wealth.</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice>, with care, for the man of law, responsible in his gains:</l>
+                    <l><choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice>, with envy and annoyance, where strangers will thee wealth:</l>
+                    <l><choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice>, with indolence and gloom, where wealth falleth from a father:</l>
+                    <l><choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice> unto all, whether aching thews, or aching head, or
+                        spirit&#8212;</l>
+                    <l>The curse on the sons of men, in all their states is <choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice>.</l>
+                    <l>Nevertheless, to the diligent, <choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg>
+                        </choice> bringeth blessing:</l>
+                    <l>The thought of duty sweeteneth toil, and travail is as pleasure;</l>
+                    <l>And time spent in doing hath a comfort that is not for the idle,</l>
+                    <l>The cures is transmuted into joy, by the dear alchemy of Mercy.</l>
+                    <span rend="bracket-right" hand="#h1" xml:id="s13" from="#s13" to="#s14"/>
+                    <l>Wealth hath never given happiness, but often hastened misery:</l>
+                    <l>Enough hath never caused misery, but often quickened happiness.</l>
+                    <l>Enough is less than thy thought, O pampered creature of society;</l>
+                    <l>And he that hath more than enough, is a thief of the rights of his
+                        brother.</l>
+
+                    <note hand="#h1" place="bottom-right">wealth</note>
+                    <anchor xml:id="s14"/>
+                </lg>
+
+
+            </div1>
+
+
+
+            <div1>
+                <pb xml:id="leaf014r" facs="loc_sg.00061.jpg" type="recto"/>
+                <fw type="header" place="top">Of Invention.</fw>
+                <fw type="pageNum" place="top-right">153</fw>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+
+                <lg type="stanza">
+                    <l><span rend="bracket-right" hand="#h1" xml:id="s15" from="#s15" to="#s16"/><span
+                            rend="bracket-left" hand="#h1" xml:id="s17" from="#s17" to="#s16"/>And
+                        anon the cold smooth stone is warm with feathery grass,</l>
+                    <l>And the light sporules of the fern are dropt by the passing wind;</l>
+                    <l>The wood-pidgeon, on swift wing, leaveth its crop-full of grain;</l>
+                    <l>The squirrel's jealous care planteth the fir-cone and the filbert.</l>
+                    <l>Years pass, and the sterile rock is rank with tangled herbage;</l>
+                    <l>And the tall pine and hazel-thicket shade the rambling school-boy.</l>
+                    <l>Shall the rock boast of its fertility? shall it lift the head in pride?</l>
+                    <l>Shall the mind of man be vain of the harvest of its thoughts?</l>
+                    <l>The savage is that rock; and a million chances from without,</l>
+                    <l>By little and little acting on the mind, heapeth the hot-bed of society:</l>
+                    <anchor xml:id="s16"/>
+                    <l>And the soul, fed and fattened on the thoughts and things around it,</l>
+                    <l>Groweth to perfection, full of fruit, the fruit of foreign seeds.</l>
+                    <l>For we learn upon a hint, we find upon a clue,</l>
+                    <l>We yield an hundred-fold; but the great sower is Analogy.</l>
+                    <l>There must be an acrid sloe before a luscious peach;</l>
+                    <l>By culture man may do all things, short of the miracle&#8212;Creation.</l>
+                    <l>The soil may be rich, and the mind may be active, but neither yield
+                        unsown;</l>
+                    <l>The eye cannot make light, nor the mind make spirit:</l>
+                    <l>Therefore it is wise in man to name all novelty, invention;</l>
+                </lg>
+
+                <fw type="sig" place="bottom-right">L</fw>
+
+            </div1>
+            
+            
+            
+            <div1>
+                <pb xml:id="leaf015v" facs="loc_sg.00064.jpg" type="verso"/>
+                <fw type="pageNum" place="top-left">186</fw>
+                <fw type="header" place="top">Of Marriage.</fw>
+                
+                
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                <lg type="stanza">
+                    <l>But of those God may give thee of her, that they reproach thee not for their being:</l>
+                    <l>See that he hath given her health, lest thou lose her early and weep:</l>
+                    <l>See that she springeth of a wholesome stock, that thy little ones perish not before thee:</l>
+                    <l>For many a fair skin hath covered a mining disease,</l>
+                    <l>And many a laughing cheek been bright with the glare of madness.</l> 
+                </lg>
+                
+                <lg type="stanza">
+                    <l><hi rend="circled" hand="#h1"><hi rend="smallcaps">MARK</hi>the converse of thou lovest; that it be simple and sincere;</hi></l>
+                    <l><hi rend="circled" hand="#h1">For an artful or false woman shall set thy pillow with thorns.</hi></l>
+                    <l>Observe her deportman with others, when she thinketh not that thou art nigh,</l>
+                    <l>For with thee will the blushes of love conceal the true <choice>
+                        <orig>colour</orig>
+                        <reg>color</reg>
+                    </choice> of her mind.</l>
+                    <l>Hath she learning? is it good, so that modesty go with it:</l>
+                    <l>Hath she wisdom? is it precious, but beware that thou exceed;</l>
+                    <l>For woman must be subject, and the true mastery is of the mind.</l>
+                    <l>Be joined to tine equal in rank, or the foot of pride shall kick at thee;</l>
+                    <l>And look not only for riches, lest though be mated with misery.</l>
+                    <l>Marry not without means; for so shouldst though tempt Providence;</l>
+                </lg>
+            </div1>
+
+
+
+        </body>
+    </text>
+</TEI>

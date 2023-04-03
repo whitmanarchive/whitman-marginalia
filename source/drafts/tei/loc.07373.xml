@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen
+RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"
+?>
+<?oxygen
+SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"
+?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07373">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title level="m" type="main">Consuelo, vol. 2</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author xml:id="ww">Walt Whitman</author>
+        <author xml:id="cv">George Sand</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+            <resp>Transcription and encoding</resp>
+            <persName xml:id="ano">Alejandro Omidsalar</persName>
+            <persName xml:id="mc">Matt Cohen</persName>
+        </respStmt>
+        <sponsor>University of Texas at Austin</sponsor>
+        <sponsor>University of Nebraska-Lincoln</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+    </titleStmt>
+    <editionStmt>
+        <edition>2015</edition>
+    </editionStmt>
+    <publicationStmt>
+        <idno>loc.07373</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+            <addrLine>Center for Digital Research in the Humanities</addrLine>
+            <addrLine>319 Love Library</addrLine>
+            <addrLine>University of Nebraska-Lincoln</addrLine>
+            <addrLine>Lincoln, NE 68588-4100</addrLine>
+            <addrLine>kprice@unlnotes.unl.edu</addrLine>
+            <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+            <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+        </address>
+        <availability>
+            <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be 
+                freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>
+            <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a
+                <ref target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International License
+                </ref>
+                (CC BY 4.0).</p>
+            <p>Permission to reproduce the graphic images in this archive has been granted 
+                by the owners of the originals for this publication only.</p>
+        </availability>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            <author>Walt Whitman</author>
+            <title>Consuelo</title>
+            <idno type="callno">PQ2400.A37 1848</idno><!-- MS Excel is not cooperating with me at the moment, 
+                so I need to look at the spreadsheet and make sure that the finding aid for this is the same as its fellows. -->
+            <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or later</date>
+            <orgName xml:id="bmr">Feinberg-Whitman Collection, Library of Congress</orgName>
+            <note type="project">Transcribed from digital images of the original item.</note>
+        </bibl>
+        <bibl type="base" xml:id="r1">
+            <author>George Sand</author>
+            <title level="a">Consuelo</title>
+            <date>1847</date>
+            <publisher>William H. Graham</publisher>
+            <pubPlace>New York</pubPlace>
+            <biblScope type="pp">title page, title page verso, 92</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <handNotes>
+        <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+        <handNote xml:id="h2" scribeRef="#gs" medium="typescript"/>
+        <handNote xml:id="h3" scribeRef="#unk" medium="ink"/>
+    </handNotes>
+</profileDesc>
+<revisionDesc>
+    <change when="2015-12-15" who="#ano">Transcribed; encoded</change>
+</revisionDesc>
+</teiHeader>
+<text type="marginalia">
+    <front>
+        <pb xml:id="leaf001r" facs="loc_mc_00965.jpg" type="recto"/>
+        <titlePage>
+            <note type="authorial" resp="#h2">PRICE FIFTY CENTS.</note>
+            <docTitle>
+                <titlePart>CONSUELO:</titlePart>
+            </docTitle>
+            <byline>BY<docAuthor>GEORGE SAND.</docAuthor></byline>
+            <note type="authorial" resp="#h2">IN THREE VOLUMES:
+                <note type="unknown" resp="#h3">VOL. II</note><!-- My guess is this note was made by someone at the archive. --></note>
+            <milestone unit="undeclared" rend="horbar-short"/>
+            <byline>TRANSLATED BY 
+                FRANCIS G. SHAW.</byline>
+            <milestone unit="undeclared" rend="horbar-short"/>
+            <note type="authorial" resp="#h2">Third Edition.</note>
+            <docImprint>
+                <pubPlace>NEW YORK:</pubPlace>
+                <publisher>WILLIAM H. GRAHAM, TRIBUNE BUILDINGS</publisher>
+                <docDate>MDCCCXLVII</docDate>.
+            </docImprint>
+        </titlePage>
+    </front>
+    <body>
+        <pb xml:id="leaf002v" facs="loc_mc_00966.jpg" type="verso"/>
+        <!-- Not sure whether to encode what I'm seeing on this page as a paste-on or a paragraph, 
+            but I can clean it up after submitting this for initial proofing. If it's a paste-on,
+            doesn't it need its own facs value? I'll leave the call up to you, Matt.-->
+        <p><gap reason="illegible"></gap>ONSUELO, VOL. <gap reason="illegible"></gap></p>
+        <pb xml:id="leaf003v" facs="loc_mc_00967.jpg" type="verso"/>
+        <fw type="pageNum">92</fw>
+        <fw type="header">CONSUELO.</fw>
+        <p>ennobling love, it has banished and condemned it. 
+            Beauty, woman, and love, could not lose their empire. Men 
+            have raised to them other temples which they have called 
+            theatres, wherein no other god has come to preside. Is it 
+            your fault, Consuelo, if those theatres have become sinks of 
+            corruption? Nature, who performs her prodigies, without 
+            caring for the reception that her master-pieces may meet with 
+            among men, has formed you to shine among all women, and 
+            to spread abroad through the earth the treasures of power and 
+            of genius. The cloister and the tomb are synonymous. You 
+            could not, without committing suicide, bury the gifts of Providence. 
+            You were obliged to take your flight in a freer atmos-
+            phere. <hi rend="underline">Manifestation is the condition of certain existences;</hi> 
+            the voice of nature impels them to it irresistibly; and the will 
+            of God in this respect is so positive, that he withdraws the 
+            faculties with which he has endowed them, as soon as they 
+            mistake their use. The artist perishes and is extinguished in 
+            obscurity, as the thinker wanders and is exasperated in absolute 
+            solitude; as every human spirit deteriorates and is destroyed 
+            in isolation and confinement. Go therefore upon the 
+            stage, Consuelo, if you will, and encounter its apparent disgrace 
+            with the resignation of a pious soul, destined to suffer, 
+            to search in vain for its home in this world, but compelled to 
+            fly the darkness which is not the element of its life, and out 
+            of which the breath of the Holy Spirit imperiously expels it."</p>
+        <p>Albert spoke thus a long while, with animation, walking 
+            rapidly with Consuelo through the shadowy paths of the warren. 
+            He had no difficulty in communicating to her the enthusiasm 
+            he experienced for the sentiment of art, and in making 
+            her forget the repugnance she had at first felt at returning to 
+            the grotto. Seeing that he desired it earnestly, she herself 
+            began to wish to be alone with him long enough to understand 
+            the ideas which this ardent and timid man did not dare to 
+            utter except before her. Those ideas were very new to Consuelo, 
+            and perhaps they were entirely so, in the mouth of a 
+            patrician of that age and country. Still they struck the young 
+            artist only as a frank and bold expression of the feelings which</p>
+    </body>
+</text>
+</TEI>

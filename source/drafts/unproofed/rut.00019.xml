@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00019">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"American Mind"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00019</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"American Mind"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1851-08">August 1851</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-07">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <div1>
+                <pb xml:id="leaf001r" facs="rut_nhg.00016.jpg" type="recto"/>
+                <fw type="pageNum" place="top right">691</fw>
+                <fw type="header" place="top"><hi rend="smallcaps">LITERARY NOTICES.</hi></fw>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <delSpan rend="hashmark" spanTo="#d01"/>
+                <p>-cial histories, treatises in different departments of science, and one or two
+                    works on the general history of Brazil have made their appearance within the
+                    last few years. French publications are to be found in abundance on the shelves
+                    of the booksellers, especially on scientific, historical, and philosophical
+                    subjects, many of the last often being of a skeptical character. A variety of
+                    interesting books are produced under the authority of the Government, consisting
+                    of the reports of the Ministers of the Empire&#8212;Finance, Justice, Foreign
+                    Affairs, War, and the Navy. These are prepared with great care, and contain much
+                    valuable matter for the statesman and the general reader. The periodical
+                    literature of Rio includes a <hi rend="italic">Medical Review</hi> and a <hi rend="italic">Brazilian and Foreign Quarterly</hi>, the latter of which is
+                    conducted with ability, and promises to be of national service, although it
+                    relies too much on translations in comparison with the efforts of native talent.
+                    Journalism flourishes in Rio, is respectably sustained in a literary point of
+                    view, and pays well. The external appearance of the newspapers is like that of
+                    the Parisian journals, except the Brazilian dailies are of a larger size and of
+                    superior mechanical execution. The bottom of each sheet has its <hi rend="italic">feuilleton</hi> for light reading, and on every Sunday the
+                    principal journal has several columns of local and personal gossip. The
+                    newspaper press is very prolific, issuing four dailies, several tri-weeklies,
+                    and from six to ten weeklies and irregular sheets. Verbatim reports of the
+                    proceedings of the National Assembly are published at length on the morning
+                    after their occurrence. Some of the journals take much pains to give full and
+                    correct reports of commercial intelligence, while none of them are encumbered
+                    with standing advertisements. On the contrary, the advertisements are renewed
+                    almost every day, and by their piquancy and variety furnish matter for several
+                    entertaining columns. There are also in Rio a number of public institutions for
+                    the cultivation of literature and science and the diffusion of knowledge. The
+                    National Library contains 100,000 volumes. The English, German, and Portuguese
+                    residents have established subscription libraries for their own use
+                    respectively. The National Museum has a valuable collection of mineralogical
+                    specimens, and many curious aboriginal relics. Almost all the leading men of
+                    Brazil belong to the learned professions. No high position in the state is
+                    filled by either a merchant or mechanic. Other topics of great interest are
+                    treated of in this instructive volume, which will at once take a high place
+                    among our works of reference on the Brazilian empire. It is brought out in a
+                    neat edition, with unexceptionable type and paper, and a variety of appropriate
+                    illustrations.</p>
+
+                <p><hi rend="italic">Souvenirs of Travel</hi>, by Madame <hi rend="smallcaps">OCTAVIA WALTON LE VERT</hi>. (Published by S. H. Goetzel and Co.) The
+                    author of these European recollections is famed throughout the United States for
+                    her personal accomplishments, attractive manners, and social popularity. A
+                    favorite wherever she is known, and the idol of her intimate acquaintance, she
+                    was received in European society with a genial cordiality which naturally
+                    prevented her from seeing any thing but the brightest aspects of the brilliant
+                    living panorama which passed before her admiring and enthusiastic gaze. Her
+                    experience in the capitals of Europe appears to have been a succession of
+                    triumphs. Courted, appreciated, and honored both in the gayest and the wisest
+                    circles,<cb/> it was natural that she should bring away only the most
+                    rose-colored impressions. Hence the tone of her book will strike indifferent
+                    readers as too encomiastic, too jubilant, nor will they at once respond to the
+                    facility with which she takes them into her most private confidences. The warm
+                    expressions of gratification and delight with which she records the attentions
+                    that she received from the paragons of English and Continental humanity, though
+                    well suited to the temperature of a friendly correspondence, are rather too
+                    personal in their nature for the bleaker and less hospitable atmosphere of the
+                    world. They speak better for the kindliness of her disposition than for the
+                    severity of her discretion. Her volumes are largely occupied with the details of
+                    society. They present little new information on topics of important bearing, and
+                    do not pretend to the authority of a guide-book or a treatise on statistics. Her
+                    writing is most successful when she describes scenes of every-day social
+                    interest in which she bore a prominent part. When she leaves the personal sphere
+                    for the statement of more general facts, she often repeats well-known
+                    circumstances, assuming too little information on the part of her readers. Her
+                    reflections and comments always betray an amiable frame of mind, but are not
+                    remarkable either for acuteness or originality. One can easily imagine the
+                    delight with which such letters would be welcomed in the kindly family circle,
+                    and if the outside reader is tempted to complain of their light and superficial
+                    character, he should bear in mind that they were not originally intended for
+                    publication. The introductory remarks by the publishers, urging the pretensions
+                    of the authoress in the most extravagant manner, are in bad taste, and will tend
+                    to damage her work in public estimation. </p>
+
+                <p><hi rend="italic">Guy Livingstone</hi> (published by Harper and Brothers) is the
+                    title of a racy English novel, written with a terse vigor of expression ; though
+                    not without a dash of the melodramatic in certain situations, and remarkable for
+                    the brilliant intensity of its character-drawing. The materials are drawn from
+                    exceptional phases of human life, and are wrought up into a narrative of
+                    uncommon power and interest.</p>
+
+                <p><hi rend="italic">The Romance of Western History</hi>, by <hi rend="smallcaps">JAMES HALL</hi>, is a new collection of papers by that indefatigable
+                    explorer of Western traditions, life, and history. It is not surpassed in
+                    interest by his previous works on the same subject. (Published by Applegate and
+                    Co., Cincinnati.)</p>
+
+                <p><hi rend="italic">The Five Gateways of Knowledge</hi>, by <hi rend="smallcaps">GEORGE WILSON</hi>. (Published by Parry and M‘Millan.) A popular exposition
+                    of the processes of the senses considered as the avenues to the intellect. It is
+                    an ingenious and pleasing work, as well as a highly instructive one.</p>
+
+                <p><hi rend="italic">A Manual of Business, and Guide to Success</hi>. (Published by
+                    Fowler and Wells.) The closing number of the popular series entitled “
+                    Hand-Books for Home Improvement." They comprise a variety of practical
+                    directions on various important subjects, and are well adapted for general
+                    utility.</p>
+
+                <p>Ticknor and Fields have issued, in their uniform of blue-and-gold, an edition of
+                        <hi rend="smallcaps">LEIGHT HUNT's</hi>
+                    <hi rend="italic">Poems</hi>, comprising all the acknowledged productions of
+                    that honeyed hard, and collected under his own supervision and advice. It is
+                    introduced by a neat preface from the pen of the American editor, Mr. S. Adams
+                    Lee, and is embellished with a portrait of the author.</p>
+                <anchor xml:id="d01"/>
+            </div1>
+
+            <pb xml:id="leaf001v" facs="rut_nhg.00015.jpg" type="verso"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/><hi rend="underline" hand="#h2">American Mind</hi></note>
+            <note type="authorial" resp="#h2" place="top right">7</note>
+
+            <div1>
+                <head type="main-authorial">Editor's Table.</head>
+
+                <p><hi rend="smallcaps">THE AMERICAN MIND</hi>.&#8212;In studying literature and
+                    history, we are at first attracted by particular events and individual minds,
+                    and we rise but gradually to the conception of nations and national
+                    minds&#8212;including, of course, under the latter phrase, all the great moving,
+                    vital powers expressed in the phenomena of a nation’s life. The external
+                    history, the political institutions, the literature, laws, and manners of a
+                    people, are but its thoughts in visible or audible expression, and ever carry us
+                    back to the Mind whence they proceeded, and from which they received their
+                    peculiar national character. “To can not form just notions even of individuals
+                    without viewing them as related to their age and country&#8212;as expressions,
+                    more or less emphatic, of the National Mind, in whose depths their personal
+                    being bad its root, and from whose vitality they drew the pith and nerve of
+                    character. Thus Pericles, Scipio, and Chatham lose much of their raciness and
+                    genuineness if not considered as related in this way to Greece, Rome, and
+                    England, who bore them, nurtured them, colored and directed their thoughts and
+                    passions, clothed them with power as with a garment, so that Greece saw in
+                    Pericles the mirror of her own supple strength and plastic intellect; and Rome
+                    beheld in Scipio the image of her own fixed will and large reason; and England
+                    recognized in Chatham's swift Norman energy and solid Saxon sense the child who
+                    had drained honesty, intelligence, and imperious pride from her own arrogant
+                    breast. It thus requires a great people to bear a breed of great men, for great
+                    men require strong incitements; a field for action; courage, power, glory, and
+                    virtue around as well as within them; and if powerful natures do not start
+                    naturally up, to meet any terrible emergency of a nation's life, we may be sure
+                    that the National Mind has become weak and corrupt, has “lost the breed of noble
+                    bloods," and that external enemies, like empirics dealing with consumptive
+                    patients, only accelerate a death already doomed by interior decay.</p>
+
+                <p>Thus, when we would comprehend in one inclusive term the intellect and
+                    individuality of Greece, or Rome, or England, we speak of the Greek, or Roman,
+                    or English Mind. A national mind implies a nation, not a mere aggregation of
+                    individuals or states; and we propose now to consider the question, Whether or
+                    not there is such a thing as an American Mind; and if so, what are its
+                    characteristics and tendencies; what is the inspiration, and what the direction
+                    it gives to the individual man in America?</p>
+
+                <p>In treating this subject, it is important that we avoid all that blatant and
+                    bragging tone in which American conceit thinly <choice>
+                        <orig>vails</orig>
+                        <reg>veils</reg>
+                    </choice> its self-distrust ; that a deaf ear be presented to the exulting
+                    dissonance of the American chanticleer; that the Pilgrim Fathers be disturbed as
+                    little as possible in their well-earned graves; and that the different parts of
+                    the discourse be not found, like the compositions of certain eminent musicians,
+                    to be but symphonious variations on the one tune of “ Yankee Doodle" or “ Hail
+                    Columbia!"</p>
+
+                <p>And, first, in view of the variety of races and interests included under our
+                    government, can we assert the existence of an American Mind? We certainly can
+                    not do this in the sense in which we say there was a Greek mind, whose birth,
+                    growth, maturity, and decay we can take in at one grasp of <cb/>
+                </p>
+
+                <p> generalization; or in the sense in which we say there is an English mind,
+                    full-grown and thoroughly organized in manners, institutions, and literature.
+                    All that we can assert is that the thoughts, acts, and characters of Plymouth
+                    Puritan and Virginia Cavalier, through two centuries of active existence, have
+                    been fused into a mass of national thought, character, and life; and that this
+                    national life has sufficient energy and pliancy to assimilate the foreign
+                    natures incessantly pouring into it, and to grow, through this process of
+                    assimilation, into a comprehensive national mind. At present we can discern
+                    little more than tendencies, and the clash and conflict of the various elements;
+                    but the strongest force&#8212;the force to which the other elements gravitate,
+                    and by which they will all eventually be absorbed&#8212;is the Saxon-English
+                    element, in its modified American form. The Celt, the German, the Englishman,
+                    the Italian, can exist here only by parting with his national individuality; for
+                    he is placed in a current of influences which inevitably melts him down into the
+                    mass of American life. But while this absorption changes his character, it
+                    modifies also the character of the absorbing force ; for the American Mind, with
+                    every infusion of foreign mind, adds to its being an element which does not lie
+                    as a mere novelty on its surface, but penetrates into its flexible and fluid
+                    substance, mixes with its vital blood, and enriches or impoverishes, elevates or
+                    depraves, its inmost nature; and so organic in its character is this seeming
+                    abstraction of a nation, that for every such infusion of a foreign element each
+                    citizen is either injured or benefited, and finds that he acts and thinks the
+                    better or the worse for it. The balm or the poison steals mysteriously into him
+                    from all surrounding circumstances: from the press, from politics, from trade,
+                    from social communion, from the very air he breathes, come the currents of a new
+                    life, to warm or to chill, to invigorate or deaden, his individual heart and
+                    brain. This fact goes under the name of a change in public sentiment; and have
+                    we not often witnessed its miracles of apostasy or conversion wrought on men
+                    whose characters we fondly thought fixed as fate?</p>
+
+                <p>The American Mind thus promises to be a composite mind&#8212;composite in the
+                    sense of assimilation, not of mere aggregation. Its two original elements were
+                    the Englishman who came here to found, repair, or increase his estate; and the
+                    Englishman who was driven here by political and ecclesiastical oppression. Of
+                    these, the stronger of the two is undoubtedly the latter; and the last probe of
+                    historical and critical analysis touches him at the nation's centre and heart.
+                    This Puritan Englishman was all character: strong in the energy, courage,
+                    practical skill, and hard persistency of character: with a characteristic
+                    religion, morality, and temper of mind; at once the most forcible and the most
+                    exclusive man that the seventeenth century produced. Yet from this bigoted,
+                    austere, iron-willed, resisting, and persisting Saxon religionist
+                    &#8212;intolerant of other natures, from the very solidity and lowering might of
+                    his own&#8212;has sprung the flexible, assimilative, compromising,
+                    all-accomplished Yankee, who is neither Puritan nor Cavalier, Englishman,
+                    Irishman, Frenchman, nor German, hut seems to have a touch of them all, and is
+                    ready to receive and absorb them all. A Protean personage, he can accommodate
+                    himself to any cir- <pb xml:id="leaf002r" facs="rut_nhg.00017.jpg" type="recto"/> -cumstances, to all forms of society, government, and religion. He is the
+                    staid, sensible farmer, merchant, or mechanic of New England, with his
+                    restlessness subdued into inveterate industry and power of rigid application;
+                    but he is also Sam Slick in the provinces, and Nimrod Wildfire in Kentucky, and
+                    Jefferson Brick on the frontier. Through all disguises, and in every clime
+                    visited by sin and trade, peep the shrewd twinkle of his knowing eyes and the
+                    multiform movements of his cunning fingers! Let him drop down in Siberia or
+                    Japan, in England or Italy, in a Southern plantation or Western settlement, and
+                    he seems to say, “Gentlemen, behold the smartest man in all creation! one who
+                    will put your brain into his head, get at your secret, and beat you in the art
+                    of being yourselves; so please fall into rank, deliver up your purses,
+                    acknowledge your born lord and king !"</p>
+
+                <p>We have not time to discuss here the question, how a national mind, which is
+                    distinguished above all others for mental hospitality and general availableness,
+                    had its root in a Puritanism as unaccommodating as it was powerful. It is,
+                    perhaps, sufficient to say, in explanation, that the Puritan, narrow and
+                    isolated as he seems, had one side of his nature wide open to liberal
+                    influences. His religious creed, it is true, was authoritative ; he submitted to
+                    it himself, he enforced it upon others; but in political speculation he was
+                    audaciously independent. In the art and science of government he had no European
+                    equal either among statesmen or philosophers, and his politics, constantly
+                    connected as they were with his industrial enterprise, eventually undermined his
+                    despotic theology. But our business here is with the American Mind as it now is,
+                    and as it promises to be hereafter. This mind we must consider as having its
+                    expression in the nation's life; and certainly the first survey of it reveals-a
+                    confusion of qualities which apparently elude analysis, and defy generalization.
+                    This confusion results, as in the individual mind, from the variety of
+                    unassimilated elements in contact or collision with the national personality;
+                    and accordingly its harmony is disturbed by a mob of noisy opinions, which never
+                    have, and some of which we trust never will, become living ideas and active
+                    forces. The consequence of this juxtaposition of mental organization with mental
+                    anarchy, in a national mind hospitable to every thing, and now only visible to
+                    us in its fierce, swift, devouring growth, is a lack of solidity, depth, and
+                    tenacity in comparison with its nimbleness, and a disposition to combine a
+                    superficial enthusiasm for theories with a shrewd hold upon things throughout
+                    the broad field of its restless, curious, inventive, appropriative, scheming,
+                    plausible, glorious, and vain-glorious activity. But the two grand leading
+                    characteristics of its essential nature are energy and impressibility ;--an
+                    impressibility all alive to the most various objects, and receptive of elements
+                    conflicting with each other&#8212;and a primitive, inherent energy, too quick, fiery,
+                    and buoyant to be submerged by the wealth of life which its impressibility pours
+                    into it; an energy which whelms in its stream all slower and feebler natures
+                    with whom it comes in contact, and rushes onward with the force of fate and the
+                    intelligence of direction.</p>
+
+                <p>In estimating the quantity and quality of this mental energy, we must ascertain
+                    the different channels of work and production into which it is poured. Work of
+                    some kind is the measure of its power and the test of its quality; but we
+                    must<cb/>avoid the fallacy of supposing that art and literature are the only
+                    expressions of a nation’s intellect. It would, indeed, be a grotesque libel on
+                    some ten millions of educated people to declare, that American literature
+                    represented more than a fraction of American intelligence. That intelligence has
+                    received a practical direction, and is ex' pressed, not in Iliads and
+                    æneids, not in Principals and Cartoons, but in commerce, in manufactures,
+                    in the liberal professions, in the mechanic arts, in the arts of government and
+                    legislation, in all those fields of labor where man grapples directly with
+                    nature, or with social problems which perplex his practical activity. To
+                    describe the miracles which American energy has wrought in these departments
+                    would be to invade a domain sacred to caucus speeches and all kinds of
+                    starred-and-striped bravado, and perhaps they speak for themselves with far more
+                    emphasis than orators can speak for them, having hieroglyphed, as Carlyle would
+                    say, “America, her mark,” over a whole continent; but it is not generally
+                    admitted that mind, analytical, assimilative, constructive, creative mind, is as
+                    much implied in these practical directions of intelligence as in abstract
+                    science and the fine arts; so that, if a sudden upward ideal turn were given to
+                    the national sentiment, the intellectual energy which would leave contriving
+                    railroads, calculating markets, and creating capital, and rush into epics,
+                    lyrics, and pastorals, would make Wall Street stare and totter, and our present
+                    generation of poets strangle themselves with their own lines. Indeed
+                    observation, reason, and imagination are powers which do not lose their nature
+                    in their application to widely different objects. Thus Sir William Hamilton, the
+                    acutest analyst of Aristotle's mental processes, declares that abstruse and
+                    seemingly juiceless metaphysician to have had as great an imagination as Homer ;
+                    and though we are prone to associate imagination with some elevation of
+                    sentiment, <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> has given more of it to Iago, and Goethe has given more of it to
+                    Mephistopheles, than Nature gave to Bishop Heber, the purest of England's minor
+                    poets. Applying this principle to business, we shall find much to disturb the
+                    self-content of second-rate <hi rend="italic">litterateura</hi> and canons, who
+                    are accustomed to congratulate themselves that, if others have the money, they
+                    at least have the brain, if we should sharply scrutinize the mental processes of
+                    a first-rate merchant. Is it observation you demand? Behold with what keen
+                    accuracy he perceives and discriminates facts. Is it understanding? Look at the
+                    long trains of reasoning&#8212;the conclusion of each argument forming the
+                    premises of the next&#8212;by which he moves, step by step, to an induction on
+                    whose soundness he risks character and fortune. Is it will? Mark him when a
+                    financial hurricane sweeps over the money-market, and observe how firm is his
+                    grasp of principles, and how intelligently his cold eye surveys the future,
+                    while croakers all around him are selling and sacrificing their property in
+                    paroxysms of imbecile apprehension. Is it imagination? See how, to him, in his
+                    dingy counting-house, the past becomes present, and the distant near; his mind
+                    speeding from St. Petersburg to London, from Smyrna to Calcutta, on wings which
+                    mock the swiftness of steamers and telegraphs; or, bridging over the spaces
+                    which divide sensible realities from ideal possibilities, see him blend in one
+                    consistent idea and purpose stray thoughts and separate facts, whose hidden
+                    analogies the eye alone of <pb xml:id="leaf002v" facs="rut_nhg.00018.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">694</fw>
+                    <fw type="header" place="top"><hi rend="smallcaps">HARPER'S NEW MONTHLY
+                            MAGAZINE</hi></fw>
+                    <milestone unit="undeclared" rend="horbar-full"/> imagination could divine. Is
+                    it, in short, general force and refinement. of mind? Behold how comprehensive
+                    and how cautious is his glance over that sensitive, quivering, ever-shifting sea
+                    of commercial phenomena&#8212;so wide as to belt the globe, and so intimately
+                    connected that a jar in any part sends a thrill through the whole&#8212;and note
+                    with what subtle certainty of insight he penetrates beneath the seeming anarchy,
+                    and clutches the slippery and elusive, but unvarying laws. There is, indeed, a
+                    commercial genius, as well as a poetical and meta, physical genius&#8212;the
+                    faculties the same, the sentiments and the direction different. Wealth may be,
+                    if you please, often insolent and unfeeling; may scorn as visionary things more
+                    important than wealth; but still it is less frequently blundered into than
+                    artists and philosophers are inclined to believe.</p>
+                <span rend="bracket-left" hand="#h2" xml:id="b001" from="#b001" to="#b002"/>
+                <p>But though we can thus trace the same radical mental energy in industrial as in
+                    artistical labors, the force and durability of a nation's mind still demand not
+                    only diversity in its industrial occupations, but a diversity in the direction
+                    of the mind itself, which shall answer to the various sentiments and capacities
+                    of the soul. <hi rend="underline" hand="#h2">It is in this comprehension that
+                        most nations fail, their activity being narrowed by the dominion of one
+                        impulse and tendency, which leads them to the summit of <note xml:id="n001" target="u001" type="authorial" place="left" anchored="true">☞</note><hi rend="underline" hand="#h2" xml:id="u001">some
+                            special excellence</hi>, and then surely precipitates them into decay
+                        and ruin. Such narrowness is the death of mind, and national exclusiveness
+                        is national suicide.</hi> Thus the genius and capital of Italy were
+                    disproportionately directed to the fine arts; its wealth is now, accordingly,
+                    too much in palaces and cathedrals, in pictures and statues; <hi rend="underline" hand="#h2">and its worship of beauty, and disdain of the
+                        practical, have resulted in an idle and impoverished people, without
+                        persistency, without energy, without even artistical creativeness, and the
+                        easy prey of insolent French and Austrian arms and diplomacy.</hi> Such a
+                    country can not be made free by introducing acres of rant on the rights of man,
+                        <hi rend="underline" hand="#h2">but by establishing commerce, manufactures,
+                        and a living industry</hi>. Again, the higher philosophy of Germany has been
+                    directed too exclusively to abstract speculation, altogether removed from actual
+                    life; and the reason is not to be sought in the assertion that the German mind
+                    lacks solidity, but in the fact that an arbitrary government has heretofore
+                    refused all freedom to German thought, unless it were exercised in a region
+                    above the earth and beyond politics, and there it may be the chartered libertine
+                    of chaos or atheism.<anchor xml:id="b002"/> By thus denying citizenship to the
+                    thinker, the State has made him licentious in speculation. He may theorize
+                    matter out of existence, Christ out of the Scriptures, and God out of the
+                    universe, and the government nods in the very sleepiness of toleration; but the
+                    moment he doubts the wisdom of some brazen and nonsensical lie embodied in a
+                    law, or whispers aught against the meanest official underling, he does it with
+                    the dungeon or the scaffold staring him in the face; and the grim headsman
+                    reminds him that he lives under a paternal government, where he is free to
+                    blaspheme God, but not to insult the House of Hapsburg. Now, as the German‘s
+                    metaphysics have been vitiated by his lack of political rights, and as the
+                    Italian‘s exclusive devotion to art has <span rend="bracket-left" hand="#h2" xml:id="b003" from="#b003" to="#b004"/>extinguished even the energy by which
+                    art is produced, so there is danger that our extreme practical and political
+                    turn will vulgarize and debase our national mind to that low point where the
+                        energy<anchor xml:id="b004"/><note xml:id="n002" target="b003" type="authorial" place="left" anchored="true">☞</note><cb/>
+                    <span rend="bracket-right" hand="#h2" xml:id="b005" from="#b005" to="#b006"/>and
+                    the motive to industrial production is lost. There can be no reasonable fear
+                    that the beautiful in art or the transcendental in thought will overwhelm our
+                    faculty of making bargains; but there is danger that the nation’s worship of
+                    labors whose worth is measured by money will give a sordid character to its
+                    mightiest exertions of power, eliminate heroism from its motives, destroy all
+                    taste for lofty speculation, and all love for ideal beauty, and inflame
+                    individuals with a devouring self-seeking, corrupting the very core of the
+                    national life. The safety of the American from this gulf of selfishness and
+                    avarice is to be looked for, partly in the prodigious moral, mental, and
+                    benevolent agencies he has established all around him, and partly in that not
+                    unamiable vanity by which he is impelled, not only to make money, but to do
+                    something great or “ smart" in his way of making it.<anchor xml:id="b006"/>
+                    <note xml:id="n003" target="b005" type="authorial" place="right" anchored="true">☜</note></p>
+                <p>This living and restless mass of being which forms the organic body of American
+                    life&#8212;decent, orderly, respectable, intelligent, and productive&#8212; with
+                    Economics as the watchword of its onward movement, has, from the intensity of
+                    its practical direction, roused the diseased opposition of <span rend="bracket-right" hand="#h2" xml:id="b007" from="#b007" to="#b008"/><hi rend="underline" hand="#h2">two classes on the vanishing extremes of its
+                        solid substance; namely, a class of violent reformers who scorn economics on
+                        the ground of morality, and a class of violent radicals who scorn economics
+                        on the ground of glory;</hi> and these are in irreconcilable enmity with
+                    each other, as well as in distempered antagonism to the nation. The first class,
+                    commonly passing under the name of “ Come-outers," have almost carried the
+                    principle of free-will and personal responsibility to the extent of converting
+                    themselves from individuals into individualisms, and they brand every man who
+                    consents to stay in a wicked community like ours as a participant in the guilt
+                    and profits of its sins.<anchor xml:id="b008"/><note xml:id="n004" target="b007" type="authorial" place="right" anchored="true">☜</note> The
+                    Come-outer, when he thoroughly comes out, protests against the whole life of
+                    society, from certain abstract propositions condemning all its concrete laws,
+                    customs, morality, and religion, and strives to separate himself from the
+                    national mind, and live morally and mentally apart from it. But this last is a
+                    hopeless effort. To the community he is vitally bound, and he can no more escape
+                    from it than he can escape from the grasp of the earth’s attraction should he
+                    leap into the air for the purpose of establishing. himself away off in space.
+                    The earth would say to him, as she hauled him back, “If you dislike my forests,
+                    fell them; if my mountains trouble you, blast through them; plant in me what you
+                    will, and, climate permitting, it shall grow; but as for your leaving me, and
+                    speeding off into infinite space on a vagabond excursion round the sun on your
+                    own account, that you shall not do, so help me&#8212;gravitation!"</p>
+                <p>It is needless to say that the Come-outer, in his zeal for abstract morality,
+                    glories in a heroic indifference to consequences, and conscientious blindness to
+                    the mutual relations of rights and duties. Intrenched in some passionate
+                    proposition, he exhibits a perfect mastery of <hi rend="underline" hand="#h2">that logic of anarchy by which single virtues, detached from their
+                        relations, are pushed into fanaticism and foam into vices. Virtue consists
+                        in the harmony of virtues</hi>; but, divorcing moral insight from moral
+                    sentiment, he ignores the complexity of the world‘s practical affairs, and would
+                    go, in the spirit of Schiller's zealot,<q><p>“ Right onward like the lightning
+                            and Tho cannon ball. opening with murderous crush His way to blast and
+                            ruin." </p></q>
+                    <pb xml:id="leaf003r" facs="rut_nhg.00019.jpg" type="recto"/>
+                    <note xml:id="n005" type="authorial" place="top"><del type="overstrike" hand="#h2">yes a</del></note>
+                    <fw type="pageNum" place="top right">695</fw>
+                    <fw type="header" place="top"><hi rend="smallcaps">EDITOR'S TABLE.</hi></fw>
+                    <milestone unit="undeclared" rend="horbar-full"/> Indeed, he sometimes brings to
+                    mind the story of that wise man who, when he desired to make a. cup of tea,
+                    could hit upon no happier contrivance for boiling the kettle than by placing it
+                    in the kitchen and setting his house on fire. Again, he is sometimes raised to
+                    such a height of feverish indignation as to mistake his ruptures of moral rage
+                    for prophetic fury, and anticipates the stern, sure, silent march of avenging
+                    laws with a blast that splits the brazen throats of denunciation's hundred
+                    trumpets. In view of the evils of the world he seems hungry for a fire from
+                    heaven to smite and consume iniquity. His prayer seems continually to be, “ O
+                    Lord, why so slow?" and though this discontent may be termed by some admiring
+                    enthusiasts a divine impatience, it appears to be rather an impatience with
+                    Divinity. It is the exact opposite of that sublime repose in the purposes of
+                    Providence expressed by the philosophical historian, that “God moves through
+                    history as the giants of 110mer through space: he takes a step&#8212;and ages
+                    have rolled away!"</p>
+                <p>Doubtless, in this class of extreme social protestants&#8212;a class whose
+                    peculiarities we have doubtless heightened, in attempting to individualize its
+                    ideal&#8212;there is much talent, much disinterestedness, much unflinching
+                    courage, and if they would make a modest contribution of these to the nation‘s
+                    moral life, they and society would both be gainers; but they are “
+                    self-withdrawn into such wondrous depth" of hostile seclusion, that they are
+                    only visible in their occasional incursions, or when they encamp in the
+                    community during Anniversary Week. They are not, in fact, more narrow, more
+                    ridden by their one idea of morals, than many of our practical men, who are
+                    ridden by their one idea of money ; but their extravagance of phrase, almost
+                    annihilating, as it does, the meaning of words considered as signs of things,
+                    prevents their influencing the people they attack; and after beginning with a
+                    resounding promise to reform the world, they too often end in a desperate
+                    emulation among themselves to bear off the palm in vehemence of execration,
+                    launched against all those organized institutions by which society is protected
+                    from the worst consequences of its worldliness, selfishness, sensuality, and
+                    crime.</p>
+                <p>As the class of persons to which we have just referred push the principle of
+                    individualism to the extent of forswearing allegiance to the community, so there
+                    is another class, on the opposite extreme, who carry the doctrine of a
+                    Providence in human affairs to a fatalistic conclusion, which they are pleased
+                    to call Manifest Destiny ; a doctrine which baptizes robbery and murder as
+                    providential phenomena&#8212;what kind and condescending patrons of Providence
+                    these blackguards are, to be sure !&#8212;of inherent national tendencies; considers
+                    national sins simply as necessary events in the nation's progress to glory; and
+                    by treating every direction given to the public mind as inevitable, is sure to
+                    inflame and pamper the worst. This dogma&#8212;the coinage of rogues, who find
+                    it very convenient to call man’s guilt by the name of God's
+                    providence&#8212;mostly obtains on the southern frontier of our country, where
+                    the settlers, amidst their forests and swamps, have a delectable view of the
+                    land flowing with milk and honey, which destiny manifestly intends they shall
+                    occupy, on the clearest principles of the argumentation of rapine. It must be
+                    admitted that this class of our fellow-sinners and citizens, by holding up
+                    endless war and hectic glory <cb/> in the faces of our shrewd and prudent
+                    worldlings, scare them much more than the hottest and heartiest invectives of
+                    the reformers. We hear, it seems, with bland composure the charge of being
+                    robbers and murderers, tyrants and liberticides; but our blood runs cold at the
+                    vision of a bomb descending into Boston or New York, or the awful calamity
+                    involved in the idea of United States sixes going below par!</p>
+                <p>Manifest Destiny is, of course, a tempestuously furious patriot, whose
+                    speech&#8212;ever under a high pressure of bombast&#8212;is plentifully
+                    bedizened with metaphors of his country's stars and stripes, and rapturous
+                    anticipations of the rascal‘s “good time coming." Among other satanic felicities
+                    he has one, conned out of the devil's prayer-book, called, “Our country, right
+                    or wrong!" a stupid fallacy at the best, when we consider that the activity of
+                    every nation is bounded by inexorable moral laws as by walls of fire, to pass
+                    which is to be withered up and consumed; but especially fallacious from his
+                    lips, when we reflect that, practically, he inverts the maxim, and really means,
+                    “Our country, wrong or right, “with a decided preference for the former." Spite
+                    of all professions, we must doubt the fidelity of that sailor who, in a
+                    hurricane, shows his devotion to his ship by assisting her tendency downward;
+                    and, on the same principle, we may doubt Mr. Manifest Destiny‘s all-for-glory,
+                    nothing-for-money, patriotism.</p>
+                <p>The fallacy, indeed, of the fatalistic scheme, as applied to nations, is the same
+                    as when applied to individuals; and its doctrine of inevitable tendencies comes
+                    from considering mind as a blind force, not as an intelligent, responsible,
+                    self-directing energy. <span rend="bracket-right" hand="#h2" xml:id="b009" from="#b009" to="#b010"/>A plastic, fluid, impressible national mind, like
+                    the American, receives a new impulse and direction for every grand sentiment,
+                    every great thought, every heroic act, every honest life, contributed to it; and
+                    that philosophy <anchor xml:id="b010"/> which screams out to reasonable
+                    citizens, “The tendency of the nation is toward the edge of the bottomless pit,
+                        <hi rend="italic">therefore</hi> patriotically assist the movement,” is the
+                    insane climax of the <hi rend="italic">non sequitur</hi> in political logic.
+                    Why, we can shield ourselves from such a conclusion, with no better reasoning
+                    than that employed by the grave-digger in Hamlet, in discussing the question of
+                    suicide: “Here lies the water; here stands the man: if the man go to the water
+                    and drown himself, it is&#8212;will he, nil he&#8212;he goes; but if the water
+                    come to him, and drown him, he drowns not himself: argal, he that is not guilty
+                    of his own death, shortens not his own life." We may be sure that no nation,
+                    which goes not to the fire, will ever have the tire come to it. leaven is
+                    liberal of its blessings and benignities, but it practices a rigid economy in
+                    dispensing its smiting curses, and lets loose its reluctant angels of calamity
+                    and death only as they are drawn down by the impious prayers of fully and crime
+                    i</p>
+                <p>If the too exclusive direction of the American mind to industrial production has
+                    not been much checked by the two antagonistic extremes of radicalism its
+                    money-ocracy has provoked, and for whose excesses it is to a great degree
+                    responsible, we must look for a healthier opposition to it in the various
+                    classes of moderate dissentients and reformers, who are not so much disgusted
+                    with the community as to lose all power of influencing it, and who are steadily
+                    infusing into their own and the national character loftier ideas and more
+                    liberalizing tastes. Our churches, collegiate institu-<cb/><pb xml:id="leaf003v" facs="rut_nhg.00020.jpg" type="verso"/><fw type="pageNum" place="top left">696</fw>
+                    <fw type="header" place="top"><hi rend="smallcaps">HARPER'S NEW MONTHLY
+                            MAGAZINE.</hi></fw><milestone unit="undeclared" rend="horbar-full"/>tions, and numerous societies established for moral and benevolent ends, are
+                    connected with the national mind, and at the same time are inspired by
+                    influences apart from it; but still, we must admit that, just in proportion as
+                    the nation’s life circulates through them, is their tendency to temporize with
+                    Mammon. The Church, for instance, exercises a vast and beneficent influence in
+                    spreading moral and religious ideas; but do we not often hear sermons in which
+                    industrial prosperity is unconsciously baptized with great pomp of sacred
+                    rhetoric P and prayers, in which railroads and manufactories hold a place among
+                    Divine favors altogether different from the estimate in which they are held
+                    above? Do we, mad as we all are after riches, hear often enough from the pulpit
+                    the spirit of those words in which Dean Swift, in his epitaph on the affluent
+                    and profligate Colonel Chartres, announces the small esteem of wealth in the
+                    eyes of God, from the fact of his thus lavishing it upon the meanest and basest
+                    of his creatures?</p>
+                <p>Our theology is closer to the public mind, both to act and to be acted upon, than
+                    our literature. Indeed, if we take the representative men of those classes whose
+                    productions, ethical, poetical, and artistical, we call American literature and
+                    art, we shall find that the national life is not so much their inspiration as it
+                    is the object they would inspire. Charming and Allston, for instance, have a
+                    purified delicacy and refinement of nature, a constant reference to the
+                    universal in morals and taste, and a want of ruddy and robust strength,
+                    indicating that they have not risen genially out of the national mind, and
+                    betraying, in all their words and colors, that surrounding influences were
+                    hostile rather than sustaining to their genius. Their works, accordingly, have
+                    neither the exclusiveness nor the raciness and gusto characteristic of genius
+                    which is national. The same principle applies to our poetical literature, which
+                    worships Beauty, but not beautiful America. If you observe the long line of the
+                        <span rend="bracket-right" hand="#h2" xml:id="b011" from="#b011" to="#b012"/> English poets, Chaucer, <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice>, Ben Jonson, Dryden, Pope, Byron, with hardly the exceptions of
+                    Spenser and Milton, you will find that, however heaven-high some of them are in
+                    elevation, they all rest on the solid base of English character ; idealize,
+                    realize, or satirize English history, customs, or scenery, English modes of
+                    thought and forms of society, English manners or want of manners, English life
+                    and English men&#8212;are full, in short, of English blood. But our most eminent
+                    poets&#8212;Dana, Emerson, Bryant, Longfellow, Lowell&#8212;are more or less
+                    idealists, from the necessity of their position. Though they may represent the
+                    woods and streams of American nature, they commonly avoid the passions and
+                    thoughts of American human nature. The “ haunt and main region of their song“ is
+                    man rather than men; humanity in its simple elements, rather than complex
+                    combinations; and their mission is to stand somewhat apart from the rushing
+                    stream of American industrial life, and, assimilating new elements from other
+                    literatures, or directly from visible nature, to pour into that stream, as rills
+                    into a river, thought, fulness, and melody, and beauty. Their productions being
+                    thus <hi rend="italic">contributions</hi>: to the national mind, rather than
+                    offsprings of it, are contemplative rather than lyrical, didactic rather than
+                    dramatic. And is it not better that it should be so? If our economics were sung
+                    as well-as lived; if, instead of “The Humble Bee," and “Thanatopsis," and the
+                    “Psalm of Life,” we had “Odes to the Brokers'<anchor xml:id="b012"/><cb/>
+                    Board," and ' ‘ Lines on the Sudden Fall of Reading Stock," would we not be
+                    giving stimulants where it would be better to give even morphine or chloroform?
+                        <span rend="bracket-right" hand="#h2" xml:id="b013" from="#b013" to="#b014"/>It is from this fact, that the ideal and romantic are elements of thought to
+                    be introduced from abroad into the American mind, that we have not a strictly
+                    national literature, and that so many of the clumsy attempts at purely American
+                    poetry and romance remind one of the fraternizing Frenchman, who rushed up to a
+                    ragged Indian in New Orleans, clasped him to his breast, and joyously exclaimed
+                    that he had at last found the true native American&#8212;the real <hi rend="italic">red</hi> republican !<anchor xml:id="b014"/></p>
+                <p>Perhaps the fairest and least flattering expression of our whole national life
+                    may be found in our politics; for in limited monarchies and in democracies it is
+                    in politics that all that there is in the public mind of servility, stupidity,
+                    ferocity, and unreasoning prejudice is sure to come glaringly out; and certainly
+                    our politics will compare favorably with those of Greece and Rome, of France and
+                    England, in respect either to intelligence or morality. In no country is the
+                    government more narrowly watched; in no country do large parties, bound together
+                    by an interest, more readily fall apart on a principle: and when we consider
+                    that, in practical politics, force and passion, not reason and judgment, are
+                    predominant&#8212;that men vote with a storm of excitement hurrying them on&#8212;this fact
+                    indicates that the minor moralities have to a great extent become instincts with
+                    the people. It would be impossible to give here even a scanty view of this
+                    political expression of our national mind, with its sectional contests, its
+                    struggles of freedom with slavery, its war of abstract philosophies on concrete
+                    interests, its impassioned moralities, and no less impassioned immoralities;
+                    but, perhaps, a few remarks on three great statesmen, who are marked by
+                    unmistakable local and national traits, and who were genuine products of
+                    American life, may not be out of place even here. We refer to Webster, Clay, and
+                    Calhoun. These, though “ dead, yet speak ;" and we shall allude to them as if
+                    they still occupied bodily that position in our politics which they
+                    unquestionably occupy mentally. Such men can only die with the movements they
+                    originated.</p>
+                <p>Of these three eminences of our politics, of late years, Webster may be called
+                    the most comprehensive statesman, Clay the most accomplished politician, and
+                    Calhoun the nimblest and the most tenacious sectional partisan. Webster, on the
+                    first view, seems a kind of Roman-Englishman&#8212;a sort of cross between
+                    Cincinnatus and Burke&#8212;but, examined more closely, he is found to be a
+                    natural elevation in the progress of American life, a man such as New Hampshire
+                    bore him, and such as Winthrop and Standish, Washington and Jay, Hamilton and
+                    Madison, had made him; a man who drew the nutriment of character altogether from
+                    American influences; and, especially, a man representing the iron of the
+                    national character as distinguished from its quicksilver. The principal wealth
+                    of New Hampshire is great men and water-power - bug instead of keeping them to
+                    herself, she squanders them on Massachusetts, and Webster was one of these free
+                    gifts.</p>
+                <p>If we compare Webster with Calhoun, we shall find in both the same firm mental
+                    grasp of principles, the same oversight of the means of popularity, and the same
+                    ungraceful and almost sullen self-assertion, at periods when policy would have
+                        dic-<pb xml:id="leaf004r" facs="rut_nhg.00021.jpg" type="recto"/><fw type="pageNum" place="top right">697</fw>
+                    <fw type="header" place="top"><hi rend="smallcaps">EDITOR'S
+                        TALBLE.</hi></fw><milestone unit="undeclared" rend="horbar-full"/>tated a
+                    more facile accommodativeness. Their intellects, though both in some degree
+                    entangled by local interests and opinions, have inherent differences, visible at
+                    a glance. Webster’s mind has more massiveness than Calhoun’s, is richer in
+                    culture and variety of faculty, and is gifted with a wider sweep of
+                    argumentation; but it is not so completely compacted with character, and has,
+                    accordingly, less inflexible and untiring persistence toward an object. Both are
+                    comparatively unimpressible, but Webster's understanding recognizes and includes
+                    facts which his imagination may refuse to assimilate; while Calhoun arrogantly
+                    ignores every thing which contradicts his favorite opinions, and would be a
+                    great reasoner did he not so often take paradoxes for his premises. The mind of
+                    Webster, weighty, solid, and capacious, looks before and after; by its insight
+                    reads principles in events, by its foresight reads events in principles; and,
+                    arching gloriously over all the phenomena of a widely-complex subject of
+                    contemplation, views things, not singly, but in their multitudinous relations;
+                    yet the very comprehension of his vision makes him somewhat timid, and his
+                    moderation, accordingly, lacks the crowning grace of moral audacity. Calhoun has
+                    audacity, but lacks comprehensiveness.</p>
+                <p>As Webster's mind, from its enlargement of view, has an instinctive intellectual
+                    conscientiousness, the processes of his reasoning are principally inductive,
+                    rising from facts to principles; while Calhoun's are principally deductive,
+                    descending from principles to facts. Now deduction is doubtless sublime exercise
+                    of logical genius, provided the principle be reached&#8212;as it is reached by
+                    Webster, when he uses the process&#8212;by induction; for it gives the mind
+                    power to divine the future, and converts prophecy into a science. Thus, from the
+                    deductive law of gravitation we can predict the appearance of stellar phenomena
+                    thousands of years hence. Edmund Burke is the greatest of European statesmen, in
+                    virtue of his discovery and application of deductive laws applicable to society
+                    and government. But the mischief of Calhoun‘s deductive method is, that, by
+                    nature or position, his understanding is controlled by his will; and,
+                    consequently, his principles are often arbitrarily or capriciously chosen, do
+                    not rise out of the nature of things, but out of the nature of Mr. Calhoun; and
+                    therefore it is frequently true of him, what Macaulay untruly declares of Burke,
+                    that “he chooses his position like a fanatic, and defends it like a
+                    philosopher"&#8212;as Clay chooses his like a tactician, and defends it like a
+                    fanatic.</p>
+                <p>If we carefully study the speeches of Webster and Calhoun, in one of those great
+                    Congressional battles where they were fairly pitted against each other, we shall
+                    find that Webster’s mind darts beneath the smooth and rapid stream of his
+                    opponent‘s deductive argument at a certain point&#8212;fastens fatally on some
+                    phrase, or fact, or admission, in which the fallacy lurks&#8212;and then devotes
+                    his reply to a searching analysis and logical overthrow of that, without heeding
+                    the rest. Calhoun, of course, has the ready rejoinder that the thing demolished
+                    is twisted out of its relations; and then, with admirable control of his face,
+                    proceeds to dip into Webster’s inductive argument, to extract some fact or
+                    principle which is indissolubly related to what goes before and comes after, and
+                    thus really misrepresents the reasoning he seemingly answers. To overthrow
+                    Calhoun you have,<cb/> like Napoleon at Wagram, only to direct a tremendous blow
+                    at the centre; to overthrow Webster, like Napoleon at Borodino, the whole line
+                    must be routed.</p>
+                <p><span rend="bracket-right" hand="#h2" xml:id="b015" from="#b015" to="#b016"/>In
+                    the style of the two men we have, perhaps, the best expression of their
+                    character ; for style, it has been well said, “ is the measure of power&#8212;as
+                    the waves of the sea answer to the winds that call them up.” Webster's style
+                    varies with the moods of his mind&#8212;short, crisp, biting, in sarcasm;<anchor xml:id="b016"/><note xml:id="n006" target="b015" type="authorial" place="right" anchored="true"><handShift new="#h2"/>style</note> luminous
+                    and even in statement; rigid, condensed, massive in argumentation; lofty and
+                    resounding in feeling; fierce, hot, direct, overwhelming, in passion. Calhoun's
+                    has the uniform vigor and clear precision of a spoken essay.</p>
+                <p>Clay&#8212;the love of American economics, as Webster was the pride&#8212;had all
+                    those captivating personal qualities which attract men's admiration, at the same
+                    time that they enforce their respect; and was especially gifted with that
+                    flexibility&#8212;that prompt, intuitive, heart-winning grace&#8212;which his
+                    great contemporaries lacked. The secret of his influence must not be sought in
+                    his printed speeches. We never go to them, as we go to Webster’s and Calhoun's,
+                    for political philosophy and vehement logic. But if Webster as an orator was
+                    inductive, and convinced the reason, and Calhoun deductive, and dazzled the
+                    reason, Clay was most assuredly seductive, and carried the votes. The nature of
+                    Clay, without being deficient in force, was plastic and fluid, readily
+                    accommodating itself to the moment's exigency, and more solicitous to comprehend
+                    all the elements of party power than all the elements of political thought. His
+                    faculties and passions seem all to have united in one power of personal
+                    impressiveness, and that personality once penetrated a whole party, bound
+                    together discordant interests and antipathies, made itself felt as inspiration
+                    equally in Maine and Louisiana, concentrated in itself the enthusiasm of sense
+                    for principles, and of sensibility for men; and these, the qualities of a
+                    powerful political leader, who makes all the demagogues work for him, without
+                    being himself a demagogue, indicated his possession of something, at least, of
+                    that <q><p>"Mystery of commanding; That birth-hour gift, that art-Napoleon, Of
+                            winning, fettering, wielding, moulding, bonding The hearts of millions,
+                            till they move as one."</p></q></p>
+                <p>But the fact that Clay never reached the object of his ambition, proves that he
+                    was not a perfect specimen of the kind of character to which he belonged; and
+                    his personality&#8212;swift, fusing, potent as it was&#8212;alert, compromising,
+                    supple as it was&#8212;still was not under thoroughly wise direction ; and a
+                    sense of honor morbidly quick, and a resentment of slight nervously egotistic,
+                    sometimes urged our most accomplished politician into impolitic acts, which
+                    leveled the labors of years.</p>
+                <p>Perhaps the best test even of a man‘s intellect is the way he demeans himself
+                    when he is enraged; and in this Webster was pre-eminent above all orators, while
+                    Calhoun was apt to lose his balance, and become petty and passionate, and Clay
+                    to exhibit a kind of glorious recklessness. Most of the faults of Webster
+                    proceeded from his comprehension of understanding not being ever accompanied by
+                    a. corresponding impetus from sentiment and character; and some of his orations
+                    are therefore unimpassioned statements and arguments, which, however much they
+                    claim our assent as logicians, do not stir, and thrill, and move us as men. Com-
+                        <pb xml:id="leaf004v" facs="rut_nhg.00022.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">698</fw>
+                    <fw type="header" place="top"><hi rend="smallcaps">HARPER'S NEW MONTHLY
+                            MAGAZINE.</hi></fw>
+                    <milestone unit="undeclared" rend="horbar-full"/> -ing from but one portion of
+                    his own nature, they touch only one portion of the nature of others, and wield
+                    no dominion over the will. Such was his celebrated speech on the Slavery
+                    question, which so many found difficult to answer, and impossible to accept. Not
+                    so was it when passion and sentiment penetrated his understanding; for, in
+                    Webster, passion was a fire which fused intellect and character into one
+                    tremendous personal force, and then burst out that resistless eloquence in which
+                    words have the might and meaning of things&#8212;that true mental electricity,
+                    not seen in dazzling, zigzag flashes&#8212;not heard in a grand, reverberating
+                    peal <hi rend="italic">over</hi> the head&#8212;but, mingling the qualities of
+                    light and sound, the blue bright flame startles and stings the eye at the moment
+                    the sharp crash pierces and stuns the ear. No brow smitten by that bolt, though
+                    the brow of a Titan, could ever afterward lift itself above the crowd without
+                    being marked by its enduring scar; and it was well that a great, and not easily
+                    moved nature, abundantly tried by all that frets and teases the temper, should
+                    thus have borne within himself such a terrible instrument of avenging justice,
+                    when meanness presumed too far on the moderation of that large intellect, when
+                    insolence goaded too sharply that sullen fortitude!</p>
+
+                <p>The three great statesmen to which we have referred, taken together, cover three
+                    all-important elements in every powerful national mind&#8212;resistance,
+                    persistence, and impressibility ; and each, by representing at the same time
+                    some engrossing industrial interest, indicates that practical direction of the
+                    national energies to which we have all along referred. In this region of
+                    industry the nation has been grandly creative; and by establishing the maxim
+                    that the production of wealth is a matter secondary to its distribution, it
+                    promises to be as grandly beneficent. But, perhaps, in the art and science of
+                    government it has been more creative and more beneficent than in the province of
+                    industry. T be elements of order and radicalism it embosoms are in a healthy
+                    rather than destructive conflict, so that we may hope that even the problem of
+                    Slavery will be settled without any widespread ruin and devastation. The
+                    mischief of radicalism in other countries is, that it commences reformation by
+                    abjuring law; accordingly, it opposes political power on the principles of
+                    anarchy, and wields it on the principles of despotism. Here the toughest problem
+                    in the science of government has been practically solved, by the expedient of
+                    legalizing resistance; and thus, by providing legal inlets and outlets for
+                    insurrection and revolution, we reap the benefits of rebellion, and avoid its
+                    appalling evils. A nation which has done this can afford to bear some taunts on
+                    its vices and defects, especially as its sensitive vanity impels it to
+                    appropriate the truth contained in every sarcasm under which it winces.</p>
+
+                <p>It now remains to ask how a national mind like the American, with its powers
+                    generally directed by its sentiments to commerce, industrial production, law,
+                    and politics&#8212;which are the most lucrative occupations&#8212;and but relatively
+                    directed to reforms&#8212;which are the most unprofitable&#8212;how it appears
+                    when tested by those virtues which are the conditions of a nation's durable
+                    strength? The question is not one of particulars, because, in every social
+                    system, no matter how for advanced in humans culture, there will always be
+                    individuals and small classes representing the vices of every grade<cb/> of
+                    civilization which history or tradition has recorded, from cannibals all the way
+                    down to dandies life have our share of New Zealand and our share of Almacks; but
+                    in viewing a national mind we must fasten on the strongest elements and the
+                    average humanity. <span rend="bracket-right" hand="#h2" xml:id="b017" from="#b017" to="#b018"/>Looked at from this liberal point, American life
+                    would bear comparatively well the tests of prudence, moderation, and
+                    benevolence; a little less confidently those of veracity, steadfastness, and
+                    justice; and considerably less those of beauty, heroism, and
+                        self-devotion.<anchor xml:id="b018"/><note xml:id="n007" target="b017" type="authorial" place="right" anchored="true">☜</note></p>
+
+                <p>But it is not so much in the present as in the future that we have the grandest
+                    vision of the American mind. We have seen that its organic substance, as
+                    distinguished from the unassimilated elements in contact or conflict with it, is
+                    solidly and productively practical ; and as it is a sleepless energy, resisting,
+                    persisting, and impressible, <span rend="bracket-right" hand="#h2" xml:id="b019" from="#b019" to="#b020"/>we may hope that it will transmute into itself the
+                    best life of other national minds, without having its individuality overwhelmed;
+                    that it will be strong and beautiful with their virtues and accomplishments,
+                    without being weak with their vices and limitations; and that, continually
+                    enriched by new and various mental life, it will result in being a comprehensive
+                    national mind, harmoniously combining characteristics caught from all
+                    nations&#8212;so that Greece might in it recognize beauty, and Rome will, and
+                    Germany earnestness, and Italy art, and France vivacity, and Ireland impulse,
+                    and England tenacity. It is in this contemplation of America as a conquering
+                    Mind that we should most delight&#8212;a mind worthy of the broad continent it
+                    is to overv-arch&#8212;a mind too sound at the core for ignorance to stupefy, or
+                    avarice to harden, or lust of power to consume&#8212;a mind full in the line of
+                    the historical progress of the race, holding wide relations with all communities
+                    and all times, listening to every word of cheer or warning muttered from dead or
+                    thundered from living lips, and moving down the solemn pathway of the ages, an
+                    image of just, intelligent, beneficent Power!<anchor xml:id="b020"/></p>
+
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+            </div1>
+
+            <div1>
+                <head type="main-authorial">Editor's Easy Chair.</head>
+                <p><hi rend="smallcaps">WE</hi> in America had scarcely buried our foremost
+                    practical statesman, England had barely turned from the grave of her brilliant
+                    wit and satirist, when the note of national bereavement was caught up and
+                    prolonged in the universal sorrow with which the French people followed to his
+                    last home the most popular of poets. The death of Béranger revives all the
+                    souvenirs of all the changing fortunes of France during its last fourscore years
+                    of change. He was one of the rarest products of that strange convulsive epoch so
+                    prodigal of great geniuses. The metaphorical sea of Time, like the veritable
+                    ocean on which we gaze from Newport or Nahant, often sends to the shore, with
+                    its burden of wreck and destruction, some gem of its own most fanciful creation.
+                    The same dismal wave which broke over France in the horrors of Revolution and
+                    the Reign of Terror, bore into being this bright child of song, with all his
+                    overflowing wit and humor and genial human sympathies, like a gleam of sunlight
+                    on the crest of some storm-lashed breaker just poised for the final desolating
+                    sweep. <span rend="bracket-right" hand="#h2" xml:id="b021" from="#b021" to="#b022"/>Nature, in Béranger, epitomized the French character in its sunniest
+                    type, and avenged herself for such grand deformities as Danton, Robespierre, and
+                    their colossal colleagues.<anchor xml:id="b022"/> He was revolutionary and democratic by instinct; but
+                    he had no thirst for blood or plunder,</p>
+                <note xml:id="n008" target="n007" type="authorial" place="bottom right" anchored="true"><handShift new="#h2"/>Beranger</note>
+            </div1>
+
+        </body>
+    </text>
+</TEI>

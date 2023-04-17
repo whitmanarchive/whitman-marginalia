@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-gem "datura", git: "https://github.com/CDRH/datura.git", branch: "ruby3upgrade"
-# gem "datura", path: "/Users/williamdewey/repos/datura"
+gem "datura", git: "https://github.com/CDRH/datura.git", branch: "release/v1.0.0"
 
 gem "byebug"
 # using stanford supported version of iiif-presentation gem

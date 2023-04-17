@@ -1,6 +1,6 @@
 require "byebug"
 require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
-class TeiToEs
+class TeiToEs < XmlToEs
   attr_reader :parent_xml 
   ################
   #    XPATHS    #
@@ -98,6 +98,23 @@ class TeiToEs
       end
     end
     citations
+  end
+
+  def has_part
+    # list all the parts of the cultural geography scrapbook
+    if @filename == "owu.00090"
+      pasteons = @xml.xpath("//body/add[@rend='pasteon']")
+      parts = []
+      pasteons.each do |pasteon_xml|
+        pasteon = TeiToEsPasteon.new(pasteon_xml, {}, nil, @filename)
+        parts << {
+          "role" => "pasteon",
+          "id" => pasteon.get_id,
+          "title" => pasteon.title
+        }
+      end
+      parts
+    end
   end
 
 end

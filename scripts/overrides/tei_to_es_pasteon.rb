@@ -1,5 +1,6 @@
 class TeiToEsPasteon < TeiToEs
 
+
   def get_id
     if @xml["id"]
       id = @xml["id"]
@@ -12,7 +13,11 @@ class TeiToEsPasteon < TeiToEs
   end
 
   def title
-    get_text("head[1]/date")
+    # an attempt to get the most plausible title for each scrapbook note
+    text = get_text(".//head") || get_text(".//div1/note[not(list)][1]") || get_text(".//list[1]/item[1]") ||
+      get_text(".//p[1]") || get_text(".//div1/fw") || get_text(".//div1/figure/caption") || get_text(".//ab")
+    # only take the first fifteen words
+    text.split(" ")[0..15].join(" ") if text
   end
 
   def extent
@@ -64,5 +69,30 @@ class TeiToEsPasteon < TeiToEs
   end
 
   def text
+    # handling separate fields in array
+    # means no worrying about handling spacing between words
+    text_all = []
+    body = get_text(".//text()", keep_tags: false, delimiter: '')
+    text_all << body
+    # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
+    # text_all << CommonXml.convert_tags_in_string(body)
+    text_all += text_additional
+    Datura::Helpers.normalize_space(text_all.join(" "))
   end
+
+  def date_display
+    get_text(".//date")
+  end
+
+  def date(before=true)
+    if get_list(".//date/@when")
+      datestr = get_list(".//date/@when").first
+    else
+      datestr = nil
+    end
+    if datestr && !datestr.empty?
+      Datura::Helpers.date_standardize(datestr, false)
+    end
+  end
+
 end

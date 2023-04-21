@@ -107,11 +107,14 @@ class TeiToEs < XmlToEs
       parts = []
       pasteons.each do |pasteon_xml|
         pasteon = TeiToEsPasteon.new(pasteon_xml, {}, nil, @filename)
-        parts << {
-          "role" => "pasteon",
-          "id" => pasteon.get_id,
-          "title" => pasteon.title
-        }
+        id = pasteon.get_id
+        if id
+          parts << {
+            "role" => "pasteon",
+            "id" => id,
+            "title" => pasteon.title
+          }
+        end
       end
       parts
     end

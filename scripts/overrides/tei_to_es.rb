@@ -120,4 +120,16 @@ class TeiToEs < XmlToEs
     end
   end
 
+  def text
+    # handling separate fields in array
+    # means no worrying about handling spacing between words
+    text_all = []
+    body = get_text(@xpaths["text"], keep_tags: false, delimiter: '')
+    text_all << body
+    # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
+    # text_all << CommonXml.convert_tags_in_string(body)
+    text_all += text_additional
+    Datura::Helpers.normalize_space(text_all.join(" "))[0..999999]
+  end
+
 end

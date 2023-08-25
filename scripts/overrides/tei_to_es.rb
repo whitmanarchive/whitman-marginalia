@@ -37,7 +37,7 @@ class TeiToEs
   end
 
   def category2
-    "Literary Manuscripts / Annotations and Marginalia"
+    "Literary Manuscripts / Marginalia and Annotations"
   end
 
   def language

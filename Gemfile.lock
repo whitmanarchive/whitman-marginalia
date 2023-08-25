@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: d7ab758e6d8dc02ba2b00eb180ee0600e5e581b3
-  branch: ruby3upgrade
+  revision: e928e7e4b010da769b0baed66ffd019a95050e42
+  branch: new_fields
   specs:
     datura (0.2.0.pre.beta)
       colorize (~> 0.8.1)
@@ -21,43 +21,43 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4)
+    activesupport (7.0.7.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
     byebug (11.1.3)
     colorize (0.8.1)
-    concurrent-ruby (1.1.10)
+    concurrent-ruby (1.2.2)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    faraday (2.7.2)
+    faraday (2.7.10)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     http-accept (1.7.0)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
-    i18n (1.12.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     json (2.6.3)
-    mime-types (3.4.1)
+    mime-types (3.5.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2022.0105)
-    mini_portile2 (2.8.0)
-    minitest (5.16.3)
+    mime-types-data (3.2023.0808)
+    mini_portile2 (2.8.4)
+    minitest (5.19.0)
     netrc (0.11.0)
-    nokogiri (1.13.10)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.15.4)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    racc (1.6.1)
+    racc (1.7.1)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
     ruby2_keywords (0.0.5)
-    tzinfo (2.0.5)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unf (0.1.4)
       unf_ext

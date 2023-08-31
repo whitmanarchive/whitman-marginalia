@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e928e7e4b010da769b0baed66ffd019a95050e42
+  revision: 4dfd67bac55acd3dac8c8528339200df30fb2b44
   branch: new_fields
   specs:
     datura (0.2.0.pre.beta)

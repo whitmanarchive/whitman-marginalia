@@ -40,6 +40,11 @@ class TeiToEs
     "Literary Manuscripts / Marginalia and Annotations"
   end
 
+  def category3
+    category3 = "In Whitman's Hand / Marginalia / " + get_text(@xpaths["topics"]).capitalize()
+    category3
+  end
+
   def language
     # TODO verify that none of these are primarily english
     "en"

@@ -1,0 +1,2662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<!--<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules.sch"?>-->  
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02129">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Walt Whitman's Reading: A Bibliographical Handlist</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <editor role="general">Kenneth M. Price</editor>
+        <editor role="general">Ed Folsom</editor>
+        <editor role="contributing">Matt Cohen</editor>
+        <editor role="contributing">Nicole Gray</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <persName xml:id="nhg">Nicole Gray</persName>
+          <persName xml:id="ta">Ty Alyea</persName>
+          <persName xml:id="ap">Ashley Palmer</persName>
+          <persName xml:id="lg">Lauren Grewe</persName>
+          <persName xml:id="mc">Matt Cohen</persName>
+          <persName xml:id="km">Kevin McMullen</persName>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University
+          of Nebraska-Lincoln</sponsor>
+        <sponsor>University of Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>anc.02129</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+          <addrLine>Center for Digital Research in the
+            Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+        <availability>
+          <p>The text encoding and content of this bibliography were
+            created and/or prepared by the <title level="m">Walt
+              Whitman Archive</title> and are licensed under a
+            <ref
+              target="http://creativecommons.org/licenses/by/4.0/"
+              >Creative Commons Attribution 4.0 International
+              License</ref> (CC BY 4.0). Any reuse of these
+            materials should credit the <title level="m">Walt
+              Whitman Archive</title>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="eh">
+          <author key="Holloway, Emory">Emory Holloway</author>
+          <title level="m">The Uncollected Poetry and Prose of Walt Whitman</title>
+          <pubPlace>Garden City, N.Y., and Toronto</pubPlace>
+          <publisher>Doubleday, Page &amp; Company</publisher>
+          <date>1921</date>
+          <biblScope type="vol">Vol. 1</biblScope>
+        </bibl>
+        <bibl xml:id="ht">
+          <author>Horace Traubel</author>
+          <title level="m">With Walt Whitman in Camden</title>
+          <publisher>Multiple publishers</publisher>
+          <date>1906&#8211;1996</date>
+          <biblScope type="vol">9 vols</biblScope>
+        </bibl>
+        <bibl xml:id="ch">
+          <author>C. Carroll Hollis</author>
+          <title level="a">Whitman and William Swinton: A  Collaborative Friendship</title>
+          <title level="j">American Literature</title>
+          <date>1959</date>
+          <biblScope type="vol">30</biblScope>
+          <biblScope type="num">4</biblScope>
+        </bibl>
+        <bibl xml:id="wc">
+          <note>Whitman's copy</note>
+        </bibl>
+        <bibl xml:id="wan">
+          <note>Whitman's notes</note>
+        </bibl>
+        <bibl xml:id="wm">
+          <note>Whitman's marginalia</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2018-03-22" who="#nhg">proofed</change>
+      <change when="2018-01-04" who="#nhg">created from database extraction
+        file</change>
+    </revisionDesc>
+  </teiHeader>
+
+<text type="apparatus">
+<body>
+  <div1 type="section">
+    <head type="main-authorial">Whitman's Reading: A Bibliographical Handlist</head>
+    <p>Walt Whitman was an extensive reader, and like many of us, he kept notes—in the margins, on scraps of paper, and in notebooks—about his reading. This section of the <hi rend="italic">Archive</hi> offers a growing list of books and documents known to have been read or encountered by America's most famous poet. From classical rhetoric to the poetry of Tennyson, from Persian mysticism to nineteenth-century phrenological journals, the influences on Whitman's work were historically deep and culturally diverse.</p>
+  </div1>
+  
+<div1 type="bibliography">
+<listBibl>
+  <bibl xml:id="rd_1" resp="#mc">
+<author key="Epictetus">Epictetus</author>
+<editor role="translator">T. W. H. Rolleston</editor>
+<title level="m">The Encheiridion</title>
+<pubPlace>London</pubPlace>
+<publisher>C. Kegan Paul and Co.</publisher>
+<date type="publicationDate" notBefore="1881-01-01" notAfter="1881-12-31">1881</date>
+<date type="readingDate">1881-1892</date>
+<note type="details"></note>
+<note type="reaction">Several reactions over at least four readings. Extensive markings, with narrative of his readings in endpapers. One of WW's favorites.</note>
+<note type="comments">Also mentioned in <hi rend="italic">With Walt Whitman in Camden</hi>.</note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_2" resp="#mc">
+<author key=""></author>
+<title level="m">English Writers</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Grigg and Elliot's</publisher>
+<date type="publicationDate" notBefore="1841-01-01" notAfter="1841-12-31">1841</date>
+<date type="readingDate">1862-1888</date>
+<note type="place">New York City</note>
+<note type="provenance">Volume now held in Library of Congress</note>
+<note type="reaction">"Here was Milton&#8212;the best of Milton, I think&#8212;of the two Paradises."</note>
+<note type="comments">This volume contains a number of other English authors, with WW's marginal notations on them.</note>
+<note type="source"><ref target="#ht"/></note>
+</bibl>
+  <bibl xml:id="rd_3" resp="#mc">
+<author key="Bell, George Joseph">Bell, George Joseph</author>
+<title level="a">Mrs. Siddons as Lady Macbeth: From Contemporary Notes by George Joseph Bell</title>
+<title level="j">The Nineteenth Century: A Monthly Review</title>
+<pubPlace>London</pubPlace>
+<publisher>C. Kegan Paul and Co.</publisher>
+<date type="publicationDate" notBefore="1878-02-01" notAfter="1878-02-28">February 1878</date>
+<date type="readingDate">1878-1892</date>
+<biblScope type="vol">3</biblScope>
+<biblScope type="pages">296-313</biblScope>
+<idno type="wwa">loc.03428</idno>
+<note type="reaction">Underlines and manicules</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_4" resp="#lg">
+<author key=""></author>
+<title level="a">The Vanity and the Glory of Literature</title>
+<title level="j">The Edinburgh Review, American Edition</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1849-04-01" notAfter="1849-04-30">1849</date>
+<date type="readingDate">After April 1849</date>
+<biblScope type="vol">89</biblScope>
+<biblScope type="pages">149-168</biblScope>
+<idno type="wwa">duk.00248</idno>
+<note type="details">Includes two pasteons, entitled, "The Muses" and "Socratic Philosophy."</note>
+<note type="reaction">"My own opinion is that myriads of superior works have been lost&#8212;superior to existing works in every department, except law, physics, and the exact sciences."</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_5" resp="#mc">
+<author key="Dickens, Charles">Dickens, Charles</author>
+<title level="m">Dombey and Son</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">August 1888</date>
+<note type="place">Camden, NJ</note>
+<note type="reaction">Whitman claims this to be his favorite Dickens novel. He refers to it in several places in <hi rend="italic">With Walt Whitman in Camden</hi>, see for example 6:149: "Dickens, with his inexpressibly fine touch, pictures the soul&#8212;its departure&#8212;its floating off in the mist&#8212;oh! beautiful! A trick, perhaps, yet how fine!"</note>
+<note type="comments">See also for example Traubel, <hi rend="italic">WWWC</hi> 5:21-22; and 4:235.</note>
+<note type="source"><ref target="#ht"/><ref type="wwa" target="med.00006"/></note>
+</bibl>
+  <bibl xml:id="rd_6" resp="#lg">
+<author key="Brainard, John G. C.">Brainard, John G. C.</author>
+<title level="m">Occasional Pieces of Poetry</title>
+<pubPlace>New York</pubPlace>
+<publisher>E. Bliss and E. White</publisher>
+<date type="publicationDate" notBefore="1825-01-01" notAfter="1825-12-31">1825</date>
+<date type="readingDate"></date>
+<biblScope type="pages">1, 5, 7-9, 11, 23-25, 37, 41, 45, 47-48, 76-77</biblScope>
+<idno type="wwa">loc.03449</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_7" resp="#lg">
+<author key="Thompson, Benjamin F.">Thompson, Benjamin F.</author>
+<title level="m">The History of Long Island</title>
+<pubPlace>New York</pubPlace>
+<publisher>Gould, Banks</publisher>
+<date type="publicationDate" notBefore="1843-01-01" notAfter="1843-12-31">1843</date>
+<date type="readingDate"></date>
+<biblScope type="ed">2nd ed.</biblScope>
+<biblScope type="pages">23-27, 29, 247</biblScope>
+<idno type="wwa">loc.03456</idno>
+<note type="reaction"></note>
+<note type="comments">Copy held in the Library of Congress, F127.L8 T4 Feinberg Whitman Collection. Further marginalia can be found at loc.03515. Whitman copies notes about Long Island in the margins.</note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_8" resp="#lg">
+<author key="Khayyam, Omar">Khayyam, Omar</author>
+<title level="m">Rubaiyat of Omar Khayyam, the Astronomer-Poet of Persia</title>
+<pubPlace>London</pubPlace>
+<publisher>Bernard Quaritch</publisher>
+<date type="publicationDate" notBefore="1872-01-01" notAfter="1872-12-31">1872</date>
+<date type="readingDate"></date>
+<biblScope type="ed">3rd ed.</biblScope>
+<biblScope type="pages">i-37</biblScope>
+<idno type="wwa">tex.00350</idno>
+<note type="reaction">Mainly brackets.</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_9" resp="#lg">
+<author key="Salt, Henry Stevens">Salt, Henry Stevens</author>
+<title level="a">The Poet Laureate as Philosopher and Peer</title>
+<title level="j">To-Day; The Monthly Magazine of Scientific Socialism</title>
+<pubPlace>London</pubPlace>
+<publisher>The Modern Press</publisher>
+<date type="publicationDate" notBefore="1884-01-01" notAfter="1884-12-31">1884</date>
+<date type="readingDate">During or after 1884</date>
+<biblScope type="vol">1.2</biblScope>
+<biblScope type="pages">135-147</biblScope>
+<idno type="wwa">loc.03801</idno>
+<note type="details"></note>
+<note type="reaction"></note>
+<note type="comments">The "Sun-Maiden," by Ernest Radford, appears after the end of this article.</note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_10" resp="#ta">
+<author key=""></author>
+<title level="a">Shakspere as a Man</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00173</idno>
+<note type="details">Clipping from an unidentified newspaper juxtaposed with other clippings and notes on Shakespeare.</note>
+<note type="reaction">"See Emerson's Shakespeare."</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_11" resp="#ta">
+<author key=""></author>
+<title level="a">The True Character of Goethe</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00178</idno>
+<note type="reaction"></note>
+<note type="comments">This clipping, which Whitman attached to his notes on Goethe, includes a substantial quote from "Perthes the Publisher, and Literary Germany," published in the February 1857 issue of <hi rend="italic">Titan</hi>.</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_12" resp="#ta">
+<author key=""></author>
+<title level="a">Chips from our Library; a Chance Medley of Fact, Sentiment, and Anecdote</title>
+<title level="j">Harper's Weekly. Journal of Civilization.</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1857-01-17"></date>
+<date type="readingDate">After January 17th, 1857</date>
+<biblScope type="vol">1 (issue 3)</biblScope>
+<biblScope type="pages">37</biblScope>
+<idno type="wwa">duk.00169</idno>
+<note type="details">From this miscellany, Whitman clipped a segment on the "statuesque" descriptions of William Cowper.</note>
+<note type="reaction">Responding to a commentary on William Cowper's "statuesque description," Whitman remarks that Cowper is an "ennuyed poet."</note>
+<note type="comments">Whitman appends this clipping on William Cowper's poetry to a commentary on British poets.</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_13" resp="#ta">
+<author key="Carlyle, Thomas">Carlyle, Thomas</author>
+<title level="a">On the Nibelungenlied</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1831-07-01"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Whitman states he is indebted to Carlyle's essay in his notes on the German text.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00144"/></note>
+</bibl>
+  <bibl xml:id="rd_14" resp="#ta">
+<author key="Gostwick, Joseph">Gostwick, Joseph</author>
+<title level="m">German Literature</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Lippincott</publisher>
+<date type="publicationDate" notBefore="1854-01-01" notAfter="1854-12-31">1854</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">According to Edward Grier, Whitman paraphrases Joseph Gostwick's literal translation of the Nibelungenlied from this source. He speculates that "this was written in 1858 or slightly later."</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00144"/></note>
+</bibl>
+  <bibl xml:id="rd_15" resp="#ta">
+<author key="Rousseau, Jean-Jacques">Rousseau, Jean-Jacques</author>
+<editor role="translator">William Swinton</editor>
+<title level="m">The Confessions of Jean-Jacques Rousseau</title>
+<pubPlace>New York</pubPlace>
+<publisher>Calvin Blanchard</publisher>
+<date type="publicationDate" notBefore="1856-01-01" notAfter="1856-12-31">1856</date>
+<date type="readingDate"></date>
+<note type="reaction">Whitman calls the <hi rend="italic">Confessions</hi> a "frivolous, chattering, repulsive, book, that still has a great lesson in its pages, and whose revelations one keeps reading somehow to the end."</note>
+<note type="comments">Whitman references William Swinton's 1856 translation of  Rousseau's <hi rend="italic">Confessions</hi> twice in his biographical notes on Rousseau.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00174"/></note>
+</bibl>
+  <bibl xml:id="rd_16" resp="#ta">
+<author key="Thornbury, George Walter">Thornbury, George Walter</author>
+<title level="a">Shakespeare's Stage</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="details">Newspaper clipping of a selection from G. W. Thornbury's <hi rend="italic">Shakspeare's England</hi> (London, 1856)</note>
+<note type="reaction"></note>
+<note type="comments">This clipping accompanies Whitman's clippings and intensive notes on Shakespeare.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00173"/></note>
+</bibl>
+  <bibl xml:id="rd_17" resp="#ta">
+<author key="J.D.W.">J.D.W.</author>
+<title level="a">Lessing's Laocoon</title>
+<title level="j">American Whig Review</title>
+<pubPlace>New York</pubPlace>
+<publisher>Wiley and Putnam</publisher>
+<date type="publicationDate" notBefore="1851-01-01" notAfter="1851-01-31">1851</date>
+<date type="readingDate">After January 1st, 1851</date>
+<biblScope type="vol">13</biblScope>
+<biblScope type="pages">21-26</biblScope>
+<idno type="wwa">duk.00055</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_18" resp="#ta">
+<author key="Kavanaugh, Julia">Kavanagh, Julia</author>
+<title level="a">The Deaths of Rousseau and Voltaire</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00174</idno>
+<note type="details">This clipping is a reprint of an excerpt from Volume 2 of Julia Kavanaugh's <hi rend="italic">Woman in France During the Eighteenth Century</hi>, first published in 1850.</note>
+<note type="reaction"></note>
+<note type="comments">This clipping is included with Whitman's notes on Rousseau and <hi rend="italic">The Confessions of Jean Jacques Rousseau</hi>.</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_19" resp="#ta">
+<author key="Knight, Charles">Knight, Charles</author>
+<title level="m">Half-Hours with the Best Authors</title>
+<pubPlace>New York</pubPlace>
+<publisher>John Wiley</publisher>
+<date type="publicationDate" notBefore="1853-01-01" notAfter="1853-12-31">1853</date>
+<date type="readingDate"></date>
+<biblScope type="vol">1</biblScope>
+<biblScope type="pages">90, 155, 324, 350-51, 391</biblScope>
+<idno type="wwa">duk.00170</idno>
+<note type="details">Knight's book includes biographical sketches and textual selections from a wide range of authors.</note>
+<note type="reaction"></note>
+<note type="comments">Whitman disassembled this book of biographical sketches and textual selections and included them in a variety of notebooks. Selections include Jeremy Taylor, Tobias Smollett, Blaise Pascal, and Benjamin Franklin (duk.00170); Comte Du Buffon (duk.00176).</note>
+<note type="source"><ref target="#wc"/>Segments of Whitman's copy are clipped to notes on a variety of authors</note>
+</bibl>
+  <bibl xml:id="rd_20" resp="#ta">
+<author key="Goethe, Johann Wolfgang von">Goethe, Johann Wolfgang von</author>
+<title level="m">The Complete Works of Johann Wolfgang Von Goethe</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction">"He is the most profound reviewer of life known. To him life, things, the mind, death, are all studies, dissections, exhibitions. These he enters upon with unequalled [sic] coolness and depth of penetration."</note>
+<note type="comments">Whitman refers to Goethe's <hi rend="italic">Complete Works</hi> (first published in 1827) in notes on Goethe dated January 1856, February 18, 1856, and February 22, 1856. Whitman refers to several works in Goethe's oeuvre, but his January entry implies that he hasn't read all of his texts: "Had I not better read more of Goethe before giving an opinion?"</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00184"/></note>
+</bibl>
+  <bibl xml:id="rd_21" resp="#ta">
+<author key="Racine, Jean">Racine, Jean</author>
+<title level="m">Athalie</title>
+<pubPlace>New York</pubPlace>
+<publisher>Dramatic Performance</publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">November 1855</date>
+<note type="reaction">"I fancy the classical tragedies of Corneille, Racine, Voltaire, &amp;c. must illustrate the vital difference between a native and normal growth (as the Greek tragedies themselves,) and all that comes from the mere study of that growth."</note>
+<note type="comments">Whitman remarks that he saw "Athalie" at the Academy of Music in November of 1855.</note>
+<note type="source"><ref target="#wan"/>Whitman mentions attending this performance in his notes on tragedy<ref type="wwa" target="duk.00179"/></note>
+</bibl>
+  <bibl xml:id="rd_22" resp="#ta">
+<author key="Alfieri, Virrorio">Alfieri, Vittorio</author>
+<title level="m">Myrrha</title>
+<pubPlace></pubPlace>
+<publisher>Dramatic Performance</publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction">"lurid passions&#8212;with long-winded dialogues between Myrrha and daughter mother about nothing."</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wan"/>Whitman mentions this performance within his notes on tragedy<ref type="wwa" target="duk.00179"/></note>
+</bibl>
+  <bibl xml:id="rd_23" resp="#ta">
+<author key="Macpherson, James">Ossian</author>
+<title level="m">The Poems of Ossian</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Thomas, Cowperthwait &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1839-01-01" notAfter="1839-12-31">1839</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Whitman references MacPherson's "restoration" of Ossian and states that he is reading Ossian "this morning" (undated).</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00111"/></note>
+</bibl>
+  <bibl xml:id="rd_24" resp="#ta">
+<author key="Rousseau, Jean-Jacques">Rousseau, Jean-Jacques</author>
+<title level="m">The Social Contract</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00182</idno>
+<note type="details">Whitman extensively paraphrased and commented on sections of Rousseau's <hi rend="italic">The Social Contract</hi>.</note>
+<note type="provenance">Trent Collection of Walt Whitman Manuscripts, Duke University Rare Book, Manuscript, and Special Collections Library</note>
+<note type="reaction">"Some of the most important provisions of the specific laws of the Public Lands of the United States are taken word for word, and idea for idea, from Rousseau's 'Contract.'"</note>
+<note type="comments">C. Carroll Hollis identifies William Swinton as the source of Whitman's translation and speculates that Swinton read <hi rend="italic">Social Contract</hi> to Whitman in a "rough and free translation" while Whitman took notes in 1856.</note>
+<note type="source"><ref target="#ch"/> Page 431. Hollis documents Swinton and Whitman's readings of Rousseau</note>
+</bibl>
+  <bibl xml:id="rd_25" resp="#ta">
+<author key=""></author>
+<editor key="Brenton, James J.">Brenton, James J.</editor>
+<title level="m">Voices From the Press; A Collection of Sketches, Essays, and Poems, by Practical Printers</title>
+<pubPlace>New York</pubPlace>
+<publisher>Charles B. Norton</publisher>
+<date type="publicationDate" notBefore="1850-01-01" notAfter="1850-12-31">1850</date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00188</idno>
+<note type="details">Whitman pasted a note on <hi rend="italic">The Nibelungen</hi> onto the front boards of this book.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00188"/></note>
+</bibl>
+  <bibl xml:id="rd_26" resp="#ta">
+<author key="Wiffen, James Holmes">Wiffen, James Holmes</author>
+    <editor key="Wight, O.W.">O.W. Wight</editor>
+<title level="m">Life of Torquato Tasso</title>
+<pubPlace>New York</pubPlace>
+<publisher>Delisser &amp; Procter</publisher>
+<date type="publicationDate" notBefore="1859-01-01" notAfter="1859-12-31">1859</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Floyd Stovall argues that Whitman's notes on Tasso correspond "exactly" with this edition of Wiffen's work.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00191"/></note>
+</bibl>
+  <bibl xml:id="rd_27" resp="#ta">
+<author key=""></author>
+<title level="a">The New Jerusalem</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">1856 or after</date>
+<idno type="wwa">duk.00193</idno>
+<note type="details">Whitman's copy of this essay on Emanuel Swedenborg is pasted in a notebook.</note>
+<note type="reaction"></note>
+<note type="comments">Essay was first published in <hi rend="italic">Household Words</hi> 13.6 (1856), ed. Charles Dickens (136-141).</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00193"/></note>
+</bibl>
+  <bibl xml:id="rd_28" resp="#ta">
+<author key=""></author>
+<title level="a">Shakespeare versus Sand</title>
+<title level="j">American Whig Review</title>
+<pubPlace>New York</pubPlace>
+<publisher>Wiley and Putnam</publisher>
+<date type="publicationDate" notBefore="1847-05-01" notAfter="1847-05-31">1847</date>
+<date type="readingDate"></date>
+<biblScope type="vol">5 (issue 5)</biblScope>
+<biblScope type="pages">470-481</biblScope>
+<idno type="wwa">duk.00193</idno>
+<note type="details">Essay is pasted into notebook.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00193"/></note>
+</bibl>
+  <bibl xml:id="rd_29" resp="#ta">
+<author key="Mandeville, Henry ">Mandeville, Henry</author>
+<title level="m">Fourth Reader: For common schools and Academies</title>
+<pubPlace></pubPlace>
+<publisher>D. Appleton &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1851-01-01" notAfter="1851-12-31">1851</date>
+<date type="readingDate">During or after 1851</date>
+<biblScope type="pages">255</biblScope>
+<idno type="wwa">duk.00194</idno>
+<note type="details">Whitman cut out a page of the "Poems of Ossian" included in this text and pasted it into a notebook.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/> <ref type="wwa" target="duk.00194"/></note>
+</bibl>
+  <bibl xml:id="rd_30" resp="#ta">
+<author key=""></author>
+<title level="a">Religious Beliefs</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00195</idno>
+<note type="details">Whitman includes this clipping from periodical article on the comparative popularity of world religions.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/>Whitman's clipping <ref type="wwa" target="duk.00195"/></note>
+</bibl>
+  <bibl xml:id="rd_31" resp="#ta">
+<author key=""></author>
+<title level="a">Life-Force, Its Philosophy</title>
+<title level="j">Life Illustrated</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1856-05-31" notAfter="1856-05-31">1856</date>
+<date type="readingDate">After May 1856</date>
+<biblScope type="pages">33</biblScope>
+<idno type="wwa">duk.00201</idno>
+<note type="reaction"></note>
+<note type="comments">This essay accompanies Whitman's notes on insanity.</note>
+<note type="source"><ref target="#wm"/><ref type="wwa" target="duk.00201"/></note>
+</bibl>
+  <bibl xml:id="rd_32" resp="#ta">
+<author key="Bunsen, Christian Karl Josias von">Bunsen, C.K.J</author>
+<title level="m">Outlines of the Philosophy of Universal History, Applied to Language and Religion</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">During or after 1854, when the book was translated into English</date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00200"/></note>
+</bibl>
+  <bibl xml:id="rd_33" resp="#ta">
+<author key=""></author>
+<title level="a">The Muses</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00248</idno>
+<note type="details">Paste-on included with "The Vanity and Glory of Literature" and "Socratic Philosophy."</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00248"/></note>
+</bibl>
+  <bibl xml:id="rd_34" resp="#ta">
+<author key=""></author>
+<title level="a">Socratic Philosophy</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00248</idno>
+<note type="details">Paste-on from a periodical included with "The Muses" and "The Vanity and Glory of Literature."</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00248"/></note>
+</bibl>
+  <bibl xml:id="rd_35" resp="#ta">
+<author key=""></author>
+<title level="a">A Poet on Politics</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">After October 30th, 1884</date>
+<idno type="wwa">duk.00642</idno>
+<note type="details">Clipping of an article about Whitman's views about the 1884 presidential election.</note>
+<note type="reaction"></note>
+<note type="comments">Whitman included this clipping with "Specimen Days" notes about the presidential election of 1884. He claims that this article appeared in <hi rend="italic">The Philadelphia Press</hi> on October 30, 1884.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00642"/></note>
+</bibl>
+  <bibl xml:id="rd_36" resp="#ta">
+<author key=""></author>
+<title level="a">How America was Peopled</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<idno type="wwa">duk.00677</idno>
+<note type="details">Clipping from a newspaper or periodical.</note>
+<note type="reaction"></note>
+<note type="comments">This is a brief clipping on a scholar's lectures on migration to the New World. These accompany Whitman's notes on ancient European and Asian populations.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00677"/></note>
+</bibl>
+  <bibl xml:id="rd_37" resp="#ta">
+<author key="Longfellow, Henry Wadsworth">Longfellow, Henry Wadsworth</author>
+<title level="a">Longfellow's Poets and Poetry of Europe</title>
+<title level="j">The American Review: A Whig Journal</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1846-12-01" notAfter="1846-12-31">1846</date>
+<date type="readingDate">After December, 1846</date>
+<biblScope type="vol">4</biblScope>
+<biblScope type="pages">580-587</biblScope>
+<idno type="wwa">duk.00705</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/><ref type="wwa" target="duk.00705"/></note>
+</bibl>
+  <bibl xml:id="rd_38" resp="#mc">
+<author key=""></author>
+<title level="a">Webfoots</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">October 1870 or later</date>
+<idno type="wwa">loc.03400</idno>
+<note type="details">Clipping with attached note, "The Oregonese are called Webfoots."</note>
+<note type="reaction"></note>
+<note type="comments">Whitman notes that this serial clipping was "from a letter Salem, Oregon Oct. 1870" clipping reproduces a letter from Salem, Oregon in October 1870.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="loc.03400"/></note>
+</bibl>
+  <bibl xml:id="rd_39" resp="#ta">
+<author key=""></author>
+<title level="a">Typical American Canoes at the Annual Meet in Peconic Bay</title>
+<title level="j">Harper's Weekly</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1890-08-16" notAfter="1890-08-16">1890</date>
+<date type="readingDate">After August 16, 1890</date>
+<biblScope type="vol">34</biblScope>
+<biblScope type="pages">641</biblScope>
+<idno type="wwa">loc.03420</idno>
+<note type="details">Clipping from <hi rend="italic">Harper's Weekly</hi>.</note>
+<note type="reaction"></note>
+<note type="comments">The back side of this clipping contains material from Charles Waldstein's "Modesty."</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03420"/></note>
+</bibl>
+  <bibl xml:id="rd_40" resp="#ta">
+<author key="Waldstein, Charles">Waldstein, Charles</author>
+<title level="a">Modesty</title>
+<title level="j">Harper's Weekly</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1890-08-16" notAfter="1890-08-16">1890</date>
+<date type="readingDate"></date>
+<biblScope type="vol">34</biblScope>
+<biblScope type="pages">642</biblScope>
+<idno type="wwa">loc.03420</idno>
+<note type="reaction"></note>
+<note type="comments">This material is on the back side of a picture of a canoe that Whitman cut out from <hi rend="italic">Harper's</hi>.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03420"/></note>
+</bibl>
+  <bibl xml:id="rd_41" resp="#ta">
+<author key="Bell, George Joseph">Bell, George Joseph</author>
+<title level="a">'Mrs. Siddons as Lady MacBeth.' From Contemporary Notes by George Joseph Bell.&#34;</title>
+<title level="j">The Nineteenth Century: A Monthly Review</title>
+<pubPlace>London</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1878-02-01" notAfter="1878-02-28">1878</date>
+<date type="readingDate">February 1878 or later</date>
+<biblScope type="vol">3</biblScope>
+<biblScope type="pages">296-313</biblScope>
+<idno type="wwa">loc.03428</idno>
+<note type="reaction"></note>
+<note type="comments">"In my reading, elocution, I must constantly measure every gesture, tone, conception, shade, burst, or radiation, &amp;c. as to its fitness, appropriateness, advantage (or disadvantage) with reference to me, to my personnel [sic] style, physical &amp; emotional individuality &amp; not merely of its abstract authority."</note>
+<note type="source"><ref target="#wm"/><ref type="wwa" target="loc.03428"/></note>
+</bibl>
+  <bibl xml:id="rd_42" resp="#ta">
+<author key="Pardoe, Julia">Pardoe, Miss</author>
+<title level="m">Louis the Fourteenth, and the Court of France in the Seventeenth Century</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1847-01-01" notAfter="1847-12-31">1847</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">According to Whitman, he owned this edition of Pardoe's text from 1855 to 1889.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="loc.03429"/></note>
+</bibl>
+  <bibl xml:id="rd_43" resp="#ta">
+<author key="Thoreau, Henry David">Thoreau, Henry David</author>
+<title level="m">A Week on the Concord and Merrimack Rivers</title>
+<pubPlace>Boston</pubPlace>
+<publisher>James Munroe and Co.</publisher>
+<date type="publicationDate" notBefore="1849-01-01" notAfter="1849-12-31">1849</date>
+<date type="readingDate"></date>
+<idno type="wwa">loc.03445</idno>
+<note type="reaction"></note>
+<note type="comments">Whitman disassembled this text and pasted clippings in at least one notebook. The source of Whitman's clippings is available at loc.03446.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03446"/></note>
+</bibl>
+  <bibl xml:id="rd_44" resp="#ta">
+<author key=""></author>
+<title level="a">Great Britain (From Our Correspondent)</title>
+<title level="j">New-York Daily Tribune</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1856-07-12" notAfter="1856-07-12">1856</date>
+<date type="readingDate"></date>
+<biblScope type="vol">16</biblScope>
+<biblScope type="pages">6</biblScope>
+<idno type="wwa">duk.00166</idno>
+<note type="details">Whitman cut and pasted this selection from the <hi rend="italic">Tribune</hi> in his notes and titled it "London Letter."</note>
+<note type="reaction"></note>
+<note type="comments">This letter contains speculation about upcoming work by Sydney Dobell (a.k.a. Sydney Yendya).</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="duk.00166"/></note>
+</bibl>
+  <bibl xml:id="rd_45" resp="#ta">
+<author key="Euripedes">Euripedes</author>
+<title level="m">The Tragedies of Euripedes. Literally Translated or Revised, with Critical and Explanatory Notes, by</title>
+<title level="j">Translated by Theodore Alois Buckley</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1857-01-01" notAfter="1857-12-31">1857</date>
+<date type="readingDate"></date>
+<idno type="wwa">loc.03450</idno>
+<note type="reaction"></note>
+<note type="comments">Whitman notes that he had this text in Washington through the Civil War and later in Camden.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03450"/></note>
+</bibl>
+  <bibl xml:id="rd_46" resp="#ta">
+<author key="Brodhead, Jacob">Brodhead, Jacob</author>
+<title level="m">A Sermon Preached  in the Central Reformed Protestant Dutch Church, Brooklyn, on Sabbath Morning, Th</title>
+<pubPlace>Brooklyn, NY</pubPlace>
+<publisher>I. Van Anden</publisher>
+<date type="publicationDate" notBefore="1851-07-27" notAfter="1851-12-31">1851</date>
+<date type="readingDate"></date>
+<idno type="wwa">loc.03784</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03784"/></note>
+</bibl>
+  <bibl xml:id="rd_47" resp="#ta">
+<author key="Radford, Ernest">Radford, Ernest</author>
+<title level="a">The Sun-Maiden</title>
+<title level="j">To-Day; The Monthly Magazine of Scientific Socialism</title>
+<pubPlace>London</pubPlace>
+<publisher>The Modern Press</publisher>
+<date type="publicationDate" notBefore="1884-01-01" notAfter="1884-12-31">1884</date>
+<date type="readingDate"></date>
+<biblScope type="vol">1.2</biblScope>
+<biblScope type="pages">148</biblScope>
+<idno type="wwa">loc.03801</idno>
+<note type="reaction"></note>
+<note type="comments">Appears immediately after the end of Henry Stevens Salt's "The Poet Laureate as Philosopher and Peer" in <hi rend="italic">To-Day</hi>.</note>
+<note type="source"><ref target="#wc"/><ref type="wwa" target="loc.03801"/></note>
+</bibl>
+  <bibl xml:id="rd_48" resp="#ta">
+<author key="Tennyson, Alfred Lord">Tennyson, Alfred Lord</author>
+<title level="a">Ulysses</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate">After 1842</date>
+<note type="reaction"></note>
+<note type="comments">Whitman transcribed the final lines of Tennyson's "Ulysses," which was first published in 1842.</note>
+<note type="source"><ref target="#wan"/>Whitman's transcription<ref type="wwa" target="loc.03437"/></note>
+</bibl>
+  <bibl xml:id="rd_49" resp="#ta">
+<author key="Anacreon">Anacreon</author>
+<title level="a">Ode XXXIII</title>
+<title level="j">Translated by Thomas Moore</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Whitman transcribes and revises Thomas Moore's translation of Anacreon's "Ode XXXIII" and entitles it "The Midnight Visitor." Arthur Golden's "The Text of a Whitman Lincoln Lecture Reading: Anacreon's 'The Midnight Visitor'" argues that Whitman likely preceded an 1879 lecture on Lincoln with a reading of this poem.</note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="loc.03442"/></note>
+</bibl>
+  <bibl xml:id="rd_50" resp="#ta">
+<author key="Carlyle, Thomas">Carlyle, Thomas</author>
+<title level="a">Shooting Nigara, and After</title>
+<title level="j">New York Weekly Tribune</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1867-08-21" notAfter="1867-08-21">1867</date>
+<date type="readingDate">August 1867 or after</date>
+<biblScope type="pages">3</biblScope>
+<idno type="wwa">loc.03448</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_51" resp="#ta">
+<author key="Ainsworth, Robert; Morell, Thomas">Ainsworth, Robert; Morell, Thomas</author>
+<title level="m">An Abridgement of Ainsworth's Dictionary, English and Latin, for the use of schools</title>
+<title level="j">Adapted by by John Carey</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>U. Hunt</publisher>
+<date type="publicationDate" notBefore="1834-01-01" notAfter="1834-12-31">1834</date>
+<date type="readingDate"></date>
+<idno type="wwa">loc.03451</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_52" resp="#ta">
+<author key="Hoffman, Charles Fenno">Hoffman, C. F.</author>
+<title level="m">The Pioneers of New York; an Anniversary Discourse Delivered Before the St. Nicholas Society of Manh</title>
+<pubPlace>New York</pubPlace>
+<publisher>Stanford and Swords</publisher>
+<date type="publicationDate" notBefore="1848-01-01" notAfter="1848-12-31">1848</date>
+<date type="readingDate"></date>
+<biblScope type="pages">1, 25-29, 32, 52</biblScope>
+<idno type="wwa">loc.03454</idno>
+<note type="reaction">June '57&#8212;"This man is now in an Insane Asylum&#8212;it is said, a confirmed lunatic."</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_53" resp="#ta">
+<author key="Lees, H. A.">Lees, H. A.</author>
+<title level="m">Historical sketches of the churches of the city of Brooklyn</title>
+<pubPlace></pubPlace>
+<publisher>Lees &amp; Foulkes</publisher>
+<date type="publicationDate" notBefore="1850-01-01" notAfter="1850-01-01">1850</date>
+<date type="readingDate"></date>
+<biblScope type="vol">1</biblScope>
+<biblScope type="pages">cover, 9 , 13, 19</biblScope>
+<idno type="wwa">loc.03455</idno>
+<note type="reaction"></note>
+<note type="comments">Kept in slip-case with Charles Fenno Hoffman's "The Pioneers of New-York" (loc.03454).</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_54" resp="#ta">
+<author key="Symonds, John Addington">Symonds, John Addington</author>
+<title level="m">Studies of the Greek Poets</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1880-01-01" notAfter="1880-12-31">1880</date>
+<date type="readingDate">After 1880</date>
+<biblScope type="vol">1</biblScope>
+<idno type="wwa">loc.03458</idno>
+<note type="reaction">"Sent to me by Symonds, must have been 1881. For years 1882-'89 I sip &amp; drink from the two volumes. They and Walter Scott's Border Minstrels are feasts never exhausted."</note>
+<note type="comments">Whitman's marginalia to Volume 2 of this book is at loc.03459.</note>
+<note type="source"><ref target="#wm"/></note>
+</bibl>
+  <bibl xml:id="rd_55" resp="#ta">
+<author key="Teale, Thomas P.">Teale, Thomas P.</author>
+<title level="m">Report of the Special Committee, of the Common Council, of the City of Brooklyn, of Ferry and Water</title>
+<pubPlace>Brooklyn, NY</pubPlace>
+<publisher>E.B Spooner, Printer to the City Corporation</publisher>
+<date type="publicationDate" notBefore="1849-03-26" notAfter="1849-12-31">1849</date>
+<date type="readingDate">After March 26, 1849</date>
+<biblScope type="pages">12,17,19,20,22,24-32,34-36,38,41-53,55,56,57,58,60,61</biblScope>
+<idno type="wwa">loc.03782</idno>
+<note type="reaction"></note>
+<note type="comments">A message inscribed on the title page states: "To W. Whitman Esq with the compliments of the writer."</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_56" resp="#ta">
+<author key=""></author>
+<title level="m">A Defence of the Christian Doctrines of the Society of Friends; Being a Reply to the Charge of Denyi</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Society of Friends</publisher>
+<date type="publicationDate" notBefore="1825-01-01" notAfter="1825-12-31">1825</date>
+<date type="readingDate"></date>
+<biblScope type="pages">ix, xvii, xix, xxi-xxiii ,xxv-xxix, 89, 298</biblScope>
+<idno type="wwa">loc.03453</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_57" resp="#ta">
+<author key="Bucke, Richard Maurice">Bucke, Richard Maurice</author>
+<title level="m">Walt Whitman</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>David McKay</publisher>
+<date type="publicationDate" notBefore="1883-01-01" notAfter="1883-12-31">1883</date>
+<date type="readingDate"></date>
+<biblScope type="pages">41, 42, 43, 53, 64, 111, 145, 153, 155, 179, 189, 194, 209, 212-13, 214, 217</biblScope>
+<note type="details">Portions of several pages have been cut out.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_58" resp="#ta">
+<author key="Shelley, Percy Bysshe">Shelley, Percy Bysshe</author>
+<title level="m">The Works of Percy Bysshe Shelley</title>
+<title level="j">Edited by Mary Wollstonecraft Shelley</title>
+<pubPlace>London</pubPlace>
+<publisher>Edward Moxon</publisher>
+<date type="publicationDate" notBefore="1847-01-01" notAfter="1847-12-31">1847</date>
+<date type="readingDate"></date>
+<biblScope type="pages">124, 130, 160, 279, 302, 324, 325, 327-28, 37, 38, 1040, 59, 97, 99, 10-11, 14, 118, 120, 122-124, </biblScope>
+<idno type="wwa">bmr.00006</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_59" resp="#ta">
+<author key="Volney, Constantin-Francois">Volney, C.-F.</author>
+<title level="m">The Ruins: or, Meditation on the Revolutions of Empires: and the Law of Nature, to which is added Vo</title>
+<title level="j">English translation.</title>
+<pubPlace>New York</pubPlace>
+<publisher>Peter Eckler</publisher>
+<date type="publicationDate" notBefore="1890-01-01" notAfter="1890-12-31">1890</date>
+<date type="readingDate">1890 or after</date>
+<biblScope type="pages">106, 107, 136, 166, 167, 168, 26, 35, 45, 53, 64, 66, 79, 93-94, 97</biblScope>
+<idno type="wwa">bmr.00014</idno>
+<note type="reaction">"Translation seems to have been either by Joel Barlow, or supervised by him, in Paris, and favored by Volney."</note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_60" resp="#ta">
+<author key="Heine, Heinrich">Heine, Heinrich</author>
+<title level="m">Pictures of Travel</title>
+<title level="j">Fourth revised edition, Translated by Charles Godfrey Leland</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>I. Kohler</publisher>
+<date type="publicationDate" notBefore="1863-01-01" notAfter="1863-12-31">1863</date>
+<date type="readingDate"></date>
+<biblScope type="pages">107, 134, 138, 141-43, 146, 148, 164, 17, 228, 232, 233, 267-68, 272, 333, 53, 57, 86, 91</biblScope>
+<idno type="wwa">bmr.00015</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_61" resp="#ta">
+<author key="Hedge, Frederic Henry">Hedge, Frederic Henry</author>
+<title level="m">Prose Writers of Germany</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Carey and Hart</publisher>
+<date type="publicationDate" notBefore="1848-01-01" notAfter="1848-01-01">1848</date>
+<date type="readingDate"></date>
+<idno type="wwa">bmr.00001</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_62" resp="#ta">
+<author key="Lewes, George Henry">Lewes, George Henry</author>
+<title level="m">The life and works of Goethe: with sketches of his age and contemporaries, from published and unpubl</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor and Fields</publisher>
+<date type="publicationDate" notBefore="1856-01-01" notAfter="1856-12-31">1856</date>
+<date type="readingDate"></date>
+<biblScope type="vol">1</biblScope>
+<idno type="wwa">bmr.00002</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 2 of Lewes's work is listed at bmr.00003</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_63" resp="#ta">
+<author key="Lewes, George Henry">Lewes, George Henry</author>
+<title level="m">The Life and Works of Goethe: with Sketches of his Age and Contemporaries, from Published and Unpubl</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor and Fields</publisher>
+<date type="publicationDate" notBefore="1856-01-01" notAfter="1856-12-31">1856</date>
+<date type="readingDate"></date>
+<biblScope type="vol">2</biblScope>
+<idno type="wwa">bmr.00003</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 1 of Lewes's work is listed at bmr.00002</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_64" resp="#ta">
+<author key="Mazzini, Giuseppe">Mazzini, Giuseppe</author>
+<title level="m">The Duties of Man</title>
+<pubPlace>London</pubPlace>
+<publisher>Chapman &amp; Hall</publisher>
+<date type="publicationDate" notBefore="1862-01-01" notAfter="1862-12-31">1862</date>
+<date type="readingDate"></date>
+<biblScope type="pages">107, 151</biblScope>
+<idno type="wwa">bmr.00007</idno>
+<note type="reaction"></note>
+<note type="comments">Whitman's copy of this book is inscribed: "To Walt Whitman, from a Friend." At the end of page 107, a marginal note responds to Mazzini's advice about maintaining tranqulity in adversity with "Remember my friend this Truth&#8212;for woman."</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_65" resp="#ta">
+<author key="Milton, John; Gray, Thomas; Beattie, James; Collins, William"></author>
+<title level="m">Milton, Young, Gray, Beattie, and Collins: Complete in one Volume</title>
+<pubPlace></pubPlace>
+<publisher>Grigg &amp; Elliot</publisher>
+<date type="publicationDate" notBefore="1841-01-01" notAfter="1841-12-31">1841</date>
+<date type="readingDate"></date>
+<idno type="wwa">bmr.00005</idno>
+<note type="reaction"></note>
+<note type="comments">This book contains work by John Milton, Edward Young, Thomas Gray, James Beattie, and  William Collins. Whitman notes birth and death dates of authors and marks significant moments in the text's biographical sketch of John Milton.</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_66" resp="#ta">
+<author key="Whitney, William Dwight">Whitney, William Dwight</author>
+<title level="m">Oriental and Linguistic Studies: the Veda, the Avesta, The Science of Language</title>
+<pubPlace>New York</pubPlace>
+<publisher>Scribner, Armstrong &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1872-01-01" notAfter="1872-12-31">1872</date>
+<date type="readingDate"></date>
+<biblScope type="pages">4, 10,11, 47, 302</biblScope>
+<idno type="wwa">bmr.00008</idno>
+<note type="reaction"></note>
+<note type="comments">On page 47, the following lines are bracketed: "On the other hand, it is possible to attain to such an exalted pitch of wisdom and virtue, that the soul escapes the condemnation of existence, and sinks into the void, or merges its individuality in the universality of the world-spirit."</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_67" resp="#ta">
+<author key="Alighieri, Dante">Dante</author>
+<title level="m">Dante's Divine Comedy: The Inferno</title>
+<title level="j">Translated by John Aitken Carlyle</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1849-01-01" notAfter="1849-12-31">1849</date>
+<date type="readingDate">During or after 1849</date>
+<idno type="wwa">bmr.00004</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_68" resp="#ta">
+<author key="Symonds, John Addington">Symonds, John Addington</author>
+<title level="m">Essays Speculative and Suggestive</title>
+<pubPlace>London</pubPlace>
+<publisher>Chapman &amp; Hall</publisher>
+<date type="publicationDate" notBefore="1890-01-01" notAfter="1890-12-31">1890</date>
+<date type="readingDate"></date>
+<biblScope type="vol">1</biblScope>
+<idno type="wwa">bmr.00010</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 2 of Symonds's work is listed at bmr.00011</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_69" resp="#ta">
+<author key="Symonds, John Addington">Symonds, John Addington</author>
+<title level="m">Essays Speculative and Suggestive</title>
+<pubPlace>London</pubPlace>
+<publisher>Chapman &amp; Hall</publisher>
+<date type="publicationDate" notBefore="1890-01-01" notAfter="1890-12-31">1890</date>
+<date type="readingDate"></date>
+<biblScope type="vol">2</biblScope>
+<idno type="wwa">bmr.00011</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 1 of Symonds's work is listed at bmr.00010</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_70" resp="#ta">
+<author key="Tennyson, Alfred Lord">Tennyson, Alfred Lord</author>
+<title level="m">Locksley Hall sixty years after, etc.</title>
+<pubPlace>London</pubPlace>
+<publisher>Macmillan</publisher>
+<date type="publicationDate" notBefore="1886-01-01" notAfter="1886-12-31">1886</date>
+<date type="readingDate"></date>
+<idno type="wwa">bmr.00009</idno>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_71" resp="#ta">
+<author key="Felton, Cornelius Conway">Felton, C. C.</author>
+<title level="m">Greece, ancient and modern: Lectures Delivered before the Lowell Institute</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor &amp; Fields</publisher>
+<date type="publicationDate" notBefore="1867-01-01" notAfter="1867-12-31">1867</date>
+<date type="readingDate">During or after 1867</date>
+<biblScope type="vol">1</biblScope>
+<idno type="wwa">bmr.00012</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 2 of this work is listed at bmr.00013</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_72" resp="#ta">
+<author key="Felton, Cornelius Conway">Felton, C. C.</author>
+<title level="m">Greece, ancient and modern: Lectures Delivered before the Lowell Institute</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor &amp; Fields</publisher>
+<date type="publicationDate" notBefore="1867-01-01" notAfter="1867-12-31">1867</date>
+<date type="readingDate">During or after 1867</date>
+<biblScope type="vol">2</biblScope>
+<idno type="wwa">bmr.00013</idno>
+<note type="reaction"></note>
+<note type="comments">Volume 2 of this work is listed at bmr.00012</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_73" resp="#ta">
+<author key="Harrison, Gabriel">Harrison, Gabriel</author>
+<title level="m">John Howard Payne, dramatist, poet, actor and author of Home, sweet home! his life and writings</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>J.B. Lippincott &amp; co.</publisher>
+<date type="publicationDate" notBefore="1885-01-01" notAfter="1885-12-31">1885</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_74" resp="#ta">
+<author key="Hicks, Elias">Hicks, Elias</author>
+<title level="m">Journal of the Life and Religious Labours of Elias Hicks</title>
+<pubPlace>New York</pubPlace>
+<publisher>Isaac T. Hopper</publisher>
+<date type="publicationDate" notBefore="1832-01-01" notAfter="1832-12-31">1832</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_75" resp="#ta">
+<author key="Legouve, Ernest">Legouve, Ernest</author>
+<title level="m">The Art of Reading</title>
+<title level="j">Translated by Edward Roth</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Claxton, Benson and Hoffelfinger</publisher>
+<date type="publicationDate" notBefore="1879-01-01" notAfter="1879-12-31">1879</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_76" resp="#ta">
+<author key="Aeschylus">Aeschylus</author>
+<title level="m">The Tragedies of Aeschylus</title>
+<title level="j">Translated by Theodore Alois Buckley</title>
+<pubPlace>New York</pubPlace>
+<publisher>Harper &amp; Brothers</publisher>
+<date type="publicationDate" notBefore="1863-01-01" notAfter="1863-12-31">1863</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_77" resp="#ta">
+<author key="Anacreon">Anacreon</author>
+<title level="m">The Odes of Anacreon</title>
+<title level="j">Translated by Thomas Moore and accompanied by illustrations by Girodet de Roussy</title>
+<pubPlace>London</pubPlace>
+<publisher>John Camden Hotten</publisher>
+<date type="publicationDate" notBefore="1871-01-01" notAfter="1871-12-31">1871</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">This volume may be the source text for Whitman's annotation of Ode XXXIII, which he titled "The Midnight Visitor" (loc.03442).</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_78" resp="#ta">
+<author key="Alighieri, Dante">Alighieri, Dante</author>
+    <editor role="translator">Henry Wadsworth Longfellow</editor>
+<title level="m">The divine comedy of Dante Alighieri</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor and Fields</publisher>
+<date type="publicationDate" notBefore="1867-01-01" notAfter="1867-12-31">1867</date>
+<date type="readingDate">During or after 1867</date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_79" resp="#ta">
+<author key=""></author>
+    <editor role="translator">J. Cockburn Thomson</editor>
+<title level="m">Bhagavad-gita, or, A discourse between Krishna and Arjuna on divine matters</title>
+<pubPlace>Hertford</pubPlace>
+<publisher>Stephen Austin</publisher>
+<date type="publicationDate" notBefore="1855-01-01" notAfter="1855-12-31">1855</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_80" resp="#ta">
+<author key="Simms, William Gilmore">Simms, William Gilmore</author>
+<title level="m">Views and reviews in American Literature, History and fiction. By the author of "The Yemasse.</title>
+<pubPlace>New York</pubPlace>
+<publisher>Wiley and Putnam</publisher>
+<date type="publicationDate" notBefore="1845-01-01" notAfter="1845-12-31">1845</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_81" resp="#ta">
+<author key="Sherman, Henry">Sherman, Henry</author>
+<title level="m">Slavery in the United States of America; its national recognition and relations, from the establishm</title>
+<title level="j">2nd ed.</title>
+<pubPlace>Hartford, CT</pubPlace>
+<publisher>Hurlburt &amp; Pond</publisher>
+<date type="publicationDate" notBefore="1860-01-01" notAfter="1860-12-31">1860</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_82" resp="#ta">
+<author key="Arnold, Thomas">Arnold, Thomas</author>
+    <editor>Henry Reed</editor>
+    <title level="m">Introductory Lectures in Modern History, Edited, from the second London edition, with a preface and notes, by Henry Reed</title>
+<pubPlace>New York</pubPlace>
+<publisher>D. Appleton &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1858-01-01" notAfter="1858-12-31">1858</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_83" resp="#ta">
+<author key="Herrig, Ludwig">Herrig, L.</author>
+<title level="m">The British classical authors : select specimens of the national literature of England from G. Chauc</title>
+<title level="j">2nd stereotype ed.</title>
+<pubPlace>New York</pubPlace>
+<publisher>G &amp; B Westermann Bros.</publisher>
+<date type="publicationDate" notBefore="1851-01-01" notAfter="1851-12-31">1851</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_84" resp="#ta">
+<author key="Campbell, William W.">Campbell, William W.</author>
+<title level="m">The border warfare of New York during the Revolution, or, The annals of Tryon County</title>
+<pubPlace>New York</pubPlace>
+<publisher>Baker &amp; Schribner</publisher>
+<date type="publicationDate" notBefore="1849-01-01" notAfter="1849-12-31">1849</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_85" resp="#ta">
+<author key="Tupper, Martin Farquhar">Tupper, Martin Farquhar</author>
+<title level="m">Proverbial Philosophy: a Book of Thoughts and Arguments, originally treated</title>
+<pubPlace>London</pubPlace>
+<publisher>Joseph Rickerby</publisher>
+<date type="publicationDate" notBefore="1838-01-01" notAfter="1838-12-31">1838</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_86" resp="#ta">
+<author key="Catullus, Gaius Valerius; Tibullus">Catullus, Gaius Valerius; Tibullus, Albius</author>
+    <editor role="translator">Walter K. Kelly</editor>
+    <title level="m">The works of Catullus and Tibullus, and the Vigil of Venus, to which are added, the metrical versions of Lamb and Grainger, and</title>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date type="publicationDate" notBefore="1854-01-01" notAfter="1854-12-31">1854</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_87" resp="#ta">
+<author key="Cowper, William">Cowper, William</author>
+    <title level="m">The poetical works of William Cowper, with a biographical notice by H.F. Carey</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>Henry Carey Baird</publisher>
+<date type="publicationDate" notBefore="1856-01-01" notAfter="1856-12-31">1856</date>
+<date type="readingDate">During or after 1856</date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_88" resp="#ta">
+<author key="Sand, George">Sand, George</author>
+    <editor role="translator">Francis G. Shaw</editor>
+<title level="m">Consuelo</title>
+<edition>3rd ed.</edition>
+<pubPlace>New York</pubPlace>
+<publisher>William H. Graham</publisher>
+<date type="publicationDate" notBefore="1848-01-01" notAfter="1848-12-31">1848</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_89" resp="#ta">
+<author key="Coues, Elliot">Coues, Elliott</author>
+<title level="m">Woman in the Case: an address delivered at the annual commencement of the National Medical College i</title>
+<edition>2nd ed., with an introduction by Elisabeth Cavazza</edition>
+<pubPlace>Boston</pubPlace>
+<publisher>Occult Publishing Co.</publisher>
+<date type="publicationDate" notBefore="1890-01-01" notAfter="1890-12-31">1890</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_90" resp="#ta">
+<author key="Carpenter, Edward">Carpenter, Edward</author>
+<title level="m">England's ideal, and other papers on social subjects</title>
+<pubPlace>London</pubPlace>
+<publisher>Swan Sonnenschein, Lowery &amp; Co</publisher>
+<date type="publicationDate" notBefore="1887-01-01" notAfter="1887-12-31">1887</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_91" resp="#ta">
+<author key="Ellis, George">Ellis, George</author>
+<editor>J.O. Halliwell</editor>
+<title level="m">Specimens of Early English metrical romances : to which is prefixed an historical introduction on th</title>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date type="publicationDate" notBefore="1848-01-01" notAfter="1848-12-31">1848</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_92" resp="#ta">
+<author key="Dowden, Edward">Dowden, Edward</author>
+<title level="m">Shakspere : a critical study of his mind and art</title>
+<pubPlace>London</pubPlace>
+<publisher>Henry S. King &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1875-01-01" notAfter="1875-12-31">1875</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_93" resp="#ta">
+<author key="De Amicis, Edomondo">De Amicis, Edomondo</author>
+    <editor role="translator">Caroline Tilton</editor>
+<title level="m">Holland and its People</title>
+<pubPlace>New York</pubPlace>
+<publisher>G.P. Putnam's Sons</publisher>
+<date type="publicationDate" notBefore="1890-01-01" notAfter="1890-12-31">1890</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_94" resp="#ta">
+<author key="Aurelius, Marcus">Antoninus, Marcus Aurelius</author>
+    <editor role="translator">George Long</editor>
+<title level="m">The thoughts of the Emperor M. Aurelius Antoninus</title>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor and Fields</publisher>
+<date type="publicationDate" notBefore="1864-01-01" notAfter="1864-12-31">1864</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_95" resp="#ta">
+<author key="Fauriel, Claude Charles">Fauriel, C.C.</author>
+    <editor role="translator">G.J. Adler</editor>
+<title level="m">History of Provencal Poetry</title>
+<pubPlace>New York</pubPlace>
+<publisher>Derby &amp; Jackson</publisher>
+<date type="publicationDate" notBefore="1860-01-01" notAfter="1860-12-31">1860</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_96" resp="#ta">
+<author key="Ingersoll, Robert Green">Ingersoll, Robert Green</author>
+    <editor role="reporter">I.N. Baker</editor>
+<title level="m">A Lay Sermon</title>
+<pubPlace>New York</pubPlace>
+<publisher>Truth Seeker Co.</publisher>
+<date type="publicationDate" notBefore="1886-01-01" notAfter="1886-12-31">1886</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_97" resp="#ta">
+<author key="Posnett, Hutcheson Macaulay">Posnett, Hutcheson Macaulay</author>
+<title level="m">Comparative Literature</title>
+<pubPlace>New York</pubPlace>
+<publisher>D. Appleton &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1886-01-01" notAfter="1886-12-31">1886</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_98" resp="#ta">
+<author key="Horace">Horace</author>
+    <editor role="translator">C. Smart</editor>
+<title level="m">The Works of Horace</title>
+<pubPlace>London</pubPlace>
+<publisher>Bell &amp; Daldy</publisher>
+<date type="publicationDate" notBefore="1864-01-01" notAfter="1864-12-31">1864</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_99" resp="#ta">
+<author key="Homer">Homer</author>
+    <editor role="translator">Theodore Alois Buckley</editor>
+<title level="m">The Odyssey of Homer: with the Hymns, epigrams, and Battle of the frogs and mice</title>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date type="publicationDate" notBefore="1863-01-01" notAfter="1863-12-31">1863</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_100" resp="#ta">
+<author key="Homer">Homer</author>
+    <editor role="translator">Alexander Pope</editor>
+    <title level="m">The Odyssey of Homer, with notes by Theodore Alois Buckley, and Flaxman's designs</title>
+<pubPlace>New York</pubPlace>
+<publisher>Scribner, Welford, and Armstrong</publisher>
+<date type="publicationDate" notBefore="1874-01-01" notAfter="1874-12-31">1874</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_101" resp="#ta">
+<author key="Lomas, John; Peace, Alfred S.">Lomas, John; Peace, Alfred S.</author>
+<title level="m">The wealthy men and women of Brooklyn and Williamsburgh : embracing a complete list of all whose est</title>
+<pubPlace>Brooklyn, NY</pubPlace>
+<publisher>A.S. Peace</publisher>
+<date type="publicationDate" notBefore="1847-01-01" notAfter="1847-12-31">1847</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_102" resp="#ta">
+<author key="Sarrazin, Gabriel">Sarrazin, Gabriel</author>
+<title level="m">La renaissance de la poeÕsie anglaise</title>
+<pubPlace>Paris</pubPlace>
+<publisher>Librairie acadelmique Dider, Perrin et cie</publisher>
+<date type="publicationDate" notBefore="1889-01-01" notAfter="1889-12-31">1889</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_103" resp="#ta">
+<author key="Aurelius, Marcus">Antoninus, Marcus Aurelius</author>
+    <editor role="translator">George Long</editor>
+<title level="m">The thoughts of the Emperor M. Aurelius Antoninus</title>
+<edition>Revised Edition</edition>
+<pubPlace>London</pubPlace>
+<publisher>George Bell &amp; Sons</publisher>
+<date type="publicationDate" notBefore="1885-01-01" notAfter="1885-12-31">1885</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_104" resp="#ta">
+<author key="Scele de Vere, Maximilian">Schele, de Vere, M.</author>
+<title level="m">Outlines of comparative philology : with a sketch of the languages of Europe, arranged upon philolog</title>
+<pubPlace>New York</pubPlace>
+<publisher>G.P. Putnam &amp; Co.</publisher>
+<date type="publicationDate" notBefore="1853-01-01" notAfter="1853-12-31">1853</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_105" resp="#ta">
+<author key="Babcock, William Henry">Babcock, W.H.</author>
+<title level="m">Lord Stirling</title>
+<pubPlace>Philadelphia</pubPlace>
+<publisher>J.B. Lippincott</publisher>
+<date type="publicationDate" notBefore="1880-01-01" notAfter="1880-12-31">1880</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_106" resp="#ta">
+<author key="Euripedes">Euripedes</author>
+    <editor role="translator">Theodore Alois Buckley</editor>
+<title level="m">The Tragedies of Euripedes. Literally Translated or Revised, with Critical and Explanatory Notes</title>
+<pubPlace>London</pubPlace>
+<publisher>Bell &amp; Daldy</publisher>
+<date type="publicationDate" notBefore="1866-01-01" notAfter="1866-12-31">1866</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_107" resp="#ta">
+<author key="O'Connor, William Douglas">O'Connor, William Douglas</author>
+<title level="m">The Good Gray Poet: a Vindication</title>
+<pubPlace>New York</pubPlace>
+<publisher>Bruce &amp; Huntington</publisher>
+<date type="publicationDate" notBefore="1866-01-01" notAfter="1866-12-31">1866</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_108" resp="#ta">
+<author key="Swinburne, Algernon Charles">Swinburne, Algernon Charles</author>
+<title level="m">William Blake : a critical essay</title>
+<pubPlace>London</pubPlace>
+<publisher>John Camden Hotten</publisher>
+<date type="publicationDate" notBefore="1868-01-01" notAfter="1868-12-31">1868</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_109" resp="#ta">
+<author key="Pindar">Pindar</author>
+    <editor role="translator">Dawson W. Turner</editor>
+<title level="m">The Odes of Pindar</title>
+<note type="publication">metrical version by Abraham Moore</note>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date type="publicationDate" notBefore="1852-01-01" notAfter="1852-12-31">1852</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_110" resp="#ta">
+<author key="Sophocles">Sophocles</author>
+<title level="m">The Tragedies of Sophocles: in English Prose, the Oxford translation</title>
+<note type="publication">Revised according to the text of Dindorf</note>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date type="publicationDate" notBefore="1860-01-01" notAfter="1860-12-31">1860</date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_111" resp="#ta">
+<author key=""></author>
+<title level="a">Territorial Aggrandizement</title>
+<title level="j">The United States Magazine, and Democratic Review</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1845-10-01" notAfter="1845-10-31">1845</date>
+<date type="readingDate"></date>
+<biblScope type="vol">17 (no. 88)</biblScope>
+<biblScope type="pages">247</biblScope>
+<idno type="wwa">duk.00010</idno>
+<note type="reaction"></note>
+<note type="comments">Whitman kept a page from this article with material from a review of Thomas Arnold's "Introductory Lectures on Modern History" (also duk.00010).</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_112" resp="#ta">
+<author key=""></author>
+<title level="a">Arnold's Lectures on Modern History</title>
+<title level="j">The United States Magazine, and Democratic Review</title>
+<pubPlace>New York</pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1845-10-01" notAfter="1845-10-31">1845</date>
+<date type="readingDate"></date>
+<biblScope type="vol">17 (no. 88)</biblScope>
+<biblScope type="pages">249-51</biblScope>
+<idno type="wwa">duk.00010</idno>
+<note type="reaction">"What is the definition of History?"</note>
+<note type="comments">Whitman kept pages from this article with material from the preceding article in the <hi rend="italic">Review</hi>: "Territorial Aggrandizement" (also duk.00010).</note>
+<note type="source"><ref target="#wc"/></note>
+</bibl>
+  <bibl xml:id="rd_113" resp="#mc">
+    <author key="Craik, George L. and Macfarlane, Charles">Craik, George L., and Charles Macfarlane</author>
+<title level="m">The Pictorial History of England</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1841-01-01" notAfter="1849-12-31">1849</date>
+<date type="readingDate"></date>
+<note type="details">Whitman refers to this title in several annotations; edition unknown but perhaps the 1841, as page number references do not match the 1849 ed.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="loc.03411"/></note>
+</bibl>
+  <bibl xml:id="rd_114" resp="#mc">
+<author key="Webster, Noah">Webster, Noah</author>
+<title level="m">An American Dictionary of the English Language</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate" notBefore="1828-01-01" notAfter="1855-12-31">1855</date>
+<date type="readingDate"></date>
+<note type="details">Whitman quotes in various of his annotations from Webster's <hi rend="italic">Dictionary</hi>.</note>
+<note type="reaction"></note>
+<note type="comments"></note>
+<note type="source"><ref target="#wan"/><ref type="wwa" target="duk.00687"/></note>
+</bibl>
+  <bibl xml:id="rd_115" resp="#ap">
+<author key="Ainsworth, William Harrison">Ainsworth, William Harrison</author>
+<title level="m">The Miser's Daughter</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_116" resp="#ap">
+<author key="Anthon">Anthon</author>
+<title level="m">Dictionary of Greek and Roman Antiquities</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_117" resp="#ap">
+<author key="Baxter, Richard">Baxter, Richard</author>
+<title level="m">Life and Writings</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_118" resp="#ap">
+<author key="Bell, Robert">Bell, Robert</author>
+<title level="m">Life of the Rt. Hon. George Canning</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_119" resp="#ap">
+<author key="Blake, J.D.">Blake, J.D.</author>
+<title level="m">History of the American Revolution</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_120" resp="#ap">
+<author key="Berrian, William">Berrian, William</author>
+<title level="m">An Historical Sketch of Trinity Church, N.Y.</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_121" resp="#ap">
+<author key="Bolles, William">Bolles, William</author>
+<title level="m">Phonographic Pronouncing Dictionary of the English Language</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_122" resp="#ap">
+<author key="Boyd, J.R.">Boyd, J.R.</author>
+<title level="m">Eclectic Moral Philosophy</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_123" resp="#ap">
+<author key="Bulwer, E.L.">Bulwer, E.L.</author>
+<title level="m">Lucretia; or The Children of the Night</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_124" resp="#ap">
+<author key="Chambers">Chambers</author>
+<title level="m">Encyclopedia of English Literature</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_125" resp="#ap">
+<author key="Chapin, A.B.">Chapin, A.B.</author>
+<title level="m">Puritanism Not Genuine Protestantism</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_126" resp="#ap">
+<author key="Chambers">Chambers</author>
+<title level="m">Miscellany of Useful and Entertaining Knowledge</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_127" resp="#ap">
+<author key="Child, Lydia Maria">Child, Lydia Maria</author>
+<title level="m">Fact and Fiction</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_128" resp="#ap">
+<author key="Child, Lydia Maria">Child, Lydia Maria</author>
+<title level="m">Memoirs of Madame de Stael and of Madame Roland</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_129" resp="#ap">
+<author key="Coleridge, Samuel Taylor">Coleridge, Samuel Taylor</author>
+<title level="m">Aids to Reflection</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_130" resp="#ap">
+<author key="Colman">Colman</author>
+<title level="m">Juvenile Publications</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_131" resp="#ap">
+<author key="D'Aubigne, J.H. Merle">D'Aubigne, J.H. Merle</author>
+<title level="m">History of the Reformation of the Sixteenth Century</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_132" resp="#ap">
+<author key="D'Aubigne, J.H. Merle">D'Aubigne, J.H. Merle</author>
+<title level="m">The Protector; A Vindication</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_133" resp="#ap">
+<author key="DeSmet, Father P.J.">DeSmet, Father P.J.</author>
+<title level="m">Oregon Missions</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_134" resp="#ap">
+<author key="Desher, Charles D.">Desher, Charles D.</author>
+<title level="m">Chaucer and Selections from His Poetical Works</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_135" resp="#ap">
+<author key="Dickens, Charles">Dickens, Charles</author>
+<title level="m">The Cricket on the Hearth</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_136" resp="#ap">
+<author key="Dickens, Charles">Dickens, Charles</author>
+<title level="m">The Chimes</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_137" resp="#ap">
+<author key="Dickens, Charles">Dickens, Charles</author>
+<title level="m">A Goblin Story</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_138" resp="#ap">
+<author key="Dickens, Charles">Dickens, Charles</author>
+<title level="m">A Christmas Carol</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_139" resp="#ap">
+<author key="Dumas">Dumas</author>
+<title level="m">The Duke of Burgundy</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_140" resp="#ap">
+<author key="Duncan">Duncan</author>
+<title level="m">Sacred Philosophy of the Seasons</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_141" resp="#ap">
+<author key="Dwight, Theodore">Dwight, Theodore</author>
+<title level="m">Summer Tours</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_142" resp="#ap">
+<author key="Ellet, E.F.">Ellet, E.F.</author>
+<title level="m">Rambles About the Country</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_143" resp="#ap">
+<author key="Farnham, Thomas F.">Farnham, Thomas F.</author>
+<title level="m">Mexico: Its Geography, Its People, and Its Institutions</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_144" resp="#ap">
+<author key="Farnham, Thomas F.">Farnham, Thomas F.</author>
+<title level="m">Life, Travels, and Adventures in California and Scenes in the Pacific Ocean</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_145" resp="#ap">
+<author key="Ferrier, S.">Ferrier, S.</author>
+<title level="m">The Inheritance</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_146" resp="#ap">
+<author key="Ford, Richard">Ford, Richard</author>
+<title level="m">Spaniards and Their Country</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_147" resp="#ap">
+<author key="Foster, John">Foster, John</author>
+<title level="m">The Statesmen of the Commonwealth of England</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_148" resp="#ap">
+<author key="Fowler, L.N.">Fowler, L.N.</author>
+<title level="m">Marriage, Its History and Ceremonies</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_149" resp="#ap">
+<author key="Fowler, O.S.">Fowler, O.S.</author>
+<title level="m">Physiology, Animal and Mental</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_150" resp="#ap">
+<author key="Fowler, O.S.">Fowler, O.S.</author>
+<title level="m">Memory and Intellectual Improvement</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_151" resp="#ap">
+<author key="Galt, John G.">Galt, John G.</author>
+<title level="m">Treatment of Insanity</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_152" resp="#ap">
+<author key="Goodwin">Goodwin</author>
+<title level="m">Lives of the Necromancers</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_153" resp="#ap">
+<author key="Gore">Gore</author>
+<title level="m">The Courtier of the Days of Charles II</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_154" resp="#ap">
+<author key="Guy, William Augustus">Guy, William Augustus</author>
+<title level="m">Doctor Hopper's Physicians' Vade Mecum</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_155" resp="#ap">
+<author key="Hallam, Henry">Hallam, Henry</author>
+<title level="m">The Constitutional History of England</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_156" resp="#ap">
+<author key="Headley">Headley</author>
+<title level="m">Washington and His Generals</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_157" resp="#ap">
+<author key="Herbert, Henry William">Herbert, Henry William</author>
+<title level="m">Roman Traitor, A True Tale of the Republic</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_158" resp="#ap">
+<author key=" "></author>
+<title level="m">Jack Long, or Shot in the Eye</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_159" resp="#ap">
+<author key="Jerrould, Douglas">Jerrould, Douglas</author>
+<title level="m">St. Giles and St. James</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_160" resp="#ap">
+<author key=""></author>
+<title level="m">Julia Ormond, or The New Settlement</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_161" resp="#ap">
+<author key="Kirkland, C.M.">Kirkland, C.M.</author>
+<title level="m">Spenser and the Fairy Queen</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_162" resp="#ap">
+<author key="Knowles, James Sheridan">Knowles, James Sheridan</author>
+<title level="m">Fortesque</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_163" resp="#ap">
+<author key=""></author>
+<title level="m">Laneton Parsonage</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_164" resp="#ap">
+<author key="Lee, R.">Lee, R.</author>
+<title level="m">Memoirs of Baron Cuvier</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_165" resp="#ap">
+<author key=""></author>
+<title level="m">Life of Christ in the Words of the Evangelists</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_166" resp="#ap">
+<author key=""></author>
+<title level="m">Lives of Eminent Individuals Celebrated in American History</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<biblScope type="vol">3 vols.</biblScope>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_167" resp="#ap">
+<author key="Livermore, Abiel Abott">Livermore, Abiel Abott</author>
+<title level="m">Lectures to Young Men</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_168" resp="#ap">
+<author key=""></author>
+<title level="m">Locke Amsden, or The Schoolmaster</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_169" resp="#ap">
+<author key="Lester, B.C. Edwards">Lester, B.C. Edwards</author>
+<title level="m">Houston and His Republic</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_170" resp="#ap">
+<author key="Lossing, Benson J.">Lossing, Benson J.</author>
+<title level="m">Seventeen Hundred and Seventy-Six</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_171" resp="#ap">
+<author key=""></author>
+<title level="m">Martyrs and Covenanters of Scotland</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_172" resp="#ap">
+<author key="Mackenzie, A. Slidell">Mackenzie, A. Slidell</author>
+<title level="m">Spain Revisited</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_173" resp="#ap">
+<author key="McIntosh, Mary J.">McIntosh, Mary J.</author>
+<title level="m">Two Lives, or To Seem and To Be</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_174" resp="#ap">
+<author key="Mayo, A.D.">Mayo, A.D.</author>
+<title level="m">Balance</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_175" resp="#ap">
+<author key=" "></author>
+<title level="m">Memoirs of the Most Eminent American Mechanics</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_176" resp="#ap">
+<author key="Miller, Thomas">Miller, Thomas</author>
+<title level="m">The Poetical Language of Flowers</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_177" resp="#ap">
+<author key="Moore, Dr. George">Moore, Dr. George</author>
+<title level="m">The Use of the Body in Relation to the Mind</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_178" resp="#ap">
+<author key="Morse">Morse</author>
+<title level="m">School Geography and Atlas</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_179" resp="#ap">
+<author key="von Muller, Baron John">von Muller, Baron John</author>
+<title level="m">History of the World</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_180" resp="#ap">
+<author key="Olmstead">Olmstead</author>
+<title level="m">Letters on Astronomy</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_181" resp="#ap">
+<author key="Osgood, Francis Sargent">Osgood, Francis Sargent</author>
+<title level="m">A Birth-Day Bijou</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_182" resp="#ap">
+<author key="Pardoe">Pardoe</author>
+<title level="m">Louis the Fourteenth</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_183" resp="#ap">
+<author key="Parker, Samuel">Parker, Samuel</author>
+<title level="m">Journal of an Exploring Tour Beyond the Rocky Mountains</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_184" resp="#ap">
+<author key="Phelps">Phelps</author>
+<title level="m">The Fireside Friend, or Female Student</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_185" resp="#ap">
+<author key="Prescott">Prescott</author>
+<title level="m">Conquest of Peru</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_186" resp="#ap">
+<author key="Salkeld, Joseph">Salkeld, Joseph</author>
+<title level="m">Classical Antiquities</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_187" resp="#ap">
+<author key="Sampson, M.B.">Sampson, M.B.</author>
+<title level="m">Rationale of Crime</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_188" resp="#ap">
+<author key="Sargent, Epes">Sargent, Epes</author>
+<title level="m">Songs of the Sea and Other Poems</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_189" resp="#ap">
+<author key="Schmitz, Dr. Leonard">Schmitz, Dr. Leonard</author>
+<title level="m">History of Rome</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_190" resp="#ap">
+<author key="Sigourney">Sigourney</author>
+<title level="m">Water-Drops</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_191" resp="#ap">
+<author key="Simms, William Gilmore">Simms, William Gilmore</author>
+<title level="m">Guy Rivers: A Tale of Georgia</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_192" resp="#ap">
+<author key="Soulie, Frederick">Soulie, Frederick</author>
+<title level="m">Pastourel</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_193" resp="#ap">
+<author key="Soulie, Frederick">Soulie, Frederick</author>
+<title level="m">Countess of Morion</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_194" resp="#ap">
+<author key="Spooner, Alden">Spooner, Alden</author>
+<title level="m">The Grape Vine</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_195" resp="#ap">
+<author key="Spurzheim, J.G.">Spurzheim, J.G.</author>
+<title level="m">Phrenology</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_196" resp="#ap">
+<author key="Story">Story</author>
+<title level="m">Commentaries on the Constitution of the United States</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_197" resp="#ap">
+<author key="Sue, Eugene">Sue, Eugene</author>
+<title level="m">Martin the Foundling</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_198" resp="#ap">
+<author key="Sue, Eugene">Sue, Eugene</author>
+<title level="m">The Wandering Jew</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_199" resp="#ap">
+<author key="Taylor, W.C.">Taylor, W.C.</author>
+<title level="m">Modern British Plutarch</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_200" resp="#ap">
+<author key="Thornton, Henry">Thornton, Henry</author>
+<title level="m">Family Prayers</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_201" resp="#ap">
+<author key="Timpson, Thomas">Timpson, Thomas</author>
+<title level="m">Memoirs of Mrs. Elizabeth Fry</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_202" resp="#ap">
+<author key="Thackeray, William Makepeace">Titmarsh, Michael Angelo</author>
+<title level="m">Notes on a Journey From Cornhill to Cairo</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_203" resp="#ap">
+<author key="Turnbull">Turnbull</author>
+<title level="m">Genius of Scotland</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_204" resp="#ap">
+<author key="Upham, Thomas C.">Upham, Thomas C.</author>
+<title level="m">Life of Madame de la Mothe Guyon, With Some Account of Fenelon, Archbishop of Cambray</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_205" resp="#ap">
+<author key="Van Lennep, J.">Van Lennep, J.</author>
+<title level="m">The Adopted Son</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_206" resp="#ap">
+<author key="von Tschudi">Von Tschudi</author>
+<title level="m">Travels in Peru</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_207" resp="#ap">
+<author key="Ware, John">Ware, John</author>
+<title level="m">Memoir of the Life of Henry Ware, Jr.</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_208" resp="#ap">
+<author key="Warner, James F.">Warner, James F.</author>
+<title level="m">Rudimental Lessons in Music</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_209" resp="#ap">
+<author key="Wayland, Francis">Wayland, Francis</author>
+<title level="m">The Pursuit of Knowledge Under Difficulties</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_210" resp="#ap">
+<author key="Wellman, J. K.">Wellman, J. K.</author>
+<title level="m">Illustrated Botany</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_211" resp="#ap">
+<author key="Wemyss, Francis C.">Wemyss, Francis C.</author>
+<title level="m">Twenty-Six Years of the Life of an Actor and Manager</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_212" resp="#ap">
+<author key="Willis, Nathaniel Parker">Willis, Nathaniel Parker</author>
+<title level="m">Sacred Poems</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_213" resp="#ap">
+<author key="Willson, Marcius">Willson, Marcius</author>
+<title level="m">American History</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+  <bibl xml:id="rd_214" resp="#ap">
+<author key="Whittier, John Greenleaf">Whittier, John Greenleaf</author>
+<title level="m">Supernaturalism of New England</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date type="publicationDate"></date>
+<date type="readingDate"></date>
+<note type="reaction"></note>
+<note type="comments">Emory Holloway lists this book as reviewed or noticed by Walt Whitman in the <hi rend="italic">Brooklyn Daily Eagle</hi>.</note>
+<note type="source"><ref target="#eh"/> Page 126, note 2.</note>
+</bibl>
+</listBibl>
+</div1>
+</body>
+</text>
+</TEI>

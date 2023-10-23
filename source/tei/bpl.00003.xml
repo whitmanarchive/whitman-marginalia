@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bpl.00003">
-   <!--<relations>
-      <work ref="xxx.00110"><p>Reading notes that Whitman drew upon in writing "Salut au Monde."</p></work>
-   </relations>-->
+
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,7 +14,9 @@
                <persName xml:id="kc">Kirsten Clawson</persName>
                <persName xml:id="jc">Janel Cayer</persName>
                <persName xml:id="km">Kevin McMullen</persName>
-            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+               <persName xml:id="as">Ashlyn Stewart</persName>
+               <persName xml:id="bb">Brett Barney</persName>
+            </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
             <funder>The National Endowment for the Humanities</funder>
@@ -41,7 +41,9 @@
             </availability>
          <idno>bpl.00003</idno></publicationStmt>
          <notesStmt>
-            <note type="project" target="#dat1">These reading notes on various world religions and religious figures are based partly on Constantin-François Chasseboeuf comte de Volney's <hi rend="italic">Ruins; or Meditations on the Revolution of Empires</hi> (Paris: Levrault, 1802). Edward Grier suggests that "the other material probably came from WW's reading in Bunsen or in magazines" (<hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> [New York: New York University Press, 1984], 6:2024). Included are lists of names, definitions, quotations, descriptions, and dates. Many of the notes are written on small sheets of paper which have been glued to the larger sheets. Whitman drew upon this material explicitly in writing "Salut au Monde!," which was first published as "Poem of Salutation" in the 1856 edition of <hi rend="italic">Leaves of Grass</hi>. At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>
+            <note type="project" target="#dat1">These reading notes on various world religions and religious figures are based partly on Constantin-François Chasseboeuf comte de Volney's <hi rend="italic">Ruins; or Meditations on the Revolution of Empires</hi> (Paris: Levrault, 1802). Edward Grier suggests that "the other material probably came from WW's reading in Bunsen or in magazines" (<hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> [New York: New York University Press, 1984], 6:2024). Included are lists of names, definitions, quotations, descriptions, and dates. Many of the notes are written on small sheets of paper which have been glued to the larger sheets.At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>
+            <note type="work_relations" target="xxx.00110"><p> Whitman drew upon this material explicitly in writing "Salut au Monde!," which was first published as "Poem of Salutation" in the 1856 edition of <hi rend="italic">Leaves of Grass</hi>.</p>
+            </note>
          </notesStmt>
          <sourceDesc>
             <bibl>
@@ -60,7 +62,9 @@
             <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
          </handNotes>
       </profileDesc>
-      <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
+      <revisionDesc>
+         <change when="2023-09-20" who="#bb">updated relations tagging; converted long add elements to addSpan; changed note elements to abs in cases where note was the only child of floatingText/body (to make valid)</change>
+         <change when="2022-04-14" who="#as">regularized Name</change>
          <change who="#km" when="2020-02-06">corrected image links</change>
          <change who="#km" when="2020-01-31">corrected editorial notes</change>
          <change who="#jc" when="2015-06-17">checked, corrected</change>
@@ -78,13 +82,13 @@
          <note type="authorial" place="top left" resp="#h1">C</note>
          <ab>supposed to be about one thousand religions</ab>
          
-         <add rend="pasteon">
+         <addSpan spanTo="#a1" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
                <pb xml:id="leaf002r" facs="bpl_km.00001.jpg" type="recto"/>
                <ab>names of Gods, sect and prophets</ab>
-               <note type="authorial" resp="#h1"><!-- We are having display issues with lists, which don't display as being in Whitman's hand unless there is a handShift in each cell. The work-around, for now, is to encode each list in a <note>, attributed to Whitman. KM, 1-31-20 -->
+               <ab type="authorial" resp="#h1"><!-- We are having display issues with lists, which don't display as being in Whitman's hand unless there is a handShift in each cell. The work-around, for now, is to encode each list in a <note>, attributed to Whitman. KM, 1-31-20 -->
                   <list><!-- Separated into two columns by a vertical line; as such I transcribed the names in each column vertically rather than horizontally, before moving below to transcribe the remaining text on the paste-on. The recto in and of itself is separated into three separate "columns" kc, 9-4-14 -->
                   <item>Phtah</item>
                   <item>Isis</item>
@@ -94,7 +98,7 @@
                   <item>Mahomet, with a green banner, a saber, a bandage, and a crescent.</item>
                   <item>priests, <list><item>imaums</item><item>mollahs</item><item>muftis</item><item>Dervish</item><item>Santon with dishevelled hair</item></list></item>
                   <item>Jehovah</item>
-                  <add rend="unmarked" place="supralinear"><item>Adonai</item></add>
+                  <item><add rend="unmarked" place="supralinear">Adonai</add></item>
                   <item>Christ</item><!--end of first column-->
                   <milestone unit="undeclared" rend="vertbar-full"/>
                   <item>Brahm</item>
@@ -111,18 +115,18 @@
                <milestone unit="undeclared" rend="horbar-full"/>
                <list>
                   <item>Tuisco (a god of the Ancient Germans</item>
-               </list></note>
+               </list></ab>
                
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a1"/>
             
             
-         <add rend="pasteon">
+         <addSpan spanTo="#a2" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
                <pb xml:id="leaf003r" facs="bpl_km.00002.jpg" type="recto"/>
-               <note type="authorial" resp="#h1" xml:id="p1b" prev="p1a">
+               <ab type="authorial" resp="#h1" xml:id="p1b" prev="p1a">
                   <list><item><del rend="overstrike">Kaldee</del> Kaldee (Sabean Kaldee of Assyria.)</item></list>
                  
                   <milestone unit="undeclared" rend="horbar-full"/>
@@ -139,9 +143,9 @@
                      <item>Charon, the ferryman to Tartarus, and to Elysium</item>
                      <item>Rhadamanthus, <add rend="unmarked" place="supralinear">Minos</add> judges of the dead,—the wand, the bend, the ushers, and the urns.</item>
                   </list>
-               </note>
+               </ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a2"/>
          
          <!-- Beginning of second "column" on the recto -->
          
@@ -154,13 +158,13 @@
          <ab>The Egyptian priests, (the Greeks also) regarded the preservation of health as a point of the first importance, and indispensably necessary to the practice of piety, and the service of the gods.</ab>
          
          
-         <add rend="pasteon">
+         <addSpan spanTo="#a3" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
                <pb xml:id="leaf004r" facs="bpl_km.00003.jpg" type="recto"/>
                <!-- Separated into two columns, transcribed left column, then right. When get to bottom of paste-on, transcribed both right & left b/c the texts correspond kc -->
-               <note type="authorial" resp="#h1">
+               <ab type="authorial" resp="#h1">
                   <list>
                   <item>Confucius, <add rend="unmarked" place="supralinear"><del rend="overstrike" hand="#h2">2500</del> <add rend="unmarked" place="supralinear"><handShift new="#h2"/>B.C.</add></add> 550 <add rend="unmarked" place="supralinear">B.C.</add></item>
                <item><handShift new="#h1"/>lamas in Thibet and China</item>
@@ -185,12 +189,12 @@
                   <item>Bible</item>
                </list><anchor xml:id="s10"/> <note target="#s9" resp="#h1" place="right">there are 3 or four Sacred Books</note></item>
                <item>Pouranas, treat of mythology and history</item>
-               <item>Vedas, (the fourth concerning ceremonies is lost.)</item></list></note>
+               <item>Vedas, (the fourth concerning ceremonies is lost.)</item></list></ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a3"/>
          
          
-         <add rend="pasteon">
+         <addSpan spanTo="#a4" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
@@ -198,7 +202,7 @@
                   <ab><add rend="unmarked" place="supralinear">(Volney)</add></ab>
                <ab>Menu—<subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="supralinear" seq="2">A</add></subst>ll seems to go back to Menu, who preceded Zoroaster, Moses, and the rest, and must have been 2100 B.C., and <subst><del rend="overstrike" seq="1">founded</del> <add rend="insertion" place="interlinear" seq="2">more definitely embodied</add></subst> on the banks of the Ganges, the Indian theology, with Brahma, Vishnu, and Chiven— <add rend="insertion" place="right">☜ Menu, son or grandson of Brahma</add><!--this add is written to the right of the paste-on--></ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a4"/>
          
          <!-- Beginning of third "column" on recto -->
          <list>
@@ -216,22 +220,22 @@
          
          <pb xml:id="leaf006r" facs="bpl.00003.003.jpg" type="recto"/>
         
-         <add rend="pasteon">
+         <addSpan spanTo="#a5" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
                <pb xml:id="leaf007r" facs="bpl_km.00005.jpg" type="recto"/>
                <milestone rend="horbar-short-left" unit="undeclared"/>
-               <note type="authorial" resp="#h1"><list>
+               <ab type="authorial" resp="#h1"><list>
                <item>Talmud (of Jerusalem) very old</item>
                <item>"Sybilline verses among the ancients"</item>
                <item>always looking for "a great mediator, a judge, god, <add rend="insertion" place="supralinear">lover,</add> legislator, friend of the poor and degraded, conqueror of powers."</item>
-               <item>Krishna, (? thence Christ)</item></list></note>
+               <item>Krishna, (? thence Christ)</item></list></ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a5"/>
          
          
-         <add rend="pasteon">
+         <addSpan spanTo="#a6" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
@@ -239,7 +243,7 @@
                <ab><add rend="insertion" place="supralinear">Young</add> Bacchus, the clandestine <add rend="insertion" place="infralinear">(nocturnal)</add> son of <add rend="overwrite" place="over">the</add> virgin Minerva, whose life and even death, bring to mind those of Christ—and <subst><del rend="overstrike" seq="1">are</del> <add rend="unmarked" place="interlinear" seq="2">have</add></subst> the <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#kc">wise</unclear></del> <add rend="unmarked" place="interlinear" seq="2">star</add></subst> of day, for their emblem</ab>
                <ab>"the <subst><del rend="overstrike" seq="1">sacrifice</del> <add rend="unmarked" place="interlinear" seq="2">holocaust</add></subst>, the libation, circumcision, baptism, ablution, prayer, confession</ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a6"/>
       <milestone unit="undeclared" rend="horbar-full"/>
          <ab><handShift new="#h2"/><del rend="hashmark">? <del rend="overstrike">Confucius</del> <del rend="overstrike"><add rend="insertion" place="supralinear">531 B.C.</add></del> <del rend="overstrike">2500</del> <add rend="unmarked" place="supralinear">B.C.</add> ? To) (according to Voltaire)</del><handShift new="#h1"/></ab>
          <milestone unit="undeclared" rend="horbar-full"/>
@@ -251,12 +255,12 @@
          <cb/>
          <!-- Beginning of "column" two -->
          
-         <add rend="pasteon">
+         <addSpan spanTo="#a7" rend="pasteon"/>
             <q who="unknown" type="written">
             <floatingText rend="flat">
             <body>
                <pb xml:id="leaf009r" facs="bpl_km.00007.jpg" type="recto"/>
-               <note type="authorial" resp="#h1">
+               <ab type="authorial" resp="#h1">
                   <list>
                   <item><handShift new="#h1"/>Pan—the great Whole, with a forehead of stars body of planets feet of animals</item>
                
@@ -264,9 +268,9 @@
                   <item>Zeus</item>
                   <milestone unit="undeclared" rend="horbar-short-left"/>
                   <item>Orpheus—<handShift new="#h2"/>1450 B.C.</item>
-               <item><handShift new="#h1"/>Pythagoras—three centuries after Homer, <lb/>"ancient verses of the <hi rend="underline">Orphic sect</hi>"—which originated in Egypt</item></list></note>
+               <item><handShift new="#h1"/>Pythagoras—three centuries after Homer, <lb/>"ancient verses of the <hi rend="underline">Orphic sect</hi>"—which originated in Egypt</item></list></ab>
             </body></floatingText></q>
-         </add>
+         <anchor xml:id="a7"/>
          <list>
             <item><span rend="bracket-right" xml:id="s13" from="#s9" to="#s14"/><handShift new="#h2"/>Orpheus Musaeus<anchor xml:id="s14"/> <note target="#s13" type="authorial">1400 (before Christ) in Greece</note></item>
          <item><handShift new="#h1"/>Mylitta, in the old Persian mysteries was the name of the moon</item>

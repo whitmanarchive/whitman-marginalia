@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "datura", git: "https://github.com/CDRH/datura.git", branch: "new_fields"
+
 gem "byebug"
 # using stanford supported version of iiif-presentation gem
 # locking to commit since they have no releases yet

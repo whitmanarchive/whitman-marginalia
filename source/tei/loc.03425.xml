@@ -10,8 +10,11 @@
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
-                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                    <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -46,7 +49,7 @@
                     <author sameAs="#ww">Whitman, Walt</author>
                     <title>Tomb of the Martyrs.</title>
                     <idno type="callno">Box 41, Folder 45</idno>
-                    <date notBefore="1841-01-01" notAfter="1891-12-31">After 1841</date>                   
+                    <date notBefore="1841-01-01" notAfter="1892">After 1841</date>                   
                     <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
@@ -59,7 +62,9 @@
                 <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
+        <revisionDesc>
+            <change when="2022-04-14" who="#as">Regularized Name</change>
+            <change who="#km" when="2020-02-17">corrected date in bibl</change>
             <change who="#lmg" when="2013-06-01">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-10-09">Checked.</change>
             <change who="#tra" when="2013-11-26">Updated bibliographical information.</change>

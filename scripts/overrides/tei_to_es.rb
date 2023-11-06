@@ -10,6 +10,7 @@ class TeiToEs < XmlToEs
   def override_xpaths
     xpaths = {}
     xpaths["rights_holder"] = "//fileDesc/publicationStmt/distributor"
+    xpaths["creator"] =  "/TEI/teiHeader/fileDesc/titleStmt/author"
     xpaths["topics"] = "/TEI/text/@type"
     xpaths
   end

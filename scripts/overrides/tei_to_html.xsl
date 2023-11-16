@@ -15,6 +15,72 @@
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
   <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="no"/>
   
+  <!-- Special styling for handlist, which will be rendered with datatables JS 
+    framework. this code uses named templates at bottom of document-->
+  <xsl:template match="/TEI[@xml:id='anc.02129']">
+    <div id="metadata">
+      <xsl:apply-templates select="//div1[@type='section']"></xsl:apply-templates>
+    </div>
+    <div class="datatable_div">
+      <table class="table-sortable handlist-table">
+        <thead>
+          <tr class="handlist_row">
+            <th class="handlist_collapse">Title</th>
+            <th class="handlist_collapse">Author</th>
+            <th class="handlist_collapse">Publication Date</th>
+            <th class="handlist_collapse">Reading Date</th>
+            <th class="handlist_collapse">Notes</th>
+            <th class="handlist_collapse">Evidence</th>
+            <th class="handlist_collapse">Link to Resource</th>
+          </tr>
+        </thead>
+        <tbody>
+            <xsl:for-each select="//bibl">
+              <tr class="handlist_row handlist_data_row">
+                  <!-- Title -->
+                  <xsl:variable name="handlist_title">
+                    <xsl:choose>
+                      <xsl:when test="descendant::title[@level='a']">
+                        <xsl:call-template name="periodical"/>
+                      </xsl:when>
+                      <xsl:otherwise>
+                        <xsl:call-template name="monograph"/>
+                      </xsl:otherwise>
+                    </xsl:choose>
+                  </xsl:variable>
+                  <xsl:variable name="handlist_title_present">
+                    <xsl:choose>
+                      <xsl:when test="normalize-space($handlist_title) != ''">handlist_title</xsl:when>
+                      <xsl:otherwise>handlist_collapse</xsl:otherwise>
+                    </xsl:choose>
+                  </xsl:variable>
+                  <td class="{$handlist_title_present}">
+                    <span style="display:none" aria-hidden="true">
+                      <xsl:call-template name="normalize_name">
+                        <xsl:with-param name="string">
+                          <xsl:value-of select="$handlist_title"/>
+                        </xsl:with-param>
+                      </xsl:call-template>
+                    </span>
+                    <xsl:copy-of select="$handlist_title"/>
+                </td>
+                <!-- END title -->
+                <td class="handlist_author"><xsl:apply-templates select="author"/></td>
+                <td class="handlist_pubdate"><xsl:apply-templates select="data[@type='publicationDate']"/></td>
+                <td class="handlist_readdate"><xsl:apply-templates select="data[@type='readingDate']"/></td>
+                <td class="handlist_notes"><xsl:apply-templates select="note[@type='comments']"/></td>
+                <td class="handlist_evidence"><xsl:apply-templates select="note[@type='source']"/></td>
+                <td class="handlist_collapse"></td>
+              </tr>
+            </xsl:for-each>
+          
+        </tbody>
+        
+      </table>
+    </div>
+    
+  </xsl:template>
+  
   <!-- add overrides for this section here -->
   
   <xsl:variable name="top_metadata">
@@ -320,5 +386,88 @@
       </span>
     </xsl:if>
   </xsl:template>
+
+  <!--Named templates-->
+  <xsl:template name="periodical">
+    <!-- Title -->
+    <xsl:if test="descendant::author != ''"><xsl:value-of select="descendant::author"/>
+      <xsl:choose><xsl:when test="substring(descendant::author,string-length(descendant::author),1)='.'"><xsl:text> </xsl:text></xsl:when><xsl:otherwise><xsl:text>. </xsl:text></xsl:otherwise></xsl:choose>
+    </xsl:if>
+    <xsl:if test="descendant::editor[not(@role)] and descendant::author =''"><xsl:value-of select="descendant::editor[not(@role)]"/>
+      <xsl:text>, ed. </xsl:text></xsl:if>
+    <xsl:text>"</xsl:text>
+    <xsl:value-of select="descendant::title[@level='a']"/><xsl:text>." </xsl:text>
+    <xsl:if test="descendant::editor[not(@role)] and descendant::author !=''"><xsl:text>Ed. </xsl:text><xsl:value-of select="descendant::editor[not(@role)]"/><xsl:text>. </xsl:text>
+    </xsl:if>
+    <xsl:if test="descendant::editor[@role='translator']"><xsl:text>Trans. </xsl:text><xsl:value-of select="descendant::editor[@role='translator']"/>
+      <xsl:text>. </xsl:text></xsl:if>
+    <xsl:if test="descendant::edition"><xsl:value-of select="descendant::edition"/><xsl:text>. </xsl:text></xsl:if>
+    <xsl:if test="descendant::pubPlace != ''">
+      <xsl:text>(</xsl:text><xsl:value-of select="descendant::pubPlace"/><xsl:text>)</xsl:text>
+    </xsl:if>
+    <xsl:text> </xsl:text>
+    <xsl:if test="descendant::title[@level='j'] != ''"><span>
+      <em><xsl:value-of select="descendant::title[@level='j']"/></em>
+    </span></xsl:if>
+    <xsl:if test="descendant::biblScope[@type='vol']"><xsl:text> </xsl:text><xsl:value-of select="descendant::biblScope[@type='vol']"/><xsl:text>  </xsl:text></xsl:if>
+    <xsl:text> </xsl:text>
+    
+    
+    <xsl:if test="descendant::date[@type='publicationDate'] != ''">(<xsl:value-of select="descendant::date[@type='publicationDate']"/>
+      <xsl:choose> 
+        <xsl:when test="descendant::biblScope[@type='pages']"><xsl:text>): </xsl:text></xsl:when>
+        <xsl:otherwise>). </xsl:otherwise>
+      </xsl:choose>
+    </xsl:if>
+    <xsl:if test="descendant::biblScope[@type='pages'] != ''"><xsl:value-of select="descendant::biblScope[@type='pages']"/><xsl:text>. </xsl:text></xsl:if>
+  </xsl:template>
+  
+  <xsl:template name="monograph">
+    <!-- Title -->
+    <xsl:if test="descendant::author != ''"><xsl:value-of select="descendant::author"/>
+      <xsl:choose><xsl:when test="substring(descendant::author,string-length(descendant::author),1)='.'"><xsl:text> </xsl:text></xsl:when><xsl:otherwise><xsl:text>. </xsl:text></xsl:otherwise></xsl:choose>
+    </xsl:if>
+    <xsl:if test="descendant::editor[not(@role)] and descendant::author =''"><xsl:value-of select="descendant::editor[not(@role)]"/>
+      <xsl:text>, ed. </xsl:text></xsl:if>
+    <em><xsl:value-of select="descendant::title[@level='m']"/></em>
+    <xsl:text>. </xsl:text>
+    <xsl:if test="descendant::editor[not(@role)] and descendant::author !=''"><xsl:text>Ed. </xsl:text><xsl:value-of select="descendant::editor[not(@role)]"/><xsl:text>. </xsl:text>
+    </xsl:if>
+    <xsl:if test="descendant::editor[@role='translator']"><xsl:text>Trans. </xsl:text><xsl:value-of select="descendant::editor[@role='translator']"/>
+      <xsl:text>. </xsl:text></xsl:if>
+    <xsl:if test="descendant::edition"><xsl:value-of select="descendant::edition"/><xsl:text>. </xsl:text></xsl:if>
+    <xsl:if test="descendant::pubPlace != ''">
+      <xsl:value-of select="descendant::pubPlace"/>
+      <xsl:text>: </xsl:text>
+    </xsl:if>     
+    <xsl:if test="descendant::publisher != ''">
+      <xsl:value-of select="descendant::publisher"/><xsl:text>, </xsl:text>
+    </xsl:if>
+    <xsl:if test="descendant::date[@type='publicationDate'] != ''"><xsl:value-of select="descendant::date[@type='publicationDate']"/>.</xsl:if>
+  </xsl:template>
+  
+  <xsl:template name="normalize_name">
+    <xsl:param name="string"/>
+    
+    <xsl:variable name="string_lower"><xsl:value-of select="normalize-space(translate(lower-case($string), '“‘&quot;&apos;&apos;[]{}()', ''))"/></xsl:variable>
+    
+    <xsl:choose>
+      <xsl:when test="starts-with($string_lower, 'a ')">
+        <xsl:value-of select="substring-after($string_lower, 'a ')"></xsl:value-of>
+      </xsl:when>
+      <xsl:when test="starts-with($string_lower, 'the ')">
+        <xsl:value-of select="substring-after($string_lower, 'the ')"></xsl:value-of>
+      </xsl:when>
+      <xsl:when test="starts-with($string_lower, 'an ')">
+        <xsl:value-of select="substring-after($string_lower, 'an ')"></xsl:value-of>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="$string_lower"></xsl:value-of>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
+
+
 
 </xsl:stylesheet>

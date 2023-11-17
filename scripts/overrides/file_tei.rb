@@ -11,7 +11,7 @@ class FileTei
     #note: match id, not xml:id
     {
       "/" => TeiToEs,
-      "/TEI[@id='owu.00090']/text/body/add[@rend='pasteon']" => TeiToEsPasteon
+      # "/TEI[@id='owu.00090']/text/body/add[@rend='pasteon']" => TeiToEsPasteon
     }
   end
 

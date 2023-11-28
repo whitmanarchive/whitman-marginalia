@@ -85,11 +85,11 @@
   
   <xsl:variable name="top_metadata">
     <ul>
-      <li><strong>Title: </strong> <xsl:value-of select="//title[@type='main']"/></li>
-      <li><strong>Creator(s): </strong> <xsl:value-of separator=", " select="//titleStmt/author"/></li>
+      <!-- <li><strong>Title: </strong> <xsl:value-of select="//title[@type='main']"/></li>
+      <li><strong>Creator(s): </strong> <xsl:value-of separator=", " select="//titleStmt/author"/></li> -->
      
      <!-- date -->
-      <xsl:choose>
+      <!-- <xsl:choose>
         <xsl:when test="/TEI/text/@type = 'annotations'">
           <xsl:if test="descendant::sourceDesc/bibl[not(@type='pasteon')]/date">
             <li><strong>Date: </strong>
@@ -107,7 +107,7 @@
           </xsl:if>
         </xsl:when>
         <xsl:otherwise>no date</xsl:otherwise>
-      </xsl:choose>
+      </xsl:choose> -->
      
       <!-- base document cition -->
       <!-- I think this only applies to marginalia -->
@@ -157,7 +157,7 @@
       </xsl:if>
       
       
-      <li><strong>Whitman Archive ID: </strong> <xsl:value-of select="//teiHeader/fileDesc/publicationStmt/idno"/></li>
+      <!-- <li><strong>Whitman Archive ID: </strong> <xsl:value-of select="//teiHeader/fileDesc/publicationStmt/idno"/></li> -->
       
       <li><strong>Source: </strong> 
         
@@ -241,8 +241,7 @@
         <xsl:text> For a description of the editorial rationale behind our treatment of the manuscripts, see our </xsl:text>
         <a>
           <xsl:attribute name="href">
-            <xsl:value-of select="$site_url"/>
-            <xsl:text>/about/editorial</xsl:text>
+            <xsl:text>../about/editorial-policies#marginalia</xsl:text>
           </xsl:attribute>
           <xsl:text>statement of editorial policy</xsl:text>
         </a>
@@ -308,7 +307,7 @@
         </li>
       </xsl:if>
       
-      <li><strong>Contributors to digital file: </strong> <xsl:value-of separator=", " select="//teiHeader/fileDesc/titleStmt/respStmt/persName"></xsl:value-of></li>
+      <!-- <li><strong>Contributors to digital file: </strong> <xsl:value-of separator=", " select="//teiHeader/fileDesc/titleStmt/respStmt/persName"></xsl:value-of></li> -->
     </ul>
   </xsl:variable>
 

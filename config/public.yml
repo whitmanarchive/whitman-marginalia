@@ -15,7 +15,6 @@ default:
   threads: 1
 
 development:
-  es_index: api_v2
   es_path: https://set_in_private_config/elastic
   site_url: https://set_in_private_config
   solr_path: https://set_in_private_config/solr

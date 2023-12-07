@@ -13,7 +13,7 @@
   <xsl:import href="../../../whitman-scripts/scripts/archive-wide/overrides.xsl"/>
   
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
-  <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="no"/>
+  <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="no"/>
   
   <!-- Special styling for handlist, which will be rendered with datatables JS 
     framework. this code uses named templates at bottom of document-->

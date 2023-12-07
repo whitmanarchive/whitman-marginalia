@@ -13,7 +13,7 @@
   <xsl:import href="../../../whitman-scripts/scripts/archive-wide/overrides.xsl"/>
   
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
-  <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="no"/>
+  <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="no"/>
   
   <!-- Special styling for handlist, which will be rendered with datatables JS 
     framework. this code uses named templates at bottom of document-->
@@ -35,7 +35,7 @@
           </tr>
         </thead>
         <tbody>
-            <xsl:for-each select="//bibl">
+            <xsl:for-each select="//text//bibl">
               <tr class="handlist_row handlist_data_row">
                   <!-- Title -->
                   <xsl:variable name="handlist_title">
@@ -66,11 +66,18 @@
                 </td>
                 <!-- END title -->
                 <td class="handlist_author"><xsl:apply-templates select="author"/></td>
-                <td class="handlist_pubdate"><xsl:apply-templates select="data[@type='publicationDate']"/></td>
-                <td class="handlist_readdate"><xsl:apply-templates select="data[@type='readingDate']"/></td>
+                <td class="handlist_pubdate"><xsl:apply-templates select="date[@type='publicationDate']"/></td>
+                <td class="handlist_readdate"><xsl:apply-templates select="date[@type='readingDate']"/></td>
                 <td class="handlist_notes"><xsl:apply-templates select="note[@type='comments']"/></td>
                 <td class="handlist_evidence"><xsl:apply-templates select="note[@type='source']"/></td>
-                <td class="handlist_collapse"></td>
+                <td class="handlist_collapse">
+                  <a>
+                    <xsl:attribute name="href">
+                      <xsl:value-of select="idno[@type='wwa']"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="idno[@type='wwa']"/>
+                  </a>
+                </td>
               </tr>
             </xsl:for-each>
           

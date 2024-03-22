@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="tex.00056">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                <title level="m" type="main">Write a poem on the theme</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2010</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno>tex.00056</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project" target="#dat1"><!-- when was this manuscript written? --></note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="al">Ashley Lawson</persName> <persName xml:id="tj">Tim Jackson</persName>
+                </note>
+            </notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>          
+                    <title>Write a poem on the theme the great charge and repulse of the Secesh</title> 
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">TXRC03-A4 Container 2.6</idno>
+                    <orgName>The Walt Whitman Collection, Harry Ransom Humanities Research Center, The University of Texas at Austin</orgName>
+                    <note type="project">Transcribed from our own digital image of the original manuscript.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2011-01-11" who="#tj">Checked and corrected</change>
+            <change when="2010-12-06" who="#al">Transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text type="manuscript">
+        
+        <body>
+            
+            <pb xml:id="leaf001r" facs="tex.00056.001_large.jpg" type="recto"/>
+            
+            <head type="main-derived">write a poem on the theme</head>
+            
+            <ab>
+                <hi rend="underline">write a poem on the theme the <add place="infralinear" rend="unmarked">?</add> great charge</hi> <add place="supralinear" rend="insertion">&#38; repulse</add> of the Secesh <add place="supralinear" rend="insertion">20000 strong</add> under July 3, '63, <hi rend="underline">at Gettysburgh</hi>
+            </ab>
+            
+            <ab><add place="supralinear" rend="insertion">Hancock</add></ab> <add rend="pasteon"><p>Commanded the First Division of the Second Corps at the battle of <hi rend="center">FREDERICKSBURG,</hi> December 13, 1862.</p> <p>This Division participated in the assault made that day on Marias' Heights, losing 2,014 men out of 5,000 taken into battle.</p>  <p>Commanded the same Division at the battle of <hi rend="center">CHANCELLORSVILLE,</hi> May 1st, 2d, and 3d, 1863, and the rearguard when the army retreated from that field. Had his horse shot under him in that battle.</p> <p>Relieved Major General Couch of the command of the Second Army Corps, Army of the Potomac, on the 10th of June, 1863.</p> <p>Assigned permanently to the command of the Second Army Corps by the President of the United States, June 25, 1863.</p> <p>July 1, 1863, Major General Meade, commanding Army of the Potomac, after he had learned of the death of General Reynolds, directed General Hancock to assume command of the troops engaged with the enemy on the field of Gettysburg. First, Third, and <gap reason="illegible" extent="two words"/> Corps.</p>  <p>Commanded the right centre of the <hi rend="center">ARMY AT GETTYSBURG,</hi> July 2d and 3d. His troops received and repulsed <hi rend="underline">the grand final assault made by the enemy at Gettysburg on the evening of the 3d of July,</hi> where he fell very dangerously wounded at the moment of the enemy's repulse and our great victory. <hi rend="underline">During this terrible battle General Hancock's command captured 37 stands of colors, 5,000 prisoners, and about 15,000 stands of small arms.</hi></p> <p>Absent from his command in the field in consequence of his wound and special duties, until the spring of 1864, when he resumed command of the Second Corps, relieving Major General Warren.</p> <p>In command of the Second Corps and portions of the Fifth, Sixth, and Ninth Corps at the <hi rend="center">BATTLE OF WILDERNESS,</hi> May 5th, 6th, and 7th, 1864.</p> <p>Commanded Second and Fifth Corps <gap reason="illegible" extent="unk"/> the battles of the Po and Spotty<gap reason="illegible" extent="unk"/> May 10, 1864.</p> <!-- [TJ] Need we indicate that the newspaper is in two sections?  --><p>On the 1st day of July, 1863, the fight at Gettysburg was commenced by the First and Eleventh Corps with Buford's cavalry, under command of General Reynolds. General Hancock, commanding Second Corps, was then at Uniontown, but moved up to Tanytown the same morning, where General Meade then was. About noon of the 1st of July General Meade received word of General Reynold's death. He sent at once for General Hancock and directed him to proceed to the battle-field and assume command of <hi rend="italic">all</hi> the forces there. When General Hancock arrived upon the field he relieved General Howard of the command, in accordance with General Meade's instructions, although General Howard was his senior. At that moment the greater portion of our troops were in full retreat through the town of Gettysburg, with the enemy pursuing. General Hancock directed that all should halt and reform upon Cemetery Hill. Many of them were passing <hi rend="italic">beyond</hi> Cemetery Hill and marching down the Baltimore pike. These were recalled and placed in line of battle on Cemetery Hill.  In this manner <hi rend="italic">the advance of the enemy was checked. Troops were sent to occupy "Culp's Hill" and "Round Top," and the general line of battle was taken on which the fight was made during the two succeeding days.</hi></p> <p>A message was immediately sent by General Hancock to General Meade <unclear reason="illegible" cert="medium" resp="#al">to the effect that</unclear> he (General Hancock) considered Gettysburg, the line he then held, the proper place to fight our battle with Lee, and advising General Meade to order our entire army to that point.</p> <p>July 2d, at Gettysburg, General Hancock commanded the right centre of our army, and repulsed the assault made by the enemy on the Third Army Corps, by which that corps was broken and compelled to retire. He also assumed command of the Third Corps after General Sickles was wounded.</p> <p>July 3d, the troops under General Hancock received and repulsed the grand assault made by Lee on our line by a column of the enemy 18,000 strong. This was one of the most desperate and bloody assaults made during the war, and its repulse decided the battle of Gettysburg in our favor. <hi rend="italic">The enemy retreated that night!</hi> Five thousand prisoners, 37 colors, and many thousand stands of small arms were captured by our troops.</p> <ab><hi rend="center">HIS HONORABLE SCARS.</hi></ab> <p>While leading a line of battle against the enemy on that occasion General Hancock received a most dangerous wound, and fell from his horse at the moment of our victory. His life was despaired of for many months.</p> <p>When General Meade received word from General Hancock, on the 3d of July, that the enemy's attack had been repulsed, and that the victory was ours, he returned the following message to General Hancock: "Say to General Hancock that I regret exceedingly that he is wounded, and that I thank him for the country and for myself for the services he has rendered to-day."</p> <p>At the battle of the Wilderness, May 5-6, 1864, under General Grant, General Hancock commanded about 60,000 men; his own corps&#8212;Second and Third consolidated&#8212;and portions of Fifth, Sixth, and Ninth. He attacked the enemy there at 4:30 P.M. on the evening of the 5th of May, and continued the battle until dark; renewed it the next morning at daybreak, and was engaged nearly the whole of the 6th. The enemy withdrew on the night of the 7th. The troops under General Hancock bore the great brunt of the fighting of that battle.</p></add>
+            
+            <pb xml:id="leaf001v" facs="tex.00056.002_large.jpg" type="verso"/> 
+            
+        </body>
+    </text>
+</TEI>
+
+
+
+

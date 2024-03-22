@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="yal.00345">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">John Quinn</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>yal.00345</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>John Quinn</title>
+                    <idno type="callno">YCAL MSS 202 Folder 141</idno>
+                    <date notBefore="1876-01-01" notAfter="1892-05-26">1876</date>
+                    <orgName xml:id="yal">Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribe="Walt_Whitman" medium="pencil"/>
+                <handNote xml:id="h2" scribe="unknown" medium="typescript"/>
+                <handNote xml:id="h3" scribe="unknown" medium="black-ink"/>
+                <handNote xml:id="h4" scribe="Walt_Whitman" medium="black-ink"/>
+                <handNote xml:id="h5" scribe="unknown" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2012-01-23">Transcribed and encoded.</change>
+            <change who="#lmg" when="2013-07-02">Checked.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="yal_nhg.00003.jpg" type="recto"/>
+            <pb xml:id="leaf001v" facs="yal_nhg.00004.jpg" type="verso"/>
+            <ab rend="centered"><handShift new="#h3"/>John
+            Quinn</ab>
+            <pb xml:id="leaf002r" facs="yal_nhg.00005.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">1</note>
+            <ab><handShift new="#h1"/>Mrs Grosh
+            <unclear reason="illegible" resp="#lmg">111</unclear>5 East Hunting</ab>
+            <ab>3d st car
+            white car</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab><gap reason="illegible" quantity="2" unit="letter"/>udies in Literature
+            <hi rend="right">1789&#8212;1877</hi>
+            by Edward Dowden
+            <del rend="overstrike">Paul</del> Paul &amp; Co:
+            <hi rend="right">Paternoster Row
+            1878</hi>
+            London</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>Mrs Rogers
+            29 north <gap reason="illegible covered" quantity="1" unit="word"/></ab>
+            <pb xml:id="leaf003r" facs="yal_nhg.00006.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">1a</note>
+            <ab><handShift new="#h3"/>Walt Whitman.
+            328 Mickle St.&#8212;
+            Camden, New Jersey.</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <pb xml:id="leaf004r" facs="yal_nhg.00007.jpg" type="recto"/>
+            <ab>Walt Whitman, Esq.,
+            328 Mickle St.,
+            Camden,
+            New Jersey.</ab>
+            <note type="editorial" resp="#h5" place="bottom">16</note>
+            <pb xml:id="leaf002v" facs="yal_nhg.00008.jpg" type="verso"/>
+            <note type="editorial" resp="#h5" place="top">2</note>
+            <add rend="pasteon" source="#r1"><handShift new="#h2"/>
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf034r" facs="yal_nhg.00008.jpg" type="recto"/>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        <ab>W<hi rend="smallcaps">OVEN WIRE MATTRESSES AND IRON</hi>
+                        Bedsteads. T. Watson, 48 n. Front. mh1-</ab>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <add rend="pasteon" source="#r2">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <pb xml:id="leaf035r" facs="yal_nhg.00008.jpg" type="recto"/>
+                        <body>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        <ab>Glass Shades, 153 N. Eighth St.</ab>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <add rend="pasteon" source="#r3">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf036r" facs="yal_nhg.00008.jpg" type="recto"/>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        <ab>S<hi rend="smallcaps">ILVER-PLATED WARE MANUFA<gap reason="covered" quantity="3" unit="letter"/>Y.</hi>
+                        Wholesale and Retail Departments.
+                        Salesroom, 1033 WALNUT Street. Factory,
+                        123 and 125 South ELEVENTH Street.
+                        oc283.o <hi rend="right">GEORGE LINSENMAYER.</hi></ab>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                            </body>
+                    </floatingText>
+                </q>
+            </add>
+            <add rend="pasteon" source="#r4">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf037r" facs="yal_nhg.00008.jpg" type="recto"/>
+                        <ab>R<hi rend="smallcaps">OACHES, RATS OR
+                        BEDBUGS</hi> cannot be
+                        found where <hi rend="smallcaps">GLENTWORTH'S
+                        EXTERMINATOR</hi>
+                            is used. For sale at
+                        <hi rend="smallcaps">GLENTWORTH'S</hi>
+                        Drug Store, 817 <hi rend="smallcaps">RACE</hi> St.
+                        25 cts. per box. Cut this out.
+                        Have no other.</ab>
+                        <p>Electric Bedbug Powder
+                        Exterminator. One application
+                        cleans the house. 25 cts.</p>
+                        <ab rend="centered"><hi rend="smallcaps">GLENTWORTH'S</hi>
+                        Drug Store, 817 <hi rend="smallcaps">RACE</hi> St.
+                        Have no other.</ab>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <add rend="pasteon">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf038r" facs="yal_nhg.00008.jpg" type="recto"/>
+                        <ab><handShift new="#h3"/>W. D. Frace.</ab>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <pb xml:id="leaf005r" facs="yal_nhg.00009.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">3</note>
+            <list><item><handShift new="#h1"/>great primer</item>
+            <item>English</item>
+            <item><unclear reason="illegible" resp="#lmg">pica</unclear></item>
+            <item>sm. <unclear reason="illegible" resp="#lmg">pica</unclear></item></list>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <ab>Jun 5-'83</ab>
+            <span rend="bracket-left" hand="#h4" xml:id="s1" from="#s1" to="#s2"/><ab>Robert Hart
+            <hi rend="right">Drive 78  Market <gap reason="illegible" quantity="1" unit="letter"/>
+            Car</hi></ab>
+            <ab><handShift new="#h4"/>4072 Mary street
+            Philadelphia
+            west</ab><anchor xml:id="s2"/>
+            <pb xml:id="leaf005v" facs="yal_nhg.00010.jpg" type="verso"/>
+            <note type="editorial" resp="#h5" place="top">4</note>
+            <ab rend="centered"><handShift new="#h1"/>Press copies sent
+            Dr Buckes W W</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <list><item>Phil. press</item>
+            <item>Critic</item>
+                <item>Boston Herald Sylv Baxter</item>
+            <item>Eve Post</item>
+            <item>Tribune</item><cb/>
+            </list>
+            <pb xml:id="leaf006r" facs="yal_nhg.00011.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">7</note>
+            <ab rend="centered">Spectator
+            for July 21 '83</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>criticism on "Specimen
+            Days"</ab>
+            <pb xml:id="leaf007r" facs="yal_nhg.00012.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">9</note>
+            <ab>at <subst><del rend="overstrike" seq="1">Chester</del><add rend="unmarked" place="supralinear" seq="2">Wilmington</add></subst>
+            &#8212;<subst><del rend="overstrike" seq="1">tel:</del><del rend="overwrite" seq="2">Du<gap reason="deletion" quantity="4" unit="letter"/></del><add rend="overwrite" seq="3" place="over">Manager</add></subst> Tel:
+            <del rend="overstrike">where</del> J N Kates</ab>
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            <ab>(Mont's boss)</ab>
+            <space dim="vertical" quantity="2" unit="line"/>
+            <ab>young man (<unclear reason="illegible" resp="#lmg">suse</unclear> &amp;c like Tasker)
+            meet crossing to train
+            Allan Middleton</ab>
+            <space dim="vertical" quantity="2" unit="line"/>
+            <ab>Freiligrath</ab>
+            <space dim="vertical" quantity="2" unit="line"/>
+            <ab>"No prophet is acceptable in
+            his own country.":
+            <hi rend="right">Luke&#8212;4&#8212;25</hi></ab>
+            <pb xml:id="leaf007v" facs="yal_nhg.00013.jpg" type="verso"/>
+            <ab>Rhen &amp; Clark
+            commercial photographers
+            N.E. Cor 5th &amp; Walnut
+            3 &amp; 4 floors</ab>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <note type="editorial" resp="#h5" place="bottom">10</note>
+            <pb xml:id="leaf008r" facs="yal_nhg.00014.jpg" type="recto"/>
+            <ab><handShift new="#h5"/>Darius H. McKnight</ab>
+            <space dim="vertical" quantity="1" unit="line"/>
+            <ab><handShift new="#h1"/>from lower B<del rend="overstrike">#</del>
+            b flat<del rend="overstrike">-</del>up to&#8212;<subst><del rend="overstrike" seq="1">G</del><del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">f</add></del><add rend="unmarked" place="supralinear" seq="4">F</add></subst></ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>sen<subst><del rend="overwrite" seq="1">d</del><add rend="overwrite" seq="2" place="over">t</add></subst> Santa Fe letter to
+            W T Walthall
+            Biloxi
+            M<gap reason="cut-away" quantity="1" unit="word"/></ab>
+            <pb xml:id="leaf008v" facs="yal_nhg.00015.jpg" type="verso"/>
+            <note type="editorial" resp="#h5" place="bottom">12</note>
+            <pb xml:id="leaf009r" facs="yal_nhg.00016.jpg" type="recto"/>
+            <note type="editorial" place="top" resp="#h5">13</note>
+            <ab>in Harpers
+            59 lines to a page
+            13, 14, 15 <del rend="overstrike">li</del> words
+            across (two cols) the
+            page</ab>
+            <ab>13
+            59
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            117
+            6<subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#lmg">3</unclear></del><add rend="overwrite" seq="2" place="over">5</add></subst>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+            767 words to a
+            (two column) page</ab>
+            <pb xml:id="leaf010v" facs="yal_nhg.00017.jpg" type="verso"/>
+            <note type="editorial" resp="#h5" place="bottom">16</note><!-- Since there are two pages torn out, this first one looks like a verso, and the other one (17) will be a different recto. -->
+            <pb xml:id="leaf011r" facs="yal_nhg.00017.jpg" type="recto"/>
+            <note type="editorial" place="top" resp="#h5">17</note>
+            <pb xml:id="leaf012r" type="recto" facs="yal_nhg.00018.jpg"/>
+            <ab>John Murray
+            2222
+            14th st N W
+            Washington
+            D C</ab>
+            <pb xml:id="leaf013r" facs="yal_nhg.00019.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">23</note>
+                <del rend="hashmark"><lg type="linegroup">
+                    <l>O <add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#lmg">p</unclear></add> <del rend="overstrike">death</del> in the</l>
+                    <l>In <del rend="overstrike"><unclear reason="illegible deletion" resp="#lmg">parade</unclear></del> death, in</l>
+                    <l><gap reason="cut-away" quantity="2" unit="word"/> <unclear reason="illegible" resp="#lmg">waning</unclear> light</l>
+                </lg></del>
+            <pb xml:id="leaf014r" facs="yal_nhg.00020.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">29</note>
+            <ab>Col. R P Deckert</ab>
+            <pb xml:id="leaf015r" facs="yal_nhg.00021.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">41</note>
+                <l>*Entering <del rend="overstrike">the</del> river<del rend="overstrike">s</del> &amp; bay<del rend="overstrike">s</del>&#8212;and</l>
+            <pb xml:id="leaf016r" facs="yal_nhg.00022.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">47</note>
+            <ab>Geo. F. Wardle
+            3 South <unclear reason="illegible" resp="#lmg">Water</unclear> St
+            Philad-
+            Send a picture</ab><note type="authorial" resp="#h1" place="right">picture
+            sent</note>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab>Pete Doyle
+            1739 Bainbridge
+            Phila:</ab>
+            <pb xml:id="leaf017r" facs="yal_nhg.00023.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top" rend="vertical">53</note>
+            <p><del rend="overstrike">Will</del> you <add rend="unmarked" place="supralinear">must</add> excuse the liberty I
+            take in introducing the <subst><del rend="overstrike" seq="1">bearer</del><add rend="unmarked" place="supralinear" seq="2">young man who will hand you this</add></subst>
+            a conductor or the W <subst><del rend="overwrite" seq="1">J</del><add rend="overwrite" seq="2" place="over">P</add></subst>
+            City R R &amp; a particular friend of
+            mine&#8212;who will explain the
+            reason of his call. Pray listen
+            to <del rend="overstrike">his</del> what he has to say. <del rend="overstrike">I
+            am sure you</del> <del rend="overstrike">Again</del></p>
+            <pb xml:id="leaf018r" facs="yal.00345.001_large.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top" rend="vertical">55</note>
+            <ab rend="vertical underline">Burial of Red Jacket</ab>
+            <lg type="linegroup"><l>Like an old tree</l>
+                <l>Like a great Lake</l></lg>
+            <pb xml:id="leaf018v" facs="yal.00345.002_large.jpg" type="verso"/>
+            <note type="editorial" resp="#h5" place="top" rend="vertical">56</note>
+            <pb xml:id="leaf019r" facs="yal_nhg.00024.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom" rend="vertical">98</note>
+            <pb xml:id="leaf020r" facs="yal_nhg.00025.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">123</note>
+            <ab>Robt E Woodward
+            Ellisdale
+            <unclear reason="illegible" resp="#lmg">Monmouth &amp;
+            N J.</unclear></ab>
+            <pb xml:id="leaf021r" facs="yal_nhg.00026.jpg" type="recto"/>
+            <note type="editorial" place="bottom" resp="#h5">132</note>
+            <ab>Humphrey G Ward
+            London Times</ab>
+            <pb xml:id="leaf022r" facs="yal_nhg.00027.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom" rend="vertical">144</note>
+            <p>Sir
+            Feeling that I am competent
+            &amp; determined to give satisfaction
+            I hereby apply for an appointment
+            under you on the road</p>
+            <ab>W H Duckett
+            May 6 '87</ab>
+            <pb xml:id="leaf023r" facs="yal_nhg.00028.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom">146</note>
+            <del rend="overstrike"><ab>of our Political</ab></del>
+            <ab>Potter
+            publisher
+            617 Sansom</ab>
+            <pb xml:id="leaf024r" facs="yal_nhg.00029.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="top">150</note>
+            <ab>for my criticism on
+            <gap reason="cut away" quantity="3" unit="word"/>'s WW</ab>
+            <pb xml:id="leaf025r" type="recto" facs="yal_nhg.00030.jpg"/>
+            <note type="editorial" resp="#h5" place="top">168</note>
+            <ab>Dr B's book</ab>
+            <pb xml:id="leaf026r" facs="yal_nhg.00031.jpg" type="recto"/>
+            <ab>Leaves of Grass&#8212;
+            To be left&#8212;at <unclear reason="illegible" resp="#lmg">D</unclear> J Holland
+                Fron<unclear reason="illegible" resp="#lmg">t</unclear> &amp; Market St
+            Phila Pa for
+            R H Eaton
+            NW Corner.</ab>
+            <note type="editorial" resp="#h5" place="bottom">178</note>
+            <pb xml:id="leaf027r" facs="yal_nhg.00032.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom">180</note>
+            <p><handShift new="#h4"/><del rend="overstrike">After</del></p>
+            <p>The testimony of his
+            unflinching resolution for
+            nearly thirty</p>
+            <p>Though for twenty-five
+            years</p>
+            <ab><del rend="overstrike"><gap reason="illegible" quantity="1" unit="letter"/></del>....a wild</ab>
+            <ab><handShift new="#h1"/>Wm <add rend="unmarked" place="supralinear">C</add> Best
+            <unclear reason="illegible" resp="#lmg">Chathcim</unclear>
+            Chester <add rend="unmarked" place="supralinear">Po</add> Co
+            Pen</ab>
+            <ab>boy Frank</ab>
+            <pb xml:id="leaf028r" facs="yal_nhg.00033.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom">188</note>
+            <ab>Wilson &amp; McCormick
+            Saint Vincent street
+            Glasgow</ab>
+            <pb xml:id="leaf029r" facs="yal_nhg.00034.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom">196</note>
+            <span rend="curlyBrace-right" from="#ab1"/>
+            <ab xml:id="ab1">gnomic</ab><note type="authorial" resp="#h1" target="#ab1">sententious
+            of single detached tho'ts</note>
+            <span rend="curlyBrace-right" from="#ab2"/>
+            <ab xml:id="ab2">hedonist</ab><note type="authorial" resp="#h1" target="#ab2">the sole idea of <choice><orig>plea‑
+            sure</orig><reg>pleasure</reg></choice>&#8212;</note>
+            <ab>Evans &amp; Chrystal
+            128 north 8th</ab>
+            <list><item>merino socks 25 cts</item>
+                <item>gloves</item></list>
+            <pb xml:id="leaf030r" facs="yal_nhg.00035.jpg" type="recto"/>
+            <note type="editorial" resp="#h5" place="bottom">198</note>
+            <ab>work&#8212;121 so 3d</ab>
+            <ab>all kinds of hard ware
+                <unclear reason="illegible" resp="#lmg">findings</unclear> &amp; notions
+                732 Market</ab>
+                <ab>Walt Whitman's
+                    Reception<add rend="unmarked" place="supralinear">?</add>
+                    during life</ab>
+            <ab>Life Reception</ab>
+            <ab rend="centered">Walt Whitman
+            His Life Reception</ab>
+            <ab>Mont's birthday is
+            Oct 23&#8212;born 1862
+            (John Montgomery Stafford)</ab>
+            <ab>Mrs S birthday April 4 (<unclear reason="illegible" resp="#lmg">1832</unclear>)</ab>
+            <pb xml:id="leaf031r" facs="yal_nhg.00036.jpg" type="recto"/>
+            <ab>Zells Enc:
+            226 So 7th</ab>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <ab><hi rend="underline">J M Scovel</hi></ab>
+            <ab>US <unclear reason="illegible" resp="#lmg">Appraisers</unclear>
+            Building
+            134 So 2nd&#8212;</ab>
+            <ab>special apts
+            Office
+            Entrance
+            Dock St</ab>
+            <ab>la Legende des Se<gap reason="cut away" quantity="1" unit="word"/></ab>
+            <pb xml:id="leaf032r" facs="yal_nhg.00037.jpg" type="recto"/>
+            <add rend="pasteon">
+                <q who="unknown" type="written">
+                    <floatingText rend="flat">
+                        <body>
+                            <pb xml:id="leaf033r" facs="yal_nhg.00037.jpg" type="recto"/>
+                            <ab><handShift new="#h2"/>WALT WHITMAN,
+                            <hi rend="right">Camden, N.J.</hi></ab>
+                            <note type="editorial" place="bottom" resp="#h5" rend="vertical">200a</note>
+                        </body>
+                    </floatingText>
+                </q>
+            </add>
+            <pb xml:id="leaf032v" facs="yal_nhg.00038.jpg" type="verso"/>
+        </body>
+    </text>
+</TEI>

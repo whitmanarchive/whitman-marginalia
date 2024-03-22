@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00043">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00043">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00043</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,7 +33,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -45,14 +41,14 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>duk.00043</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../transcriptions/owu.00090">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Fourier and His Ideas.</title> 
                     <idno type="callnumber">MS q 186</idno>
                     <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
@@ -66,7 +62,7 @@
                     <title level="j">New-York Daily Tribune</title>
                     <date when="1857-04-07">7 April 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="page">7</biblScope>
+                    <biblScope unit="page">7</biblScope>
                 </bibl>
 
             </sourceDesc>
@@ -77,14 +73,14 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections; inserted cropped images</change>
             <change when="2019-12-06" who="#km">proofed</change>
             <change when="2019-10-25" who="#as">transcribed and encoded</change>
         </revisionDesc>
     </teiHeader>
     
-    <text type="annotations">
+    <text type="marginalia">
         <body>            
             <pb xml:id="leaf001r" facs="duk.00043.001.jpg" type="recto"/>
             
@@ -98,11 +94,11 @@
                         
                         <p><hi rend="italic">To the Editor of The N. Y. Tribune.</hi></p>
                         
-                        <p>S<hi rend="smallcaps">IR</hi>: To-morrow will be the eighty-fifth anniversary of the birth of C<hi rend="smallcaps">HARLES</hi> F<hi rend="smallcaps">OURIER</hi>.  He was born in Besan&#231;on, France, on the 7th of April, 1772, and died in Paris on the 10th of October, 1837.</p>
+                        <p>S<hi rend="smallcaps">IR</hi>: To-morrow will be the eighty-fifth anniversary of the birth of C<hi rend="smallcaps">HARLES</hi> F<hi rend="smallcaps">OURIER</hi>.  He was born in Besançon, France, on the 7th of April, 1772, and died in Paris on the 10th of October, 1837.</p>
                         
                         <p>The time may come when mankind will recall these dates with some interest.  Meanwhile, allow me to correct certain gross misconceptions in respect to F<hi rend="smallcaps">OURIER</hi>, which, in an age so intelligent as ours, ought never to have existed.</p>
                         
-                        <p>I. F<hi rend="smallcaps">OURIER</hi> was not, in any received sense of the word, a Socialist.  The great founder of Social Science was as much opposed to any promiscuous, hap-hazard association of individuals as the founders of musical science would have been to any promiscuous, hap-hazard combination of sounds; for the former would be as far from producing Social Harmony (the only end at which <hi rend="smallcaps">Fourier</hi> aimed) as the latter from producing musical harmony.  In other words, the Science of Society, as expounded by F<hi rend="smallcaps">OURIER</hi>, is the science of combining and concording individual characters&#8212;which differ from each other as much <hi rend="italic">and as regularly</hi> as the essential sounds which form the basis of music&#8212;in a system of Association, governed by rules as absolute and as perfect as the rules that govern sounds, forms, colors, etc., and produce, when rightly applied, musical, geometrical and chromatic harmonies.  These rules are essentially the same in all the Harmonies of the universe, the fundamental law of which is U<hi rend="smallcaps">NITY OF</hi> S<hi rend="smallcaps">YSTEM</hi>.</p>
+                        <p>I. F<hi rend="smallcaps">OURIER</hi> was not, in any received sense of the word, a Socialist.  The great founder of Social Science was as much opposed to any promiscuous, hap-hazard association of individuals as the founders of musical science would have been to any promiscuous, hap-hazard combination of sounds; for the former would be as far from producing Social Harmony (the only end at which <hi rend="smallcaps">Fourier</hi> aimed) as the latter from producing musical harmony.  In other words, the Science of Society, as expounded by F<hi rend="smallcaps">OURIER</hi>, is the science of combining and concording individual characters—which differ from each other as much <hi rend="italic">and as regularly</hi> as the essential sounds which form the basis of music—in a system of Association, governed by rules as absolute and as perfect as the rules that govern sounds, forms, colors, etc., and produce, when rightly applied, musical, geometrical and chromatic harmonies.  These rules are essentially the same in all the Harmonies of the universe, the fundamental law of which is U<hi rend="smallcaps">NITY OF</hi> S<hi rend="smallcaps">YSTEM</hi>.</p>
                         
                         <p>II. F<hi rend="smallcaps">OURIER</hi> was in no sense of the word a Communist; his fundamental doctrine in respect to property was, that the profits of industry (the basis of all wealth) should be distributed in proportion to the labor, talent and capital of each individual.</p>
                         
@@ -110,7 +106,7 @@
                         
                         <p>IV. F<hi rend="smallcaps">OURIER</hi> was not in favor of any immediate change in the relations of the sexes, but held that our present system of marriage was the best that could be devised for the <hi rend="italic">existing social order.</hi>  But he believed, rightly or not, that human society is destined to continue its onward career, and to go through various other phases of development, each more perfect than the one preceding, and as different from each other as the Patriarchal state from the Savage, as the Civilized from the Barbaric; with each successive phase, he held, must come new manners and customs, new modes of life, new social relations and institutions, approximating nearer and nearer to the absolute or harmonic standard; and, in keeping with this theory, he contended that at last, under the reign of U<hi rend="smallcaps">NIVERSAL</hi> A<hi rend="smallcaps">SSOCIATION</hi>, there would be a code of laws for regulating the relations of the sexes which would produce a system of Amatory Harmony as perfect, as varied in its effects, as full of rich accords, and as free from monotony, as the system of Musical Harmony.</p>
                         
-                        <p>V. F<hi rend="smallcaps">OURIER</hi> did not advocate the unlicensed gratification of the passions; but he did insist that all the faculties and powers of man ought to be fully <hi rend="italic">and harmoniously</hi> developed&#8212;1st.  Because they were implanted in us by God for this and no other purpose; 2d. Because it is only by the integral, systematic and harmonic development of his whole nature, moral, intellectual and physical, that man can fulfill his destiny on earth, which is to realize upon it universal harmony, and secure the reign of U<hi rend="smallcaps">NIVERSAL</hi> T<hi rend="smallcaps">RUTH</hi>, U<hi rend="smallcaps">NIVERSAL</hi> H<hi rend="smallcaps">EALTH</hi>, U<hi rend="smallcaps">NIVERSAL</hi> W<hi rend="smallcaps">EALTH</hi>, and U<hi rend="smallcaps">NIVERSAL</hi> H<hi rend="smallcaps">APPINESS</hi>.</p>
+                        <p>V. F<hi rend="smallcaps">OURIER</hi> did not advocate the unlicensed gratification of the passions; but he did insist that all the faculties and powers of man ought to be fully <hi rend="italic">and harmoniously</hi> developed—1st.  Because they were implanted in us by God for this and no other purpose; 2d. Because it is only by the integral, systematic and harmonic development of his whole nature, moral, intellectual and physical, that man can fulfill his destiny on earth, which is to realize upon it universal harmony, and secure the reign of U<hi rend="smallcaps">NIVERSAL</hi> T<hi rend="smallcaps">RUTH</hi>, U<hi rend="smallcaps">NIVERSAL</hi> H<hi rend="smallcaps">EALTH</hi>, U<hi rend="smallcaps">NIVERSAL</hi> W<hi rend="smallcaps">EALTH</hi>, and U<hi rend="smallcaps">NIVERSAL</hi> H<hi rend="smallcaps">APPINESS</hi>.</p>
                     </body>
                 </floatingText>               
             </add> 
@@ -119,7 +115,7 @@
                 <floatingText rend="flat">
                     <body>
                         <pb xml:id="leaf003r" facs="duk_km.00017.jpg" type="recto"/>
-                        <p>F<hi rend="smallcaps">OURIER'S</hi> system, so far from being based on the principle of self-indulgence and epicurism, implies a system of U<hi rend="smallcaps">NIVERSAL</hi> I<hi rend="smallcaps">NDUSTRY</hi>, the active participation in which, on the part of every individual&#8121;man, woman and child&#8212;will constitute the chief source of human happiness.</p>
+                        <p>F<hi rend="smallcaps">OURIER'S</hi> system, so far from being based on the principle of self-indulgence and epicurism, implies a system of U<hi rend="smallcaps">NIVERSAL</hi> I<hi rend="smallcaps">NDUSTRY</hi>, the active participation in which, on the part of every individualᾹman, woman and child—will constitute the chief source of human happiness.</p>
                         
                         <p>That a man who held such opinions, and who gave a long and irreproachable life to their advocacy, should be constantly held up to public opprobrium, and that this opprobrium should be invoked also upon the heads of all his disciples, and even upon the heads of all who would give him a fair hearing, may not be inexplicable, but I submit that it is very unjust.</p>
                         
@@ -129,7 +125,7 @@
                         
                         <milestone unit="horbar-short-center"/>
                         
-                        <p>[We gladly give place to the foregoing, without fully concurring in the view of the writer.  Fourier, in his various writings, developed some great truths, for which the world had long waited, and which it will in due season accept and profit by.  The great and difficult problem of reconciling universal plenty with individual possession or property, unfailing work and just recompense for each with unlimited freedom of acquirement, family privacy with the most perfect social economy, has been solved by Charles Fourier. There should be no paupers, but the criminal or the utterly incapable, in a community penetrated by his suggestions.  So far, we hold the world deeply indebted to him, and believe his leading ideas of Attractive Industry and Associated Effort will yet be widely and beneficently realized. But if he taught or held that there would ever come a time, under any possible social order, wherein the father and mother of children could innocently dissolve their marital partnership and enter respectively into marital relations with new partners, then we say that his views on <hi rend="italic">this</hi> point were utterly mistaken and wrong, and can never be reduced to practice without producing universal anarchy and immorality.  It is the part of wisdom to separate truth from error in every man's teachings, accepting the former only&#8212;or, in the words of St. Paul, "Prove [try] all things; hold fast that which is good."&#8212;<hi rend="italic">Ed. Trib.</hi>]</p>
+                        <p>[We gladly give place to the foregoing, without fully concurring in the view of the writer.  Fourier, in his various writings, developed some great truths, for which the world had long waited, and which it will in due season accept and profit by.  The great and difficult problem of reconciling universal plenty with individual possession or property, unfailing work and just recompense for each with unlimited freedom of acquirement, family privacy with the most perfect social economy, has been solved by Charles Fourier. There should be no paupers, but the criminal or the utterly incapable, in a community penetrated by his suggestions.  So far, we hold the world deeply indebted to him, and believe his leading ideas of Attractive Industry and Associated Effort will yet be widely and beneficently realized. But if he taught or held that there would ever come a time, under any possible social order, wherein the father and mother of children could innocently dissolve their marital partnership and enter respectively into marital relations with new partners, then we say that his views on <hi rend="italic">this</hi> point were utterly mistaken and wrong, and can never be reduced to practice without producing universal anarchy and immorality.  It is the part of wisdom to separate truth from error in every man's teachings, accepting the former only—or, in the words of St. Paul, "Prove [try] all things; hold fast that which is good."—<hi rend="italic">Ed. Trib.</hi>]</p>
                         
                         <milestone unit="horbar-short-center"/>
                     </body>
@@ -138,10 +134,9 @@
             
             <milestone unit="horbar-full"/>
             
-            <p><handShift new="#h1"/>Remember Le Bruns illustrations of "Comparative anatomy" where he groups the physiognomy of the <add rend="insertion" place="supralinear">native races of</add> animals of a country and the physiognomy of the <add rend="insertion" place="supralinear">native races of</add> human beings of the same country.&#8212;</p>
+            <p><handShift new="#h1"/>Remember Le Bruns illustrations of "Comparative anatomy" where he groups the physiognomy of the <add rend="insertion" place="supralinear">native races of</add> animals of a country and the physiognomy of the <add rend="insertion" place="supralinear">native races of</add> human beings of the same country.—</p>
             
             <pb xml:id="leaf001v" facs="duk_ap_00169.jpg" type="verso"/>
             </body>
     </text>
 </TEI>
-

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="uva.00090">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00090">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -14,7 +11,7 @@
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="as">Ashlyn Stewart</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -25,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>uva.00090</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -35,7 +32,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
                 <availability>
-                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2019 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -43,13 +40,13 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>uva.00090</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title rend="bracketed">Dates referring to China</title>
                     <idno type="callnumber">MSS 3829, Box 1, Folder 24</idno>
                     <date xml:id="dat1" notBefore="1857-06-01" notAfter="1857-06-30" cert="high">Around June 23, 1857</date>
@@ -64,29 +61,29 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change when="2020-01-30" who="#km">implemented Matt's corrections</change>
             <change when="2019-10-15" who="#km">proofed</change>
             <change when="2019-07-17" who="#as">Updated header information</change>
             <change when="2019-06-12" who="#as">transcribed, encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text type="annotations">
+    <text>
         <body>
             <pb xml:id="leaf001r" facs="uva_jc.00049_large.jpg" type="recto"/>
             
-            <p><hi rend="underline"><handShift new="#h2"/>Dates referring to China.&#8212;</hi></p>
+            <p><hi rend="underline"><handShift new="#h2"/>Dates referring to China.—</hi></p>
             
             <p>Fo, a <del rend="overstrike">god, or</del> divine being, ruler, lawgiver, and
-                teacher&#8212;a god&#8212;2500 years before Christ.</p>
+                teacher—a god—2500 years before Christ.</p>
             
-            <p>Silk is plenty&#8212;<unclear reason="illegible" cert="high" resp="#as">they</unclear>
+            <p>Silk is plenty—<unclear reason="illegible" cert="high" resp="#as">they</unclear>
                 have a <del rend="overstrike">kind of</del> white coarse stuff of grass, that makes,
                     <add rend="insertion" place="superlinear">for foreigners</add> very good shirts, lasting much
                 longer than cotton or linen.</p>
             
-            <p>The Americans are in very good repute in China&#8212;the English and French very
-                bad.&#8212;</p>
+            <p>The Americans are in very good repute in China—the English and French very
+                bad.—</p>
             
             <pb xml:id="leaf001v" facs="uva_jc.00050_large.jpg" type="verso"/>
          
@@ -96,59 +93,57 @@
                 
             <ab><handShift new="#h1"/>June 23d <handShift new="#h2"/>'57</ab>
             
-            <p>Talk with Elias Pierson, who was in China, in the rebel army, in Canton, and all <hi
-                    rend="underline">through</hi> the country:</p>
+            <p>Talk with Elias Pierson, who was in China, in the rebel army, in Canton, and all <hi rend="underline">through</hi> the country:</p>
             
             <p><hi rend="underline">A religious building</hi>: There would be here and there in the
                 cities a large long building, perhaps one or two hundred feet in length, perhaps
-                even more, and fifty or sixty feet high.&#8212;Along the walls on both sides range
+                even more, and fifty or sixty feet high.—Along the walls on both sides range
                 the idols, gods, the "Joshes," mostly of wood, some of them small, some thirty feet
-                high, carved, gilt, &#38;c.&#8212;Some are devils&#8212;some on
-                horseback&#8212;some monsters, deformed persons, half-animals, <del
-                    rend="overstrike">fish</del> half fish, and so on.&#8212;The Chinese are around, with the priests, on their knees pattering, mummbling, &#38;c.</p>
+                high, carved, gilt, &amp;c.—Some are devils—some on
+                horseback—some monsters, deformed persons, half-animals, <del rend="overstrike">fish</del> half fish, and so on.—The Chinese are around, with the priests, on their knees pattering, mummbling, &amp;c.</p>
             
-            <p>The "Josh" is the Chinese idol, in wood or clay, in temples or dwelling houses.&#8212;It is the same, in general, as other pagan idols.&#8212;</p>
+            <p>The "Josh" is the Chinese idol, in wood or clay, in temples or dwelling houses.—It is the same, in general, as other pagan idols.—</p>
 
             <pb xml:id="leaf002v" facs="uva_jc.00052_large.jpg" type="verso"/>
             
             <pb xml:id="leaf003r" facs="uva_jc.00053_large.jpg" type="recto"/>
             
-            <p><hi rend="underline">Tea.</hi>&#8212;This is the universal beverage.&#8212;It is cheap, of course.&#8212;It comes in cakes, (like <add rend="insertion" place="supralinear">chewing</add> tobacco here,) and is boiled, not "drawn," as here.&#8212;</p>
+            <p><hi rend="underline">Tea.</hi>—This is the universal beverage.—It is cheap, of course.—It comes in cakes, (like <add rend="insertion" place="supralinear">chewing</add> tobacco here,) and is boiled, not "drawn," as here.—</p>
             
-            <p><hi rend="underline">Slavery.</hi>&#8212;This exists in China.&#8212;It has no regard to color.&#8212;Nine tenths of the slaves are women and girls.&#8212;</p>
+            <p><hi rend="underline">Slavery.</hi>—This exists in China.—It has no regard to color.—Nine tenths of the slaves are women and girls.—</p>
             
-            <p>Polygamy also exists, among rich persons.&#8212;</p>
+            <p>Polygamy also exists, among rich persons.—</p>
             
             
             <pb xml:id="leaf003v" facs="uva_jc.00054_large.jpg" type="verso"/>
             
             <pb xml:id="leaf004r" facs="uva_jc.00055_large.jpg" type="recto"/>
             
-            <p><hi rend="underline">Personal size and attributes</hi>.&#8212;The "fair Chinese" are of good size and proportions with brunette skin, and are generally light and nimble.&#8212;They have not the muscle of the beef-eating races.&#8212;They feed on rice, <del rend="overstrike">and</del> greens, soups, and similar diet.&#8212;</p>
+            <p><hi rend="underline">Personal size and attributes</hi>.—The "fair Chinese" are of good size and proportions with brunette skin, and are generally light and nimble.—They have not the muscle of the beef-eating races.—They feed on rice, <del rend="overstrike">and</del> greens, soups, and similar diet.—</p>
             
-            <p><hi rend="underline">Chinese Army.</hi>&#8212;Two contending forces, arranged against each other, take it quite easy, adjust their dresses, use their fans if the weather be hot, and are quite careful not to have their faces injured.&#8212;They are dandy soldiers.&#8212;<del rend="overstrike">Often</del> An engagement may happen and <del rend="overstrike">not</del> no killed or wounded <unclear reason="illegible" cert="high" resp="#km">be</unclear> the result.&#8212;</p>
+            <p><hi rend="underline">Chinese Army.</hi>—Two contending forces, arranged against each other, take it quite easy, adjust their dresses, use their fans if the weather be hot, and are quite careful not to have their faces injured.—They are dandy soldiers.—<del rend="overstrike">Often</del> An engagement may happen and <del rend="overstrike">not</del> no killed or wounded <unclear reason="illegible" cert="high" resp="#km">be</unclear> the result.—</p>
             
             <pb xml:id="leaf004v" facs="uva_jc.00056_large.jpg" type="verso"/>
             
             <pb xml:id="leaf005r" facs="uva_jc.00057_large.jpg" type="recto"/>
             
-            <p><hi rend="underline">Climate.</hi>&#8212;A large part of China has about the same climate as New York, with snow and ice in winter and <del rend="overstrike">warm</del> some very hot days in summer.</p>
+            <p><hi rend="underline">Climate.</hi>—A large part of China has about the same climate as New York, with snow and ice in winter and <del rend="overstrike">warm</del> some very hot days in summer.</p>
             
-            <p><hi rend="underline">Executions.</hi>&#8212;Criminals are executed in several ways.&#8212;A common mode is to set the victim in a sort of box which tightens around his neck and ankles, and compresses his body by degrees,<del rend="overstike">&#8212;</del> with a <add rend="insertion" place="supralinear">special</add> screw against his breast; thus squeezing him to death.&#8212;Sometimes may be seen twenty or thirty such victims, in rows dead or dying, with their eyes protruded and their tongues hanging out of their mouths.</p>
+            <p><hi rend="underline">Executions.</hi>—Criminals are executed in several ways.—A common mode is to set the victim in a sort of box which tightens around his neck and ankles, and compresses his body by degrees,<del rend="overstike">—</del> with a <add rend="insertion" place="supralinear">special</add> screw against his breast; thus squeezing him to death.—Sometimes may be seen twenty or thirty such victims, in rows dead or dying, with their eyes protruded and their tongues hanging out of their mouths.</p>
             
             <pb xml:id="leaf005v" facs="uva_jc.00058_large.jpg" type="verso"/>
 
 
             <pb xml:id="leaf006r" facs="uva_jc.00059_large.jpg" type="recto"/>
             
-            <p><hi rend="underline">Pekin</hi>.&#8212;Away in the interior is Pekin, the great city, the "Chinaman's heaven."&#8212;Here is the Emperor, and the imperial government.&#8212;</p>
+            <p><hi rend="underline">Pekin</hi>.—Away in the interior is Pekin, the great city, the "Chinaman's heaven."—Here is the Emperor, and the imperial government.—</p>
             
-            <p><hi rend="underline">Lascars.</hi>&#8212;Once or twice a year, the Lascars have a characteristic spree.&#8212;They attire themselves fantastically, one has a chain around his neck, one around his waist, another around his ankles, and the others lead them through the streets, with dances and music.&#8212;And such music!&#8212;There are perhaps fifty or sixty primitive instruments, reeds, gongs, shells, &#38;c., all keeping in a wild sort of uniform <choice><sic>rythm</sic><corr>rhythm</corr></choice>.&#8212;The Lascars in
+            <p><hi rend="underline">Lascars.</hi>—Once or twice a year, the Lascars have a characteristic spree.—They attire themselves fantastically, one has a chain around his neck, one around his waist, another around his ankles, and the others lead them through the streets, with dances and music.—And such music!—There are perhaps fifty or sixty primitive instruments, reeds, gongs, shells, &amp;c., all keeping in a wild sort of uniform <choice><sic>rythm</sic><corr>rhythm</corr></choice>.—The Lascars in
             
             <pb xml:id="leaf006v" facs="uva_jc.00060_large.jpg" type="verso"/>
             
             <pb xml:id="leaf007r" facs="uva_jc.00061_large.jpg" type="recto"/>
-            this way <del rend="overstrike">go</del> march to and fro all, eating, drinking, making merry, and collecting money in a vessel which the proffer to everybody.&#8212;But <unclear reason="illegible" cert="high" resp="#km">the</unclear> strangest destiny awaits this money<subst><del rend="overwrite" seq="1">!</del><add rend="overwrite" place="over" seq="2">.</add></subst>&#8212;At night the Lascars all go together out upon the water, some very deep place, and pour this money into the sea!  This is a gift to the Chinese Neptune, or to Pluto&#8212;that they may have grace at the hands of those deities in their voyages, or after all voyages are over.&#8212;</p>
+            this way <del rend="overstrike">go</del> march to and fro all, eating, drinking, making merry, and collecting money in a vessel which the proffer to everybody.—But <unclear reason="illegible" cert="high" resp="#km">the</unclear> strangest destiny awaits this money<subst><del rend="overwrite" seq="1">!</del><add rend="overwrite" place="over" seq="2">.</add></subst>—At night the Lascars all go together out upon the water, some very deep place, and pour this money into the sea!  This is a gift to the Chinese Neptune, or to Pluto—that they may have grace at the hands of those deities in their voyages, or after all voyages are over.—</p>
             
             <pb xml:id="leaf007v" facs="uva_jc.00062_large.jpg" type="verso"/>
             

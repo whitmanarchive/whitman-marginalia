@@ -6,4 +6,13 @@ class FileTei
     # functionality at the moment
   end
 
+  def subdoc_xpaths
+    # match subdocs against classes
+    #note: match id, not xml:id
+    {
+      "/" => TeiToEs,
+      # "/TEI[@id='owu.00090']/text/body/add[@rend='pasteon']" => TeiToEsPasteon
+    }
+  end
+
 end

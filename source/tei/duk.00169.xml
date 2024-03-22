@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00169">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00169">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00169</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,26 +34,26 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability>
-                    <p>This document is governed by a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license (CC BY-NC-SA 3.0). You are free to share &#8212; to copy, distribute and transmit the work; and to remix &#8212; to adapt the work, under the following conditions:
-                        1) Attribution &#8212; You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-                        2) Noncommercial &#8212; You may not use this work for commercial purposes.
-                        3) Share Alike &#8212; If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+                    <p>This document is governed by a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license (CC BY-NC-SA 3.0). You are free to share — to copy, distribute and transmit the work; and to remix — to adapt the work, under the following conditions:
+                        1) Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+                        2) Noncommercial — You may not use this work for commercial purposes.
+                        3) Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
                         With the understanding that:
-                        1) Waiver &#8212; Any of the above conditions can be waived if you get permission from the copyright holder.
-                        2) Public Domain &#8212; Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
-                        3) Other Rights &#8212; In no way are any of the following rights affected by the license: Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations; the author's moral rights; or rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+                        1) Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+                        2) Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+                        3) Other Rights — In no way are any of the following rights affected by the license: Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations; the author's moral rights; or rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
                         For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page: http://creativecommons.org/licenses/by-nc-sa/3.0/. For the full legal text of this license, see http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.</p>
                     <p>Permission to reproduce the graphic images in this
                         archive has been granted by the owners of the originals for this publication
                         only.</p>
                 </availability>
-            </publicationStmt>                 
+            <idno>duk.00169</idno></publicationStmt>                 
             <notesStmt>                 
                 <note type="project" target="#dat1">Grier estimates that this was written in 1855 or 1856, but the clipping (in two fragments, pasted down) is dated 1857 (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1777-78).</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>What are inextricable from the British poets</title>
                     <idno type="callno">MS 4to 70</idno>
                     <date notBefore="1855-01-01" notAfter="1892-03-26">Around 1857</date>
@@ -66,9 +66,9 @@
                     <title level="j">Harper's Weekly. Journal of Civilization</title>
                     <date when="1857-01-17">January 17, 1857</date>
                     <pubPlace>New York</pubPlace>
-                    <biblScope type="vol">1</biblScope>
-                    <biblScope type="issue">3</biblScope>
-                    <biblScope type="pp">37</biblScope>
+                    <biblScope unit="vol">1</biblScope>
+                    <biblScope unit="issue">3</biblScope>
+                    <biblScope unit="pp">37</biblScope>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -78,7 +78,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2011-09-23">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-10-02">Checked, revised.</change>
             <change who="#tra" when="2013-12-08">Updated bibliographical information and handnote information.</change>
@@ -95,34 +95,34 @@
             served, and <del rend="overstrike">of the idea</del> a continual recognition of the
                 <del rend="overstrike">great leading</del> principles <del rend="overstrike">that</del> <subst><del rend="overstrike" seq="1">lie</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">spread</add></del></subst> at the bases
             of monarch<subst><del rend="overwrite" seq="1">ical</del><add rend="overwrite" place="over" seq="2">y</add></subst> <del rend="overstrike">institutions</del> and the societies and
-                beliefs of <del rend="overstrike">the</del> caste. <del rend="overstrike">nations</del>.&#8212; <del rend="overstrike"><add rend="unmarked" place="supralinear"><unclear reason="illegible" resp="#lmg" cert="medium">Always</unclear> and in</add> </del>In the continents
+                beliefs of <del rend="overstrike">the</del> caste. <del rend="overstrike">nations</del>.— <del rend="overstrike"><add rend="unmarked" place="supralinear"><unclear reason="illegible" resp="#lmg" cert="medium">Always</unclear> and in</add> </del>In the continents
             of the eastern hemisphere <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">a</add></subst> bard<del rend="overstrike">s</del> <del rend="overstrike">have always
             been</del> whether ancient or modern has been
                 an attaché to a nobleman or a court,
-            or to <subst><del rend="overstrike" seq="1">that order</del> <add rend="unmarked" place="supralinear" seq="2">the order of noblemen and courts</add></subst>.&#8212; <del rend="overstrike">In</del> The skald, the
+            or to <subst><del rend="overstrike" seq="1">that order</del> <add rend="unmarked" place="supralinear" seq="2">the order of noblemen and courts</add></subst>.— <del rend="overstrike">In</del> The skald, the
             harper, the <del rend="overstrike">th</del> troubadour, Shakespeare, the feudal minstrel,
             the more modern poet, the laureate, all <subst><del rend="overstrike" seq="1">have
                 found written and spoken for them</del> <add rend="insertion" place="supralinear" seq="2">write or did write or speak for those selected persons</add></subst>  and at
             their behest, and for the honor and largesse
-            they gave.&#8212;Shakespeare <subst><del rend="overstrike" seq="1">wrote</del> <add rend="unmarked" place="supralinear" seq="2">composed</add></subst> altogether
+            they gave.—Shakespeare <subst><del rend="overstrike" seq="1">wrote</del> <add rend="unmarked" place="supralinear" seq="2">composed</add></subst> altogether
             for the court and for the <add rend="insertion" place="supralinear">young</add>  nobility and the
-            gentry<subst><del rend="overwrite" seq="1">&#8212;</del><add rend="overwrite" place="over" seq="2">;</add></subst> <add rend="unmarked" place="supralinear">he had no other audiences<!-- Grier says "audience" singular. -->.&#8212;</add> The courts ha<subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">ve</add></subst> at all times
+            gentry<subst><del rend="overwrite" seq="1">—</del><add rend="overwrite" place="over" seq="2">;</add></subst> <add rend="unmarked" place="supralinear">he had no other audiences<!-- Grier says "audience" singular. -->.—</add> The courts ha<subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">ve</add></subst> at all times
             pensioned eminent poets, and <subst><del rend="overstrike" seq="1">does</del> <add rend="unmarked" place="supralinear" seq="2">do</add></subst> so to
-            this day.&#8212;<add rend="unmarked" place="supralinear">.....</add><!-- NHG: Could this be a metaMark? MC: Too like WW's many ellipses in LoG Preface 1855 to make that call. --> In all times and in all
+            this day.—<add rend="unmarked" place="supralinear">.....</add><!-- NHG: Could this be a metaMark? MC: Too like WW's many ellipses in LoG Preface 1855 to make that call. --> In all times and in all
             nations it has been the faith of
             poets to believe in <del rend="erasure"><add rend="insertion" place="inline"> </add></del> the noblest thoughts
             and deeds and to express them and to
-            diffuse the love of beauty.&#8212;<add rend="unmarked" place="supralinear">In this we inherit and partake of every one, without distinction of parties or place.</add> In this
+            diffuse the love of beauty.—<add rend="unmarked" place="supralinear">In this we inherit and partake of every one, without distinction of parties or place.</add> In this
             is the common glory of poets, irrespective
-            of period or place.&#8212;In this the good
-            of any one is the good of all&#8212;<add rend="overwrite" place="over">.....</add>
+            of period or place.—In this the good
+            of any one is the good of all—<add rend="overwrite" place="over">.....</add>
             <subst><del rend="overstrike" seq="1">Nor can any</del> <add rend="unmarked" place="supralinear" seq="2">Yet is no</add></subst> poet <subst><del rend="overstrike" seq="1">be</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">become</add></del></subst>  dear to a people
                 unless he <del rend="overstrike">rep<unclear reason="illegible" resp="#lmg" cert="medium">resent</unclear></del> be of them and of
-                the spirit of them, <del rend="overstrike">&#8212;<unclear reason="illegible" resp="#lmg" cert="medium">in</unclear></del> a growth of the
+                the spirit of them, <del rend="overstrike">—<unclear reason="illegible" resp="#lmg" cert="medium">in</unclear></del> a growth of the
             soil, the water, the climate, the age, the
             government, the religion, the leading characteristics,
             <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">a</add></subst> height and individuality for his own
-            nation and days and <del rend="overstrike">f</del> not for other nations&#8212;
+            nation and days and <del rend="overstrike">f</del> not for other nations—
             in Egypt an<del rend="overstrike">d</del> Egyptian, in Greece a Greek, in
                 Germany a German, in England and English<unclear reason="illegible" resp="#lmg" cert="medium">man,</unclear> in the United</p>
             <pb xml:id="leaf001v" facs="duk_ap_00128.jpg" type="verso"/>
@@ -130,14 +130,14 @@
             <p>Of the leading British poets many who
                 began with the rights of man, abj<subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#nhg" cert="medium">i</unclear></del><add rend="overwrite" place="over" seq="2">ured</add></subst>
                 their begi<subst><del rend="overwrite" seq="1">n</del><add rend="overwrite" seq="2" place="over">nning</add></subst> and came out for <choice><sic>kingraft</sic><corr>kingcraft</corr></choice>
-            priestcraft, obedience, and so forth.&#8212;
+            priestcraft, obedience, and so forth.—
             Southey, Coleridge, and Wordsworth, did
-            so.&#8212;</p>
+            so.—</p>
             <pb xml:id="leaf002v" facs="duk.00169.003.jpg" type="verso"/>
             <note type="authorial" place="left" resp="#h1">an
                 <choice><sic>ennuyeed</sic><corr>ennuyed</corr></choice>
                 poet</note>
-            <note type="authorial" place="top">Cowper 1731&#8212;1800</note>
+            <note type="authorial" place="top">Cowper 1731—1800</note>
             <add rend="pasteon" source="#r1">
                 <q who="unknown" type="written"><handShift new="#h2"/>
                     <floatingText rend="flat">
@@ -148,7 +148,7 @@
                             <p>C<hi rend="smallcaps">OWPER</hi>, at the conclusion of his poem, "Yardly
                                 Oak," has a rare poetic image, producing an effect
                                 in verse which a sculptor might envy for his
-                                marble. The poem itself is but a fragment&#8212;one
+                                marble. The poem itself is but a fragment—one
                                 of the last great undertakings of the poet, commenced
                                 at the age of sixty. It celebrates an old
                                 tree, of the date of the Norman conquest, in Yardly
@@ -169,7 +169,7 @@
                             <p>The verse becomes knotted with the stubborn
                                 strength of the giant oak:</p>
                                 <lg><l>"Time was, when, settling on thy leaf, a fly</l>
-                                <l>Could shake thee to the root&#8212;and time has been</l>
+                                <l>Could shake thee to the root—and time has been</l>
                                 <l>When tempests could not. At thy primest age</l>
                                 <l>Thou hadst within thy bole solid contents,</l>
                                 <l>That might have <choice><orig>ribb'd</orig><reg>ribbed</reg></choice> the sides and <choice><orig>plank'd</orig><reg>planked</reg></choice> the deck</l>
@@ -177,7 +177,7 @@
                                 <l>The shipwright's darling treasure, didst present</l>
                                 <l>To the four-<choice><orig>quarter'd</orig><reg>quartered</reg></choice> winds, robust and bold,</l>
                                 <l><choice><orig>Warp'd</orig><reg>Warped</reg></choice> into tough knee-timber, many a load!"</l></lg>
-                            <p>We come to the concluding passage&#8212;one of the
+                            <p>We come to the concluding passage—one of the
                                 grandest <hi rend="smallcaps">COWPER</hi> ever wrote. We may imagine
                                 him spell-bound by the image he had created, despairing
                                 of continuing the work. It is a vision of

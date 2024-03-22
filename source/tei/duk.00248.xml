@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00248">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00248">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00248</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,21 +33,21 @@
                     <addrLine>Ed-Folsom@uiowa.edu</addrLine>
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
-                <availability ><p>The text of the original document is in the public domain. Subject to certain exceptions,
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions,
             public domain works may be freely copied or used in the creation of derivative works
             without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
             by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                 Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
             of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00248</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>The Vanity and the Glory of Literature</title>
                     <idno type="callno">MS 175</idno>
                     <date notBefore="1849-04-01" notAfter="1892-03-26">After April 1, 1849</date>                   
-                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &#38; Manuscript Library, Duke University</orgName>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
                     <note type="project">Transcribed from digital images of the original item.</note>
                 </bibl>
                 <bibl type="base" xml:id="r1">
@@ -55,9 +55,9 @@
                     <title level="a">The Vanity and the Glory of Literature</title>
                     <title level="j">The Edinburgh Review</title>
                     <date>April 1849</date>
-                    <biblScope type="vol">89</biblScope>
-                    <biblScope type="issue">180</biblScope>
-                    <biblScope type="pp">149&#8211;168</biblScope>
+                    <biblScope unit="vol">89</biblScope>
+                    <biblScope unit="issue">180</biblScope>
+                    <biblScope unit="pp">149–168</biblScope>
                     <note type="project">American Edition</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="r2">
@@ -82,7 +82,7 @@
                 <handNote xml:id="h4" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#lmg" when="2011-08-12">Transcribed and encoded.</change>
             <change who="#nhg" when="2012-03-12">Transcribed and encoded.</change>
             <change who="#lmg" when="2013-09-07">Checked.</change>
@@ -312,7 +312,7 @@
                 the circumstances of the individual, and the 
                 object for which he wants it; the safe maximum 
                 will vary in different cases.</p>
-            <p>There are opposite dangers. <span rend="bracket-right" resp="#h2" xml:id="s39" from="#s39" to="#s40"/><hi rend="underline" hand="#h2">The knowledge 
+            <p>There are opposite dangers. <span rend="bracket-right" resp="#h2" xml:id="s39" from="#s39" to="#s40"/><hi rend="underline" resp="#h2">The knowledge 
                 of each particular thing that a man 
                 can study will always be imperfect. The 
                 most 'minute philosopher' cannot pretend 
@@ -338,7 +338,7 @@
                 a foreigner to the first apple-woman he 
                 meets, by some solecism too subtle for any 
                 but a native ear to detect it.</hi></p><anchor xml:id="s40"/>
-            <p><hi rend="underline" hand="#h2">The limits with which any subject is to be 
+            <p><hi rend="underline" resp="#h2">The limits with which any subject is to be 
                 pursued must therefore be determined by 
                 utility; meantime, it is certain that one 
                 cannot be profitably pursued alone. Such, 
@@ -380,7 +380,7 @@
                 is the greater, the more we already 
                 know; so that it increases not as the new 
                 objects increase, but in a much higher proportion.'<ref target="#note2">*</ref></p>
-                <p><span rend="singleLine-left" hand="#h2" xml:id="s43" from="#s43" to="#s44"/><hi rend="underline" hand="#h2">At all events, it ill becomes us to speak 
+                <p><span rend="singleLine-left" resp="#h2" xml:id="s43" from="#s43" to="#s44"/><hi rend="underline" resp="#h2">At all events, it ill becomes us to speak 
                     slightingly of the various, and for all practical 
                     purposes, solid attainments of superior 
                     minds. There is a piece of self-flattery by 
@@ -431,7 +431,7 @@
                     <cb/>
                     <milestone rend="vertbar-full" unit="undeclared"/>
                 ratio to the sum total of literature 
-                and science; who, <hi rend="underline" hand="#h2">as Fontenelle expressively 
+                and science; who, <hi rend="underline" resp="#h2">as Fontenelle expressively 
                     says of Leibnitz, have managed 'to 
                     drive all the sciences abreast.'</hi> Such minds 
                     have always been rare; but, as we have 
@@ -521,9 +521,9 @@
                 is with some easily managed. The 
                 bad will perish, it is said, and the good remain. 
                 The former statement is true 
-                enough; the latter not so clear. <hi rend="underline" hand="#h2">'Bad 
+                enough; the latter not so clear. <hi rend="underline" resp="#h2">'Bad 
                 books,' says Menzel, 'have their season just 
-                as vermin have.</hi> <hi rend="underline" hand="#h2">They come in swarms, 
+                as vermin have.</hi> <hi rend="underline" resp="#h2">They come in swarms, 
                 and perish before we are aware.</hi> . . . 
                 How many thousand books have gone the 
                 way of all paper, or are now mouldering in 
@@ -549,10 +549,10 @@
                     as a bright company of splendid names 
                     rushes on their recollection, may be disposed 
                     to say 'avaunt' to these melancholy 
-                    forebodings. <handShift new="#h2"/>(<handShift new="#h1"/><hi rend="underline" hand="#h2">Surely, it</hi> can be only necessary 
-                    to remind them <hi rend="underline" hand="#h2">of the</hi> votive tablets in 
-                    the Temple of Ne<hi rend="underline" hand="#h2">ptune r</hi>ecording escape 
-                    from shipwreck. <hi rend="underline" hand="#h2">How many men have 
+                    forebodings. <handShift new="#h2"/>(<handShift new="#h1"/><hi rend="underline" resp="#h2">Surely, it</hi> can be only necessary 
+                    to remind them <hi rend="underline" resp="#h2">of the</hi> votive tablets in 
+                    the Temple of Ne<hi rend="underline" resp="#h2">ptune r</hi>ecording escape 
+                    from shipwreck. <hi rend="underline" resp="#h2">How many men have 
                         suffered shipwreck, and whose tablets therefore 
                         are not to be found!</hi> Others may think 
                     it impossible that great writers, with whom 
@@ -694,7 +694,7 @@
                 <milestone rend="vertbar-full" unit="undeclared"/>
                 purpose of oblivion just as effectually. Not 
                 that his contemporary waste has ceased, or 
-                become very moderate. <span rend="parentheses" hand="#h2" xml:id="s199" from="#s199" to="#s200"/><add rend="unmarked" resp="#h2" place="inline">(</add>Probably scarcely 
+                become very moderate. <span rend="parentheses" resp="#h2" xml:id="s199" from="#s199" to="#s200"/><add rend="unmarked" resp="#h2" place="inline">(</add>Probably scarcely 
                 a day now passes but sees the last leaf, the 
                 last tattered remnant of the last copy of 
                 some work (great or small) of some author 
@@ -786,7 +786,7 @@
                 their <hi rend="italic">jalousies!</hi>' To the eye of a severe
                 philosopher they might more naturally suggest
                 the idea of the aforesaid mummies.</p>
-            <p><span rend="bracket-left" hand="#h2" xml:id="s3" from="#s3" to="#s4"/>It has been often affirmed—and there is
+            <p><span rend="bracket-left" resp="#h2" xml:id="s3" from="#s3" to="#s4"/>It has been often affirmed—and there is
                 <hi rend="italic">some</hi> truth in it—that of all the forms of
                 celebrity which promise to gratify man's
                 natural longing for immortality, there is none
@@ -802,13 +802,13 @@
                 India, the names of whose founders have
                 perished, justly remarks in his diary, 'Fame
                 depends on literature, not on architecture.'
-                But <hi rend="underline" hand="#h2">even where a Pindar or a Tacitus undertakes
+                But <hi rend="underline" resp="#h2">even where a Pindar or a Tacitus undertakes
                 the task of celebrating munificence
                 or greatness, we are compelled to feel that
                 after all it is but the conqueror's or statesman's
                 <hi rend="italic">portrait</hi> rather than the conqueror or
                 stateman himself that is presented to</hi> us.
-                <span rend="bracket-left" hand="#h2" xml:id="s5" from="#s5" to="#s6"/>On the other hand, a book is fondly presumed
+                <span rend="bracket-left" resp="#h2" xml:id="s5" from="#s5" to="#s6"/>On the other hand, a book is fondly presumed
                 to be an author's second self; by it
                 he comes as it were into contact—into personal
                 communion—with the minds of his
@@ -823,7 +823,7 @@
                 not been sufficiently observed, that as the<anchor xml:id="s6"/>
                 <cb/>
                 <milestone rend="vertbar-full" unit="undeclared"/>
-                <span rend="bracket-right" hand="#h2" xml:id="s7" from="#s7" to="#s8"/><span rend="bracket-right" hand="#h2" xml:id="s9" from="#s9" to="#s10"/>world grows older, a still smaller and smaller
+                <span rend="bracket-right" resp="#h2" xml:id="s7" from="#s7" to="#s8"/><span rend="bracket-right" resp="#h2" xml:id="s9" from="#s9" to="#s10"/>world grows older, a still smaller and smaller
                 portion of those who <hi rend="italic">seem</hi> to have attained it
                 will retain their position. A minute fraction of
                 even these will be consigned to the future, and
@@ -845,7 +845,7 @@
                 also becomes smaller and smaller, till for
                 thousands, not even room for a sepulchral
                 stone will be found.</p>
-            <p><span rend="singleLine-right" hand="#h2" xml:id="s11" from="#s11" to="#s12"/><hi rend="underline" hand="#h2">Nor is it easy to say how far this oblivion
+            <p><span rend="singleLine-right" resp="#h2" xml:id="s11" from="#s11" to="#s12"/><hi rend="underline" resp="#h2">Nor is it easy to say how far this oblivion
             will go, or what luminaries will be in time
             eclipsed.</hi> Suppposing only a scantling of the
                 products of the genius of each age—its
@@ -859,7 +859,7 @@
                 case; not only excellence, which has been
                 long the case, will stand a chance of being
                 rejected, but when even gold and diamonds
-                will be cast into the sieve! <span rend="singleLine-right" xml:id="s13" from="#s13" to="#s14"/><hi rend="underline" hand="#h2">Hardy must
+                will be cast into the sieve! <span rend="singleLine-right" xml:id="s13" from="#s13" to="#s14"/><hi rend="underline" resp="#h2">Hardy must
                     those be who shall then venture to hope for
                     the <hi rend="italic">permanent</hi> attention of mankind!</hi> for it<note type="authorial" resp="#h2" place="right" target="#s13">☜</note><!-- This note is technically next to the "hope for" of the previous line, but because of nesting issues, it's here. -->
                 will be found that the greater part of authors
@@ -867,7 +867,7 @@
                 a copyhold of inheritance. Their interest
                 for life or years soon runs out, and every
                 year rapidly diminishes the value of the
-                estate.</p><span rend="singleLine-right" hand="#h2" xml:id="s15" from="#s15" to="#s16"/>
+                estate.</p><span rend="singleLine-right" resp="#h2" xml:id="s15" from="#s15" to="#s16"/>
             <p>We already see this mournfully <choice><orig>realised</orig><reg>realized</reg></choice>
                 in relation to a thousand bright names of the<note type="authorial" resp="#h2" place="right" target="#s15">☜</note>
                 last two centuries. How much beautiful
@@ -958,7 +958,7 @@
                 other form of that painted shadow; in most 
                 instances it dwindles into a name; and that 
                 name not always legible. 'Vanity of vanities, 
-                saith the preacher; all is vanity!'<ref target="note5">*</ref></p>
+                saith the preacher; all is vanity!'<ref target="#note5">*</ref></p>
                 <p>In one point we can hardly concur with 
                     Lord Jeffrey. He seems to think that the 
                     lot of the poet, in relation to fame, is yet 
@@ -1118,15 +1118,15 @@
                 snatched away from the curiosity of modern
                 ages.'</p>
             <p>We have but to glance at our own great
-                writers, to see <hi rend="underline" hand="#h2">how wide is the interval
+                writers, to see <hi rend="underline" resp="#h2">how wide is the interval
                 between their best and their worst productions.</hi>
-                <hi rend="underline" hand="#h2">Is there one, at all voluminous, of
+                <hi rend="underline" resp="#h2">Is there one, at all voluminous, of
                     whom it can be said that all he has left is<note type="authorial" resp="#h2" place="right">☜</note>
                 worthy of being transmitted to posterity?
                 It is true, indeed, that once possessed of
                 anything of theirs, we are naturally reluctant
                 to lose it</hi>; and should even consider it
-                a species of sacrilege to destroy it. <hi rend="underline" hand="#h2">Yet,
+                a species of sacrilege to destroy it. <hi rend="underline" resp="#h2">Yet,
                 in effect, very much they have left is as if
                 it were lost—for it is never read.</hi> As in
                 other cases, we neglect what we have, and
@@ -1143,18 +1143,18 @@
                 the acts which reduce us to this exercise of
                 faith: neither does Gibbon. On the contrary,
                 as Mr. D'Israeli says, 'he pathetically
-                describes <hi rend="underline" hand="#h2">the empty library of Alexandria
+                describes <hi rend="underline" resp="#h2">the empty library of Alexandria
                 after the Christians had destroyed
                 it;'</hi> while he does not in that place suggest
                 any of the alleviations to which we have
                 just adverted; but reserves them for the
-                time when he has to <hi rend="underline" hand="#h2">describe the second
+                time when he has to <hi rend="underline" resp="#h2">describe the second
                 and greater desolation on the same spot by</hi>
             <pb xml:id="leaf005v" facs="duk_nhg.00351.jpg" type="verso"/>
             <fw type="pageNum" place="top left">158</fw>
             <fw type="head" place="top"><hi rend="italic">The Vanity and the Glory of Literature.</hi></fw>
             <fw type="date" place="top right">April,</fw>
-            <cb/><hi rend="underline" hand="#h2">the <choice><orig>Mahometans</orig><reg>Muslims</reg></choice>!</hi> On this last occasion,
+            <cb/><hi rend="underline" resp="#h2">the <choice><orig>Mahometans</orig><reg>Muslims</reg></choice>!</hi> On this last occasion,
                 he softens somewhat of his pathos, perhaps
                 of his indignation, and makes the philosophic
                 estimate which we have cited. Without
@@ -1174,9 +1174,9 @@
                 D'Israelis
                 unable
                 to say
-                this.</note><span rend="bracket-left" hand="#h2" xml:id="s17" from="#s17" to="#s18"/><milestone unit="undeclared" rend="horbar-full"/>
-                <span rend="bracket-left" hand="#h2" xml:id="s19" from="#s19" to="#s20"/>
-                <span rend="bracket-left" hand="#h2" xml:id="s21" from="#s21" to="#s22"/><note xml:id="note6a" next="note6b" type="footnote" place="bottom" resp="#h1" anchored="true">*<hi rend="underline" hand="#h2">'I believe that a philosopher,' says Mr. D'Israeli,
+                this.</note><span rend="bracket-left" resp="#h2" xml:id="s17" from="#s17" to="#s18"/><milestone unit="undeclared" rend="horbar-full"/>
+                <span rend="bracket-left" resp="#h2" xml:id="s19" from="#s19" to="#s20"/>
+                <span rend="bracket-left" resp="#h2" xml:id="s21" from="#s21" to="#s22"/><note xml:id="note6a" next="note6b" type="footnote" place="bottom" resp="#h1" anchored="true">*<hi rend="underline" resp="#h2">'I believe that a philosopher,' says Mr. D'Israeli,
                 'would consent to lose <hi rend="italic">any</hi> poet to regain an
                 historian.'</hi><anchor xml:id="s20"/> Perhaps so; if the exchange were
                 <anchor xml:id="s18"/>always between a Claudian and a Tacitus. But
@@ -1184,23 +1184,23 @@
                 Homer, a <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice>, or a Milton. 'Fancy may
                 be supplied,' he remarks, 'but truth once lost in
                 the annals of mankind, leaves a chasm never to be
-                <anchor xml:id="s22"/>filled.' We fear that <hi rend="underline" hand="#h2">the fancy of the highest
+                <anchor xml:id="s22"/>filled.' We fear that <hi rend="underline" resp="#h2">the fancy of the highest
                 poetry is not quite so promptly made to order;</hi>
                 while, on the other hand, Niebuhr has pretty
                 clearly shown that history is far from being always
-                truth; not to mention that, if it were so, <hi rend="underline" hand="#h2">the highest
+                truth; not to mention that, if it were so, <hi rend="underline" resp="#h2">the highest
                 creations of poetry—those of a Homer or a
                     <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice>—embody truth yet more comprehensive
                and universal than any consigned to the page
                 of history.</hi> Montaigne remarks in one of his
-                essays, that <hi rend="underline" hand="#h2">the value of history does not consist in
+                essays, that <hi rend="underline" resp="#h2">the value of history does not consist in
                 the bare facts it records, but in the instruction the
                 facts are capable of conveying; and this is so true,
                 that the parts of history which are positively fabulous
                 are often more full of significance, and have
                 really had more influence than the most accurate
                 recital of the bare facts.</hi> Plutarch has, we suspect,
-                <span rend="singleLine-left" hand="#h2" xml:id="s23" from="#s23" to="#s24"/>with all his credulity and love of fable,
+                <span rend="singleLine-left" resp="#h2" xml:id="s23" from="#s23" to="#s24"/>with all his credulity and love of fable,
                 really exerted more power over the minds of men
                 than any of the more authentic historians of antiquity.
                 The graphic account which Livy has left
@@ -1395,7 +1395,7 @@
             books which to others would be to the last
             degree tedious and unattractive,—and the
             felicity with which he did this was one of his
-            most striking characteristics. <hi rend="underline" hand="#h2">In hundreds
+            most striking characteristics. <hi rend="underline" resp="#h2">In hundreds
             of cases it is wonderful to see how a snatch
             of an old border song, an antique phrase,
             used as he uses it, a story or fragment of a
@@ -1421,21 +1421,21 @@
             brooding and meditating, became gloriously
             transmuted into the winged spirit of national
             poetry.'</p>
-            <p>In this way <hi rend="underline" hand="#h2">minute portions of the past
+            <p>In this way <hi rend="underline" resp="#h2">minute portions of the past
             are constantly entering by new combinations
             into fresh forms of life, and out of these
             old materials, continually decomposed but
             continually recombined, scope is afforded
             for an everlasting succession of imaginative
-            literature. <span rend="singleLine-right" hand="#h2" xml:id="s45" from="#s45" to="#s46"/>In the same way every work of
+            literature. <span rend="singleLine-right" resp="#h2" xml:id="s45" from="#s45" to="#s46"/>In the same way every work of
             genius, by coming, as it were, into mesmeric
                 <hi rend="italic">rapport</hi> with the affinities of kindred<note type="authorial" place="right" resp="#h2">☜</note>
             genius, and stimulating its latent energies,
             is itself the parent of many others, and furnishes
             the materials and rudiments of ever</hi><anchor xml:id="s46"/>
-                new <hi rend="underline" hand="#h2">combinations</hi>.<ref target="#note8">*</ref> Of more than one
+                new <hi rend="underline" resp="#h2">combinations</hi>.<ref target="#note8">*</ref> Of more than one
                 <milestone unit="undeclared" rend="horbar-full-center"/>
-                <span rend="bracket-right" hand="#h2" xml:id="s47" from="#s47" to="#s48"/><note xml:id="note8" type="footnote" anchored="true" place="bottom">* The greater part of those resemblances in
+                <span rend="bracket-right" resp="#h2" xml:id="s47" from="#s47" to="#s48"/><note xml:id="note8" type="footnote" anchored="true" place="bottom">* The greater part of those resemblances in
                 thoughts and images which a carping criticism sets
                 down as <hi rend="italic">plagiarisms</hi> are, we are persuaded, nothing
                 more than such combinations: and even of
@@ -1515,7 +1515,7 @@
                 and with as little hope of permanent popularity.</p>
             <p>Nor is there any country, though all are
             chargeable with the fault, to which Menzel's
-            scornful remarks on <hi rend="underline" hand="#h2">'books made out of
+            scornful remarks on <hi rend="underline" resp="#h2">'books made out of
             books,'</hi> so strongly apply. 'Germany,' says
             he, 'is thronged with multitudes who, in
             want of any fixed employment, immediately
@@ -1527,11 +1527,11 @@
             inspect many German volumes to see that
             they are just the produce of a—note book;
             that the task has begun and ended in the
-            <hi rend="underline" hand="#h2">carting of so much rubbish, and shooting it
+            <hi rend="underline" resp="#h2">carting of so much rubbish, and shooting it
             out into a bookseller's shop</hi>—where at the
             best, it may serve as a collection of materials
             for an edifice which somebody else is to
-            build. <hi rend="underline" hand="#h2">Profuse reading is often their only
+            build. <hi rend="underline" resp="#h2">Profuse reading is often their only
             characteristic; and not always is there any
             sure sign of this:</hi> for the prodigal references
             with which each page after page in many such
@@ -1539,7 +1539,7 @@
             from other writers, and the parade of learning
             is as empty as it is superfluous. Niebuhr
             bitterly complains of this practice;
-            and justly stigmatises it as <hi rend="underline" hand="#h2">one of the dishonest
+            and justly stigmatises it as <hi rend="underline" resp="#h2">one of the dishonest
                 tricks of literature.</hi> He himself<note type="authorial" resp="#h3" place="right">☜</note>
             tells us, and we doubt not with perfect
             truth, that he was in the habit of distinctly
@@ -1561,7 +1561,7 @@
             consider a double, or, still better, a quadruple,
             array of references (though only a
             series of transcriptions), as a prouder proof
-            of their erudition. <hi rend="underline" hand="#h2">What is really required
+            of their erudition. <hi rend="underline" resp="#h2">What is really required
             is, that the writer should honestly endeavour
             to make his citations as <hi rend="italic">few</hi>, not as
             <hi rend="italic">many</hi>, as possible;</hi> and confine himself to
@@ -1617,7 +1617,7 @@
             index—or so much cited.'</p>
             <p>Johnson, in commenting on the fate of
             books in one of the papers of the Idler, speaks
-            <span rend="doubleLine-left" hand="#h2" xml:id="s49" from="#s49" to="#s50"/>of <hi rend="underline" hand="#h2">the necessity of an author's choosing a
+            <span rend="doubleLine-left" resp="#h2" xml:id="s49" from="#s49" to="#s50"/>of <hi rend="underline" resp="#h2">the necessity of an author's choosing a
             theme of enduring interest, if he would be
             remembered;</hi> and contrasts the once enormous<anchor xml:id="s50"/>
             popularlity of 'Hudibras' with its present
@@ -1625,13 +1625,13 @@
             this is but an insufficient antiseptic. Though
             it is generally necessary, if an author would
             have even a <hi rend="italic">chance</hi> of living, that he should
-            take no temporary topic, <hi rend="underline" hand="#h2">he may choose the
+            take no temporary topic, <hi rend="underline" resp="#h2">he may choose the
             most enduring—and be ephemeral notwithstanding;
             and what we cannot conceal from
             ourselves is, that he may even treat his subject
             well, and yet be forgotten.</hi> But we
             suspect that this caution is of little importance.
-            <span rend="singleLine-left" hand="#h2" xml:id="s51" from="#s51" to="#s52"/><hi rend="underline" hand="#h2">Such is the vigour of great genius—
+            <span rend="singleLine-left" resp="#h2" xml:id="s51" from="#s51" to="#s52"/><hi rend="underline" resp="#h2">Such is the vigour of great genius—
             and without it nothing will be remembered
             —that where there is <hi rend="italic">that</hi>, it will triumph
             over all the disadvantages of a topic of evanescent</hi><anchor xml:id="s52"/>
@@ -1640,7 +1640,7 @@
             Sciences in the Companion to the British Almanac,
             1843, p. 42.</note><cb/>
                 <milestone unit="undeclared" rend="vert-bar-full"/>
-                <span rend="bracket-right" hand="#h2" xml:id="s53" from="#s53" to="#s54"/><hi rend="underline" hand="#h2">interest.</hi> Pascal's 'Provincial Letters'
+                <span rend="bracket-right" resp="#h2" xml:id="s53" from="#s53" to="#s54"/><hi rend="underline" resp="#h2">interest.</hi> Pascal's 'Provincial Letters'
             are still read, we apprehend, quite as
             frequently as Bossuet's 'Discourse on Universal
             History,' and even 'Hudibras' a good
@@ -1652,7 +1652,7 @@
             might just as profitably be engaged, with
             Addison's virtuoso, in the chase of butterflies
             or the collection of cockle-shells.</p>
-            <p><hi rend="underline" hand="#h2">If genius would attain its uttermost longevity,
+            <p><hi rend="underline" resp="#h2">If genius would attain its uttermost longevity,
             another condition it must submit to
             is, that of despising an <hi rend="italic">ad captandum</hi> compliance<anchor xml:id="s54"/>
             with transient tastes, and the affectation
@@ -1663,13 +1663,13 @@
             for a time—but they expire with the age.
             Great genius for awhile will consecrate
             almost any eccentricities, and even acquire
-            for them great temporary popularity. <span rend="singleLine-right" hand="#h2" xml:id="s55" from="#s55" to="#s56"/>But
+            for them great temporary popularity. <span rend="singleLine-right" resp="#h2" xml:id="s55" from="#s55" to="#s56"/>But
             it may well be questioned whether, where
             there <hi rend="italic">is</hi> great genius and where it has
             succeeded by such artifices, it might not,
-            <span rend="bracket-left" hand="#h3" xml:id="s57" from="#s57" to="#s58"/><hi rend="underline" hand="#h3">even among its contemporaries, have gained
+            <span rend="bracket-left" resp="#h3" xml:id="s57" from="#s57" to="#s58"/><hi rend="underline" hand="#h3">even among its contemporaries, have gained
             equal applause at a less cost than that of
-            <span rend="bracket-left" hand="#h3" xml:id="s59" from="#s59" to="#s60"/>simplicity and nature</hi> But, at all events,<anchor xml:id="s60"/>
+            <span rend="bracket-left" resp="#h3" xml:id="s59" from="#s59" to="#s60"/>simplicity and nature</hi> But, at all events,<anchor xml:id="s60"/>
             let the writer who attempts to attain fame<anchor xml:id="s58"/>
             by any such fantastic methods, recollect
             how ridiculous a reigning fashion looks a
@@ -1787,7 +1787,7 @@
                 that question we need not enter. We are
                 speaking as to the fact only; and shall leave
                 mankind to defend themselves.</p>
-            <p><span rend="bracket-right" hand="#h2" xml:id="s27" from="#s27" to="#s28"/>The Bible, supposing it other than it
+            <p><span rend="bracket-right" resp="#h2" xml:id="s27" from="#s27" to="#s28"/>The Bible, supposing it other than it
                 pretends to be, presents us with a still more
                 singular phænomenon in the space which it
                 occupies throughout the continued history
@@ -1905,13 +1905,13 @@
                     or buried in the volcanic eruptions
                     of war and conquest, we see them, after
                     centuries of 'cold obstruction,' once more
-                    <span rend="bracket-left" hand="#h2" xml:id="s229" from="#s229" to="#s230"/>coming to light;—the fossil remains of
+                    <span rend="bracket-left" resp="#h2" xml:id="s229" from="#s229" to="#s230"/>coming to light;—the fossil remains of
                     ancient life;—forms of power, of beauty, or
                     deformity;—characterised indeed by many<anchor xml:id="s230"/>
                     <cb/>
                     analogies to the present species of <choice><orig>organised</orig><reg>organized</reg></choice>
                     life, but also by many differences.</p>
-            <p><span rend="bracket-right" hand="#h2" xml:id="s29" from="#s29" to="#s30"/><hi rend="underline" hand="#h2">The revival of classical literature, after
+            <p><span rend="bracket-right" resp="#h2" xml:id="s29" from="#s29" to="#s30"/><hi rend="underline" resp="#h2">The revival of classical literature, after
                 the dark ages, was the greatest and most
                 splendid of these recoveries of the past;</hi>
                     and must have awakened in the minds of the
@@ -1957,13 +1957,13 @@
                     And who could have anticipated
                     how wild a range the transient, but while
                     they last, most active fashions of literary
-                    research would take? <hi rend="underline" hand="#h2">Now it is Saxon,
+                    research would take? <hi rend="underline" resp="#h2">Now it is Saxon,
                     Danish, Norman antiquities;—now local
                     traditions, and old songs and ballads;—now<anchor xml:id="s32"/>
                     the old dramatists have their turn, and now
                     the old divines.</hi> Who could have expected
                     to see the venerable Bede's 'opera omnia'
-                    in English as well as Latin, published in all<span rend="singleLine-right" hand="#h2" xml:id="s33" from="#s33" to="#s34"/>
+                    in English as well as Latin, published in all<span rend="singleLine-right" resp="#h2" xml:id="s33" from="#s33" to="#s34"/>
                     the glories of modern typography? 'It is
                     hard to say,' says Sir Thomas Browne,
                     speaking of our bodies, 'how often we are
@@ -1986,7 +1986,7 @@
                 says of some other antiquarian recoveries,
                 —'What signifies raising the dead so
                 often, when they die the next minute?'</p>
-            <span rend="bracket-left" hand="#h2" xml:id="s63" from="#s63" to="#s64"/><p>How singular has been the destiny of
+            <span rend="bracket-left" resp="#h2" xml:id="s63" from="#s63" to="#s64"/><p>How singular has been the destiny of
             Aristotle! After having been lost to the
             world for ages, we see him making a second
             and wider conquest, and founding the most
@@ -2131,7 +2131,7 @@
                 we both had, that in carrying them on
                 we were answering the great ends of our
                 creation.'</p>
-            <p><span rend="bracket-right" hand="#h2" xml:id="s65" from="#s65" to="#s66"/><span rend="bracket-left" hand="#h2" xml:id="s67" from="#s67" to="#s68"/>But, without a gibe, the destiny of the
+            <p><span rend="bracket-right" resp="#h2" xml:id="s65" from="#s65" to="#s66"/><span rend="bracket-left" resp="#h2" xml:id="s67" from="#s67" to="#s68"/>But, without a gibe, the destiny of the
             honest writer, even though but moderately
             successful, and much more if long and
             widely popular, is surely glorious and enviable.
@@ -2157,7 +2157,7 @@
             as the dew—invisible as the wind!<anchor xml:id="s66"/> We
             can adequately conceive of such an influence
             only by imagining ourselves, under
-            the privilege of the ring of <hi rend="underline" hand="#h2">Gyges</hi>, to gaze,
+            the privilege of the ring of <hi rend="underline" resp="#h2">Gyges</hi>, to gaze,
             invisible, on the solitary reader as he pores
             over a favourite author, and watch in his
             countenance, as in a mirror, the reflection
@@ -2211,7 +2211,7 @@
                 writer to remember this. The ill which
                 other mendo, for the most part dies with
                 them. Not indeed that this is literally true,
-                even of the obscurest of the species. <hi rend="underline" hand="#h2">We
+                even of the obscurest of the species. <hi rend="underline" resp="#h2">We
                 are all but links in a vast chain which
                 stretches from the dawn of time to the consummation
                 of all things, and unconsciously
@@ -2324,14 +2324,14 @@
             happy also all who, though not destined to
             see those distant times, have in any measure
             contributed to form and hasten them!</p>
-            <span rend="bracket-left" hand="#h2" xml:id="s69" from="#s69" to="#s70"/><p>Plato, in a well-known passage of his
+            <span rend="bracket-left" resp="#h2" xml:id="s69" from="#s69" to="#s70"/><p>Plato, in a well-known passage of his
             Phædrus, describes Socrates as contending
             for the superiority of oral instruction, by representing
             books as <hi rend="italic">silent</hi>. The inferiority
             of the written word to the living voice is in
             many respects undeniable; but surely it is
             more than compensated by the advantage of
-            its diffusive and permanent character. <hi rend="underline" hand="#h2">Great
+            its diffusive and permanent character. <hi rend="underline" resp="#h2">Great
             as has been the influence of Socrates, he
             owes it almost entirely to the books he refused
             to write! and it might have been
@@ -2362,7 +2362,7 @@
                 <gap reason="covered" extent="five" unit="word"/>isposed to say
                 <gap reason="covered" extent="five" unit="word"/>anity' without
                 <gap reason="covered" extent="five" unit="word"/>re.</p><add rend="unmarked" resp="#h4" place="bottom">3</add>
-            <ab><hi rend="circled" hand="#h2"><add rend="pasteon" source="#r3">
+            <ab><hi rend="circled" resp="#h2"><add rend="pasteon" source="#r3">
                 <q who="unknown" type="written">
                     <floatingText rend="flat">
                         <body>

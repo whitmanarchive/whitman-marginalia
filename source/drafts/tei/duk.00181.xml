@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00181">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Characteristics of Shelley</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00181</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>This document is governed by a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license (CC BY-NC-SA 3.0). You are free to share — to copy, distribute and transmit the work; and to remix — to adapt the work, under the following conditions:
+                        1) Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+                        2) Noncommercial — You may not use this work for commercial purposes.
+                        3) Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+                        With the understanding that:
+                        1) Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+                        2) Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+                        3) Other Rights — In no way are any of the following rights affected by the license: Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations; the author's moral rights; or rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+                        For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page: http://creativecommons.org/licenses/by-nc-sa/3.0/. For the full legal text of this license, see http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.</p>
+                    <p>Permission to reproduce the graphic images in this
+                        archive has been granted by the owners of the originals for this publication
+                        only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1"></note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Characteristics of Shelley.</title>
+                    <idno type="callno">MS 4to 75</idno>
+                    <orgName>Trent Collection of Whitmaniana, Duke
+                        University Rare Book, Manuscript, and Special
+                        Collections Library</orgName>
+                    <note type="project">Transcribed from our digital image of the original.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author></author>
+                    <title level="a">Washington and his Generals</title>
+                    <title level="a">Characteristics of Shelley</title>
+                    <title level="j">The American Whig Review</title>
+                    <biblScope type="vol">5</biblScope>
+                    <date when="1847-03">March 1847</date>
+                    <biblScope type="pp"></biblScope>
+                </bibl>
+                <bibl type="pasteon" xml:id="r2">
+                    <author><!--add bibliographical information for pasteon--></author>
+                    <title>Calamities of Genius</title>
+                    <note type="project"></note>
+                </bibl>
+                <bibl type="pasteon" xml:id="r3">
+                    <author><!--add bibliographical information for pasteon--></author>
+                    <title>Flaws in Diamonds.</title>
+                    <idno type="callno"></idno>
+                    <note type="project"></note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribe="Walt_Whitman" medium="brown-ink"/>
+                <handNote xml:id="h2" scribe="Walt_Whitman" medium="pencil"/>
+                <handNote xml:id="h3" scribe="unknown" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#nhg" when="2011-10-01">Transcribed and encoded.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text type="marginalia">
+        <body>
+                <pb xml:id="leaf001r" facs="duk.00181.001.jpg" type="recto"/>
+                        <fw type="date" place="top left"><handShift new="#h3"/>1847.]</fw>
+                        <fw type="pageNum" place="top right">533</fw>            
+                        <fw type="header" place="top"><subst><del rend="hashmark" hand="#h2"><hi rend="italic">Washington and his Generals.</hi></del><add rend="unmarked" place="supralinear"><handShift new="#h2"/><hi rend="underline" hand="#h1">Characteristics of Shelley.</hi></add></subst></fw>
+                        <del rend="hashmark" hand="#h2"><p>they gathered with brows of wrath closer 
+                        and closer on their foes. Those shattered
+                        veterans lab<gap reason="covered" quantity="5" unit="words"/> 
+                        bear up in t<gap reason="covered" quantity="5" unit="words"/> 
+                        asunder, and<gap reason="covered" quantity="5" unit="words"/> 
+                        Morgan and <gap reason="covered" quantity="5" unit="words"/> 
+                        lowing up th<gap reason="covered" quantity="5" unit="words"/> 
+                        impetuosity, <gap reason="covered" quantity="5" unit="words"/> 
+                        behind the i<gap reason="covered" quantity="5" unit="words"/> 
+                        now arrest <gap reason="covered" quantity="5" unit="words"/> 
+                        with shouts <gap reason="covered" quantity="5" unit="words"/> 
+                        of battle, the<gap reason="covered" quantity="5" unit="words"/> 
+                        the camp itsel<gap reason="covered" quantity="5" unit="words"/> 
+                        ments, and u<gap reason="covered" quantity="5" unit="words"/> 
+                        which bristle<gap reason="covered" quantity="5" unit="words"/> 
+                        ramparts, the <gap reason="covered" quantity="5" unit="words"/> 
+                        of desperatio<gap reason="covered" quantity="3" unit="words"/> uncovered 
+                        ranks of the <gap reason="covered" quantity="5" unit="words"/> 
+                        opened all their b<gap reason="covered" quantity="4" unit="words"/> 
+                        leaden tempest fro<gap reason="covered" quantity="4" unit="words"/> 
+                        bombs, hissing throu<gap reason="covered" quantity="4" unit="words"/> 
+                        ened with dust and<gap reason="covered" quantity="4" unit="words"/> 
+                        horror to the fight.<gap reason="covered" quantity="4" unit="words"/> 
+                        struggling for victory<gap reason="covered" quantity="4" unit="words"/> 
+                        fore summoned all <gap reason="covered" quantity="4" unit="words"/> 
+                        the progress of the <gap reason="covered" quantity="4" unit="words"/> 
+                        midable intrenchm<gap reason="covered" quantity="4" unit="words"/> 
+                        front, nor the hotly-<gap reason="covered" quantity="4" unit="words"/> 
+                        ing in their faces, n<gap reason="covered" quantity="4" unit="words"/> 
+                        tive volleys of mus<gap reason="covered" quantity="4" unit="words"/> 
+                        cited patriots. Thr<gap reason="covered" quantity="4" unit="words"/> 
+                        and over the ensan<gap reason="covered" quantity="4" unit="words"/> 
+                        with a sulphurous <gap reason="covered" quantity="4" unit="words"/> 
+                        sant lightnings pla<gap reason="covered" quantity="4" unit="words"/> 
+                        thunder-peal rolled<gap reason="covered" quantity="4" unit="words"/> 
+                        very muzzles of th<gap reason="covered" quantity="4" unit="words"/> 
+                        was shaken throug<gap reason="covered" quantity="4" unit="words"/> 
+                        trembled like a ree<gap reason="covered" quantity="4" unit="words"/> 
+                        nold, enraged at the<gap reason="covered" quantity="4" unit="words"/> 
+                        his efforts in front, <gap reason="covered" quantity="4" unit="words"/> 
+                        brave fellows, and taking a<gap reason="covered" quantity="4" unit="words"/> 
+                        made that desperate </p><gap reason="covered" quantity="4" unit="words"/>
+                        <cb/>
+                        <p>the ball, as it smoked past, threw upon him.&#42;  
+                        The sun had now gone down, and twilight  
+                        <gap reason="covered" unit="lines" quantity="14"/>
+                            requiem.  
+                        <gap reason="covered" unit="words" quantity="1"/>now convinced that he could  
+                        <gap reason="covered" unit="words" quantity="5"/>erican army,  
+                        <gap reason="covered" unit="words" quantity="5"/>n, and began  
+                        <gap reason="covered" unit="words" quantity="5"/> his steps to  
+                        <gap reason="covered" unit="words" quantity="5"/> to Canada.  
+                        <gap reason="covered" unit="words" quantity="5"/>ner&#8212;now it  
+                        <gap reason="covered" unit="words" quantity="5"/> army, ex- 
+                        <gap reason="covered" unit="words" quantity="5"/>affled all his  
+                        <gap reason="covered" unit="words" quantity="5"/>
+                        <gap reason="covered" unit="words" quantity="5"/>ompleted a cir- 
+                        <gap reason="covered" unit="words" quantity="5"/>ion the roar  
+                        <gap reason="covered" unit="words" quantity="5"/>es of safety  <note type="authorial" resp="#h2" place="right" target="#add2">
+                            Egotism 
+                            &#9759;
+                        </note>
+                        <gap reason="covered" unit="words" quantity="5"/><gap reason="illegible"/>
+                        <gap reason="covered" unit="words" quantity="5"/><gap reason="illegible"/>
+                        <gap reason="covered" unit="words" quantity="5"/>ake George,  
+                        <gap reason="covered" unit="words" quantity="5"/><gap reason="illegible"/>lin- 
+                        <gap reason="covered" unit="words" quantity="5"/> to yield to  
+                        <gap reason="covered" unit="words" quantity="5"/>bound him.  
+                        <gap reason="covered" unit="words" quantity="5"/> whose suc- 
+                        <gap reason="covered" unit="words" quantity="5"/>n, to be sur- 
+                        <gap reason="covered" unit="words" quantity="5"/>ions sink at  
+                        <gap reason="covered" unit="words" quantity="5"/>itter, and he  
+                        <gap reason="covered" unit="words" quantity="5"/>d of escaping  
+                        <gap reason="covered" unit="words" quantity="5"/>ils that only</p></del>
+                          
+                      <add rend="pasteon">
+            <q who="#ww" type="written">
+                <floatingText rend="flat">
+                    <body>
+                        <ab><note type="authorial" resp="#h2">Egotism 
+                                    &#9759; 
+                                <add rend="unmarked" place="interlinear"><handShift new="#h1"/>or rather Vanity</add>  
+                                </note><span rend="circled" hand="#h2" xml:id="s1" from="#s1" to="#s2"/>
+                                <note type="authorial" target="#add1" resp="#h2">Poverty of Poets</note></ab><!--NHG: Technically speaking, this should probably be a <head>. But the divs get crazy, gotta add an addSpan, and all sorts of chaos. Compromise for sanity's sake. Mess with it further if you feel inspired.-->
+                    </body>
+                </floatingText>
+            </q>
+                      </add>
+                            
+                            <add rend="pasteon" source="#r2" xml:id="add1">
+                        <p>&#8212;Homer was a beggar; Plautus turned  
+                        a mill; Terence was a slave; Boethius died in jail; Paul  
+                        Borghese had fourteen trades, yet starved with them all;  
+                        Tasso was often distressed for a few shillings; Cervantes  
+                        died of hunger; Camoens, the writer of the "Lusiad,"  
+                        ended his days in an almshouse; and Vaugelas left his body  
+                        to the surgeons to help pay his debts. In England,  
+                        <add rend="insertion" place="left"><handShift new="#h1"/>
+                            Roger
+                        </add><handShift new="#h3"/>Bacon lived a life of meanness and distress; Sir Walter  
+                        Raleigh died on the scaffold; Spenser died in want; Milton  
+                        sold his copyright of "Paradise Lost" for [pounds sign]15, and died in  
+                        obscurity; Dryden lived in poverty and distress; Otway  
+                        perished of hunger; Lee died in the streets; Steele was in  
+                        perpetual warfare with the bailiffs; Goldsmith's "Vicar of  
+                        Wakefield" was sold for a trifle, to save him from the grasp  
+                        of the law; Richard Savage died in prison, at Bristol, for a  
+                        debt of eight pounds; Butler lived in penury, and died  
+                        poor; Chatterton, the child of genius and misfortune, destroyed
+                        himself.<anchor xml:id="s2"/></p>
+                        <milestone unit="undeclared" rend="horbar-short-center"/>
+                                      </add>
+                        
+                            <add rend="pasteon" source="#r3" xml:id="add2">
+                                <q who="unknown" type="written">
+                                    <floatingText rend="flat">
+                                        <body>
+                                            <p>M&#230;cenas, the most  
+                                            egregious of classic exquisites, is said to have  
+                                            "wielded the Roman Empire with rings on his  
+                                            fingers." The vanity of Benvenuto Cellini is too  
+                                            well known to need repetition. Sir Walter Raleigh  
+                                            was, perhaps, the greatest beauty on record. His  
+                                            shoes, on court-days, were so gorgeouslly adorned  
+                                            with precious stones as to have exceeded six thousand
+                                            guineas in value; and he had a suit of armor
+                                            of sold silver, with jewels, sword and  
+                                            belt, the worth of which was almost incalculable.
+                                            The great Descartes was very particular  
+                                            about his wig and always kept four in his dressing  
+                                            closet; a piece of vanity wherein he was imitated  
+                                            by Sir Richard Steele, who never expended less  
+                                            than forty guineas upon one of his large black  
+                                            periwigs. Mozart, whose light hair was of fine  
+                                            quality, wore it very long and flowing down  
+                                            between his shoulders, with a tie of coloured ribbon
+                                            confining it at the neck. Poet Goldsmith's  
+                                            innocent dandyism, and the story of his peach- 
+                                            blossom coat are almost proverbial. Pope's self- 
+                                            love was so great that, according to Johnson, he  
+                                            "had been flattered till <hi rend="underline" hand="#h1">he thought himself one of 
+                                            the moving powers in the system of life."</hi></p>
+                                            <p>Allan Ramsay's egotism was excessive. On  
+                                                one occasion he modestly took precedence of  
+                                                Peter the Great in estimating their comparative   
+                                                importance with the public: "but haud [hold],   
+                                                proud, czar," he says, "I wadna niffer [exchange]   
+                                                fame!" Napoleon was vain of his small foot. Salvator
+                                                Rosa was once heard to compare himself  
+                                                with Raphael and Michael Angelo, calling the  
+                                                former dry and the latter coarse; and Raphael  
+                                                again was jealous of the fame and skill of Michael  
+                                                Angelo. Hogarth's historical paintings&#8212;which  
+                                                were bad&#8212;equalled, in his own opinion, those of  
+                                                the old masters. Sir Peter Lely's vanity was so  
+                                                well known, that a mischievous wit resolved to  
+                                                try what amount of flattery he would believe, <hi rend="underline" hand="#h1">told  
+                                                him one day that if the Author of Mankind could  
+                                                have had the benefit of his (Lely's) opinions upon  
+                                                beauty, we should have all been materially  
+                                                benefited in point of personal appearance;</hi> to  
+                                                which the painter emphatically replied; "Fore  
+                                                Gott, sare, I believe you're right!" Bojarda, the  
+                                                Italian poet, ascribed so high an importance to  
+                                                his poetry, that when he had invented a suitable  
+                                                name for one of his heroes, he set the bells ringing  
+                                                in the village. Kotzebue was so vain and envious
+                                                that he could endure nothing celebrated to  
+                                                be near him, though it were but a picture or a  
+                                                statue; and even Lamartine, the lofties and  
+                                                finest of French poets, robs his charming pages  
+                                                of half their beauty by <hi rend="underline" hand="#h1">the inordinate self-praise  
+                                                of his commentaries.</hi> Rousseau has been called  
+                                                "the self-torturing egotist:" and Lord Byron's  
+                                                life was one long piece of egotism from beginning  
+                                                to end. He was vain of his genius, his rank, his  
+                                                misanthropy, and even of his vices; and he was  
+                                                particularly proud of his good riding and his  
+                                                handsome hands.</p>
+                                        </body>
+                                    </floatingText>
+                                </q>
+                                        </add>
+                <pb xml:id="leaf001v" facs="duk.00181.002.jpg" type="verso"/>
+                      <fw type="pageNum" place="top left">534</fw>
+                      <fw type="header" place="top" rend="italic">Characteristics of Shelley.</fw>
+                      <fw type="date" place="top right">[May,</fw>
+                      <del rend="hashmark" hand="#h1"><p>Most assuredly the brilliant triumph at  
+                            Saratoga could not be more vividly and  
+                            clearly told. From the author's notice of  
+                            the scenes and characters which make  
+                            up his second volume, we have no doubt  
+                            that it will be even more interesting than  
+                            the present. And we will add, that we  
+                            hope the American public, who read Mr.  
+                            Headley's writings with so great avidity,  
+                            will not fail to thank him for turning his  
+                            fine powers to the scenes of his native  
+                            land. Our liberty and national prosperity
+                            are a very great inheritance, which  
+                            we ought not to delight ourselves with enjoying
+                            while we forget its cost. It should  
+                            doubtless be gratifying to live in an excellent
+                            house. It is even proper to admire
+                            it ourselves&#8212;perhaps not entirely  
+                            ridiculous&#8212;though hardly as safe&#8212;to  
+                            <cb/>
+                            call upon our neighbors to do the same.  
+                            But it should be with a solemn thankfulness,
+                            that we remember the wear of life  
+                            with which its foundations were laid, the  
+                            blood with which its stones were cemented,
+                            and the skill and toil and labor  
+                            of scheming, with which its arches  
+                            and pillars were raised, and the abiding  
+                            roof stretched over the fair edifice. To  
+                            him who best succeeds in making these  
+                            labors appreciated, much is due. The  
+                            instructed imagination is the great preserver
+                            of historic events; and Mr. Headley,
+                            in appealing so powerfully and truthfully
+                            to this chief faculty of the mind, for  
+                            the scenes of our Revolution, has rendered
+                            to American History a most important
+                            service.</p></del>
+                          <milestone unit="undeclared" rend="horbar-full"/>            
+            <head type="main-authorial">CHARACTERISTICS OF SHELLEY.</head>
+                            <p>T<hi rend="smallcaps">HE</hi> degree of reputation to which  
+                                Shelley's poetical works have attained,  
+                                is such as at once compels us soberly to  
+                                consider their merits, and relieves us from  
+                                the less responsible task of echoing the  
+                                notes of an established fame. However  
+                                great in reality this poet may be, many  
+                                years must yet pass before he can become
+                                a subject of reverential criticism;  
+                                before he can take rank, if it be his destiny
+                                to do so, with those great immortals  
+                                whose claims it is impiety to question.  
+                                The voice of general reputation has only  
+                                presented the world with the name of  
+                                another candidate for this high honor,  
+                                whom the ages must accept or refuse.</p>
+                                <p>It was at the memorable period,  
+                                    when all Europe resounded with the  
+                                    crash of the fallen Bastile, that our poet
+                                    first breathed the air of mortality.  
+                                    The same lofty and enthusiastic hope,  
+                                    the same restless excitement, which were  
+                                    everywhere kindling with the events of  
+                                    those remarkable days, characterized the  
+                                    youth and the man. He lived, labored,  
+                                    and died, as if a nursling of that turbulent
+                                    spirit which then sprung forth armed  
+                                    from the fevered brain of France. The  
+                                    whole course of his existence was tumultuous
+                                    with rebellion, and dark with  
+                                    discontent; and his melancholy end seems  
+                                    but an index of the entire history. Shelley's
+                                    friends concede him a generous,          
+                                    <cb/>
+                                    amiable, and heroic character; ardent in  
+                                    the pursuit of ideal perfection, reckless   
+                                    of the precepts of custom, and hostile  
+                                    to an order of things necessarily imperfect;
+                                    but always excellent and sincere in   
+                                    his intentions for himself and for the  
+                                    world. This judgment commends him to  
+                                    our charity, surely&#8212;since he has gone to   
+                                    his last sleep&#8212;and it hides a "multitude   
+                                    of sins."</p>
+                                    <p>The fiery youth had, he confesses, "a  
+                                        passion for reforming the world." In  
+                                        this by no means original character, as he  
+                                        professes to aim solely at the public good,  
+                                        so he must, at all times, submit to be estimated
+                                        according to the public wisdom.  
+                                        In his practical tendencies, Shelley was  
+                                        merely an agitator, without aim and without
+                                        wisdom. Certain <hi rend="italic">words</hi> rankled in  
+                                        his mind, and kept him in a perpetual  
+                                        restless fever; but to attach a meaning  
+                                        to these words, or an object to the impulses
+                                        they excited, never came at all  
+                                        within the scope of his intent. There is  
+                                        much reason to suppose that the old  
+                                        law of obedience to father and mother,  
+                                        during the years of minority, is still a  
+                                        very valuable regulation. But even if it  
+                                        happened that the youth of nineteen was  
+                                        really endowed with wisdom so superior  
+                                        &#8212;with so clear a vision of justice and of  
+                                        truth&#8212;why did he take such pains to  
+                                        render it of no effect? Grant that the
+        <pb xml:id="leaf002r" facs="duk.00181.003.jpg" type="recto"/>
+                    <fw type="date" place="top left">1847.]</fw>
+                    <fw type="header" place="top"><hi rend="italic">Characteristics of Shelley.</hi></fw>
+                    <fw type="pageNum" place="top right">535</fw>
+                    world is wrong, why fall into a frenzy, because the multitude are bent on deceiving themselves and each other? 
+                    There are those, we know, to whom this raving discontent looks like a sign 
+                    of millennial days&#8212;a spontaneous prophecy of the future greatness of humanity
+                    &#8212;but to us, we confess, it looks like 
+                    downright madness. Shelley could not 
+                    obey his own laws. Raging against the 
+                    institution of marriage, he is twice married; his declamations on vegetable diet 
+                    and cold water, are discovered to have had 
+                    their origin in stronger excitants. Insane agitators forget the vastness of the 
+                    gulf between the conception and the execution; and the men of universal benevolence and self-sacrifice, seldom stay 
+                    to test their principles on themselves, 
+                    until they are too far committed for a 
+                    public renunciation.</p>
+                    <p><span rend="bracket-left" hand="#h2" xml:id="s3" from="#s3" to="#s4"/>"Poet" and "Reformer" have few features in common. 
+                        The poet retires upon himself, viewing the world as a 
+                        scene. <hi rend="underline" hand="#h2">A heroic freedom, 
+                        and a certain superiority to time and custom, 
+                        must indeed characterize the genuine poet. 
+                        Without some person who shall be able 
+                        to erect himself <hi rend="italic">above</hi> the forms of the 
+                            present&#8212;not to destroy them but to show 
+                            <anchor xml:id="s4"/>them their own more perfect law&#8212;a people
+                            must inevitably degenerate</hi>&#8212;their 
+                        <span rend="bracket-left" hand="#h2" xml:id="s5" from="#s5" to="#s6"/>growth cease, and their decay begin. It 
+                        is the poet's peculiar province, to dwell 
+                        among those ideal forms, of which all 
+                        things are imperfect copies; to paint an 
+                        imaginary perfection, the contemplation 
+                        of which shall give a newer life, and a 
+                        better development, to all that man creates and controls. Had Shelley confined 
+                        himself to this ideal sphere, he might 
+                        have done better for himself and for humanity.</p><anchor xml:id="s6"/>
+                        <p>That Shelley was not a perfect master 
+                            of his own art, however, is apparent. 
+                            What the education of maturity and experience 
+                            might have done for him, it is 
+                            very useless to conjecture. He must remain, 
+                            to our sight, like the broken shaft 
+                            of a monumental column, for whose 
+                            shapely continuation the necessary conditions 
+                            are wanting, and beyond the point 
+                            of whose fracture the sculptor cares not 
+                            to extend his conception. </p>
+                            <p><span rend="tripleLine-left" hand="#h2" xml:id="s7" from="#s7" to="#s8"/>
+                                <hi rend="underline" hand="#h2">His intellect seems to have held in solution 
+                                all beautiful things in the universe; 
+                                but wanted the cold addition of 
+                                experience, which alone could precipitate 
+                                his visions, in bright and regular forms.</hi> 
+                                His translucent figures float always on <anchor xml:id="s8"/>
+                                <cb/>
+                                <span rend="bracket-right" hand="#h2" xml:id="s9" from="#s9" to="#s10"/>the line of substantiality, but no sooner 
+                                touch that limit than they dissolve and 
+                                leave no mark. He would not suffer an 
+                                intrusion of the actual upon his dream 
+                                territory. He seems not to have reflected that the suffering, and the sorrow, 
+                                which, in one form or another, have befallen every truly great poet, were only 
+                                the spiritual gravity that kept them in a 
+                                just relation to the world. Had they 
+                                ranged unchecked through the heavens, 
+                                reposing on no spot beneath the clouds, 
+                                like footless birds of paradise, their songs 
+                                might have carried an aerial wildness, 
+                                but no force or feeling of a real life.</p><anchor xml:id="s10"/>
+                    <p><span rend="singleLine-right" hand="#h2" xml:id="s11" from="#s11" to="#s12"/>Perhaps <hi rend="underline" hand="#h2">no one can perfectly enjoy 
+                        <span rend="singleLine-right" hand="#h2" xml:id="s13" from="#s13" to="#s14"/>this poet who has not some portion of his <anchor xml:id="s14"/> 
+                        sickly delicateness.</hi> Poetry which appeals 
+                        to temperament, and is admired<anchor xml:id="s12"/> 
+                                    solely by reason of that quality, is, perhaps, 
+                                    not genuine. It leaves out the 
+                                    main circumstance, and founds itself 
+                                    on some one phrase of human life. <hi rend="underline" hand="#h2">But<span rend="tripleLine-right" hand="#h2" xml:id="s15" from="#s15" to="#s16"/> 
+                                    the sphere of the true poet is among the 
+                                    common elements of humanity.</hi> Shelley's <anchor xml:id="s16"/>
+                        poetry&#8212;from those elements&#8212;is too 
+                                    like the drama of Hamlet, with the character 
+                                    of Hamlet omitted.</p>
+                                    <p>It is impossible for a man who finds 
+                                        among his fellows only the duping and 
+                                        the duped, and everything around him 
+                                        bad, to sink his personality in human 
+                                        sympathy; he becomes, by necessity, a 
+                                        desperate egotist. Shelley would, perhaps, 
+                                        have loved his neighbors well 
+                                        enough, could he have made them what 
+                                        he desired they should be. His chief 
+                                        poems are founded on his own personal 
+                                        experience. The hero and heroine of his 
+                                        longest work, (originally entitled "Laon 
+                                        and Cythna,") are recognized from first 
+                                        to last&#8212;and they are represented, it 
+                                        would seem, with a literal fidelity even 
+                                        superior to that which distinguishes the 
+                                        Harold of Lord Byron. The subject is 
+                                        none other than the celebration of rebellion against all wholesome restraint from 
+                                        without, and of the most perfect submission to the tyranny of every passionate 
+                                        and hostile impulse within.</p>
+                                        <p>The scene of this poem (as usual) 
+                                            changes from Fairy Land to the clouds, 
+                                            from the clouds to the sea, and from the 
+                                            sea to unimaginable depths in the heavens.
+                                            <span rend="singleLine-right" hand="#h2" xml:id="s17" from="#s17" to="#s18"/><hi rend="underline" hand="#h2">His muse never treads the earth,<anchor xml:id="s18"/>"
+                                            except on her favorite stilts, egotism and 
+                                            agitation.</hi> On the whole, however, after 
+                                            much patient effort, the reader may find 
+                                            not a little to admire; and, had the first 
+                                            and twelfth cantos been much nearer together, 
+        <pb xml:id="leaf002v" facs="duk.00181.004.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">536</fw>
+                    <fw type="header" place="top"><hi rend="italic">Characteristics of Shelley.</hi></fw>
+                    <fw type="date" place="top right">[May,</fw>
+                    and united with a better grace, 
+                    the work might be accounted a noble 
+                    production. </p>
+                    <p>It is for the "Cenci" that the admirers of 
+                        Shelley usually claim the greatest merit. 
+                        Here, if anywhere, egotism will certainly 
+                        be sought in vain, as totally incompatible 
+                        with the drama and unpardonable therein. This work is indeed unusually free 
+                        from his worst peculiarities; yet we 
+                        might have predicted for the author that 
+                        he could not write it without seeking an 
+                        opportunity of venting his spleen, 
+                        through the mouth of Count Cenci. 
+                        Where this can be successfully accomplished, the interest never flags, and the 
+                        poet sometimes becomes scarcely less 
+                        than great. That this tragedy, however, 
+                        is destined to a high rank in its kind, 
+                        may be very safely disputed. The final 
+                        impression seems to us unalleviated horror, and not the subdued sorrow of genuine tragedy. </p> 
+                        <p>"Prometheus Unbound" deserves a 
+                            higher praise; yet it needs a mind of a 
+                            peculiar and not a frequent order to enter 
+                            into its spirit as a whole; and here, 
+                            again, the author's self appears altogether 
+                            too plainly. Few will be persuaded that 
+                            the conversations of his voices and 
+                            echoes; of his spirits and phantasms; his 
+                            fauns and furies, are not often considerably tedious. Nevertheless, a profusion 
+                            of intellectual beauties is scattered over 
+                            all, and the character of Prometheus 
+                            sustains itself in sullen magnificence. </p> 
+                            <p>"Adonais" has all the characteristic 
+                                beauties and defects of this author, and 
+                                the former in their highest perfection. 
+                                Like the rest, however, it is deficient in 
+                                <hi rend="italic">point;</hi>&#8212;runs almost endlessly on&#8212;is a 
+                                splendid rainbow, whose end we may 
+                                search after forever without finding the 
+                                promised pot of gold. His blank verse 
+                                is best; for rhyme invariably leads him 
+                                into wanderings and mazes, from which 
+                                his final escape becomes a miracle. This 
+                                is especially noticeable in the arbitrary 
+                                forms of rhyme and verse, such as the 
+                                Spenserian stanza, in which his longest 
+                                work is written, and in the <hi rend="italic">Terza Rime</hi>, 
+                                which he has several times attempted. </p>
+                                <p>If we must admit, with some, that 
+                                    <hi rend="italic">humor</hi> is essential to the highest genius, 
+                                    Shelley's claims must fall. We find no 
+                                    genuine traces of this gift in any of his 
+                                    verse or prose. Sometimes there is a 
+                                    near approach to the humorous&#8212;an approach and nothing more. He can 
+                                    adopt an easy, cheerful style, and frequently sustains himself gracefully there-
+                                    <cb/>
+                                    in; but the reader is always conscious of 
+                                    some primary defect, that vitiates the 
+                                    whole writing. Shelley never enters into the <hi rend="italic">sober sadness</hi> of human life&#8212;into 
+                                    the <hi rend="italic">reality</hi> of all that real persons do and 
+                                    feel. He lacks that practical faith which 
+                                    gives a solid consistence to the dramas 
+                                    of Shakspeare, and the want of which 
+                                    leaves all poetry barren and aimless.</p>
+                                    <p>Most of his figures are so very subtle 
+                                        as to appear at the first view unintelligible; and though their fine meaning 
+                                        may come in time to be recognized, it is 
+                                        vexatious to be delayed so long in the 
+                                        midst of an exciting action. Everything 
+                                        is overdone. We sicken on a profusion 
+                                        of sweets. <span rend="singleLine-right" hand="#h2" xml:id="s19" from="#s19" to="#s20"/><hi rend="underline" hand="#h2">We are wearied and bewildered 
+                                            with dancing up and down, when 
+                                        we should take every step right onward. 
+                                        A metaphor or simile is only legitimately 
+                                        employed to make our course <unclear reason="cut away" resp="#nhg">at</unclear> once 
+                                        more rapid and more delightful.</hi><gap reason="cut away" quantity="1" unit="word"/> with 
+                                        Shelley we tarry by the way, playing with <anchor xml:id="s20"/> 
+                                        flowers and butterflies, and <unclear reason="cut away" resp="#nhg">forgetting</unclear> our 
+                                        errands, until night;&#8212;when, <gap reason="cut away" quantity="1" unit="word"/>a sudden, 
+                                        he disappears, and leaves us to be 
+                                        whipped home by mother Nature.</p>
+                                        <p>He is properly chargeable with mannerism. 
+                                            There is the same confused 
+                                            dreaminess, the same rebellious discontent, 
+                                            the same presumptuous self-confidence, 
+                                            throughout every page he has 
+                                            written. The same incidents, too, similarly 
+                                            served up, are presented again and 
+                                            again, with a tiresome pertinacity. It is 
+                                            only among his minor poems that we can 
+                                            sometimes find an exception, which gives 
+                                            us an agreeable relief.</p>
+                                            <p>The tinge of <hi rend="italic">Byronism</hi> is, in many 
+                                                parts of his later works, very distinct; 
+                                                yet <hi rend="underline" hand="#h2">Shelley never lost his favorite defects. 
+                                                    He never unlearned his nice, elaborate 
+                                                    system of embellishment. With 
+                                                him, this was all in all.</hi> With the best 
+                                                poets imagery has a practical purpose, 
+                                                helps on the business in hand, is a god 
+                                                never invoked but on an emergency sufficiently 
+                                                pressing. <span type="singleLine-right" hand="#h2" xml:id="s21" from="#s21" to="#s22"/><!--NHG: OMG, a new f*ing bracket! Son of a bitch.--><hi rend="italic">Their</hi> figures are like 
+                                                angels, beautiful indeed, but appearing 
+                                                solely to minister&#8212;not standing in clouds, 
+                                                to be gazed at. It is otherwise with 
+                                                Shelley. His angels come only to display 
+                                                their beauty; but they have no 
+                                                work appointed them, and are not suffered 
+                                                to come below the clouds.</p><anchor xml:id="s22"/>
+                                                <p>Neither does our poet treat his muse 
+                                                    with proper courtesy. He does not await 
+                                                    her favors with a calm countenance, and 
+                                                    receive them with polite soberness;&#8212;he 
+                                                    blusters, and he swears. He expects a 
+                                                    dash of immortality in every line, and </p>
+        </body>
+        </text>
+        </TEI>

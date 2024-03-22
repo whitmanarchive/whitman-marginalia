@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="prc.00154">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Gems from Walt Whitman</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <author xml:id="ww">Elizabeth Porter Gould</author>
+                <editor xml:id="mc">Matt Cohen</editor>
+                <editor xml:id="kmp">Kenneth M. Price</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="as">Ashlyn Stewart</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of
+                    Nebraska-Lincoln</sponsor>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability> 
+                    <p><!-- update with creative commons language --></p>
+                </availability>
+                <idno>prc.00154</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">Elizabeth Porter Gould (1848-1906) collected lines from her poetic hero Walt Whitman in an abridged and excerpted volume of his poetry, <hi rend="italic">Gems from Walt Whitman</hi>, in 1889.  This edition digitizes one of Gould's own copies of her book, featuring handwritten additions. To learn more about <hi rend="italic">Gems</hi>, its reception, Gould, and her editorial approach, read the <ref target="../anc.01100.html">Introduction</ref> to Gould's copy of <hi rend="italic">Gems</hi>.</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>           
+                        <title level="m">Gems from Walt Whitman</title>
+                        <author>Walt Whitman and Elizabeth Porter Gould</author>
+                            <date xml:id="dat1" cert="high" notBefore="1889" notAfter="1906"><hi rend="italic">Gems from Walt Whitman</hi> was published in 1889.  Gould returned to this copy to add annotations at least as late as 1894.</date>
+                            <publisher>David McKay</publisher>
+                            <pubPlace>Philadelphia</pubPlace> 
+                    <orgName xml:id="prc">Private collection of Kenneth M. Price</orgName>
+                    <note type="project">Transcribed from both digital images of original copy (for base text) and from original (for handwritten annotations).</note>
+                </bibl>
+
+            </sourceDesc>
+        </fileDesc>
+<profileDesc>
+    <handNotes>
+        <handNote xml:id="h1" scribeRef="#ww" medium="ink"/>
+        <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+    </handNotes>
+</profileDesc>
+        
+        <revisionDesc>
+            <change when="2022-03-25" who="#as">refined transcription from ppp.00002.xml, encoded handwritten notes</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <front>
+
+            <div1>
+                <pb xml:id="leaf001r" facs="prc_as.00005.jpg" type="verso"/>
+                <pb xml:id="leaf002r" facs="prc_as.00006.jpg" type="recto"/>
+                <pb xml:id="leaf002v" facs="prc_as.00007.jpg" type="verso"/>
+                <pb xml:id="leaf003r" facs="prc_as.00008.jpg" type="recto"/>
+                <p><handShift new="#h1"/>For my dear Mr. Trowbridge&#8212;<lb/>With the kind regards of<lb/>Elizabeth Porter Gould.</p>
+                <p><handShift new="#h1"/>Boston, Massachusetts.</p>
+            
+                <pb xml:id="leaf003v" facs="prc_as.00009.jpg" type="verso"/>
+                <p><handShift new="#h1"/>Since sent to the dinner given in honor of Walt Whitman's seventieth birthday, at Camden, N. J. May 31, 1889, at five o'clock P. M.</p>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="linegroup">
+                    <lg>
+                        <l><handShift new="#h1"/>"Splendor of ended day floating and filling me,"</l> 
+                        <l><handShift new="#h1"/>Come to my mind as I think of the hour</l>
+                        <l><handShift new="#h1"/>The mystical cup of the seventy years power.</l>
+                        <l><handShift new="#h1"/>Were I the man-of-war bird he has pictured</l>
+                        <l><handShift new="#h1"/>Nothing could keep me from flying that way.</l>
+                        <l><handShift new="#h1"/>But, though absent in body, there's nothing can hinder</l>
+                        <l><handShift new="#h1"/>My lasting the joys of that festive birthday;</l>
+                        <l><handShift new="#h1"/>For on the swift wings of the ending day's splendor</l>
+                        <l><handShift new="#h1"/>My soul will glide in to drink deep the cup <choice><orig>'o</orig><reg>o'</reg></choice> wealth<choice><orig>..</orig><reg>.</reg></choice></l>
+                        <l><handShift new="#h1"/>Who knows, but the poet's keen sense of pure friendship</l>
+                        <l><handShift new="#h1"/>Willfull, 'midst the joy, what I drink to his health?</l>
+                    </lg>
+                    <lg>
+                        <l rend="centered"><handShift new="#h1"/>Splendor of ended day</l>
+
+                        <pb xml:id="leaf004r" facs="prc_as.00010.jpg" type="recto"/>                
+                        <l rend="center"><handShift new="#h1"/>Be but the door</l>
+                        <l rend="center"><handShift new="#h1"/>Opening the endless way</l>
+                        <l rend="center"><handShift new="#h1"/>Life evermore.</l>
+                    </lg>                
+                    <closer>
+                        <signed rend="right"><handShift new="#h1"/>Elizabeth Porter Gould.</signed>
+                </closer>
+                </lg>
+            </div1>
+
+                
+            
+            <pb xml:id="leaf004v" facs="prc_as.00011.jpg" type="verso"/>
+
+            <pb xml:id="leaf005r" facs="prc_as.00012.jpg" type="recto"/>
+            <titlePage>
+                <docTitle> <!--How can I get these centered?-->
+                    <titlePart type="main" rend="center"><handShift new="#h2"/>GEMS<lb/>FROM<lb/>WALT WHITMAN</titlePart>
+                </docTitle>
+                <byline rend="center">SELECTED BY<lb/><docAuthor rend="center">ELIZABETH PORTER GOULD</docAuthor></byline>
+                <docImprint> 
+                    <pubPlace rend="center">PHILDELPHIA</pubPlace> <publisher rend="center">DAVID M<hi rend="smallcaps"
+                    >C</hi>KAY, P<hi rend="smallcaps">UBLISHER</hi></publisher> <lb/><pubPlace rend="center">23 SOUTH
+                        NINTH STREET</pubPlace><lb/><docDate rend="center">1889</docDate> 
+                    
+                    <pb xml:id="leaf005v" facs="prc_as.00013.jpg" type="verso"/> <milestone unit="undeclared" rend="horbar-short-center"/> <note rend="center">Copyrighted, 1889, by D<hi rend="smallcaps">AVID</hi> M<hi rend="smallcaps">C</hi>K<hi rend="smallcaps">AY</hi>.</note> 
+                    <milestone unit="undeclared" rend="horbar-short-center"/> 
+                </docImprint>
+            </titlePage>
+            
+            <pb xml:id="leaf006r" facs="prc_as.00014.jpg" type="recto" n="(3)"/>
+
+            <div1 type="contents">
+                <head>CONTENTS.</head>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <ab><table>
+                    <row>
+                        <cell>T<hi rend="smallcaps">O</hi> W<hi rend="smallcaps">ALT</hi> W<hi
+                            rend="smallcaps">HITMAN</hi></cell>
+                        <cell> . . . . . . . . . </cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>N<hi rend="smallcaps">OTE</hi>, B<hi rend="smallcaps">IOGRAPHICAL
+                            AND</hi> B<hi rend="smallcaps">IBLIOGRAPHICAL</hi></cell>
+                        <cell> . . . . . . </cell>
+                        <cell>7</cell>
+                    </row>
+                    <row>
+                        <cell>F<hi rend="smallcaps">AC-SIMILIE</hi> "O<hi rend="smallcaps">F</hi>
+                            L<hi rend="smallcaps">IFE</hi> I<hi rend="smallcaps">MMENSE</hi>"</cell>
+                        <cell> . . . . . . . . </cell>
+                        <cell>9</cell>
+                    </row>
+                    <row>
+                        <cell>G<hi rend="smallcaps">EMS</hi> F<hi rend="smallcaps">ROM</hi> L<hi
+                            rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi></cell>
+                        <cell>. . . . . . . . </cell>
+                        <cell>11</cell>
+                    </row>
+                    <row>
+                        <cell>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> A<hi
+                            rend="smallcaps">MONG THE</hi> S<hi rend="smallcaps">OLDIERS</hi></cell>
+                        <cell>. . . . . . . </cell>
+                        <cell>53</cell>
+                    </row>
+
+                </table></ab>
+            </div1>
+            <fw type="pageNum" place="right">(3)</fw>
+            
+            <pb xml:id="leaf006v" facs="prc_as.00015.jpg" type="verso"/>
+            
+            <pb xml:id="leaf007r" facs="prc_as.00016.jpg" type="recto" n="(5)"/>
+            <div1 type="epigraph">
+                <lg type="poem">
+                    <head type="main" rend="center">TO WALT WHITMAN.</head>
+                    <milestone unit="undeclared" rend="horbar-long-center"/>
+                    <lg type="stanza">
+                        <l>O poet bold and free as is the land that gave thee birth!</l>
+                        <l>A pioneer, "immense in passion, pulse and power,"</l>
+                        <l>Who, boldly entering nature's shrine and seeing there no wrong,</l>
+                        <l>Made willing haste to free the world cant-held so long.</l>
+                        <l>Clad in the robe of truth by strong conviction wrought,</l>
+                        <l>Thou wast as true to self as nature.</l>
+                    </lg>
+
+                    <lg type="stanza">
+                        <l>Thy rhythm is the rhythm of the earth and sea and star,</l>
+                        <l>Stayed only by the hand of universal law.</l>
+                        <l>Thy art, indeed, knows not nor fears the world's conventional bound</l>
+                        <l>Which feign would limit soul divine to transcribed sound;</l>
+                        <l>Nor does thy thought revolve, but in the orbit free</l>
+                        <l>Of those who seek the whole of being.</l>
+                    </lg>
+                    <lg type="stanza">
+                        <l>The man divine, bound to the perfect law of soul and sense.</l>
+                        <l>This is thy message now, thy legacy for ages hence.</l>
+                    </lg>
+                    <closer>
+                        <!-- Can I get these on one line each?-->
+                        <dateline rend="left"><name type="place">Chelsea, Mass.</name>, <date>1888</date>.</dateline>
+                        
+                        <handShift new="#h1"/><dateline rend="left"><name type="place">Boston, "</name>, <date>1894-</date>.</dateline>
+                        
+                        <handShift new="#h2"/><signed rend="right">E<hi rend="smallcaps">LIZABETH</hi> P<hi
+                            rend="smallcaps">ORTER</hi> G<hi rend="smallcaps">OULD.</hi></signed>
+                    </closer>
+                </lg>
+            </div1>
+            <fw type="pageNum" place="bottom">(5)</fw>
+            
+            <pb xml:id="leaf007v" facs="prc_as.00017.jpg" type="verso"/>
+            
+            <pb xml:id="leaf008r" facs="prc_as.00018.jpg" type="recto" n="(7)"/>
+
+           <div1 type="note">
+                <head type="main" rend="center">BIOGRAPHICAL AND BIBLIOGRAPHICAL NOTE.</head>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <p>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>, second child of
+                    Walter Whitman and his wife, Louisa (born Van Velsor), was born May 31, 1819, at
+                    West Hills, Long Island, N. Y., where his parents continued to reside till 1823,
+                    when they removed with their family to Brooklyn. Here he attended public school
+                    till 1831, when he was engaged to tend a lawyer's office, which he subsequently
+                    left for a doctor's. He next (in 1833) entered a printing office to learn
+                    type-setting, but after some three years gave this up for school-teaching, in
+                    which he was occupied for nearly another three years. His next venture was a
+                    weekly paper, <hi rend="italic">The Long Islander</hi>, which he started at
+                    Huntington, L. I. Before the close of 1840 we find him back in New York working
+                    at the press, and employed in desultory journalistic writing. In 1846 he was
+                    called to the editorial chair of <hi rend="italic">The Brooklyn Eagle</hi>, a
+                    post he held for two years. In 1848 he went to New Orleans to fill a place on
+                    the editorial staff of <hi rend="italic">The Crescent</hi>, but after a brief
+                    service gave this up to make a tour in the South and South-west. In 1850 he
+                    returned to his Brooklyn home and became publisher of <hi rend="italic">The
+                    Freeman</hi>, but soon exchanged the pen for the carpenter's adze to engage in
+                    house-building and selling.</p>
+                <p>In 1855 his sentiments of universal brotherhood first found full public
+                    expression by the issue of his "Leaves of Grass," in the form of an unpretending
+                    little quarto volume of ninety-five pages. Next year a second edition appeared
+                    as a 16mo of 384 pages, and, in 1860, a third edition of 456 pages was issued at
+                    Boston.</p>
+               <fw type="pageNum" rend="right">(7)</fw>
+                
+               <pb xml:id="leaf008v" facs="prc_as.00019.jpg" type="verso" n="8"/>
+               <fw type="pageNum" place="top">8 <hi rend="italic">BIOGRAPHICAL AND BIBLIOGRAPHICAL NOTE.</hi></fw>
+                <p>But a call to which Walt Whitman could not turn a deaf ear summoned him in 1862
+                    to different scenes and tasks. It was the call of humanity and patriotism. He
+                    proceeded to the seat of war in the South, there to minister to the wounded and
+                    sick in the hospitals and on the fields of battle. This work of mercy he
+                    continued for three years, and on the close of the war, in 1865, was rewarded by
+                    an appointment as a Department Clerk.</p>
+                <p>In 1867 he published the fourth edition of "Leaves of Grass," including "Drum
+                    Taps," and a fifth edition in 1871. In 1873 he was struck down by paralysis in
+                    Washington, and ordered by his physicians to the Atlantic sea-coast. Before
+                    reaching this he broke down badly in Philadelphia, and went over to Camden, N.
+                    J., to take up his abode with a brother then residing there.</p>
+                <p>In 1876 appeared the sixth or Centennial Edition of "Leaves of Grass," along with
+                    a companion volume of prose and verse entitled the "Two Rivulets," and, in 1881,
+                    the seventh edition of the " Leaves" was issued by Osgood &amp; Co., Boston.</p>
+                <p>In 1882 the poet entered into relations with his present publisher, David McKay,
+                    who had lately succeeded to the business of Rees, Welsh &amp; Co. In this year
+                    Mr. McKay brought out for him the eighth edition of "Leaves of Grass," as also
+                    the first edition of "Specimen Days," a prose volume mainly of autobiographical
+                    sketches. In 1888, though much disabled physically, Mr. Whitman brought out a
+                    new volume of prose and verse, under the title of "November Boughs." In this
+                    present year, 1889, he completes his seventieth year, and has issued a memorial
+                    edition (limited) of his works complete in one volume. Mr. Whitman has resided
+                    for the last fifteen years in Camden, his present residence being 328 Mickle
+                    street, in that city. On May 31st his friends entertained him at a banquet on
+                    the celebration of his seventieth birthday.</p>
+            
+                <p><handShift new="#h1"/>He died in Camden March 26 1892 and was buried in his tomb in the Camden Cemetery.</p></div1> 
+            
+            
+            <pb xml:id="leaf009r" facs="prc_as.00020.jpg" type="recto" n="(9)"/>
+
+            <div1 type="figure">
+                <figure type="handwriting">
+                    <figDesc>
+                        <floatingText>
+                            <body>
+                                <lg>
+                                    <l><handShift new="#h2"/>Of Life immense in passion, pulse, and power</l>
+                                <l>Cheerful, for freest action form'd under the laws divine</l>
+                                <l>The Modern Man I sing</l>
+                                <closer> <signed>Walt Whitman</signed>&#8212; </closer>
+                                </lg>
+                            </body>
+                        </floatingText>
+                    </figDesc>
+                </figure>
+            </div1>
+            <fw type="pageNum" rend="right">(9)</fw>
+            
+            <div1>
+                <pb xml:id="leaf009v" facs="prc_as.00021.jpg" type="verso"/>
+            <lg type="poem">                    
+    <head>
+        <handShift new="#h1"/>To Walt Whitman.</head>
+                    <lg type="stanza">
+                        <l><handShift new="#h1"/>"I loafe and invite my soul."</l>
+                        <l><handShift new="#h1"/>And what do I feel?</l>
+                        <l><handShift new="#h1"/>An influx of life from the great central power</l>
+                        <l><handShift new="#h1"/>That generates beauty from seedling to flower.</l>
+                    </lg>
+                <lg type="stanza">
+                    <l><handShift new="#h1"/>"I loafe and invite my soul."</l>
+                    <l><handShift new="#h1"/>And what do I hear?</l>
+                    <l><handShift new="#h1"/>Original harmonies <unclear cert="high" resp="#as" reason="illegible">piercing</unclear> the din</l>
+                    <l><handShift new="#h1"/>Of measureless tragedy, sorrow and sin.</l>
+                </lg>
+                <lg type="stanza">
+                    <l><handShift new="#h1"/>"I loafe and invite my soul."</l>
+                    <l><handShift new="#h1"/>And what do I see?</l>
+                    <l><handShift new="#h1"/>The temple of God in the perfected man</l>
+                    <l><handShift new="#h1"/>Revealing the wisdom and end of earth's plan.</l>
+                </lg>
+                <closer>
+                    <signed rend="right"><handShift new="#h1"/>Elizabeth Porter Gould.</signed>
+                    <dateline rend="left"><handShift new="#h1"/>August 1891</dateline>
+                </closer>
+</lg>
+            </div1>
+                
+                    
+        </front>
+        
+        <body>
+            <div1><pb xml:id="leaf010r" facs="prc_as.00022.jpg" type="recto" n="11"/>
+
+            <head rend="center"><handShift new="#h2"/>GEMS FROM WHITMAN.</head>
+            <milestone unit="undeclared" rend="horbar-full-center"/>
+                <lg type="extract">
+                <l>See, projected through time,</l>
+                <l>For me an audience interminable.</l>
+                <l> . . . . . . . .</l>
+                <l>With firm and regular step they wend, they never stop,</l>
+                <l>Successions of men, Americanos, a hundred millions,</l>
+                <l>One generation playing its part and passing on,</l>
+                <l>Another generation playing its part and passing on in its turn,</l>
+                <l>With faces turn'd sideways or backward towards me to listen,</l>
+                <l>With eyes retrospective towards me.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Starting from Paumanok</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I have no mockings or arguments, I witness and wait.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    4.</label>
+            </lg>
+                <fw type="pageNum" rend="right">11</fw>
+            
+            
+            
+                <pb xml:id="leaf010v" facs="prc_as.00023.jpg" type="verso" n="12"/>
+                <fw type="pageNum" place="top">12 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="extract">
+                <l>And I know that the hand of God is the promise of my own,</l>
+                <l>And I know that the spirit of God is the brother of my own.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    5.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I do not call one greater and one smaller,</l>
+                <l>That which fills its period and place is equal to any.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 44.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>The paths to the house I seek to make,</l>
+                <l>But leave to those to come the house itself.</l>
+                <l>. . . . . . . .</l>
+                <l>Belief I sing, and preparation.</l>
+                <label type="main" rend="right"><hi rend="italic">Thou Mother with thy Equal
+                    Brood.</hi> Stanza 1.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Behold, I do not give lectures or a little charity,</l>
+                <l>When I give I give myself.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    40.</label>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf011r" facs="prc_as.00024.jpg" type="recto" n="13"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 13</fw>
+                <lg type="extract">
+                <l rend="indent1">The prophet and the bard,</l>
+                <l>Shall yet maintain themselves, in higher stages yet,</l>
+                <l>Shall mediate to the Modern, to Democracy, interpret yet to them,</l>
+                <l rend="indent1">God and eid&#243;lons.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Eidolons.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Perfume this book of mine O blood-red roses!</l>
+                <l>Lave subtly with your waters every line Potomac!</l>
+                <l>Give me of you O spring, before I close, to put between its pages!</l>
+                <l>O forenoon purple of the hills, before I close, of you!</l>
+                <l>O deathless grass, of you!</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">By Broad Potomac's Shore.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>O I see now that life cannot exhibit all to me, as the day cannot,</l>
+                <l>I see that I am to wait for what will be exhibited by death.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Night on the Prairies.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Immense have been the preparations for me,</l>
+                <l>Faithful and friendly the arms that have help'd me.</l>
+                <l>Cycles ferried my cradle, rowing and rowing like cheerful boatman,</l>
+                
+                    
+                    
+                    <pb xml:id="leaf011v" facs="prc_as.00025.jpg" type="verso" n="14"/>
+                    <fw type="pageNum" place="top">14 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <l>For room to me stars kept aside in their own rings,</l>
+                <l>They sent influences to look after what was to hold me.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    44.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>My feet strike an apex of the apices of the stairs,</l>
+                <l>On every step bunches of ages, and larger bunches between the steps,</l>
+                <l>All below duly travel'd, and still I mount and mount.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Ibid.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>See ever so far, there is limitless space outside of that,</l>
+                <l>Count ever so much, there is limitless time around that.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 45.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I do not know what is untried and afterward,</l>
+                <l>But I know it will in its turn prove sufficient, and cannot fail.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 43.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I know I am deathless,</l>
+                <l>I know this orbit of mine cannot be swept by a carpenter's compass.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stana 20.</label>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf012r" facs="prc_as.00026.jpg" type="recto" n="15"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 15</fw>
+                <lg type="extract">
+                <l>And whether I come to my own to-day or in ten thousand or ten million years,</l>
+                <l>I can cheerfully take it now, or with equal cheerfulness I can wait.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    20.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Yet soul be sure the first intent remains, and shall be carried out.</l>
+                <label type="main" rend="right"><hi rend="italic">Passage to India.</hi> Stanza
+                    5.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <lg type="stanza">
+                    <l>Passage indeed O soul to primal thought,</l>
+                    <l>Not lands and seas alone, thy own clear freshness,</l>
+                    <l>The young maturity of brood and bloom,</l>
+                    <l>To realms of budding bibles.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>O soul, repressless, I with thee and thou with me,</l>
+                    <l>Thy circumnavigation of the world begin,</l>
+                    <l>Of man, the voyage of his mind's return,</l>
+                    <l>To reason's early paradise,</l>
+                    <l>Back, back to wisdom's birth, to innocent intuitions,</l>
+                    <l>Again with fair creation.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 7.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>O my brave soul!</l>
+                <l>O farther farther sail!</l>
+                
+                
+                
+                    <pb xml:id="leaf012v" facs="prc_as.00027.jpg" type="verso" n="16"/>
+                    <fw type="pageNum" place="top">16 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <l>O daring joy, but safe! are they not all the seas of God?</l>
+                <l>O farther, farther, farther sail</l>
+                <label type="main" rend="right"><hi rend="italic">Passage to India.</hi> Stanza
+                    9.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Ah more than any priest O soul we too believe in God,</l>
+                <l>But with the mystery of God we dare not dally.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 8.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>O Thou transcendent,</l>
+                <l>Nameless, the fibre and the breath,</l>
+                <l>Light of the light, shedding forth universes, thou centre of them,</l>
+                <l>Thou mightier centre of the true, the good, the loving,</l>
+                <l>Thou moral, spiritual fountain&#8212;affection's source&#8212;thou reservoir,</l>
+                <l>(O pensive soul of me&#8212;O thirst unsatisfied&#8212;waitest not there?</l>
+                <l>Waitest not haply for us somewhere there the Comrade perfect?)</l>
+                <l>Thou pulse&#8212;thou motive of the stars, suns, systems,</l>
+                <l>That, circling, move in order, safe, harmonious,</l>
+                <l>Athwart the shapeless vastnesses of space,</l>
+                <l>How should I think, how breathe a single breath, how speak, if, out of
+                    myself,</l>
+                <l>I could not launch, to those, superior universes?</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 8.</label>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf013r" facs="prc_as.00028.jpg" type="recto" n="17"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 17</fw>
+                <lg type="extract">
+                    <l><handShift new="#h1"/>"<handShift new="#h2"/>Swiftly I shrivel at the thought of God,</l>
+                <l>At Nature and its wonders, Time and Space and Death,</l>
+                <l>But that I, turning, call to thee O soul, thou actual Me,</l>
+                <l>And lo, thou gently masterest the orbs,</l>
+                <l>Thou matest Time, smilest content at Death,</l>
+                <l>And fillest, swellest full the vastnesses of Space.</l>
+                <l>Greater than stars or suns,</l>
+                <l>Bounding O soul thou journeyest forth.</l>
+                <label type="main" rend="right"><hi rend="italic">Passage to India.</hi> Stanza
+                    8.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l><handShift new="#h1"/>"<handShift new="#h2"/>In this broad earth of ours,</l>
+                <l>Amid the measureless grossness and the slag,</l>
+                <l>Enclosed and safe within its central heart.</l>
+                <l>Nestles the seed perfection.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of the Universal.</hi> Stanza
+                    1.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <lg type="stanza">
+                    <l><handShift new="#h1"/>"<handShift new="#h2"/>Over the mountain-growths disease and sorrow,</l>
+                    <l>An uncaught bird is ever hovering, hovering,</l>
+                    <l>High in the purer, happier air.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>From imperfection's murkiest cloud</l>
+                    <l>Darts always forth one ray of perfect light,</l>
+                    <l>One flash of heaven's glory.</l>
+                    <l><hi rend="superscript">2</hi></l>
+                </lg>
+                </lg>
+                
+            <note><p><handShift new="#h1"/>A favorite page of mine. E. P. G.</p></note>
+                
+                
+                <pb xml:id="leaf013v" facs="prc_as.00029.jpg" type="verso" n="18"/>
+                <fw type="pageNum" place="top">18 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="linegroup">    
+            <lg type="stanza">
+                    <l><handShift new="#h2"/>To fashion's, custom's discord,</l>
+                    <l>To the mad Babel-din, the deafening orgies,</l>
+                    <l>Soothing each lull a strain is heard, just heard,</l>
+                    <l>From some far shore the final chorus sounding.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>O the blest eyes, the happy hearts,</l>
+                <l>That see, that know the guiding thread so fine,</l>
+                <l>Along the mighty labyrinth.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">Song of the Universal.</hi> Stanza
+                    3.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Give me to hold all sounds, (I madly struggling cry,)</l>
+                <l>Fill me with all the voices of the universe,</l>
+                <l>Endow me with their throbbings, Nature's also,</l>
+                <l>The tempests, waters, winds, operas and chants, marches and dances,</l>
+                <l>Utter, pour in, for I would take them all!</l>
+                <label type="main" rend="right"><hi rend="italic">Proud Music of the Storm.</hi>
+                    Stanza 5.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>All, all for immortality,</l>
+                <l>Love like the light silently wrapping all,</l>
+                <l>Nature's amelioration blessing all,</l>
+                <l>The blossoms, fruits of ages, orchards divine and certain,</l>
+                <l>Forms, objects, growths, humanities, to spiritual images ripening.</l>
+                
+                    
+                    
+                    <pb xml:id="leaf014r" facs="prc_as.00030.jpg" type="recto" n="19"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 19</fw>
+                <l>Give me O God to sing that thought,</l>
+                <l>Give me, give him or her I love this quenchless faith,</l>
+                <l>In Thy ensemble, whatever else withheld withhold not from us,</l>
+                <l>Belief in plan of Thee enclosed in Time and Space,</l>
+                <l>Health, peace, salvation universal.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of the Universal.</hi> Stanza
+                    4.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I swear I think there is nothing but immortality!</l>
+                <l>That the exquisite scheme is for it, and the nebulous float is for it, and the cohering is for it!</l>
+                <l>And all preparation is for it&#8212;and identity is for it&#8212;and life and materials are altogether for it!</l>
+                <label type="main" rend="right"><hi rend="italic">To Think of Time.</hi> Stanza
+                    9.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Peace is always beautiful,</l>
+                <l>The myth of heaven indicates peace and night.</l>
+                <label type="main" rend="right"><hi rend="italic">The Sleepers.</hi> Stanza
+                    7.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Now while the great thoughts of space and eternity fill me I will measure myself by them.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Night on the Prairies.</hi>
+                </label>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf014v" facs="prc_as.00031.jpg" type="verso" n="20"/>
+                <fw type="pageNum" place="top">20 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="poem">
+                <head type="main" rend="center">GODS.</head>
+                <lg type="linegroup">
+                    <l>Lover divine and perfect Comrade,</l>
+                    <l>Waiting content, invisible yet, but certain,</l>
+                    <l>Be thou my God.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Thou, thou, the Ideal Man,</l>
+                    <l>Fair, able, beautiful, content, and loving,</l>
+                    <l>Complete in body and dilate in spirit,</l>
+                    <l>Be thou my God.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>O Death, (for Life has served its turn,)</l>
+                    <l>Opener and usher to the heavenly mansion,</l>
+                    <l>Be thou my God.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Aught, aught of mightiest, best I see, conceive, or know,</l>
+                    <l>(To break the stagnant tie&#8212;thee, thee to free, O soul,)</l>
+                    <l>Be thou my God.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>All great ideas, the races' aspirations,</l>
+                    <l>All heroisms, deeds of rapt enthusiasts,</l>
+                    <l>Be ye my Gods.</l>
+                </lg>
+                
+                    
+                    <pb xml:id="leaf015r" facs="prc_as.00032.jpg" type="recto" n="21"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 21</fw>
+                <lg type="linegroup">
+                    <l>Or Time and Space,</l>
+                    <l>Or shape of Earth divine and wondrous,</l>
+                    <l>Or some fair shape I viewing, worship,</l>
+                    <l>Or lustrous orb of sun or star by night,</l>
+                    <l>Be ye my Gods.</l>
+                </lg>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l><choice><orig>Beckoning</orig><corr>Reckoning</corr></choice>ahead O soul, when
+                    thou, the time achiev'd,</l>
+                <!--Whitman uses "Reckoning" in Leaves of Grass; Gould uses "Beckoning" here-->
+                <l>The seas all cross'd, weather'd the capes, the voyage done,</l>
+                <l>Surrounded, copest, frontest God, yieldest, the aim attain'd</l>
+                <l>As fill'd with friendship, love complete, the Elder Brother found,</l>
+                <l>The Younger melts in fondness in his arms.</l>
+                <label type="main" rend="right"><hi rend="italic">Passage to India.</hi> Stanza
+                    8.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>My rendezvous is appointed, it is certain,</l>
+                <l>The Lord will be there and wait till I come on perfect terms,</l>
+                <l>The great Camerado, the lover tme for whom I pine will be there.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    45.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>The clock indicates the moment&#8212;but what does eternity indicate?</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 44.</label>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf015v" facs="prc_as.00033.jpg" type="verso" n="22"/>
+                <fw type="pageNum" place="top">22 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="poem">
+                <head type="main" rend="center">ROAMING IN THOUGHT</head>
+                <head type="sub" rend="center">(<hi rend="italic">After reading</hi> H<hi rend="smallcaps">EGEL</hi>.)</head>
+                <lg type="linegroup">
+                    <l>Roaming in thought over the Universe, I saw the little that is Good steadily hastening towards<lb/> immortality,</l>
+                    <l>And the vast all that is call'd Evil I saw hastening to merge itself and become lost and dead.</l>
+                </lg>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>I believe of all those men and women that fill'd the unnamed lands, every one
+                    exists this hour<lb/> here or elsewhere, invisible to us,</l>
+                <l>In exact proportion to what he or she grew from in life, and out of what he or
+                    she did, felt,<lb/> became, loved, sinn'd, in life.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Unnamed Lands.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Charity and personal force are the only investments worth anything.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Song of Prudence.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                <head type="main" rend="center">YOUTH, DAY, OLD AGE AND NIGHT.</head>
+                <lg type="linegroup">
+                    <l>Youth, large, lusty, loving&#8212;youth full of grace, force, fascination,</l>
+                    <l>Do you know that Old Age may come after you with equal grace, force, fascination?</l>
+                    <l>Day full-blown and splendid&#8212;day of the immense sun, action, ambition, laughter,</l>
+                    <l>The Night, follows close with millions of suns, and sleep and restoring darkness.</l>
+                </lg>
+            </lg>
+            
+            
+            
+                <pb xml:id="leaf016r" facs="prc_as.00034.jpg" type="recto" n="23"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 23</fw>
+                <lg type="poem">
+                <head type="main" rend="center">TO OLD AGE.</head>
+                <lg type="linegroup">
+                    <l>I see in you the estuary that enlarges and spreads itself grandly as it pours
+                        in the great sea.</l>
+                </lg>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                <head type="main" rend="center">A CLEAR MIDNIGHT.</head>
+                <lg type="linegroup">
+                    <l>This is thy hour O Soul, thy free flight into the wordless,</l>
+                    <l>Away from books, away from art, the day erased, the lesson done,</l>
+                    <l>Thee fully forth emerging, silent, gazing, pondering the themes thou lovest
+                        best,</l>
+                    <l>Night, sleep, death and the stars.</l>
+                </lg>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <lg type="linegroup">
+                    <l>Of the interminable sisters,</l>
+                    <l>Of the ceaseless cotillons of sisters,</l>
+                    <l>Of the centripetal and centrifugal sisters, the elder and younger
+                        sisters,</l>
+                    <l>The beautiful sister we know dances on with the rest.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Tumbling on steadily, nothing dreading,</l>
+                    <l>Sunshine, storm, cold, heat, forever withstanding, passing, carrying,</l>
+                    <l>The soul's realization and determination still inheriting,</l>
+                    <l>The fluid vacuum around and ahead still entering and dividing,</l>
+                    <l>No balk retarding, no anchor anchoring, on no rock striking,</l>
+                    <l>Swift, glad, content, unbereav'd, nothing losing,</l>
+                </lg>
+                
+                
+                <pb xml:id="leaf016v" facs="prc_as.00035.jpg" type="verso" n="24"/>
+                <fw type="pageNum" place="top">24 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="linegroup">
+                    <l>Of all able and ready at any time to give strict account,</l>
+                    <l>The divine ship sails the divine sea.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Whoever you are! motion and reflection are especially for you,</l>
+                    <l>The divine ship sails the divine sea for you.</l>
+                </lg>
+                <label type="main" rend="right">
+                    <hi rend="italic">A Song of the Rolling Earth.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <lg type="linegroup">
+                    <l>Why, who makes much of a miracle?</l>
+                    <l>As to me I know of nothing else but miracles.</l>
+                    <l>. . . . . . . .</l>
+                    <l>To me every hour of the light and dark is a miracle,</l>
+                    <l>Every cubic inch of space is a miracle,</l>
+                    <l>Every square yard of the surface of the earth is spread with the same,</l>
+                    <l>Every foot of the interior swarms with the same.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>To me the sea is a continual miracle,</l>
+                    <l>The fishes that swim&#8212;the rocks&#8212;the motion of the waves&#8212;the
+                        ships with men in them,</l>
+                    <l>What stranger miracles are there?</l>
+                </lg>
+                <label type="main" rend="right">
+                    <hi rend="italic">Miracles.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Sea of stretch'd ground-swells,</l>
+                <l>Sea breathing broad and convulsive breaths,</l>
+                    
+                    
+                    <pb xml:id="leaf018r" facs="prc_as.00036.jpg" type="recto" n="25"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 25</fw>
+                <l>Sea of the brine of life and of unshovell'd yet always-ready graves,</l>
+                <l>Howler and scooper of storms, capricious and dainty sea,</l>
+                <l>I am integral with you, I too am of one phase and of all phases.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    22.</label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Long and long has the grass been growing,</l>
+                <l>Long and long has the rain been falling,</l>
+                <l>Long has the globe been rolling round.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Song of the Exposition.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>Thee for my recitative,</l>
+                <l>. . . . . . . .</l>
+                <l>Fierce-throated beauty!</l>
+                <l>Roll through my chant with all thy lawless music, thy swinging lamps at
+                    night,</l>
+                <l>Thy madly-whistled laughter, echoing, rumbling like an earthquake, rousing
+                    all,</l>
+                <l>Law of thyself complete, thine own track firmly holding,</l>
+                <l>(No sweetness debonair of tearful harp or glib piano thine,)</l>
+                <l>Thy trills of shrieks by rocks and hills return'd,</l>
+                <l>Launch'd o'er the prairies wide, across the lakes,</l>
+                <l>To the free skies unpent and glad and strong.</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">To a Locomotive in Winter.</hi>
+                </label>
+            </lg>
+            
+                <pb xml:id="leaf018v" facs="prc_as.00037.jpg" type="verso" n="26"/>
+                <fw type="pageNum" place="top">26 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="extract">
+                <l>(Ah little recks the laborer,</l>
+                <l>How near his work is holding him to God,</l>
+                <l>The loving Laborer through space and time.)</l>
+                <label type="main" rend="right">
+                    <hi rend="italic">Song of the Exposition.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                <l>
+                    <hi rend="italic">O sight of pity, shame and dole!</hi>
+                </l>
+                <l>
+                    <hi rend="italic">O fearful thought&#8212;a convict soul.</hi>
+                </l>
+                <l>
+                    <hi rend="italic">. . . . . . .</hi>
+                </l>
+                <l>
+                    <hi rend="italic">Convict no more, nor shame, nor dole!</hi>
+                </l>
+                <l>
+                    <hi rend="italic">Depart&#8212;a God-enfranchis'd soul!</hi>
+                </l>
+                <label type="main" rend="right">
+                    <hi rend="italic">The Singer in the Prison.</hi>
+                </label>
+            </lg>
+            
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <lg type="linegroup">
+                    <l>A child said <hi rend="italic">What is the Grass?</hi> fetching it to me with
+                        full hands;</l>
+                    <l>How could I answer the child? I do not know what it is any more than he.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>I guess it must be the flag of my disposition, out of hopeful green stuff
+                        woven.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Or I guess it is the handkerchief of the Lord,</l>
+                    <l>A scented gift and remembrancer designedly dropt,</l>
+                    <l>Bearing the owner's name someway in the corners, that we may see and remark,
+                        and say <hi rend="italic">Whose?</hi></l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Or I guess the grass is itself a child, the produced babe of the
+                        vegetation.</l>
+                </lg>
+                
+                
+                <pb xml:id="leaf019r" facs="prc_as.00038.jpg" type="recto" n="27"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 27</fw>
+                <lg type="linegroup">
+                    <l>Or I guess it is a uniform hieroglyphic,</l>
+                    <l>And it means, Sprouting alike in broad zones and narrow zones,</l>
+                    <l>Growing among black folks as among white.</l>
+                    <l>. . . . . . . .</l>
+                    <l>And now it seems to me the beautiful uncut hair of graves.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Tenderly will I use you curling grass.</l>
+                    <l>. . . . . . . .</l>
+                    <l>The smallest sprout shows there is really no death,</l>
+                    <l>. . . . . . . .</l>
+                    <l>All goes onward and outward, nothing collapses.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    6.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <lg type="linegroup">
+                    <l>I am he that walks with the tender and growing night,</l>
+                    <l>I call to the earth and sea half-held by the night.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Press close bare bosom'd night&#8212;press close magnetic nourishing
+                        night!</l>
+                    <l>Night of south winds&#8212;night of the large few stars!</l>
+                    <l>Still nodding night&#8212;mad naked summer night.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Smile O voluptuous cool-breath'd earth!</l>
+                    <l>Earth of the slumbering and liquid trees!</l>
+                    <l>Earth of departed sunset&#8212;earth of mountains misty-topt!</l>
+                </lg>
+                
+                
+                
+                <pb xml:id="leaf019v" facs="prc_as.00039.jpg" type="verso" n="28"/>
+                <fw type="pageNum" place="top">28 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="linegroup">
+                    <l>Earth of the <choice><sic>virtreous</sic><corr>vitreous</corr></choice> pour of the full moon just tinged with blue!</l>
+                    <l>Earth of shine and dark mottling the tide of the river!</l>
+                    <l>Earth of the limpid gray of clouds brighter and clearer for my sake!</l>
+                    <l>Far-swooping elbow'd earth&#8212;rich apple-blossom'd earth!</l>
+                    <l>Smile, for your lover comes.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Prodigal, you have given me love&#8212;therefore I to you give love!</l>
+                    <l>O unspeakable passionate love.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    21.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>The press of my foot to the earth springs a hundred affections,</l>
+                <l>They scorn the best I can do to relate them.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 14.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+               <lg>
+                   <l><handShift new="#h1"/>Splendor of ended day floating and filling me</l>
+                   <l rend="right"><handShift new="#h1"/>Song at Sunset.</l>
+               </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg>
+                    <l><handShift new="#h1"/>Come lovely and soothing Death.</l>
+                    <l><handShift new="#h1"/>. . . . . . . . . . . . . . . . </l>
+                    <l><handShift new="#h1"/>. . . . .<add resp="#ww" rend="unmarked" place="supralinear"> .</add> . . . praise! praise! praise!</l>
+                    <l><handShift new="#h1"/>For the sure-entwining arms of cool-enfolding Death.</l>
+                
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <closer><handShift new="#h1"/>Memories of President Lincoln.</closer> 
+           </lg>
+            
+            
+                <pb xml:id="leaf020r" facs="prc_as.00040.jpg" type="recto" n="29"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 29</fw>
+            <lg type="extract">
+                <!--this is actually an extract, not a poem, because she's edited out quite a few stanzas-->
+                <head type="main" rend="center"><handShift new="#h2"/>PIONEERS! O PIONEERS!</head>
+                <lg type="linegroup">
+                    <l rend="indent1">Come my tan-faced children,</l>
+                    <l>Follow well in order, get your weapons ready,</l>
+                    <l>Have you your pistols? have you your sharp-edged axes?</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">For we cannot tarry here,</l>
+                    <l>We must march my darlings, we must bear the brunt of danger,</l>
+                    <l>We the youthful sinewy races, all the rest on us depend,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">O you youths, Western youths,</l>
+                    <l>So impatient, full of action, full of manly pride and friendship,</l>
+                    <l>Plain I see you Western youths, see you tramping with the foremost,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">Have the elder races halted?</l>
+                    <l>Do they droop and end their lesson, wearied over there beyond the seas?</l>
+                    <l>We take up the task eternal, and the burden and the lesson.</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                
+                
+                <pb xml:id="leaf020v" facs="prc_as.00041.jpg" type="verso" n="30"/>
+                <fw type="pageNum" place="top">30 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="linegroup">
+                    <l rend="indent1">See my children, resolute children,</l>
+                    <l>By those swarms upon our rear we must never yield or falter,</l>
+                    <l>Ages back in ghostly millions frowning there behind us urging,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">All the pulses of the world,</l>
+                    <l>Falling in they beat for us, with the Western movement beat,</l>
+                    <l>Holding single or together, steady moving to the front, all for us,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>. . . . . . . .</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">O you daughters of the West!</l>
+                    <l>O you younger and elder daughters! O you mothers and you wives!</l>
+                    <l>Never must you be divided, in our ranks you move united,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>. . . . . . . .</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indent1">Not for delectations sweet,</l>
+                    <l>Not the cushion and the slipper, not the peaceful and the studious,</l>
+                    <l>Not the riches safe and palling, not for us the tame enjoyment,</l>
+                    <l rend="indent1">Pioneers! O pioneers!</l>
+                </lg>
+            </lg>
+            
+                <pb xml:id="leaf021r" facs="prc_as.00042.jpg" type="recto" n="31"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 31</fw>
+                <lg type="poem">
+                    <head type="main" rend="center">THE CITY DEAD-HOUSE.</head>
+                    <lg type="linegroup">
+                        <l>By the city dead-house by the gate,</l>
+                        <l>As idly sauntering wending my way from the clangor,</l>
+                        <l>I curious pause, for lo, an outcast form, a poor dead prostitute
+                            brought,</l>
+                        <l>Her corpse they deposit unclaim'd, it lies on the damp brick
+                            pavement,</l>
+                        <l>The divine woman, her body, I see the body, I look on it alone,</l>
+                        <l>That house once full of passion and beauty, all else I notice not,</l>
+                        <l>Nor stillness so cold, nor running water from faucet, nor odors morbific
+                            impress me,</l>
+                        <l>But the house alone&#8212;that wondrous house&#8212;that delicate fair
+                            house&#8212;that ruin!</l>
+                        <l>That immortal house more than all the rows of dwellings ever built!</l>
+                        <l>Or white-domed capitol with majestic figure surmounted, or all the old
+                            high-spired cathedrals,</l>
+                        <l>That little house alone more than them all&#8212;poor, desperate
+                            house!</l>
+                        <l>Fair, fearful wreck&#8212;tenement of a soul&#8212;itself a soul,</l>
+                        <l>Unclaim'd, avoided house&#8212;take one breath from my tremulous
+                            lips,</l>
+                        <l>Take one tear dropt aside as I go for thought of you,</l>
+                        <l>Dead house of love&#8212;house of madness and sin, crumbled, crush'd,</l>
+                        <l>House of life, erewhile talking and laughing&#8212;but ah, poor house,
+                            dead even then,</l>
+                        <l>Months, years, an echoing, garnish'd house&#8212;but dead, dead,
+                            dead.</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>I accept Reality and dare not question it,</l>
+                    <l>Materialism first and last imbuing.</l>
+                    <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                        23.</label>
+                </lg>
+                
+                
+                <pb xml:id="leaf021v" facs="prc_as.00043.jpg" type="verso" n="32"/>
+                <fw type="pageNum" place="top">32 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="poem">
+                    <head type="main" rend="center">THE BASE OF ALL METAPHYSICS.</head>
+
+                    <lg type="linegroup">
+                        <l>And now gentlemen,</l>
+                        <l>A word I give to remain in your memories and minds,</l>
+                        <l>As base and finale too for all metaphysics.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>(So to the students the old professor,</l>
+                        <l>At the close of his crowded course.)</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>Having studied the new and antique, the Greek and Germanic systems,</l>
+                        <l>Kant having studied and stated, Fichte and Schelling and Hegel,</l>
+                        <l>Stated the lore of Plato, and Socrates greater than Plato,</l>
+                        <l>And greater than Socrates sought and stated, Christ divine having studied
+                            long,</l>
+                        <l>I see reminiscent to-day those Greek and Germanic systems,</l>
+                        <l>See the philosophies all, Christian churches and tenets see,</l>
+                        <l>Yet underneath Socrates clearly see, and underneath Christ the divine I
+                            see,</l>
+                        <l>The dear love of man for his comrade, the attraction of friend to
+                            friend,</l>
+                        <l>Of the well-married husband and wife, of children and parents,</l>
+                        <l>Of city for city and land for land.</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>A great city is that which has the greatest men and women,</l>
+                    <l>If it be a few ragged huts it is still the greatest city in the whole
+                        world.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Song of the Broad-axe.</hi>
+                    </label>
+                </lg>
+                
+                
+                <pb xml:id="leaf022r" facs="prc_as.00044.jpg" type="recto" n="33"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 33</fw>
+               <lg type="extract"> 
+                    <lg type="linegroup">
+                        <l>Ah from a little child,</l>
+                        <l>Thou knowest soul how to me all sounds became music,</l>
+                        <l>My mother's voice in lullaby or hymn,</l>
+                        <l>(The voice, O tender voices, memory's loving voices,</l>
+                        <l>Last miracle of all, O dearest mother's, sister's, voices;)</l>
+                        <l>The rain, the growing corn, the breeze among the long-leav'd corn,</l>
+                        <l>The measur'd sea-surf beating on the sand,</l>
+                        <l>The twittering bird, the hawk's sharp scream,</l>
+                        <l>The wild-fowl's notes at night as flying low migrating north or
+                            south,</l>
+                        <l>The psalm in the country church or mid the clustering trees, the open air
+                            camp-meeting,</l>
+                        <l>The fiddler in the tavern, the glee, the long-strung sailor-song,</l>
+                        <l>The lowing cattle, bleating sheep, the crowing cock at dawn.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>All songs of current lands come sounding round me,</l>
+                        <l>The German airs of friendship, wine and love,</l>
+                        <l>Irish ballads, merry jigs and dances, English warbles,</l>
+                        <l>Chansons of France, Scotch tunes, and o'er the rest,</l>
+                        <l>Italia's peerless compositions.</l>
+                    </lg>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Proud Music of the Storm.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>Strains musical flowing through ages, now reaching hither,</l>
+                    <l>I take to your reckless and composite chords, add to them, and cheerfully
+                        pass them forward.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Starting from Paumanok.</hi>
+                    </label>
+                </lg>
+                
+                
+                <pb xml:id="leaf022v" facs="prc_as.00045.jpg" type="verso" n="34"/>
+                <fw type="pageNum" place="top">34 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="extract">
+                    <l>O the joy of my soul leaning pois'd on itself, receiving identity through
+                        materials and loving<lb/> them, observing characters and absorbing them,</l>
+                    <l>My soul vibrated back to me from them, from sight, hearing, touch, reason,
+                        articulation, <choice><orig>com-</orig><reg>comparison</reg></choice><lb/>
+                        parison, memory, and the like,</l>
+                    <l>The real life of my senses and flesh transcending my senses and flesh,</l>
+                    <l>My body done with materials, my sight done with my material eyes,</l>
+                    <l>Proved to me this day beyond cavil that it is not my material eyes which
+                        finally see,</l>
+                    <l>Nor my material body which finally loves, walks, laughs, shouts, embraces,
+                        procreates.</l>
+                    <l>. . . . . . . .</l>
+                    <l>For not life's joys alone I sing, repeating&#8212;the joy of death!</l>
+                    <l>The beautiful touch of Death, soothing and benumbing a few moments, for
+                        reasons,</l>
+                    <l>Myself discharging my excrementitious body to be burn'd, or render'd to
+                        powder, or buried,</l>
+                    <l>My real body doubtless left to me for other spheres,</l>
+                    <l>My voided body nothing more to me, returning to the purifications, further
+                        offices, eternal uses<lb/> of the earth.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">A Song of Joys.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>O I see life is not short, but immeasurably long,</l>
+                    <l>I henceforth tread the world chaste, temperate, an early riser, a steady
+                        grower,</l>
+                    <l>Every hour the semen of centuries, and still of centuries.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Myself and Mine.</hi>
+                    </label>
+                </lg>
+            
+            
+                <pb xml:id="leaf023r" facs="prc_as.00046.jpg" type="recto" n="35"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 35</fw>
+               <lg type="extract">
+                    <l>And I have dream'd that the purpose and essence of the known life, the
+                        transient,</l>
+                    <l>Is to form and decide identity for the unknown life, the permanent.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">To Think of Time.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+               <lg type="extract">
+                    <l>With the tolling, tolling bells' perpetual clang,</l>
+                    <l>Here, coffin that slowly passes,</l>
+                    <l>I give you my sprig of lilac.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">When Lilacs Last, etc.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                    <head type="main" rend="center">O CAPTAIN! MY CAPTAIN!</head>
+                    <lg type="linegroup">
+                        <l>O Captain! my Captain! our fearful trip is done,</l>
+                        <l>The ship has weather'd every rack, the prize we sought is won,</l>
+                        <l>The port is near, the bells I hear, the people all exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel grim and daring;</l>
+                        <l rend="indent1">But O heart! heart! heart!</l>
+                        <l rend="indent2">O the bleeding drops of red,</l>
+                        <l rend="indent3">Where on the deck my Captain lies,</l>
+                        <l rend="indent4">Fallen cold and dead.</l>
+                    </lg>
+
+                    <lg type="linegroup">
+                        <l>O Captain! my Captain! rise up and hear the bells;</l>
+                        <l>Rise up&#8212;for you the flag is flung&#8212;for you the bugle
+                            trills,</l>
+                        
+                        
+                        
+                        <pb xml:id="leaf023v" facs="prc_as.00047.jpg" type="verso" n="36"/>
+                        <fw type="pageNum" place="top">36 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                        <l>For you bouquets and ribbon'd wreaths&#8212;for you the shores
+                            a-crowding,</l>
+                        <l>For you they call, the swaying mass, their eager faces turning;</l>
+                        <l rend="indent1">Here Captain! dear father!</l>
+                        <l rend="indent2">This arm beneath your head!</l>
+                        <l rend="indent3">It is some dream that on the deck,</l>
+                        <l rend="indent4">You've fallen cold and dead.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>My Captain does not answer, his lips are pale and still,</l>
+                        <l>My father does not feel my arm, he has no pulse nor will,</l>
+                        <l>The ship is anchor'd safe and sound, its voyage closed and done,</l>
+                        <l>From fearful trip the victor ship comes in with object won;</l>
+                        <l rend="indent1">Exult O shores, and ring O bells!</l>
+                        <l rend="indent2">But I with mournful tread,</l>
+                        <l rend="indent3">Walk the deck my Captain lies,</l>
+                        <l rend="indent4">Fallen cold and dead.</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <lg type="linegroup">
+                        <l>O how shall I warble myself for the dead one there I loved?</l>
+                        <l>And how shall I deck my song for the large sweet soul that has gone?</l>
+                        <l>And what shall my perfume be for the grave of him I love?</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>Sea-winds blown from east and west,</l>
+                        <l>Blown from the Eastern sea and blown from the Western sea, till there on
+                            the prairies meeting,</l>
+                        
+                        
+                        
+                        <pb xml:id="leaf024r" facs="prc_as.00048.jpg" type="recto" n="37"/>
+                        <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 37</fw>
+                        <l>These and with these and the breath of my chant,</l>
+                        <l>I'll perfume the grave of him I love.</l>
+                    </lg>
+                    <label type="main" rend="right">
+                        <hi rend="italic">When Lilacs Last, etc.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>No more for him life's stormy conflicts,</l>
+                    <l>Nor victory, nor defeat&#8212;no more time's dark events,</l>
+                    <l>Charging like ceaseless clouds across the sky.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Hushed be the Camps To-day.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <lg type="linegroup">
+                        <l>Ashes of soldiers South or North,</l>
+                        <l>As I muse retrospective murmuring a chant in thought,</l>
+                        <l>The war resumes, again to my sense your shapes,</l>
+                        <l>And again the advance of the armies.</l>
+                        <l>. . . . . . . .</l>
+                        <l>Phantoms of countless lost,</l>
+                        <l>Invisible to the rest henceforth become my companions,</l>
+                        <l>Follow me ever&#8212;desert me not while I live.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>Sweet are the blooming cheeks of the living&#8212;sweet are the musical
+                            voices sounding,</l>
+                        <l>But sweet, ah sweet, are the dead with their silent eyes.</l>
+                        <l>. . . . . . . .</l>
+                        <l>Perfume therefore my chant. O love, immortal love,</l>
+                        
+                        
+                        <pb xml:id="leaf024v" facs="prc_as.00049.jpg" type="verso" n="38"/>
+                        <fw type="pageNum" place="top">38 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                        <l>Give me to bathe the memories of all dead soldiers,</l>
+                        <l>Shroud them, embalm them, cover them all over with tender pride.</l>
+                        <l>. . . . . . . .</l>
+                        <l>Give me exhaustless, make me a fountain,</l>
+                        <l>That I exhale love from me wherever I go like a moist perennial dew.</l>
+                        <l>For the ashes of all dead soldiers South or North.</l>
+                        <l>. . . . . . . .</l>
+                        <l>I chant this chant of my silent soul in the name of all dead
+                            soldiers.</l>
+                    </lg>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Ashes of Soldiers.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <lg type="linegroup">
+                        <l>Each is not for its own sake,</l>
+                        <l>I say the whole earth and all the stars in the sky are for religion's
+                            sake.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>I say no man has ever yet been half devout enough,</l>
+                        <l>None has ever yet adored or worship'd half enough,</l>
+                        <l>None has begun to think how divine he himself is, and how certain the
+                            future is.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>I say that the real and permanent grandeur of these States must be their
+                            religion,</l>
+                        <l>Otherwise there is no real and permanent grandeur;</l>
+                        <l>(Nor character nor life worthy the name without religion,</l>
+                        <l>Nor land nor man or woman without religion.)</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>. . . . . . . .</l>
+                    </lg>
+                    
+                    
+                    
+                    <pb xml:id="leaf025r" facs="prc_as.00050.jpg" type="recto" n="39"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 39</fw>
+                    <lg type="linegroup">
+                        <l>My comrade!</l>
+                        <l>For you to share with me two greatnesses, and a third one rising
+                            inclusive and more resplendent,</l>
+                        <l>The greatness of Love and Democracy, and the greatness of Religion.</l>
+                    </lg>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Starting from Paumanok.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>The greater the reform needed, the greater the Personality you need to
+                        accomplish it.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">To a Pupil.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>Produce great Persons, the rest follows.</l>
+                    <l>. . . . . . . .</l>
+                    <l>He or she is greatest who contributes the greatest original practical
+                        example.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">By Blue Ontario's Shore.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                    <head type="main" rend="center">AS AT THY PORTALS ALSO DEATH.</head>
+                    <lg type="linegroup">
+                        <l>As at thy portals also death,</l>
+                        <l>Entering thy sovereign, dim, illimitable grounds,</l>
+                        <l>To memories of my mother, to the divine blending, maternity,</l>
+                        <l>To her, buried and gone, yet buried not, gone not from me,</l>
+                        <l>(I see again the calm benignant face fresh and beautiful still,</l>
+                        <l>I sit by the form in the coffin,</l>
+                        <l>I kiss and kiss convulsively again the sweet old lips, the cheeks, the
+                            closed eyes in the coffin;)</l>
+                        
+                        
+                        <pb xml:id="leaf025v" facs="prc_as.00051.jpg" type="verso" n="40"/>
+                        <fw type="pageNum" place="top">40 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                        <l>To her, the ideal woman, practical, spiritual, of all of earth, life,
+                            love, to me the best,</l>
+                        <l>I grave a monumental line, before I go, amid these songs,</l>
+                        <l>And set a tombstone here.</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <lg type="linegroup">
+                        <l>Nothing is sinful to us outside of ourselves,</l>
+                        <l>Whatever appears, whatever does not appear, we are beautiful or sinful in
+                            ourselves only.</l>
+                    </lg>
+                    <lg type="linegroup">
+                        <l>(O Mother&#8212;O Sisters dear!</l>
+                        <l>If we are lost, no victor else has destroy'd us,</l>
+                        <l>It is by ourselves we go down to eternal night.)</l>
+                    </lg>
+                    <label type="main" rend="right">
+                        <hi rend="italic">By Blue Ontario's Shore.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>This minute that comes to me over the past decillions,</l>
+                    <l>There is no better than it and now.</l>
+                    <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                        22.</label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                    <head type="main" rend="center">BY THE BIVOUAC'S FITFUL FLAME.</head>
+                    <lg type="linegroup">
+                        <l>By the bivouac's fitful flame,</l>
+                        <l>A procession winding around me, solemn and sweet and slow&#8212;but first
+                            I note,</l>
+                        <l>The tents of the sleeping army, the fields' and woods' dim outline,</l>
+                        <l>The darkness lit by spots of kindled fire, the silence,</l>
+                        
+                        
+                        <pb xml:id="leaf026r" facs="prc_as.00052.jpg" type="recto" n="41"/>
+                        <fw type="pageNum" place="top">41 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                        <l>Like a phantom far or near an occasional figure moving,</l>
+                        <l>The shrubs and trees, (as I lift my eyes they seem to be stealthily
+                            watching me,)</l>
+                        <l>While wind in procession thoughts, O tender and wondrous thoughts,</l>
+                        <l>Of life and death, of home and the past and loved, and of those that are
+                            far away;</l>
+                        <l>A solemn and slow procession there as I sit on the ground,</l>
+                        <l>By the bivouac's fitful flame.</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>And over all the sky&#8212;the sky! far, far out of reach, studded, breaking
+                        cut, the eternal stars.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Bivouac on a Mountain Side.</hi>
+                    </label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="poem">
+                    <head type="main" rend="center">RECONCILIATION.</head>
+                    <lg type="linegroup">
+                        <l>Word over all, beautiful as the sky,</l>
+                        <l>Beautiful that war and all its deeds of carnage must in time be utterly
+                            lost,</l>
+                        <l>That the hands of the sisters Death and Night incessantly softly wash
+                            again, and ever again,<lb/> this soil'd world;</l>
+                        <l>For my enemy is dead, a man divine as myself is dead,</l>
+                        <l>I look where he lies white-faced and still in the coffin&#8212;I draw
+                            near,</l>
+                        <l>Bend down and touch lightly with my lips the white face in the
+                            coffin.</l>
+                    </lg>
+                </lg>
+                <pb xml:id="leaf026v" facs="prc_as.00053.jpg" type="verso" n="42"/>
+                <fw type="pageNum" place="top">42 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="poem">
+                    <head type="main" rend="center">WHAT BEST I SEE IN THEE</head>
+                    <head type="sub" rend="center"><hi rend="italic">To U. S. G. return'd from his World's
+                        Tour</hi></head>
+                    <lg type="linegroup">
+                        <l>What best I see in thee,</l>
+                        <l>Is not that where thou mov'st down history's great highways,</l>
+                        <l>Ever undimm'd by time shoots warlike victory's dazzle,</l>
+                        <l>Or that thou sat'st where Washington sat, ruling the land in peace,</l>
+                        <l>Or thou the man whom feudal Europe feted, venerable Asia swarm'd
+                            upon,</l>
+                        <l>Who walk'd with kings with even pace the round world's promenade;</l>
+                        <l>But that in foreign lands, in all thy walks with kings,</l>
+                        <l>Those prairie sovereigns of the West, Kansas, Missouri, Illinois,</l>
+                        <l>Ohio's, Indiana's millions, comrades, farmers, soldiers, all to the
+                            front,</l>
+                        <l>Invisibly with thee walking with kings with even pace the round world's
+                            promenade,</l>
+                        <l>Were all so justified.</l>
+                    </lg>
+                </lg>
+                <lg type="poem">
+                    <head type="main" rend="center">OVER THE CARNAGE ROSE PROPHETIC A VOICE.</head>
+                    <lg type="linegroup">
+                        <l>Over the carnage rose prophetic a voice,</l>
+                        <l>Be not dishearten'd, affection shall solve the problems of freedom
+                            yet,</l>
+                        <l>Those who love each other shall become invincible,</l>
+                        <l>They shall yet make Columbia victorious.</l>
+                        <l>. . . . . . . .</l>
+                        <l>The dependence of Liberty shall be lovers,</l>
+                        <l>The continuance of Equity shall be comrades.</l>
+                    </lg>
+                </lg>
+                
+                
+                <pb xml:id="leaf027r" facs="prc_as.00054.jpg" type="recto" n="43"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 43</fw>
+                <lg type="poem">
+                    <head type="main" rend="center">TO THE MAN-OF-WAR-BIRD.</head>
+                    <lg type="linegroup">
+                        <l>Thou who hast slept all night upon the storm,</l>
+                        <l>Waking renew'd on thy prodigious pinions,</l>
+                        <l>. . . . . . . .</l>
+                        <l>Thou born to match the gale, (thou art all wings,)</l>
+                        <l>To cope with heaven and earth and sea and hurricane,</l>
+                        <l>Thou ship of air that never furl'st thy sails,</l>
+                        <l>Days, even weeks untired and onward, through spaces, realms gyrating,</l>
+                        <l>At dusk that look'st on Senegal, at morn America,</l>
+                        <l>That sport'st amid the lightning-flash and thunder-cloud,</l>
+                        <l>In them, in thy experiences, had'st thou my soul,</l>
+                        <l>What joys! what joys were thine!</l>
+                    </lg>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>As a strong bird on pinions free,</l>
+                    <l>Joycus, the amplest spaces heavenward cleaving,</l>
+                    <l>Such be the thought I'd think of thee America,</l>
+                    <l>Such be the recitative I'd bring for thee.</l>
+                    <l>. . . . . . . .</l>
+                    <l>The Present holds thee not&#8212;for such vast growth as thine,</l>
+                    <l>For such unparallel'd flight as thine, such brood as thine,</l>
+                    <l>The Future only holds thee and can hold thee.</l>
+                    <label type="main" rend="right">
+                        <hi rend="italic">Thou Mother with thy Equal Brood.</hi>
+                    </label>
+                </lg>
+                
+                
+                <pb xml:id="leaf027v" facs="prc_as.00055.jpg" type="verso" n="44"/>
+                <fw type="pageNum" place="top">44 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="extract">
+                    <l>I give nothing as duties,</l>
+                    <l>What others give as duties I give as living impulses,</l>
+                    <l>(Shall I give the heart's action as a duty?)</l>
+                    <label type="main" rend="right"><hi rend="italic">Myself and Mine.</hi></label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>(Bravas to all impulses sending sane children to the next age!</l>
+                    <l>But damn that which spends itself with no thought of the stain, pains,
+                        dismay, feebleness, it is<lb/> bequeathing.)</l>
+                    <label type="main" rend="right"><hi rend="italic">By Blue Ontario's Shore.</hi>
+                        Stanza 8.</label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>If any thing is sacred the human body is sacred,</l>
+                    <l>And the glory and sweet of a man is the token of manhood untainted.</l>
+                    <label type="main" rend="right"><hi rend="italic">I Sing the Body Electric.</hi>
+                        Stanza 8.</label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l rend="indent1">I sing the body electric,</l>
+                    <!--This line doesn't appear in "Song of Myself," so this is either an error (possibly a carry-over from the previous excerpt) or she's trying something.-->
+                    <l>I am the poet of the woman the same as the man,</l>
+                    <l>And I say it is as great to be a woman as to be a man,</l>
+                    <l>And I say there is nothing greater than the mother of men.</l>
+                    <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                        21.</label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                
+                <pb xml:id="leaf028r" facs="prc_as.00056.jpg" type="recto" n="45"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 45</fw>
+                <lg type="extract">
+                    <l>Each of us inevitable,</l>
+                    <l>Each of us limitless&#8212;each of us with his or her right upon the
+                        earth,</l>
+                    <l>Each of us allow'd the eternal purports of the earth,</l>
+                    <l>Each of us here as divinely as any is here.</l>
+                    <label type="main" rend="right"><hi rend="italic">Salut au
+                        <choice><orig>Mode</orig><corr>Monde</corr></choice>.</hi></label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <lg type="extract">
+                    <l>What behaved well in the past or behaves well to-day is not such a
+                        wonder,</l>
+                    <l>The wonder is always and always how there can be a mean man or an
+                        infidel.</l>
+                    <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                        22.</label>
+                </lg>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <lg>
+                    <l>Ever upon this stage,</l>
+                    <l>Is acted God's calm annual drama,</l>
+                    <l>Gorgeous processions, songs of birds,</l>
+                    <l>Sunrise that fullest feeds and freshens most the soul,</l>
+                    <l>The heaving sea, the waves upon the shore, the musical, strong waves,</l>
+                    <l>The woods, the stalwart trees, the slender, tapering trees,</l>
+                    <l>The liliput countless armies of the grass,</l>
+                    <l>The heat, the showers, the measureless pasturages,</l>
+                    <l>The scenery of the snows, the winds' free orchestra,</l>
+                    <l>The stretching light-hung roof of clouds, the clear cerulean and the silvery
+                        fringes,</l>
+                    <l>The high dilating stars, the placid beckoning stars,</l>
+                    <l>The moving flocks and herds, the plains and emerald meadows,</l>
+                    <l>The shows of all the varied lands and all the growths and products.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">The Return of the Heroes.</hi></label>
+            </lg>
+                <!--This title actually appears on the same line as "The shows of all the varied lands.." and not on its own line.-->
+            
+            
+                <pb xml:id="leaf028v" facs="prc_as.00057.jpg" type="verso" n="46"/>
+                <fw type="pageNum" place="top">46 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+            <lg type="extract">
+                <l>I believe a leaf of grass is no less than the journey-work of the stars,</l>
+                <l>And the pismire is equally perfect, and a grain of sand, and the egg of the
+                    wren,</l>
+                <l>And the tree-toad is a chef-d'oeuvre for the highest,</l>
+                <!--oe ligature on d'oeuvre-->
+                <l>And the running blackberry would adorn the parlors of heaven,</l>
+                <l>And the narrowest hinge in my hand puts to scorn all machinery,</l>
+                <l>And the cow crunching with depress'd head surpasses any statue,</l>
+                <l>And a mouse is miracle enough to stagger sextillions of infidels.</l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    31.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>For the great Idea, the idea of perfect and free individuals,</l>
+                <l>For that, the bard walks in advance, leader of leaders,</l>
+                <l>The attitude of him cheers up slaves and horrifies foreign despots.</l>
+                <label type="main" rend="right"><hi rend="italic">By Blue Ontario's Shore.</hi>
+                    Stanza 10.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>For the great Idea,</l>
+                <l>That, O my brethren, that is the mission of poets.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 11.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                
+                
+                <pb xml:id="leaf029r" facs="prc_as.00058.jpg" type="recto" n="47"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 47</fw>
+            <lg type="extract">
+                <l>Underneath all, individuals.</l>
+                <label type="main" rend="right"><hi rend="italic">By Blue Ontario's Shore.</hi>
+                    Stanza 15.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>(The proof of a poet shall be sternly deferr'd till his country absorbs him as
+                    affectionately as he<lb/> has absorb' d it.)</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 13.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>Fear grace, elegance, civilization, delicatesse,</l>
+                <l>Fear the mellow sweet, the sucking of honey-juice,</l>
+                <l>Beware the advancing mortal ripening of Nature,</l>
+                <l>Beware what precedes the decay of the ruggedness of states and men.</l>
+                <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 4.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>This day before dawn I ascended a hill and look'd at the crowded heaven,</l>
+                <l>And I said to my spirit <hi rend="italic">When we become the enfolders of those
+                    orbs, and the pleasure and knowledge</hi><lb/> <hi rend="italic">of every thing
+                    in them, shall we be fill'd and satisfied then?</hi></l>
+                <l>And my spirit said <hi rend="italic">No. We but level that lift to pass and
+                    continue beyond.</hi></l>
+                <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
+                    46.</label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                
+                <pb xml:id="leaf029v" facs="prc_as.00059.jpg" type="verso" n="48"/>
+                <fw type="pageNum" place="top">48 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+            <lg type="poem">
+                <head type="main" rend="center">THE LAST INVOCATION.</head>
+                <lg type="linegroup">
+                    <l>At the last, tenderly,</l>
+                    <l>From the walls of the powerful fortress'd house,</l>
+                    <l>From the clasp of the knitted locks, from the keep of the well-closed
+                        doors,</l>
+                    <l>Let me be wafted.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Let me glide noiselessly forth;</l>
+                    <l>With the key of softness unlock the locks&#8212;with a whisper,</l>
+                    <l>Set ope the doors O soul.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Tenderly&#8212;be not impatient,</l>
+                    <l>(Strong is your hold O mortal flesh,</l>
+                    <l>Strong is your hold O love.)</l>
+                </lg>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>Thoughts, silent thoughts, of Time and Space and Death, like waters flowing,</l>
+                <l>Bear me indeed as through the regions infinite,</l>
+                <l>Whose air I breathe, whose ripples hear, lave me all over</l>
+                <l>Bathe me O God in thee, mounting to thee,</l>
+                <l>I and my soul to range in range of thee.</l>
+                <label type="main" rend="right"><hi rend="italic">Passage to India.</hi></label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <l>O soul, we have positively appear'd&#8212;that is enough.</l>
+                <label type="main" rend="right"><hi rend="italic">As the Time Draws Nigh.</hi></label>
+            </lg>
+                
+                
+                <pb xml:id="leaf030r" facs="prc_as.00060.jpg" type="recto" n="49"/>
+                <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 49</fw>
+            <lg type="extract">
+                <lg type="linegroup">
+                    <l>To conclude, I announce what comes after me.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>I announce that the identity of these States is a single identity only,</l>
+                    <l>I announce the Union more and more compact, indissoluble,</l>
+                    <l>I announce splendors and majesties to make all the previous politics of the
+                        earth insignificant.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>I announce the great individual, fluid as Nature, chaste, affectionate,
+                        compassionate, fully arm'd.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>I announce a life that shall be copious, vehement, spiritual, bold,</l>
+                    <l>I announce an end that shall lightly and joyfully meet its translation.</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">So Long!</hi></label>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="poem">
+                <head type="main" rend="center">JOY, SHIPMATE, JOY!</head>
+                <lg type="linegroup">
+                    <l>Joy, shipmate, joy!</l>
+                    <l>(Pleas'd to my soul at death I cry,)</l>
+                    <l>Our life is closed, our life begins,</l>
+                    <l>The long, long anchorage we leave,</l>
+                    <l>The ship is clear at last, she leaps!</l>
+                    <l>She swiftly courses from the shore,</l>
+                    <l>Joy, shipmate, joy.</l>
+                </lg>
+            </lg>
+                
+                
+                <pb xml:id="leaf030v" facs="prc_as.00061.jpg" type="verso" n="50"/>
+                <fw type="pageNum" place="top">50 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+            <lg type="poem">
+                <head type="main" rend="center">THE UNTOLD WANT.</head>
+                <lg type="linegroup">
+                    <l>The untold want by life and land ne'er granted,</l>
+                    <l>Now voyager sail thou forth to seek and find.</l>
+                </lg>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="extract">
+                <lg type="linegroup">
+                    <l>Now trumpeter for thy close,</l>
+                    <l>Vouchsafe a higher strain than any yet,</l>
+                    <l>Sing to my soul, renew its languishing faith and hope,</l>
+                    <l>Rouse up my slow belief, give me some vision of the future,</l>
+                    <l>Give me for once its prophecy and joy.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>O glad, exulting, culminating song!</l>
+                    <l>A vigor more than earth's is in thy notes,</l>
+                    <l>Marches of victory&#8212;man disenthral'd&#8212;the conqueror at last,</l>
+                    <l>Hymns to the universal God from universal man&#8212;all joy!</l>
+                    <l>A reborn race appears&#8212;a perfect world, all joy!</l>
+                    <l>Women and men in wisdom innocence and health&#8212;all joy!</l>
+                    <l>Riotous laughing bacchanals fill'd with joy!</l>
+                    <l>War, sorrow, suffering gone&#8212;the rank earth purged&#8212;nothing but joy
+                        left!</l>
+                    <l>The ocean fill'd with joy&#8212;the atmosphere all joy!</l>
+                    <l>Joy! joy! in freedom, worship, love! joy in the ecstasy of life!</l>
+                    <l>Enough to merely be! enough to breathe!</l>
+                    <l>Joy! Joy! All over joy!</l>
+                </lg>
+                <label type="main" rend="right"><hi rend="italic">The Mystic Trumpeter.</hi></label>
+            </lg>
+                
+                
+                <pb xml:id="leaf031r" facs="prc_as.00062.jpg" type="recto" n="51"/>
+                <fw type="pageNum" place="top">51 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+            <lg type="poem">
+                <head type="main" rend="center">PORTALS.</head>
+                <lg type="linegroup">
+                    <l>What are those of the known but to ascend and enter the Unknown?</l>
+                    <l>And what are those of life but for Death?</l>
+                </lg>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="poem">
+                <head type="main" rend="center">DAREST THOU NOW O SOUL.</head>
+                <lg type="linegroup">
+                    <l>Darest thou now O soul,</l>
+                    <l>Walk out with me toward the unknown region,</l>
+                    <l>Where neither ground is for the feet nor any path to follow?</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>No map there, nor guide,</l>
+                    <l>Nor voice sounding, nor touch of human hand,</l>
+                    <l>Nor face with blooming flesh, nor lips, nor eyes, are in that land.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>I know it not O soul,</l>
+                    <l>Nor dost thou, all is a blank before us,</l>
+                    <l>All waits undream'd of in that region, that inaccessible land.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l>Till when the ties loosen,</l>
+                    <l>All but the ties eternal, Time and Space,</l>
+                    <l>Nor darkness, gravitation, sense, nor any bounds bounding us.</l>
+                </lg>
+                
+                
+                <pb xml:id="leaf031v" facs="prc_as.00063.jpg" type="verso" n="52"/>
+                <fw type="pageNum" place="top">52 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <lg type="linegroup">
+                    <l>Then we burst forth, we float,</l>
+                    <l>In Time and Space O soul, prepared for them,</l>
+                    <l>Equal, equipt at last, (O joy! O fruit of all!) them to fulfil O soul.</l>
+                </lg>
+            </lg>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="poem">
+                <head type="main" rend="center">TWILIGHT.</head>
+                <lg type="linegroup">
+                    <l>The soft voluptuous opiate-shades,</l>
+                    <l>The sun just gone, the eager light dispelled&#8212;</l>
+                    <l>(I too will soon be gone, dispelled.)</l>
+                    <l>A haze&#8212;nirvana&#8212;rest and night&#8212;oblivion.</l>
+                </lg>
+            </lg>
+            <milestone unit="horbar-center-short"/>
+            <lg type="poem">
+                <lg type="linegroup">
+                    <l><handShift new="#h1"/>Thee, holiest minister of Heaven&#8212;thee, envoy, usherer,</l>
+                    <l><handShift new="#h1"/>Rich, florid, loosener of the stricture-knot called life,</l>
+                    <l><handShift new="#h1"/>Sweet, peaceful, welcome Death</l>
+                </lg>
+                <closer rend="right"><handShift new="#h1"/>Death's Valley</closer>
+            </lg>
+            <milestone unit="horbar-center-short"/>
+            <lg type="poem">
+                <lg type="stanza"><l><handShift new="#h1"/>Camerado, this is no book&#8212;</l>
+                    <l><handShift new="#h1"/>Who touches this, touches a man.</l>
+                </lg>
+                <closer rend="right"><handShift new="#h1"/>So long.</closer>
+            </lg>
+            </div1>
+        </body> 
+        
+        
+        <back>
+            <pb xml:id="leaf032r" facs="prc_as.00064.jpg" type="recto" n="53"/>
+
+            <div1 type="essay">
+                <head type="main" rend="center"><handShift new="#h2"/>WALT WHITMAN AMONG THE SOLDIERS.</head>
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                <p>[A<hi rend="smallcaps">LL</hi> that he loved, hoped, or hated, hung in the
+                    balance. And the game of war was not only momentous to him in its issues; it
+                    sublimated his spirit by its heroic displays, and tortured him intimately by the
+                    spectacle of its horrors. It was a theatre, it was a place of education, it was
+                    like a season of religious revival. He watched Lincoln going daily to his work:
+                    he studied and fraternized with young soldiery passing to the front; above all,
+                    he walked the hospitals, reading the Bible; a patient, helpful, reverend man,
+                    full of kind speeches. His memoranda of this period are almost bewildering to
+                    read. From one point of view they seem those of a district visitor; from
+                    another, they look like the harmless jottings of an artist in the picturesque.
+                    More than one woman, on whom I tried the experiment, immediately claimed the
+                    writer for a fellow-woman. More than one literary purist might identify him as a
+                    shoddy newspaper correspondent without the necessary faculty of style. And yet
+                    the story touches home; and if you are of the weeping order of mankind, you will
+                    certainly find your eyes fill with tears of which you have no reason to be
+                    ashamed. There is only one way to characterize a work of this order, and that is
+                    to quote.&#8212;<hi rend="italic">R. L. Stevenson, in "Familiar Studies of Men and
+                    Books</hi>."]</p>
+
+                <p>D<hi rend="smallcaps">ECORATION</hi> D<hi rend="smallcaps">AY</hi> always brings
+                    to my mind pictures of the "hospital part of the drama of
+                    1861-
+                    <!--en-dash?-->65," as portrayed by Walt Whitman in his "Specimen Days and
+                    Collect" (pp. 26-81). These become more and more vivid as the years go by, and
+                    reveal more distinctly Walt Whitman 
+                    <fw type="pageNum" rend="right">(53)</fw>
+                    
+                    
+                    <pb xml:id="leaf032v" facs="prc_as.00065.jpg" type="verso" n="54"/>
+                    <fw type="pageNum" place="top">54 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>himself as the leading figure. We
+                    first see him among the camp hospitals in the Army of the Potomac in Falmouth,
+                    Va.&#8212;opposite Fredericksburg&#8212;in December, 1862, talking to soldiers
+                    who seem "most susceptible and need it," and writing their home letters,
+                    including "love-letters, very tender ones." He was then in perfect physical
+                    health, so that it was more in the"simple matter of personal presence and
+                    emanating ordinary cheer and magnetism" that he was able to help, than by
+                    "medical nursing or delicacies or gifts of money or anything else." Yet with all
+                    this physical health, he fortified himself for these visits with "previous rest,
+                    the bath, clean clothes, a good meal, and as cheerful an appearance as
+                    possible." After a few weeks' experience in Falmouth, we see him in and around
+                    Washington, daily visiting hospitals in the Patent Office, Eighth street, H
+                    street, Armory Square, and others. Through the aid of friends he is able to give
+                    money and necessities to those who need them. He is now giving pocket-diaries
+                    and lmanacs; now distributing old pictorial magazines or story papers as well as
+                    daily papers, and lending the best books from man to man. He adapts himself to
+                    each emergency, however trival. He not only washes and dresses wounds (in some
+                    cases the patient is unwilling any one else should do this), but expounds
+                    passages from the Bible, and offers prayer at the bedside. "I think I see my
+                    friends smiling at this confession," he frankly says, "but I was never more in
+                    earnest in my life."</p>
+
+                <p>Some of these hospital sketches reveal a wondrous tenderness and love; as, for
+                    instance, the one of the poor youth, "so handsome, athletic, with profuse
+                    beautiful shining hair," who as the poet sat looking at him while he lay asleep,
+                    "suddenly, without the least start, awakened, opened his eyes, gave me a long
+                    steady look, turning his face very slightly to gaze easier&#8212;one long, clear
+                    silent look&#8212;a slight sigh&#8212;then turned back and went into his doze
+                    again. Little he 
+                    
+                    
+                    <pb xml:id="leaf033r" facs="prc_as.00066.jpg" type="recto" n="55"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 55</fw>
+                    knew, poor, death-stricken boy, the heart of the stranger that hovered
+                    near." At another time, while spending an afternoon with a suffering, dying
+                    soldier, he was asked to read a chapter in the New Testament.</p>
+                <q who="#ww" type="printed">
+                    <floatingText type="prose">
+                        <body>
+                            <p>I asked him what I should read. He said, "Make your own choice." I
+                                opened at the close of one of the first books of the evangelists,
+                                and read the chapter describing the latter hours of Christ and the
+                                scenes of the Crucifixion. The poor wasted young man asked me to
+                                read the following chapter also, how Christ rose again. I read very
+                                slowly, for he was feeble. It pleased him very much, yet the tears
+                                were in his eyes. He asked me if I enjoyed religion. I said,
+                                "Perhaps not, my dear, in the way you mean; and yet, may-be, it is
+                                the same thing." He said, "It is my chief reliance." He talked of
+                                death, and said he did not fear it. He behaved very manly and
+                                affectionate. The kiss I gave him as I was about leaving he returned
+                                fourfold. He died a few days later.</p>
+                        </body>
+                    </floatingText>
+                </q>
+                <p>Does not this make more real the closing lines of that autobiographical poem,
+                    "The Wound-Dresser<choice><orig>?"</orig><corr>"?</corr></choice>&#8212; <q
+                    who="#ww" type="printed"> <floatingText type="poetry"> <body> <lg type="extract">
+                        <l>Many a soldier's loving arms about this neck have crossed and rested.</l> 
+                        <l>Many a soldier's kiss dwells on these bearded lips.</l> 
+                    </lg> 
+                    </body> 
+                    </floatingText> 
+                    </q>
+                </p>
+
+                <p>The soldier being a rebel made no difference so long as he needed loving
+                    ministrations. For instance, he was tenderly soothing, in his pain a new patient
+                    in the hospital, a "very intelligent, well-bred and affectionate" young man,
+                    when all at once, turning to him suddenly, the sufferer said: "I hardly think
+                    you know who I am&#8212;I don't wish to impose upon you&#8212;I am a rebel
+                    soldier." "I did not know that," was the reply, "but it makes no difference."
+                    The poet visited him daily until he died, two weeks later. "I loved him much,"
+                    he says, "and always kissed him, as he did me."</p>
+                
+                
+                
+                <pb xml:id="leaf033v" facs="prc_as.00067.jpg" type="verso" n="56"/>
+                <fw type="pageNum" place="top">56 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                <p>In the hottest days of mid-summer we see this "good gray poet," with his umbrella
+                    and fan, on his walks to and from the hospitals. At one time he is carrying
+                    "several bottles of blackberry and cherry syrup, good and strong but innocent,"
+                    which upon arriving among the soldiers he mingles with ice-water for a
+                    refreshing drink, and serves all around. Another hot day he is distributing
+                    personally through the wards a large quantity of ice-cream he has bought for a
+                    treat. One night after leaving the hospital at ten o'clock, where he had been on
+                    self-imposed duty for some five hours, he wandered till long after midnight
+                    around the Washington streets.
+                    <!--should I be citing the source of all these quotation?-->The "night was
+                    sweet," he says, "very clear, sufficiently cool, a voluptuous half-moon slightly
+                    golden, the space near it of a transparent blue-gray tinge," while the "sky, the
+                    planets, the constellations&#8212;all were so bright, so calm, so expressively
+                    silent and soothing after those hospital scenes." This is in contrast to another
+                    summer night, when trying to keep cool, sitting by a wounded soldier in the
+                    hospital, he hears the home-made music of the young lady nurses of the wards, as,
+                    "making a charming group, with their handsome, healthy faces, and standing up a
+                    little behind them some ten or fifteen of the convalescent soldiers," with books
+                    in their hands, they sing, accompanied by the melodeon, the old hymns, "My Days
+                    are Gliding Swiftly By," and the like. His sympathy was such that he could
+                    honestly say he received as much pleasure sitting there, while these voices
+                    "sweetly rose up to the high whitewashed wooden roof, and pleasantly the roof
+                    sent it all back," as he had received from the "best Italian compositions
+                    expressed by world-famous performers."</p>
+                <p>Other pictures linger, such as "Paying the Bounties," "The Deserters," "A Glimpse
+                    of War's Hell-Scenes." Besides intercourse with the sick soldiers, we see him
+                    having "refreshing" talks with the able-bodied ones whom he meets everywhere
+                    about the city. To him there "hangs 
+                    
+                    
+                    <pb xml:id="leaf034r" facs="prc_as.00068.jpg" type="recto" n="57"/>
+                    <fw type="pageNum" place="top"><hi rend="italic">GEMS FROM WALT WHITMAN.</hi> 57</fw>
+                    something majestic about a man who
+                    has borne his part in battles, especially if he is quiet regarding it when you
+                    desire him to unbosom." He says he is "continually lost at the absence of
+                    blowing and blowers among these old-young American militaries." He finds "some
+                    man or other who has been in every battle since the war began," from whom he
+                    learns something. He doubts whether one can get a "fair idea of what this war
+                    practically is, or what genuine America is and her character," without some such
+                    experience as that which has come to him. He gives fine praise to the surgeons,
+                    nurses and soldiers&#8212;"not a bit of sentimentalism or whining have I seen
+                    about a single death-bed in hospital or on the field, but generally impassive
+                    indifference."</p>
+                <p>The memory of the soldiers' suffering never leaves him. Even while at the dance
+                    and supper-rooms for the Inauguration Ball at the Patent Office (1865), where
+                    were "beautiful women, perfumes, the violin's sweetness, the polka and the
+                    waltz," he could not help thinking of the various scenes enacted there when the
+                    crowded mass of the worst wounded of the war was brought in from Second Bull
+                    Run, Antietam and Fredericksburg; the "amputation, the blue face, the groan, the
+                    glassy eye of the dying, the clotted rag, the odor of wounds and blood and many
+                    a mother's son amid strangers passing away untended there, for the crowd was too
+                    much for nurse or surgeon." But the sight of the released prisoners of war
+                    coming up from the Southern prisons was to him worse than "any sight of
+                    battlefields or any collection of wounded, even the bloodiest." There was, as a
+                    sample, he says, "one large boat-load of several hundreds brought to Annapolis,
+                    and out of the whole number only three individuals were able to walk from the
+                    boat. The rest were carried ashore and laid down in one place or another." Can
+                    those be <hi rend="italic">men</hi>," he cries in agony, "those little,
+                    livid-brown, ash-streaked, monkey-looking dwarfs? Are 
+                    
+                    <pb xml:id="leaf034v" facs="prc_as.00069.jpg" type="verso" n="58"/>
+                    <fw type="pageNum" place="top">58 <hi rend="italic">GEMS FROM WALT WHITMAN.</hi></fw>
+                    they really not mummied, dwindled
+                    corpses?" As they lay there with a "horrible look in their eyes and skinny lips,
+                    often with not enough flesh on the lips to cover their teeth," he felt that no
+                    more appalling sight could be seen. But behind all these horrors of war we see
+                    the poet's faith in a Higher Power, in a sympathetic letter he wrote to the
+                    mother of a soldier whose eyes he had closed in death: "Such things are
+                    gloomy&#8212;yet there is a text&#8212;'God doeth all things well'&#8212;the
+                    meaning of which after due time appears to the soul."</p>
+                <p>According to his own testimony, during the three years Walt Whitman was in
+                    hospital, camp or field, as "sustainer of spirit and body in some degree, in
+                    time of need," he made over six hundred visits or tours, went among from 80,000
+                    to 100,000 of the wounded and sick, and distributed as almoner for others many
+                    thousands of dollars. With dear or critical cases he generally watched all
+                    night, sometimes remaining in the hospital several nights in succession. Those
+                    three years, with all their "feverish excitements and physical deprivations and
+                    lamentable sights," gave him the "greatest privilege and satisfaction" as well
+                    as "most profound lesson of his life." They "aroused, brought out and decided
+                    undreamed depths of emotion," and gave him his "most fervent views of the true
+                    <hi rend="italic">ensemble</hi> and extent of the States."</p>
+                <p>That in all his ministerings he "comprehended all, Northern and Southern,
+                    slighted none," makes this little tribute to his loving ministrations
+                    particularly appropriate whenever the North and South are joining together in
+                    commemorating the heroic dead.</p>
+                <note>
+                    <p rend="right">ELIZABETH PORTER GOULD.</p>
+                </note>
+                <note><handShift new="#h1"/>This was first published in the New York <hi rend="underline">Critic</hi></note>
+                <signed rend="right"><handShift new="#h1"/>E. P. G.</signed>
+            </div1>
+            <pb xml:id="leaf035r" facs="prc_as.00070.jpg" type="recto" n="59"/>
+            <pb xml:id="leaf035v" facs="prc_as.00071.jpg" type="verso"/>
+            <pb xml:id="leaf036r" facs="prc_as.00072.jpg" type="recto"/>
+            <pb xml:id="leaf036v" facs="prc_as.00073.jpg" type="verso"/>
+            <pb xml:id="leaf001v" facs="prc_as.00074.jpg" type="verso"/>
+        </back>
+    </text>
+</TEI>

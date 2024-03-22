@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<!-- USE THE OBJECT ID FOR THE VALUE OF @xml:id IN THE FOLLOWING ELEMENT. FOR EXAMPLE:
+    xml:id="zzz.00001"
+-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.01857">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Major Gen George C. Strong</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2010</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.001857</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                
+                <note type="project" target="#dat1"> </note>
+                
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <!--     THE VALUE OF @xml:id  IN THE FOLLOWING ELEMENT SHOULD BE YOUR INITIALS, IN LOWER CASE. FOR THIS ELEMENT, *DO NOT* PUT A 
+                        POUND SIGN BEFORE YOUR INITIALS. EXAMPLE: xml:id="bb" -->
+                    <persName xml:id="tj">Tim Jackson</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    
+                    <title><!-- TITLE BY WHICH THIS OBJECT IS IDENTIFIED AT THE REPOSITORY --></title>
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">MSS18630</idno>
+                    <orgName>The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC</orgName>
+                    
+                    <note type="project">Transcribed from our own digital image of original manuscript.</note>
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <revisionDesc>
+            <!--   
+                SUPPLY THE DATE AND YOUR INITIALS IN THE FOLLOWING LINE. FOR THE DATE, USE THIS FORMAT:
+                YYYY-MM-DD. 
+                FOR YOUR INITIALS, NOTE THAT THE POUND SIGN (#) SHOULD BE RETAINED, LIKE SO: 
+                who="#bb" 
+            -->
+            <change when="2011-01-11" who="#al">Checked and corrected</change>
+            <change when="2010-09-21" who="#tj">trascribed; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text type="manuscript">
+        <body>
+            <div1 type="prose">
+                <!--    THE VALUE OF @facs IN THE FOLLOWING ELEMENT SHOULD BE OJECT ID + .001 + .jpg  EXAMPLE:
+                    zzz.00001.001.jpg  -->
+                <pb xml:id="leaf001r" facs="loc.01857.001.jpg" type="recto"/>
+                <add place="margintop" resp="unk" type="pasteon">
+                    <p>Colored Volunteers.&#8212;The First regiment of Kansas Colored volunteers is now full, and has already proved its efficiency. A scheme is now on foot to raise a brigade. Many of the most influential men are interested in the movement, and are using their best efforts to make it successful. Colonel Jennison has been asked to take command of the brigade, and will probably accept the position.</p> <note type="editorial" resp="unk" place="inline">1774A</note></add>
+                <ab>Gen Blunt has ordered the 1st Kansas Colored. (Col Williams) to Baxter's Springs, extreme south eastern portion of Kansas</ab>
+                <ab>there is probably going to be work there in Arkansas&#8212;</ab>
+                <ab>the prize is important there in the rich <subst><del rend="overstrike" seq="1">territories</del> <add rend="unmarked" place="supralinear" seq="2">demesnes</add></subst>, the Indian territory, &#38;c. &#38;c</ab>
+                <add place="marginbot" resp="unk" type="pasteon">
+                    <p>Colonel E. A. Wild, of the Thirty-fifth Massachusetts regiment, has received a brigadier general's commission, and been empowered to raise a brigade of freedmen to be known as "Wild's African brigade," and to consist of four regiments to be enlisted in North Carolina, and of Colonel Shaw's regiment, now in camp in Massachusetts. General Wild is to appoint his own officers, most of whom will be taken from white regiments now in the service. <del rend="overstrike">General Wild is the son of the Rev. Dr. Wild, a clergyman of Brooklyn, a graduate of Harvard, and a regularly educated physician. He served in the Crimea as surgeon in the Turkish army.</del></p> <note type="editorial" place="inline" resp="unk">17748</note></add>
+                <note type="authorial" place="marginright">from Mass. has lost an an arm. is now quite an old Campaigner</note>
+                <note type="editorial" resp="unk" place="marginbottom">1774</note>
+                
+                <pb xml:id="leaf001v" facs="loc.01857.002.jpg" type="verso"/>
+                <!-- Numbers in an unknown hand tallied on this leaf. -->
+                
+
+            </div1>
+        </body>
+    </text>
+</TEI>
+<?xml version="1.0" encoding="UTF-8"?>

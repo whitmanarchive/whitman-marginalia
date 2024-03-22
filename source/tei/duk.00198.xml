@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00198">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00198">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,7 +10,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -21,7 +21,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00198</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,11 +33,11 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00198</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Egyptian religion… Greek…</title>
                     <idno type="callno">MS 97</idno>
                     <date notBefore="1838-05-31" notAfter="1892-03-26">Undated</date>
@@ -52,7 +52,7 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-02-24">completed date information, updated encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-07-09">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-08-23">Checked, revised.</change>
@@ -83,7 +83,7 @@
             of Life,<subst><add rend="unmarked" place="inline" seq="2"><handShift new="#h2"/>.</add> <del rend="overstrike" hand="#h2" seq="1"><handShift new="#h1"/>exemplified 
                 in any object, a</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>The <del rend="overstrike" hand="#h2">be</del></add></subst> 
             <handShift new="#h1"/>beetle, <subst><del rend="overstrike" hand="#h2" seq="1">a</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>the</add></subst><handShift new="#h1"/> bull, <subst><del rend="overwrite" hand="#h2" seq="1">a</del><add rend="overwrite" place="over" seq="2"><handShift new="#h2"/>the</add></subst> 
-            <handShift new="#h1"/>snipe <add rend="unmarked" place="supralinear"><handShift new="#h2"/>were divine in that they exemplified the inexplicable mystery of life</add><handShift new="#h1"/>.&#8212;It was a <choice><orig>pro‑<lb/></orig><reg>profound</reg></choice> 
+            <handShift new="#h1"/>snipe <add rend="unmarked" place="supralinear"><handShift new="#h2"/>were divine in that they exemplified the inexplicable mystery of life</add><handShift new="#h1"/>.—It was a <choice><orig>pro‑<lb/></orig><reg>profound</reg></choice> 
             found and exquisite 
             religion</ab></div1>
             <div1 type="section"><span rend="curlyBrace-right" xml:id="s3" from="#s3" to="#s4"/><head type="main-authorial">Greek</head> 
@@ -91,17 +91,17 @@
             through 
             several 
             thousand 
-            years&#8212; 
+            years— 
             certainly 
             <del rend="overstrike">th</del> two 
             thousand 
-            &#8212;very likely 
+            —very likely 
             several more</ab><anchor xml:id="s4"/>
             <milestone unit="undeclared" rend="horbar-short-left"/>
             <ab xml:id="ab4">Central idea, a combination 
             of Love, Intellect, and 
             the Esthetic, (the beautiful 
-            and harmonious,)&#8212;<del rend="overstrike">A</del> 
+            and harmonious,)—<del rend="overstrike">A</del> 
             <subst><del rend="overwrite" seq="1">r</del><add rend="overwrite" place="over" seq="2">R</add></subst>efined perceptions, the 
             presence of perfect human 
             bodies, the climate, the 
@@ -111,10 +111,10 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             <div1 type="section"><span rend="curlyBrace-right" from="#head1"/><head type="main-authorial" xml:id="head1" corresp="#ab5">Hebrew</head>
             <ab xml:id="ab5">The most ethereal and elevated 
-            Spirituality&#8212;this seems to be 
+            Spirituality—this seems to be 
             <del rend="overstrike">the</del> what subordinates all the 
-            rest&#8212;The soul&#8212;the spirit&#8212; 
-            rising in vagueness&#8212;</ab></div1>
+            rest—The soul—the spirit— 
+            rising in vagueness—</ab></div1>
             <pb xml:id="leaf001v" facs="duk_ap_00063.jpg" type="verso"/>
         </body>
     </text>

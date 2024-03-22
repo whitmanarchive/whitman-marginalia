@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00016">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Journalism"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00016</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"Journalism"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1845-02">Sept 1846</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-10-24">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00005.jpg" type="recto"/>
+            <note type="authorial" resp="#h2" place="top"><handShift new="#h2"/>Newspapers</note>
+            <note type="authorial" resp="#h2" place="top left">+</note>
+            <note type="authorial" resp="#h2" place="top right">12)</note>
+            <note type="authorial" resp="#h2" place="top right">4</note>
+            <fw type="date" place="top left">1846.]</fw>
+            <fw type="pageNum" place="top right">281</fw>
+            <fw type="header" place="top"><hi rend="italic">Journalism</hi></fw>
+            <div1>
+                <p>"'If matters proceed in the lively manner they have for
+                    the last ten years, you'll hear of it often. Hitherto, the rich of Europe have
+                    been in the habit of laying by a penny in America against an evil day; but the
+                    time will soon come, unless there is a great change, when the rich of America
+                    will return the compliment in kind. We are worse off than if we were in a state
+                    of nature, in many respects; having our hands tied by the responsibility that
+                    belongs to <hi rend="italic">our</hi> position and means, while those who choose
+                    to assail us are under a mere nominal restraint.'"</p>
+                <p><hi rend="smallcaps">COOPER'S RECEIPT FOR ANTI-RENTISM</hi> is, in substance,
+                    simply to <hi rend="italic">disfranchise those counties which resist the
+                        operation of law</hi>. When will our rul&#8212;our <hi rend="italic">servants</hi>, we mean, be men enough to use so efficacious a remedy?</p>
+                <p>But our limits compel us to take <choice>
+                        <sic>leaye</sic>
+                        <corr>leave</corr>
+                    </choice> for the present of this most valuable book. We say <hi rend="italic">for the present</hi>, for its themes are too momentous to be disposed of so
+                    briefly. But one thing we must say in conclusion. The parts of this work which
+                    might seem, to the inexperienced reader, the wildest, such as the hints at
+                    emigration, suggestions of repelling force by force, &amp;c., <hi rend="italic">do not originate with Mr.<cb/> Cooper</hi>. The same thoughts have found a <choice>
+                        <orig>lodgment</orig>
+                        <reg>lodgement</reg>
+                    </choice> in many a breast already, though they have never till now found so
+                    open an utterance. More than one party of Americans in Europe (albeit it might
+                    consist of more than a bachelor uncle and his nephew) has held such a
+                    conversation as Hugh and Roger held in Paris. More than one American has given
+                    his friends as grim a welcome home as Jack Dunning did the Littlepages.</p>
+                <p>And finally (for there is room for a few more lines) if any one should blame us
+                    for omitting the lesser duties of criticism&#8212;for having failed to observe
+                    that Mr. Cooper's style is at times incurably wooden, and his sentences
+                    frequently read the very opposite of what they mean, and his mottoes
+                    occasionally have not the least earthly connection with the subjects of the
+                    chapters to which they are prefixed&#8212;we have noticed these blemishes and
+                    others, as who has not in every novel that Mr. Cooper ever wrote. But at present
+                    we are in no frame of mind to carp at the spots on the face of the sun. If all
+                    our authors would write as truthfully as the author of "Indian and Ingin" we
+                    should be content to have them all write as clumsily.</p>
+            </div1>
+
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+            <div1>
+                <head type="main-authorial" rend="smallcaps">JOURNALISM.</head>
+
+                <p><hi rend="smallcaps">THE PRESS</hi>! what a moral and social power is comprised
+                    in that term! The Press! a sceptre swayed by an invisible hand! <hi rend="smallcaps">THE PRESS</hi>! a throne on which a veiled prophet is
+                    seated! <hi rend="smallcaps">THE PRESS</hi>! a sovereign whose mighty behests
+                    are without appeal! a tribunal whose decrees, like those of Providence, execute
+                    themselves! an impersonal despot, exercising without definite responsibility
+                    self-created power!</p>
+
+                <p>Is the press one estate of the realm? It is unrecognized and unacknowledged by
+                    the technicalities of the Constitution. Its existence is only connived at! Some
+                    that have felt its potency, have called it the fourth power. In practical truth,
+                    and actuality, it is the first power of the state! </p>
+
+                <p>Sovereign, Lords, Commons, and&#8212;<hi rend="smallcaps">THE PRESS</hi>!</p>
+
+                <p>The order of formal announcement is the inverse of their actual importance. The
+                    most insignificant takes the lead&#8212;the place of power is in the rear.</p>
+
+                <p>To behold this mighty intellectual engine of human advancement surrounded with
+                    all the accessories which can augment its efficiency, we must look there where
+                    it is at once allied with unlimited power of capital, mental agencies of the
+                    first order, enterprise which acknowledges no limits, and a perfect emancipation
+                    from the trammels of censorship&#8212;we must, in a word, look to <hi rend="smallcaps">LONDON</hi>.</p>
+
+                <p> The original object of a journal was the collection and circulation of "news."
+                    News! that is to say, information of those current events in which the public
+                    feels an interest. Hence a journal was called a "Newspaper." This is still, and
+                    will ever continue to be, one of the chief, if not the most important, of its
+                    functions. But besides being a register of passing events, it has become a
+                    commentator upon them. It is a judge as well as a recorder. It is a
+                    self-constituted tribunal, to whose sentence all are amenable. It is the most
+                        <pb xml:id="leaf001v" facs="rut_nhg.00006.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">282</fw>
+                    <fw type="date" place="top right">[Sept.</fw>
+                    <fw type="header" place="top"><hi rend="italic">Journalism.</hi></fw> efficient
+                    of tribunals, because the sentence itself constitutes the punishment . Its
+                    punishments are inevitable, so long as its decisions are in accordance with that
+                    law of which it is the administrator. That law is <hi rend="smallcaps">PUBLIC
+                        OPINION</hi>. It is, further, a prognosticator of approaching events. With
+                    the character of the judge, it combines that of the prophet.</p>
+
+                <p>Yet, like other prophets, it often appears to predict, when it only announces
+                    that of which it has secret means of information. It often, therefore, seems to
+                    lead public opinion when it really follows it.</p>
+
+                <p>The light it sheds on public questions is sometimes only reflected. Its rays,
+                    collected from innumerable scattered and unperceived sources among that very
+                    public itself, are sent back in a condensed and concentrated state. The Press is
+                    to the scattered and divergent rays of public intelligence what the
+                    burning-glass is to those of the sun. It brings them to a definite focus, where
+                    their concentrated power exercises a force to which the most obdurate substances
+                    yield.</p>
+
+                <p>But public opinion is divided on all questions of general interest, and
+                    especially on political questions. Each great party finds its appropriate organ
+                    in the Press; and sometimes, as in the case of the Parisian Press, every <hi rend="italic">nuance</hi> of opinion has its separate organ. This minute
+                    division is more limited in the London Press, owing to the vast capital
+                    necessary to establish and sustain a daily newspaper. Parties, also, in England
+                    are more ready to compromise differences, for the sake of the strength gained by
+                    cooperation. Newspapers are less multifarious, therefore; and more capital being
+                    devoted to the management of each individual journal, and the paper being sold
+                    at a higher price, there is a possibility of securing higher and more various
+                    talent in its conduct and direction.</p>
+
+                <p>The morning papers of London are the great organs and interpreters of public
+                    opinion in England. Of these, the Host is the exponent of the high Tory
+                    aristocracy, and eminently the organ of the <hi rend="italic">beau monde</hi>.
+                    More than half its readers take it up without reference to its political
+                    lucubrations. Its leading articles, or editorials, as we call them in America,
+                    are characterized by a rabid spirit of bitter and<cb/> unscrupulous personality.
+                    It is the unbending supporter of all those traditions of the aristocratical
+                    oligarchy, which are so fast melting away under the rays of modern
+                    enlightenment. The columns of this journal are open to the contributions of
+                    those members of the rigid Conservative party, who think they can more
+                    effectually give vent to their opinions and feelings in that way than in the
+                    House; and these diatribes are issued by the fashionable journal under editorial
+                    responsibility. Some of the most virulent of these personalities are understood
+                    to proceed from the retired Secretary of the Admiralty of the Tories, the Right
+                    Honorable John Wilson Croker.</p>
+
+                <p>This gentleman, who is now enjoying the <hi rend="italic">otium cum
+                        dignitate</hi> upon a large pension, to which he became entitled on
+                    retiring, after above twenty years spent in the public service, belongs to that
+                    class which, in England, are somewhat illiberally stigmatized by the title of
+                    political adventurers, or trading politicians. He was originally at the Irish
+                    bar. A practitioner at the Irish bar, was on the point of our pen; but, alas! we
+                    forgot the wide and mournful distinction between <hi rend="italic">simply being
+                        at the bar</hi>, and <hi rend="italic">practicing</hi> there. Mr. Croker was
+                    at the bar, and further we cannot with truth say. He was known in Dublin chiefly
+                    by the publication of a lively satirical criticism in verse on the drama called
+                    "Familiar Epistles to George Frederick Jones," who was then proprietor of the
+                    Dublin Theatre. Having succeeded in getting the favor of an aristocratic patron,
+                    he was returned to the Imperial Parliament for one of the nomination boroughs,
+                    where he soon signalized himself by his advocacy of his Royal Highness the Duke
+                    of York, in the delicate investigation promoted by Colonel Wondle; which,
+                    notwithstanding the clear truth and justice of the case, ended in the
+                    discomfiture and ultimate ruin of that officer, and the promotion of the Irish
+                    member to the office of Secretary of the Admiralty.</p>
+
+                <p>The more serious of the political effusions from the pen of this writer, find a
+                    place in the Quarterly Review; and those of mere temporary and passing interest,
+                    appear in the columns of the Morning Post.* </p>
+
+                <milestone unit="undeclared" rend="horbar-full"/>
+
+                <fw type="footnote" place="bottom">*Mr Croker is also known in literature by his edition of Boswell's Life of
+                    Johnson; by which, however, he added very little to his literary reputation.</fw>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

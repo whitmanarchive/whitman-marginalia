@@ -1,0 +1,2062 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"The Art of Reading"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.07002</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Edward Roth</author>
+                    <author>Ernest Legouvé</author>
+                    <title>The Art of Reading</title>
+                    <idno type="callno">PN4145.L4</idno>
+                    <date cert="high" when="1879">1879</date>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="pasteon" xml:id="ref1">
+                    <author>Walt Whitman</author>
+                    <title>Address</title>
+                    <!--<date when="unk">unk</date>-->
+                </bibl>
+                <bibl type="pasteon" xml:id="ref2">
+                    <author>Unknown</author>
+                    <title>Unknown</title>
+                    <!--<date when="unk">unk</date>-->
+                </bibl>
+                <bibl type="pasteon" xml:id="ref3">
+                    <author>Unknown</author>
+                    <title>Unknown</title>
+                    <!--<date when="unk">unk</date>-->
+                </bibl>
+                <bibl type="pasteon" xml:id="ref4">
+                    <author>Unknown</author>
+                    <title>Unknown</title>
+                    <!--<date when="unk">unk</date>-->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="black-ink2"/>
+                <handNote xml:id="h3" scribeRef="#ch" medium="black-ink"/>
+                <handNote xml:id="h4" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-12-12">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="marginalia">
+        <body>
+            <div1 type="text">
+                <div2 type="section">
+                    <pb xml:id="leaf001r" facs="loc_ap_00073.jpg" type="recto"/>
+                    <head type="main-authorial" rend="smallcaps">LEGOUVÉ's ART OF
+                        READING</head>
+                    <head type="sub" rend="smallcaps">WITH NOTES BY EDWARD ROTH.</head>
+                </div2>
+
+                <div2 type="section">
+                    <pb xml:id="leaf001v" facs="loc_ap_00075.jpg" type="verso"/>
+                    <div3 type="pasteon">
+                        <add rend="pasteon" source="#ref1" xml:id="add1">
+                            <q who="Walt Whitman" type="printed">
+                                <floatingText rend="flat">
+                                    <body>
+                                        <p><hi rend="smallcaps">WALT WHITMAN 431 STEVENS ST CAMDEN
+                                                NJ</hi></p>
+                                    </body>
+                                </floatingText>
+                            </q>
+                        </add>
+                    </div3>
+
+                    <note type="authorial" resp="#h1" place="top right">W.W Mickle Street Camden New
+                        Jersey</note>
+
+                    <div3 type="pasteon">
+                        <add rend="pasteon" source="#ref2" xml:id="add2">
+                            <q who="unk" type="printed">
+                                <floatingText rend="flat">
+                                    <body>
+                                        <p><hi rend="smallcaps">TRAIN THE VOICE.</hi> "It would be a
+                                            good thing," Mrs. Alice Eames, music teacher, suggests
+                                            in the St. Louis Globe-Democrat, "if some of the people
+                                            who spend small fortunes in giving their daughters
+                                            musical educations would adopt the French idea of having
+                                            the voice trained for conversation by a good singing
+                                            teacher. Persons with sensitive ears have often sighed
+                                            when a pretty and refined woman opened her mouth to drop
+                                            pearls of wisdom in a voice of shocking discordance. The
+                                            follows neglect of the voice in youth. A child, eight
+                                            ears old, whose voice is pitched so high or so low as to
+                                            be unmusical, should be taken in hand at once and taught
+                                            to talk in a tone that best suits the vocal organ, An
+                                            hour's lesson every day for three months will do it. If
+                                            the harsh tones of the child are in a low key the voice
+                                            should be tested on different keys until one is found
+                                            which gives musical sounds when the conversational tones
+                                            are all based upon it. Then there should be practice
+                                            every day until the child becomes accustomed to using
+                                            the new tones with ease."</p>
+                                    </body>
+                                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                                </floatingText>
+                            </q>
+                        </add>
+                    </div3>
+
+                    <div3 type="pasteon">
+                        <add rend="pasteon" source="#ref3" xml:id="add3">
+                            <q who="unk" type="printed">
+                                <floatingText rend="flat">
+                                    <body>
+                                        <p>Rev. Solon Lacur, lately of Denver, addressed the Emerson
+                                            College of Oratory yesterday on the philosophy of Ralph
+                                            Waldo Emerson as related to oratory. He elucidated the
+                                            "oratory" is a growth from within. A sublime abandonment
+                                            to the divine impulse for the expression of truth is its
+                                            highest result. Emerson said, "Matter obeys spirit as
+                                            clouds the wind." The first step of this art is finding
+                                            the relation of the body to the soul. The second is the
+                                            renewal of the body by the mind. the philosophy of
+                                            Emerson reflected truth as the water the stars. Every
+                                            attitude is an effort of the soul for expression. Great
+                                            souls are tongues of fire. The violin is an instrument
+                                            by which a great player moves the hearts of audiences.
+                                            These maxims and illustrations were seen to be in spirit
+                                            of Emerson's teachings, and many were quoted from the
+                                            philosopher concerning man's individuality, and applied
+                                            tot he method of teaching the expression of wisdom,
+                                            virtue, beauty and love, by the growth of the soul while
+                                            conscious of these emotions and powers.</p>
+                                        <p>Clark University.–A new publication devoted</p>
+                                        <note type="authorial" resp="#h2" place="right">Boston Trans
+                                            Nov.20 '90</note>
+                                    </body>
+                                </floatingText>
+                            </q>
+                        </add>
+                    </div3>
+                </div2>
+
+                <div2 type="section">
+                    <pb xml:id="leaf002r" facs="loc_ap_00076.jpg" type="recto"/>
+                    <note type="authorial" resp="#h3">Walt Whitman Esq with the Compliments of
+                        Charles Haffelfinger <!--trans-->July '79</note>
+                </div2>
+
+
+                <pb xml:id="leaf002v" facs="loc_ap_00077.jpg" type="verso"/>
+
+                <div2 type="section">
+                    <pb xml:id="leaf003r" facs="loc_ap_00078.jpg" type="recto"/>
+                    <p><hi rend="smallcaps">THE ART OF READING. BY ERNEST LEGOUVÉ</hi></p>
+                </div2>
+
+
+                <div2 type="section">
+                    <pb xml:id="leaf003v" facs="loc_ap_00079.jpg" type="verso"/>
+                    <p><hi rend="italic">To be had of the Same Publishers:</hi></p>
+                    <list>
+                        <item><p><hi rend="bold"><hi rend="smallcaps">CHRISTUS JUDEX</hi>: A
+                                    Traveller's Tale.</hi> By <hi rend="smallcaps">EDWARD ROTH.</hi>
+                                Price, 50 cents.</p></item>
+                        <item><p><hi rend="bold"><hi rend="smallcaps"/>JULES VERNE'S ROMANCE OF
+                                    ASTRONOMY.</hi> Translated by <hi rend="smallcaps">EDWARD
+                                    ROTH</hi>. With Maps and Illustrations:</p>
+                            <list>
+                                <item><hi rend="bold">1. The Baltimore Gun Club, 442 pages, Map, and
+                                        12 Illustrations..................$1 50</hi></item>
+                                <item><hi rend="bold">2. All Around the Moon.</hi> 484 pages, Map,
+                                    and 24 Illustrations. (With a new <hi rend="bold">Map of the
+                                        Moon</hi>, and Locke's famous <hi rend="bold">Moon
+                                        Hoax.)</hi>..................1 50</item>
+                                <item><hi rend="bold">3. To the Sun?</hi> 401 pages, 36
+                                    Illustrations..................1 50</item>
+                                <item><hi rend="bold">4. Off on a Comet! 472 pages, 36
+                                        Illustrations</hi>..................1 50</item>
+                            </list></item>
+                    </list>
+                    <fw type="footer" place="bottom right">ii</fw>
+                </div2>
+
+                <pb xml:id="leaf004v" facs="loc_ap_00080.jpg" type="verso"/>
+
+
+                <div2 type="section">
+                    <pb xml:id="leaf005r" facs="loc_ap_00081.JPG" type="recto"/>
+                    <note type="authorial" resp="#h1" place="top right">Walt Whitman</note>
+                    <p><hi rend="smallcaps">THE ART OF READING.</hi></p>
+                    <p><hi rend="smallcaps">BY ERNEST LEGOUVÉ OF THE FRENCH ACADEMY.</hi></p>
+                    <p>Translated, and Illustrated with Copius Notes, <hi rend="smallcaps">MAINLY
+                            BIOGRAPHICAL,</hi></p>
+                    <p><hi rend="smallcaps">BY EDWARD ROTH.</hi></p>
+                    <milestone unit="undeclared" rend="short-horbar-center"/>
+                    <p><hi rend="smallcaps">PHILADELPHIA: CLAXTON, REMSEN &amp; HAFFELFINGER 624,
+                            626 &amp; 628 MARKET STREET. 1879.</hi></p>
+                </div2>
+
+
+                <div2 type="section">
+                    <pb xml:id="leaf005v" facs="loc_ap_00082.jpg" type="verso"/>
+                    <p>.................................................</p>
+                    <p>Entered, according to Act of Congress, in the year 1879, by <hi rend="smallcaps">EDWARD ROTH</hi>, in the Office of the Librarian of
+                        Congress at Washington.</p>
+                    <p>.................................................</p>
+                    <p><hi rend="smallcaps">J. FAGAN &amp; SON, STEREOTYPERS, PHILAD'A.</hi></p>
+                </div2>
+
+
+                <div2>
+                    <pb xml:id="leaf006r" facs="loc_ap_00083.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">HOW I
+                                LEARNED TO READ.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">17</fw>
+                    <p>Two radical distinctions separate the Italian and the French languages: one,
+                        of sound; the other, of accent. The Italians have no <hi rend="italic">e</hi> mute. The Italians pronounce the <hi rend="italic">u</hi>, not
+                        in the French way, but like the English <hi rend="italic">oo</hi>; as for
+                        the French diphthong <hi rend="italic">eu</hi>, they have nothing like it at
+                        all. Besides, the French <hi rend="italic">a</hi>, the French <hi rend="italic">o</hi>, and particularly the French <hi rend="italic">e</hi>, have intermediate shades of sound that are never completely
+                        indicated by the French accents, whether acute, grave, or circumflex. How is
+                        it possible, for instance, to make a foreigner understand that the <hi rend="italic">e</hi> in <hi rend="italic">cette</hi> is neither as open
+                        as in <hi rend="italic">téte</hi>, nor as sonorous as in <hi rend="italic">colére</hi>, nor as sharp as in <hi rend="italic">bétail?</hi></p>
+                    <p>Accentuation presents even graver difficulties. The Italian language is rich
+                        and varied in accentuation; the French very poor. We Frenchmen like to glide
+                        over the syllables, hardly resting on any except the last; whereas, to an
+                        Italian ear the value of the accent, the place of the accent, possesses a
+                        very decided, indeed, an almost indispensable, charm. How to rid my
+                        interpreter of her strong inbred tendency to accentuate? How accustom her,
+                        for instance, to skim lightly over the first three syllables of Semiramis,
+                        dwelling only on the last one, when in <hi rend="italic">Se-mira-mi-de</hi>,
+                        the sonorous Italian word of five syllables, the <hi rend="italic">ra</hi>
+                        makes itself heard with so much roundness and force?</p>
+                    <p>After some careful reflection, I wrote out <hi rend="italic">Beatrice's</hi>
+                        part in strong, heavy letters, on lines pretty far apart. These letters I
+                        then marked with three kinds of signs in red ink. The first consisted of
+                        lines drawn up and down or vertically; the second were curves drawn all
+                        along the word or longitudinally; while the third were marks placed over the
+                        syllables, pretty much as the dactyls and spondees are marked in our school
+                        prosodies.</p>
+                    <p>The object of the vertical or up and down lines was to <pb xml:id="leaf006v" facs="loc_ap_00084.jpg" type="verso"/><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF READING</hi></hi></fw>
+                        <fw type="header" place="top left">18</fw> kill, to utterly annihilate all
+                        the <hi rend="italic">e</hi> mutes, that is, all the <hi rend="italic">e</hi>'s which the French never pronounce, but which the Italians
+                        always feel strongly disposed to pronounce. For example, in the phrase, <hi rend="italic">Madame, faites-moi le plaisir</hi>, the up and down lines
+                        would kill the final <hi rend="italic">e</hi> of <hi rend="italic">Madame</hi>, the <hi rend="italic">e</hi> of <hi rend="italic">faites-moi</hi>, and the <hi rend="italic">e</hi> of <hi rend="italic">le plaisir</hi>.</p>
+                    <p>The longitudinal and curved lines, starting from the first syllable and
+                        pouncing plumb on the last, said plainly and distinctly: "Hurry up, hurry
+                        up! don't lag on the way!" Every instant, Madame's Italian instinct would
+                        fain dwell on some particularly trying part of the word, but the inflexible
+                        red curve was there !" Go on! go on! push on to the accent!"</p>
+                    <p>Finally, the marks placed over the vowels whose intermediary sounds do not
+                        exist in Italian, recalled to her eyes, by a characteristic sign, some
+                        particular intonation, with which I had already made her ears and tongue
+                        quite familiar.</p>
+                    <p>By this simple method, thanks to the musical annotation, thanks to several
+                        weeks' pretty hard work, but thanks particularly to the wonderful
+                        intelligence and the still more wonderful <hi rend="italic">grit</hi> of the
+                        artist – a fighting artist, I used to call her – we at last
+                        succeeded, not in depriving an elegant Italian lady of her Italian accent
+                        – that I never expected nor even attempted – but in leaving her,
+                        so to speak, no more than its savor, its aroma, just enough to render her
+                        speech strange but pleasant, quaint but far from ridiculous – in
+                        short, piquant, interesting, and decidedly charming.</p>
+                    <p>You see that I had by this time exchanged the <hi rend="italic">rôle</hi> of pupil for that of master. <span rend="singleLine-left" hand="#h4" xml:id="b001" from="#b001" to="#b002"/><span rend="singleLine-right" hand="#h4" xml:id="b003" from="#b003" to="#b004"/>It was a new but most important step on the road of
+                        self-instruction. Teaching is perhaps the best possible way of learning. A
+                        dramatic author can-<anchor xml:id="b002"/><anchor xml:id="b004"/>
+                        <pb xml:id="leaf007r" facs="loc_ap_00085.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">HOW I
+                                    LEARNED TO READ.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">19</fw>not help, in fact, becoming a
+                        teacher of elocution. His interpreters are often nothing better than
+                        inexperienced beginners, with little in their favor beyond a pretty face 01
+                        a pretty voice. No matter for that; they are to such an extent the material
+                        part of his ideal personages, the tangible clothing of his conceptions, that
+                        he must take them just as they are, without ever thinking of exchanging them
+                        for others. He must face the difficult task of breathing a soul into these
+                        pretty statues. Every new idea becomes a new lesson, and the greater the
+                        number of ideas the harder the work.</p>
+                    <p>Besides, there comes a day, resuming every old experience and preceding every
+                        new, when the dramatic author is actually thrown on himself, when he speaks
+                        by himself, when he teaches by his own unaided resources – the day
+                        when he reads his piece for the committee by whom it is to be judged and the
+                        players by whom he expects it to be acted. An important and difficult
+                        matter! His task is to make his idea understood, to turn it into a living,
+                        comprehensible essence. The fate of his work lies in his own hands, or
+                        rather in his own voice. Will it be accepted or refused? Will it fail or
+                        succeed? The answer to these important questions depends in a very great
+                        measure indeed on how he accomplishes his task. Reading it, is, in fact, the
+                        first performance of his work, only without costume, or scenery, or actors,
+                        and with all the parts to be represented by one single individual.</p>
+                    <p>Reading a play, and taking a part in it, are two very different things. The
+                        actor has but one <hi rend="italic">rô</hi>le to represent; the reader
+                        represents them all. <span rend="singleLine-right" hand="#h4" xml:id="b005" from="#b005" to="#b006"/>The actor is a single musician taking his part
+                        in the orchestra; the reader is the whole orchestra itself. He must bring
+                        out in succession every age, every sentiment; every moment he must
+                            change<anchor xml:id="b006"/>
+                        <pb xml:id="leaf007v" facs="loc_ap_00086.jpg" type="verso"/><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">20</fw>
+                        <span rend="singleLine-left" hand="#h4" xml:id="b007" from="#b007" to="#b008"/>his voice, his look, his movement; and the impressior which
+                        he desires to produce being above all things an impression complete and
+                        distinct, though evanescent, he must give every character its full value,
+                        but no more than its full value; he must assign every character its own
+                        place, and keep it there; in short, by his fleeting words he must succeed in
+                        raising up before the imagination of the audience a new picture, but
+                        complete, living, and striking!<anchor xml:id="b008"/></p>
+                    <p>In fact, I know of no task more difficult, no feat more trying, and,
+                        considering that I have had fully forty years' incessant converse and
+                        intercourse with the most eminent artists of our day, I think you will
+                        acknowledge that, in delivering this opinion, I can flatter myself with the
+                        idea that I ought to know something touching the subject.</p>
+                    <p>Lastly, my third and concluding teacher was the Collége de France<hi rend="superscript">17</hi>, where, in 1848, I delivered a course of
+                        lectures on the <hi rend="italic">Moral History of Woman</hi>, and another
+                        in 1866, on <hi rend="italic">Parents and Children in the Nineteenth
+                            Century</hi>. There I was brought for the first time into direct and
+                        uninterrupted contact with the great public; there I learned both the rules
+                        imposed and the resources furnished by the presence of a numerous audience;
+                        and there I completed my education. Not that I mean to say, either, that I
+                        was then or am now anything like a real master in the art of reading. I have
+                        known artists, Samson among the rest, possessing too many claims to this
+                        title to permit me to advance any such pretensions. I simply mean that I had
+                        studied my course, taken my degree, and was now bachelor of the science.
+                        Then the very natural idea occurred to me that I should write my thesis. In
+                        other words, I thought I might render some service to the public in general
+                        by collecting together and issuing all these scattered <pb xml:id="leaf008r" facs="loc_ap_00087.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">HOW I
+                                    LEARNED TO READ.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">21</fw>and desultory observations of
+                        mine, not, of course, in the shape of a scientific treatise, but in a little
+                        pamphlet, not altogether indeed without order, and perhaps occasionally even
+                        rather bordering on the didactic, but still rather recalling the familiarity
+                        of a lecture than aspiring to the dignity and stateliness of a book.</p>
+                    <p>The project once formed in my mind, my next step was to go and talk it over
+                        with a friend.</p>
+                    <pb xml:id="leaf009r" facs="loc_ap_00089.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">MUST WE
+                                READ AS WE SPEAK?</hi></hi></fw>
+                    <fw type="pageNum" place="top right">23</fw>
+                    <p>it is in fact everything but an art. Good reading is not a thing to be
+                        learned. Of course I don't mean to deny that the exercise of this natural
+                        gift will not suggest some useful rules: <hi rend="italic">physical
+                            rules</hi>, don't speak too much or read too much, as we must not walk
+                        too much or eat too much; <hi rend="italic">common sense rules</hi>, don't
+                        read too loud, or read too low, or read too fast, or read too slow; <hi rend="italic">taste and modesty rules</hi>, don't read what you do not
+                        understand, and if you do understand it, try to make your hearers understand
+                        it. But beyond such general, summary, common-place instructions as these,
+                        which could all be easily comprised in a few lines, I can find in reading
+                        none of those clear, precise, tangible rules, founded on principles, which
+                        constitute an art. The whole art of Reading, in fact, lies in a nutshell:
+                            <hi rend="italic">read as you speak!</hi>"</p>
+                    <p>For Saint-Marc Girardin's taste I always entertained the greatest respect,
+                        and with his rare sincerity I was well acquainted. But on this particular
+                        subject I was fully convinced of the correctness of my own opinion. Besides,
+                        underneath all this fluent and confident criticism I heard a certain little
+                        sentence continually resounding. He never said this little sentence in words
+                        to me; most probably he never said it in words to himself; no matter, there
+                        it was, bubbling up bright and clear through the transparent flow of his
+                        language: "The fact of the matter is, I, Saint-Marc Girardin, read well
+                        though I never learned to read; therefore, learning to read is useless."</p>
+                    <p>My reply was somewhat as follows:</p>
+                    <p>"Dear friend, there is no denying that there is some truth in what you say,
+                        as there must be some truth in everything said by all men of wit, even on
+                        subjects which they have never studied. Now, though a Professor at the
+                        Sorbonne", you are nothing more than a man of wit on the <pb xml:id="leaf009v" facs="loc_ap_00088.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">24</fw> present question. You talk in a
+                        lively and pleasant manner on a subject concerning which you know really
+                        very little."</p>
+                    <p>I saw him wince slightly at this; the professional ears were not accustomed
+                        to such free language.</p>
+                    <p>I quietly resumed:</p>
+                    <p>"That to be a good reader some natural gift is required, cannot be
+                        questioned; and certainly reading is not one of those arts or trades that
+                        are emphatically closed to you forever if a careful apprenticeship has not
+                        initiated your youthful years into their mysteries. That several readers who
+                        have never seriously studied the subject, read with grace and can even give
+                        pleasure to their hearers, is equally incontestable. Of this you are a
+                        living proof yourself. You produce an <hi rend="italic">effect</hi>; you are
+                        always applauded; still you don't read Well–excuse the
+                        freedom–but really you are by no means a good reader."</p>
+                    <p>Here he smiled knowingly and quite complacently.</p>
+                    <p>"Hah! I'm not a good reader, eh?"</p>
+                    <p>"Far from it; and the proof is that if anybody else read exactly like you he
+                        would be a bad reader."</p>
+                    <p>"Explain that riddle, won't you?" he observed, with a laugh.</p>
+                    <p>"Nothing simpler. In your course of lectures at the Sorbonne I heard you read
+                        pieces from Lamartine, from Corneille, from Victor Hugo; and at the French
+                            Academy<hi rend="superscript">22</hi> I heard you read some of your own
+                        discourses. The difference was very great."</p>
+                    <p>"In what respect?" he asked, looking a little puzzled.</p>
+                    <p>"In this: the verses of our great poets, as read by you, were very much
+                        applauded. Why so? Because you inspired your reading with much of your
+                        superior intelligence, learning, and wit; because you read with a clear, <pb xml:id="leaf010r" facs="loc_ap_00090.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">MUST WE
+                                    READ AS WE SPEAK?</hi></hi></fw>
+                        <fw type="pageNum" place="top right">25</fw><span rend="singleLine-right" hand="#h4" xml:id="b009" from="#b009" to="#b010"/>vibrating,
+                        far-reaching voice: because you read with an air of conviction. But all
+                        these were personal qualities of your own which almost completely concealed
+                        your defects."</p>
+                    <p>"My defects! What were they, pray?"</p>
+                    <p>"Well, your voice has notes that when at a high pitch are a little harsh.
+                        Your delivery is sometimes rather declamatory and emphatic &#8212; young ears, I
+                        don't deny, rather like a little ranting. But just change your audience. Or
+                        rather give your manner to somebody who has that and nothing else, neither
+                        your wit, nor your superiority, nor your authority. The more successfully he
+                        imitates you, the less likely he will be to please. Now nothing is really
+                        and substantially good except what can be imitated without danger. That is
+                        the final test. You read, therefore, with talent, no doubt, but you do not
+                        read like a good reader."</p>
+                    <p>"Not even my own discourses?"</p>
+                    <p>"Ah! your own discourses! These nobody else can read as you do."</p>
+                    <p>"How is that? Are not my defects?"</p>
+                    <p>"In reading your own discourses, your very defects are your first requisites
+                        of success. They form a portion of your own individuality! A single instance
+                        will make my meaning clear. Jules Sandeau<hi rend="superscript">23</hi>
+                        asked me to read in public a charming reply which he had written to Camille
+                            Doucet<hi rend="superscript">24</hi>. <span rend="singleLine-left" hand="#h4" xml:id="b011" from="#b011" to="b012"/>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b013" from="#b013" to="#b014"/>'I will do nothing of the kind,' replied I.<anchor xml:id="b010"/> 'Why not?' he asked, 'you read so much better.' 'Yes,'
+                        was my answer, 'but that particular piece of yours I should not read half so
+                        well; your discourse is yourself. In reading it, I certainly should not
+                        commit the faults that you will commit. I should not drop my breath at the
+                        last syllable. I should try to bring out the strong points with higher
+                        relief. <hi rend="underline" hand="#h4">But that unstudied attitude of yours
+                            I could</hi><anchor xml:id="b012"/><anchor xml:id="b014"/>
+                        <pb xml:id="leaf010v" facs="loc_ap_00091.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">26</fw>
+                        <span rend="singleLine-left" hand="#h4" xml:id="b015" from="#b015" to="#b016"/><span rend="singleLine-right" hand="#h4" xml:id="b017" from="#b017" to="#b018"/><hi rend="underline" hand="#h4">never catch,
+                            nor that indolent voice, nor that touch-me-not air, nor that easy-going
+                            indifference</hi>, all of which complete the effect of your words by
+                        producing your personality &#8212; which are so charming in you, because they are
+                        so delightfully natural, but which would be absolutely displeasing in me as
+                        too unnatural, too studied, and too far-fetched. Your discourse is a plump
+                        discourse, blooming and blond; I should read it like a man who is thin,
+                        sallow, and dark. Read it yourself!' Sandeau believed me, and his success
+                        showed him that I was quite right. But if he had read any one else's
+                        discourse in the same style as he read his own, he would be a
+                            traitor."<anchor xml:id="b016"/><anchor xml:id="b018"/></p>
+                    <p>"The anecdote is rather pretty," observed Girardin, "but I don't exactly see
+                        where it takes us to. I understand exactly what you say, but I don't
+                        understand what consequences you wish to draw."</p>
+                    <p><span rend="singleLine-left" hand="#h4" xml:id="b019" from="#b019" to="#b020"/>Another illustration will make it all as plain as a pikestaff. Viennet25,
+                        as you know, enjoyed quite a reputation as a reader, a reputation well
+                        deserved, I admit, as long as he read his own verses. His hoarse voice, his
+                        rough gesticulations by which no doubt he imagined he showed his
+                        independence, his little tuft of hair sticking out of the top of his head
+                        like the comb of a cock, and his jovial intonations, were all the exact
+                        representation of his peculiar talents, lively certainly, but a little
+                        coarse. Add to this, he took the greatest possible pleasure in his own
+                        productions, and nobody admired Viennet more than Viennet<hi rend="superscript">25</hi> himself. All this, as you may very well
+                        suppose, gave his delivery, whenever he read his own verses, a glow, a heat,
+                        a fire that carried away the audience. I was asked one day to read some
+                        verses of Viennet's at the Academy. I refused pointblank. 'Neither myself,'
+                        I observed, 'nor the poem could have the least chance of success. 1 should
+                        fail in one of<anchor xml:id="b020"/>
+                        <pb xml:id="leaf011r" facs="loc_ap_00092.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">MUST WE
+                                    READ AS WE SPEAK?</hi></hi></fw>
+                        <fw type="pageNum" place="top right">27</fw>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b021" from="#b021" to="#b022"/> Viennet's most indispensable elements &#8212; namely, the pro
+                        found conviction that what I was reading was a masterpiece." <anchor xml:id="b022"/></p>
+                    <p> This harmless little sally made Girardin laugh, and he added gaily:</p>
+                    <p>"But the conclusion? What conclusion do you draw from all this ?"</p>
+                    <p>"I conclude that <hi rend="underline" hand="#h4">we must not call a reader a
+                            good reader merely because he is applauded in reading his own
+                            productions – where often his very faults as a reader contribute
+                            most decidedly to his success – the man being, as it were, thrown
+                            in with the discourse.</hi> I conclude also that we must exclude
+                        altogether certain choice natures, certain exceptional organizations, such
+                        as yours for instance, which can dispense with rules, overleaping them as
+                        they do by their innate strength and grace !' Rules of art are not necessary
+                        for us;' they can truly say to themselves, 'we don't need them.' But I
+                        conclude, in the third place, that ordinary humanity, the majority, the
+                        masses, <hi rend="italic">must</hi> learn to read in order to know how to
+                        read, and that the art of reading is not only indispensabl : to <hi rend="italic">them</hi>, but also highly useful to superior humanity,
+                        for even yourself, my dear friend, would require a little more science if
+                        you had a little less talent."</p>
+                    <p>"But this science – what does it consist in? How is it defined? Express
+                        the whole thing in a few words."</p>
+                    <p>"The art of speaking and reading correctly."</p>
+                    <p>"Correctly! Such a term implies rules. What are these rules?"</p>
+                    <p>"These rules are of two kinds, the material and the intellectual. For we must
+                        never forget that the art of reading relies at once and just as much on the
+                        correct exercise of a physical organ – the voice – as well as on
+                        that of a <pb xml:id="leaf011v" facs="loc_ap_00093.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">28</fw> spiritual organ – thought.
+                        Now, suppose we study the voice a little, to begin with?"</p>
+                    <p>"I shall be delighted!" replies Girardin.</p>
+                    <p>"Well, I shall write out my observations on the voice with some care –
+                        here we require preciseness, you know – and as soon as they are ready
+                        you shall hear me read them."</p>
+                    <p>Alas! the breaking out of the war interfered with our projects. I wrote out
+                        nothing; I read nothing for my friend; and it is only a few months ago that,
+                        at the request of Monsieur Bersot<hi rend="superscript">26</hi>, one of the
+                        chief pillars in our system of public instruction, I wrote out for the
+                        pupils of the Normal School this hurried resumé of my own
+                        experiences.</p>
+                    <pb xml:id="leaf012v" facs="loc_ap_00094.jpg" type="verso"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw>
+                    <fw type="header" place="top left">58</fw>
+                    <p>When his emotions would have subsided, would that fat, greasy, lazy, detested
+                            <hi rend="italic">r</hi> turn up again?</p>
+                    <p>This was the question he asked himself continually as he hurried homewards
+                        along the silent street. But by way of answering it, and mortally afraid of
+                        losing his conquest, he kept continually repeating in a loud voice:</p>
+                    <p>"Rrope, if you please! Pull the rrope, if you please! The doorr, the rrope,
+                        if you please! The rrope, the doorr, if you please!"</p>
+                    <p>Suddenly a new incident. As he turned a street-corner, what should jump out
+                        of the sewer but an enormous rat. A rat! Another <hi rend="italic">r</hi>!
+                        He strings it on at once to his previous conquests, and unites all three
+                        into one glorious whole!</p>
+                    <p>"A rrat! a rrope! a doorr! Pull the rrope! Open the doorr! A great rrat! A
+                        strrong rrope! An enorrmous rrrat!"</p>
+                    <p>He never went home till morning. How the r's rolled out, and the streets rang
+                        again during the rest of that eventful night! He marched as if in a grand
+                        triumphal procession! He had gained two magnificent victories. The adored
+                        Parisian fair one, and the treasured Italian <hi rend="italic">r</hi> were
+                        now his own forevermore<hi rend="superscript">1</hi></p>
+                    <pb xml:id="leaf013r" facs="loc_ap_00095.jpg" type="recto"/>
+                    <p><hi rend="smallcaps">CHAPTER VIII.</hi></p>
+                    <p><hi rend="smallcaps"><hi rend="italic">STUTTERING.</hi></hi></p>
+                    <p><hi rend="smallcaps">STUTTERING</hi>is a more serious defect, more stubborn,
+                        more rebellious, and of a more particular nature. It is a failing at once
+                        material and spiritual, mechanical and intellectual. It no doubt often
+                        proceeds from some malconformation – when of course nothing is left
+                        for us but to apply to the doctors; but no doubt too it often proceeds from
+                        lack of intellectual culture, and then some attempt at its remedy falls
+                        somewhat within our own province.</p>
+                    <p>People often stammer and stutter because their minds are stammering and
+                        stuttering, because they themselves don't exactly know what they mean or
+                        what they want, because they are too timorous, or too angry, or in too much
+                        of a hurry. Impatience, timidity, want of precision in ideas – these
+                        are the usual causes of stuttering and stammering, but these failings are
+                        far from being without a remedy. Accustom yourself to speak slowly, with
+                        deliberation, only when you are complete master of yourself, when you have
+                        made up your mind definitely on what you are going to say.</p>
+                    <p>A distinguished singer, whom I could easily name, stammers slightly when he
+                        speaks, though he never stammers when he sings. Why so? Simply because when
+                        he sings he is sure of his ground. As long as his words are united to his
+                        notes, previous practice, labor, study, custom, have made him a complete
+                        master of his voice and utterance; but the instant he begins to speak, the
+                        natural oversensi-</p>
+                    <fw type="pageNum" place="bottom right">59</fw>
+                    <pb xml:id="leaf014r" facs="loc_ap_00096.jpg" type="recto"/>
+                    <p><hi rend="smallcaps">CHAPTER I.</hi></p>
+                    <p><hi rend="smallcaps"><hi rend="italic">Readers and Orators</hi></hi></p>
+                    <p><hi rend="smallcaps">WE</hi> suppose now that the mechanical education of our
+                        pupil is everything that it should be. <span rend="singleLine-right" hand="#h4" xml:id="b023" from="#b023" to="#b024"/> His voice has become
+                        agreeable, flexible, and homogeneous. His upper, lower, and medium tones are
+                        completely under control and can be judiciously intermingled at will. He can
+                        take and emit breath without being noticed by the audience. He pronounces
+                        correctly and with perfect purity. His articulation is clear and distinct.
+                        His defects in utterance, if he had any, are all removed or corrected. He
+                        punctuates as he reads. His enunciation is neither hurried, nor broken, nor
+                        unequal, nor drawling.<anchor xml:id="b024"/> Finally, rarest quality of
+                        all, he never lets his last syllables drop, always remembering that, without
+                        a clear and distinct utterance of the last syllable, he can never be solidly
+                        or perfectly comprehensible.</p>
+                    <p>Does all this render him a finished reader? By no means. The most it can do
+                        is to make him a correct reader. Certainly, without fatiguing either himself
+                        or others, he can read the report of some business committee, a discourse
+                        before some learned body, an important paper on physical science, an essay
+                        on some question in political economy, some laborious explanation, some
+                        carefully prepared legal document.</p>
+                    <p>The ability to do even so much well is no doubt an important and substantial
+                        advantage; it establishes an intimate connexion between Reading and nearly
+                        all the <fw type="pageNum" place="bottom right">69</fw><pb xml:id="leaf014v" facs="loc_ap_00097.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">70</fw>liberal professions, and can
+                        consequently rank it in the number of highly useful and almost indispensable
+                        requirements.</p>
+                    <p>Still, if you expressed a doubt regarding the claim of even such ability to
+                        the distinction of an <hi rend="italic">art</hi>, I would not say you were
+                        wrong. Even such ability would not constitute an art. To be worthy of such a
+                        name, Reading must rise to the dignity of being able to reproduce works of
+                        undoubted art, must become the interpreter of the masterpieces of genius.
+                        For this, mere correctness is far from being sufficient; talent too is
+                        indispensably necessary.</p>
+                    <p>Can all men who read passably become first-class readers? All! No. Can all
+                        become readers of a certain fair grade? No. Can all learn to become readers
+                        with the same facility and in as short a time? No. But can all readers of
+                        some natural ability aspire to become what are called good readers? Yes.
+                        They can become really good readers, still, however, in strict proportion
+                        with their innate intelligence and peculiar gifts. Those organizations of
+                        first-rate order, endowed with highly exceptional qualities, will no doubt
+                        find that their labors in their own rich soil bear the richest harvest. But
+                        the others, without quite reaching the first rank, will come pretty near
+                        it.</p>
+                    <p>Genius is heaven-born, but talent is often acquired. Genius reinforced by
+                        talent produces a Talma.</p>
+                    <p>In what does this especial talent consist? On what rules is it based?</p>
+                    <p>Saint-Marc Girardin, as we already know, reduces all these rules to one, and
+                        that one of a simplicity clear to the dullest comprehension: "Read as you
+                        speak."</p>
+                    <p>Girardin is not the only able, witty, but unthinking, man who not only
+                        entertains this opinion but accepts it with such conviction as to consider
+                        it an axiom, a dogma,<pb xml:id="leaf015r" facs="loc_ap_00098.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READERS
+                                    AND ORATORS.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">71</fw>an unquestioned radical
+                        principle. But the phrase, though containing some flavor of truth, must not
+                        be taken without a good deal of restriction.</p>
+                    <p>Read as we speak? Certainly, if we only speak well. But which of us does
+                        speak well? Don't the majority of us speak badly? Are not our ears
+                        continually assailed with stammerings, hesitancies, mispronunciations,
+                        misapplication of terms, offences against the simplest grammar rules, not to
+                        speak of drawling, precipitancy, and nasal twang?</p>
+                    <p>Mademoiselle Mars was fond of telling us about a gentleman friend of hers
+                        who, though he spoke with a dreadful nasal twang, flattered himself that he
+                        had quite a genius for the stage. One day he asked her to listen to his
+                        recitation of a passage from <hi rend="italic">Athalie</hi>, so that she
+                        could form an opinion as to his style of delivery. She bore the infliction
+                        pretty well for some time, but at the end of the sixth verse she interrupted
+                        with loud applause.</p>
+                    <p>"Bravo! my dear sir!" she exclaimed as if transported with admiration; "what
+                        depth of emotion! What nobility of expression! There is to be sure a little
+                        defect in your pronunciation, but next time I've no doubt I shall find it
+                        all perfectly corrected." And she sent the nuisance away quite charmed with
+                        his critic, with everybody, and most of all with himself.</p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b025" from="#b025" to="#b026"/>Besides we must remember that ordinary conversation admits
+                        and even demands a certain negligence in our pronunciation, a sort of
+                        carelessness in our utterance, a kind of voluntary remissness or
+                        heedlessness which, though perhaps a grace in the speaker, would certainly
+                        be a defect in the reader.<anchor xml:id="b026"/> To talk as we read would
+                        generally be pedantry; to read as we talk would often be vulgarity. Examples
+                        of what I mean are perhaps more striking in<pb xml:id="leaf015v" facs="loc_ap_00099.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">72</fw> the French than in most other
+                        languages. Take a single instance. Certain syllables, like the possessive
+                        adjectives <hi rend="italic">mes</hi>, <hi rend="italic">tes</hi>, <hi rend="italic">ses</hi>, are generally pronounced in conversation as if
+                        they bore the acute accent. We hear young people continually saying: <hi rend="italic">reprens donc tés livres</hi>. But if you transferred
+                        such a pronunciation into your reading, you would hurt every delicate
+                        ear.</p>
+                    <p>A gentleman, who prided himself considerably on the correctness of his
+                        pronunciation, came one day to Lafon49, the celebrated, but somewhat
+                        overdignified, tragedian, to take some lessons in reading. In all
+                        probability, however, he was less thirsty after instruction than desirous of
+                        hearing himself complimented by the great artist. By way of graceful
+                        deference to his teacher, he undertook to read a piece from one of Lafon's
+                        most successful impersonations, <hi rend="italic">Orosmanes</hi>.</p>
+                    <p>In a few moments he was declaiming the line:</p>
+                    <l rend="indented2">"Reprends ta liberté, remporte <hi rend="italic">tés</hi> richesses!"</l>
+                    <p>"<hi rend="italic">Tais</hi> – richesses!" interrupted Lafon,
+                        correctingly.</p>
+                    <p> "That's what I said, wasn't it?"</p>
+                    <p>"No. You said: <hi rend="italic">tés</hi> richesses!"</p>
+                    <p>The reader made the proper correction, and resumed:</p>
+                    <l rend="indented2">"A l'or de ces rancons, joins <hi rend="italic">més</hi> justes largesses–"</l>
+                    <p>"<hi rend="italic">Mais</hi> – justes," cried Lafon.</p>
+                    <p>"Really, I thought I said&#8212;"</p>
+                    <p>"You said: <hi rend="italic">més</hi> justes."</p>
+                    <p>The amateur continued:</p>
+                    <l rend="indented2">"Au lieu de dix chrétiens que je dois t'accorder,</l>
+                    <l rend="indented2">Je t'en veux donner cent – tu peux <hi rend="italic">lés</hi> demander&#8212;"</l>
+                    <p>"<hi rend="italic">Lais</hi>"</p>
+                    <pb xml:id="leaf016r" facs="loc_ap_00101.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READERS AND
+                                ORATORS.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">75</fw>
+                    <p>We must not, however, single out the lawyers as the only offenders; the
+                        preachers are no better, often worse. Many and many a clergyman I have heard
+                        preach during my lifetime, but I must say that I have never heard more than
+                        one who spoke as I think he should have spoken, that is, at once naturally
+                        and affectingly. Of course I don't give his name; it would be merely
+                        gratuitously provoking the others.</p>
+                    <p>You must now see that if you want to read well you must learn how to speak
+                        well; but, curiously enough, you must also know that there is only one way
+                        of learning to speak well, and that is by reading well. This requires some
+                        explanation.</p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b027" from="b027" to="b028"/>On the morning of some great battle, the general mounts his horse. But
+                        what is the use of his being on horseback unless he can ride well? Obliged
+                        to change place incessantly, to be in every part of the field almost at the
+                        same time, to see with his own eyes the results of certain movements, and to
+                        be on hand to give new orders, he must have an animal perfectly docile in
+                        every respect, and just as much under subjection as his own limbs. If he was
+                        thinking all the time how he could manage his horse, he could never manage
+                        his army; he must therefore be a double master – a war-master and a
+                        ridingmaster – at once a Jomini<hi rend="superscript">50</hi> and a
+                            D'Aure<hi rend="superscript">51</hi>.</p>
+                    <p>This is precisely the case with the speaker: his voice is his horse, while
+                        his speech is his army. If he desires faithful service during the action, he
+                        must have rendered himself perfect master of both beforehand.<anchor xml:id="b028"/> But we can never learn how to arrange our thoughts and
+                        our sentences at the same time and by the same process. One distracts the
+                        other. Elocution studies, properly so called, and voice exercises are really
+                        most efficacious when most closely con- <pb xml:id="leaf016v" facs="loc_ap_00102.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">76</fw>connected with the ready-made
+                        ideas of others. In such a case we can surrender ourselves up to them
+                        completely. Having only one thing to do at a time, we have the best possible
+                        opportunity of learning how to do it well.</p>
+                    <p>A friend of mine once, a colleague member of the Assembly<hi rend="superscript">52</hi>, a young fellow full of talent, of knowledge,
+                        of ambition, expected to make his present position a stepping-stone to the
+                        Cabinet. One morning he told me he was to deliver an elaborate address in
+                        the House that day, and begged me to come and listen. I went and
+                        listened.</p>
+                    <p>"Well?" he asked, as we strolled homeward that evening.</p>
+                    <p>"Well, my dear friend, to be candid with you, I don't think you are bound for
+                        the Cabinet this time." "No? Why not?" "Because you can't speak."</p>
+                    <p>"How I can't speak?" he asks, evidently offended. "My discourse, as I have
+                        been well assured&#8212;"</p>
+                    <p>"Oh! your discourse, as a discourse, was really excellent, full of good
+                        sense, of justice, and now and then not without touches of original and
+                        decided wit. But what was the good of it all if we could not hear the half
+                        of what you said ?"</p>
+                    <p>"What! Not hear what I said? Why, even at the very beginning I spoke so loud
+                        and so strong that–that"&#8212;</p>
+                    <p>"–That you can almost say you screamed! In a quarter of an hour your
+                        voice was as hoarse as a drum."</p>
+                    <p>"I don't deny I felt a little husky, but&#8212;"</p>
+                    <p>"Wait till I finish. You spoke not only too loud but also too fast."</p>
+                    <p>"Too fast!–Well–However–It is quite possible that towards
+                        the end I may have hurried up a little to save time."</p>
+                    <p>"But you did not save time, you lost time, that is, you <pb xml:id="leaf017r" facs="loc_ap_00103.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READERS
+                                    AND ORATORS.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">77</fw>made every minute feel like two.
+                        Nothing makes a passage appear too long so much as beginning it in too great
+                        a hurry. The listener is put on the alert–he sees from your own hurry
+                        to get through that you yourself think the piece too long. Unwarned he might
+                        perhaps have never noticed it, but, prematurely put on his guard, he becomes
+                        impatient long before the proper time."</p>
+                    <p>"There is something undoubtedly true in what you say," observed my friend; "I
+                        certainly found the reins slipping through my fingers towards the
+                        close&#8212;but how am I to remedy all this?"</p>
+                    <p>"Nothing simpler. Take lessons from a reading master."</p>
+                    <p>"Do you know one?"</p>
+                    <p>"Yes, an excellent one."</p>
+                    <p>"His name?"</p>
+                    <p>"Samson."</p>
+                    <p>"What! Samson the actor?" "Yes."</p>
+                    <p>"Oh! I can't take lessons from a play-actor!" "Why not?"</p>
+                    <p>"Only think of it! A Deputy! A rising statesman! I should never hear the end
+                        of it, once it got into the papers!"</p>
+                    <p>"There I must say you are quite right! The world is so confoundedly stupid
+                        that a man is mercilessly laughed at for actually doing his best to learn
+                        his business. However, it need not get into the papers."</p>
+                    <p>"Of course you would never mention it."</p>
+                    <p>"Of course, nor Samson either. I can promise that sincerely."</p>
+                    <p>He took the lessons. Samson made my friend <hi rend="italic">pose</hi>
+                        himself properly; rendered his voice flexible; strengthened it; got him to
+                        read pages and pages of Bossuet<hi rend="superscript">53</hi>, Massil- <fw type="pageNum" place="bottom left">7*</fw><pb xml:id="leaf017v" facs="loc_ap_00104.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">78</fw> lon<hi rend="superscript">54</hi>, Bourdaloue<hi rend="superscript">55</hi>. <span rend="singleLine-left" hand="#h4" xml:id="b029" from="#b029" to="#b30"/>He accustomed him to begin slowly and with a low voice. Nothing like
+                        speaking in a low voice to command silence.<anchor xml:id="b030"/> They stop
+                        talking to hear what you say, and they end by listening. Such wise lessons
+                        bore their natural fruit. Within six months my young friend was a Cabinet
+                        minister, not a great minister indeed, but a good business minister, a
+                        minister always to be found in his office, a minister that always makes a
+                        point of reading whatever he signs. He represented in the Cabinet what is
+                        called the serious-sensible element.</p>
+                    <p>Now I ask of you to profit by this example. Are many of you likely to be
+                        Cabinet ministers? That I don't know, but I do know that many of you, as
+                        professors and teachers, will be compelled to speak at least an hour or two
+                        every day. Several of you will present yourselves at political meetings as
+                        candidates for the legislature, or for other offices in the power of the
+                        people. Here, as you know, a good deal of talking has to be done, and, as
+                        everybody knows, what is said depends pretty much for its importance
+                        altogether on the manner of saying it. Prepare yourself therefore, young
+                        man. Arm yourself beforehand for the encounter. Remember that you can rule
+                        the public only on condition that you can successfully rule yourself when
+                        you face it. And this you can never do unless you render yourself complete
+                        master of your voice!</p>
+                    <p>To render yourself a complete master of your voice, I see no better way than
+                        to take an elocution teacher. Better still, take two. Besides taking the
+                        regular lessons from one professor, if we want to understand our subject
+                        thoroughly, we must go over it again carefully and often with a rehearsing
+                        teacher. That you all know. But in the present case, the rehearsing teacher
+                        must be the pupil himself! To the lessons you have received, unite the clos-
+                            <pb xml:id="leaf018r" facs="loc_ap_00105.jpg" type="recto"/><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READERS
+                                    AND ORATORS.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">79</fw>-est personal attention and
+                        observation. Study everything that can give instruction. Watch faces as well
+                        as listen to voices. Seek after true intonations almost as carefully as you
+                        seek after truth itself. Study in particular the accents and the
+                        enunciations of children.</p>
+                    <p>Here a singular fact strikes us. Children are splendid elocution teachers.
+                        How true, how pure, how just their intonations! Their flexible young organs,
+                        readily accommodating themselves to every variety of sensation, enable them
+                        to reach more daring inflexions than the ablest actor would ever dream of.
+                        Have you ever listened attentively to a little girl telling some secret that
+                        she has discovered, describing some mysterious scene that she has just
+                        witnessed? Doesn't she remind you of little <hi rend="italic">Louise</hi>
+                        talking so innocently to her father in the <hi rend="italic">Malade
+                            Imaginaire</hi>? She imitates every voice. She reproduces every tone.
+                        You see the personages pass before you. You actually hear them talk! Well,
+                        just as she has got through with her story, ask her to read the very same
+                        little <hi rend="italic">Louise's</hi> part in Moliere, or a few of <hi rend="italic">Joas's</hi> verses in <hi rend="italic">Athalie</hi>. You
+                        are astounded. What has become of her naturalness? Where are those tones so
+                        varied and so appropriate? You hear nothing but the sing-song, tiresome,
+                        stupid monotony so peculiar to the reading of school children. These great
+                        professors of elocution have not the first idea of a principle of their
+                        art!</p>
+                    <p>As an example just in point, I can cite an instance in my own experience
+                        which may throw some light on the subject in hand.</p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b031" from="#b031" to="#b032"/>In my play of <hi rend="italic">Louise de Lignerolles</hi>,
+                        so often already alluded to, a part of some importance had to be taken by a
+                        little girl. It was given to a pretty child of ten, very graceful and full
+                        of intelligence. On the day of dress <anchor xml:id="b032"/>
+                        <pb xml:id="leaf018v" facs="loc_ap_00106.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">80</fw><span rend="singleLine-right" hand="#h4" xml:id="b033" from="#b033" to="#b034"/>rehearsal my little
+                        actress accomplished wonders. A gentleman seated near me applauded her
+                        rapturously, and could not help exclaiming every moment:</p>
+                    <p>"How perfectly true to nature the little thing is? How thoroughly artless!
+                        How beautifully simple! It is easy enough to see that none of your elocution
+                        teachers have ever got hold of <hi rend="italic">her!</hi>"</p>
+                    <p>The critic was fully as wrong in his conclusions as critic can well be. For a
+                        whole month I had hardly done anything else but teach the child her part,
+                        word by word, tone by tone. Was the part one above her age? By no means.
+                        Some of the very tones I taught her I had actually learned from my little
+                        actress herself. Like all children, when giving way to her emotions, she had
+                        created them instinctively. But the instant one of these original tones came
+                        into her part, the instant she began to read one of her own characteristic
+                        phrases, her naturalness vanished like smoke. What she had said with
+                        wonderful grace when speaking on her own account, she said coldly and even
+                        with incorrect expression the moment she began to speak for another. In
+                        fact, it cost me a good deal of time, patience, and labor to bring her back
+                        to what she really was, and to make her learn over again the very tones that
+                        she herself had taught me.<anchor xml:id="b034"/></p>
+                    <p>This, I think, shows pretty clearly how much of an art reading is. We have to
+                        teach it even to those from whom we ourselves have learned it!</p>
+                    <p>I now come to the most interesting part of our study – Reading regarded
+                        as a means of literary appreciation.</p>
+                    <pb xml:id="leaf019r" facs="loc_ap_00107.jpg" type="recto"/>
+                    <p><hi rend="smallcaps">CHAPTER II.</hi></p>
+                    <p><hi rend="smallcaps"><hi rend="italic">READING AS A MEANS OF
+                            CRITICSM</hi></hi></p>
+                    <p><hi rend="smallcaps">ONE</hi>day, after a long conversation with my friend
+                        Sainte Beuve<hi rend="superscript">56</hi>, in which I had fully explained
+                        all my views on the subject, my companion observed:</p>
+                    <p>"At that rate then a good reader should be a good critic."</p>
+                    <p>"Undoubtedly," replied I. "Whether you intended it or not, you have certainly
+                        given utterance to a great truth. For in what does a reader's talent
+                        consist? It consists in properly and justly rendering the beauties of the
+                        work which he undertakes to interpret. Now to render them properly and
+                        justly, he must understand them fully, and here comes the curious part of
+                        the question. It is only in consequence of his attempts to render these
+                        beauties as they ought to be rendered that he succeeds in understanding them
+                        as they ought to be understood! <span rend="singleLine-left" hand="#h4" xml:id="b035" from="#b035" to="#b036"/><span rend="singleLine-right" hand="#h4" xml:id="b037" from="#b037" to="#b038"/>Reading aloud gives us
+                        a power of analysis to which we could never attain by reading in
+                            silence."<anchor xml:id="b036"/><anchor xml:id="b038"/></p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b039" from="#b039" to="#b040"/>Sainte Beuve asking for a few illustrative examples, I
+                        immediately gave him as a strong case in point Racine's well known
+                        academical discourse on Corneille.</p>
+                    <p>With this famous discourse all men of literary culture are intimately
+                        acquainted. One passage in it is particularly striking – the
+                        comparison between the state of things in the
+                        Théâtre-FranÇais before Corneille's time and after it. This
+                        passage I had often read in silence and<anchor xml:id="b040"/>
+                        <pb xml:id="leaf019v" facs="loc_ap_00108.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">82</fw><span rend="singleLine-left" hand="#h4" xml:id="b041" from="#b041" to="#b042"/>always with very great
+                        admiration; but one day, on attempting to read it aloud, I was suddenly
+                        stopped short by a difficulty in the execution so great and so strange that
+                        it set me at once a-thinking. The first part was all simple and easy enough,
+                        but the second part seemed heavy, involved, and almost impossible to be read
+                        properly. It seemed to be dragged after Fontaine's lumbering stagecoach. It
+                        consists of no less than seventeen printed lines, and these seventeen
+                        printed lines form but one single sentence. One single sentence without a
+                        moment's pause! No period, no colon, not even a semicolon. Nothing but
+                        commas; while interlacing phrases, succeeding each other continuously and
+                        springing up anew at every turn of the sentence, prolonged it
+                        unintermittingly to its final end, and compelled you, though panting for
+                        breath, to follow up its meaning into all the ramifications of its winding
+                        sinuosities. When I found myself at the end at last, I felt somewhat like a
+                        broken-winded horse, but, as I said before, the very strangeness of the
+                        thing set me reflecting.</p>
+                    <p>"Why in the world," I asked myself, "did Racine take the trouble to compose a
+                        sentence so exceedingly long, so laboriously complicated, but withal so
+                        artfully put together?"</p>
+                    <p>My eye falls again on the first part of the passage. Hello! what do I see
+                        there? Absolutely the most complete contrast! Seven sentences in nine lines!
+                        Exclamation points everywhere! Verbs nowhere! A style abrupt, dislocated!
+                        Nothing finished! Nothing but fragments, chips, shapeless blocks! –
+                        Ah! I have it! I utter a cry of joy! The riddle is perfectly clear!</p>
+                    <p>Wishing to represent the opposite condition of the French theatre before and
+                        after Corneille, Racine had<anchor xml:id="b042"/>
+                        <pb xml:id="leaf020r" facs="loc_ap_00109.jpg" type="recto"/><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READING
+                                    AS A MEANS OF CRITICSM.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">83</fw>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b043" from="#b043" to="#b044"/>wanted to do more than merely describe them &#8212; he had painted
+                        them! To bring before our senses as well as our imaginations what he calls
+                        the chaos of dramatic poetry, he purposely employs a style that is violent,
+                        abrupt, void of art, without toning, without transition! But, to give us a
+                        visible picture of the stage as Corneille had created it, he constructs one
+                        long sentence, where phrases are strung on phrases, mutually linked
+                        together, and mutually sustaining each other, where everything is in
+                        harmony, unity and totality, where, in short, everything is co-ordinated,
+                        subordinated and highly elaborated. Such were Corneille's tragedies of <hi rend="italic">Polyeuctes</hi> and <hi rend="italic">Rodoguna</hi>, in
+                        which, as we all know, the author prided himself on the artful, as well as
+                        the striking, display of incident and the gradual, as well as the powerful,
+                        development of character.</p>
+                    <p>This clue once in hand, I took up the passage and read it over again. Suppose
+                        you read it for yourself, and judge if I was right.<anchor xml:id="b044"/></p>
+                    <p>"When Corneille began his labors, in what a condition was the French stage!
+                        How disorderly! How irregular! No taste! No true idea of the real and
+                        permanent attractions of the drama! The authors as ignorant as the
+                        spectators; the subjects mostly extravagant and improbable; no sketch of
+                        manners; no attempt at peculiarities of character; the language even worse
+                        than the incident; the principal ornament vulgar jokes and miserable puns;
+                        in a word, every rule of art, not excepting even those of common decency and
+                        propriety, regularly and outrageously violated.</p>
+                    <p>"Into this infancy, or rather into this chaos, of our dramatic French poetry,
+                        Corneille, after having lost some time in looking for the right road, after
+                        waging a deadly encounter, if I may say so, with the bad taste of the times
+                            <pb xml:id="leaf020v" facs="loc_ap_00110.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">84</fw> inspired by an extraordinary
+                        genius, and powerfully stimulated by a profound study of the Greek
+                        dramatists, endeavored to infuse some order by introducing good sense on the
+                        stage, not bare, cold, unattractive good sense, but good sense accompanied
+                        by all the pomp and splendor of which our language is capable, and, by
+                        weaving together into happy union the startling and the probable, he soon
+                        left all his rivals so far behind him that the greater number, despairing of
+                        ever being able to cope with him successfully, and no longer even daring to
+                        enter the lists, confined themselves to railing against the public voice so
+                        loudly raised in his favor, and to endeavoring in vain by their shallow
+                        discourses and silly criticisms to blacken a merit to which they themselves
+                        could never dream of aspiring."</p>
+                    <span rend="singleLine-left" hand="#h4" xml:id="b045" from="#b045" to="#b046"/>
+                    <p>There! Is not that enough to test the truth of my proposition and to render
+                        its demonstration irrefutable? To get the true sense of a passage, read it
+                        aloud. Then it shines with a new light. Then alone the author's idea stands
+                        completely revealed!</p>
+                    <anchor xml:id="b046"/>
+                    <p>Shall I add that the proper reading of such a sentence as this presents
+                        difficulty enough to be entitled to be called a lesson? In fact, I know
+                        hardly anything more trying and therefore more really useful than to conduct
+                        successfully to its end this terribly unwieldy sentence of seventeen printed
+                        lines. No resting on the way, remember; no signs of fatigue or
+                        absent-mindedness; always showing by the winding intonations of your voice
+                        that the sentence is not yet ended, and sustaining it to the last so
+                        skilfully and with such variety of expression that it can unroll itself
+                        before the hearer's understanding in all its amplitude and majestic
+                        flexibility!</p>
+                    <pb xml:id="leaf021r" facs="loc_ap_00111.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">BOSSUET AND
+                                PASCAL.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">87</fw>
+                    <p>"Easily enough: you simply read Pascal as you had read Bossuet."</p>
+                    <p>"Well, suppose I did? Aren't they both –?"</p>
+                    <p><span rend="singleLine=right" hand="#h4" xml:id="b047" from="#b047" to="#b048"/>Yes, they are both sublime authors; they both write with
+                        undoubted genius; but in temperament and method both are diametrically
+                        opposite. Bossuet, even when writing at his very best, is only speaking; in
+                        every one of his lines we hear the tones of the human voice; in every one of
+                        his sentences, however long or labored it may be, we can always detect the
+                        breathing and the movement of speech; never has writer been more of a
+                        painter and more of a poet. But painter and poet are both fused in him into
+                        a third person, dominating over them all, the orator!</p>
+                    <p>"In Pascal, on the contrary, this third person is the geometrician. Pascal
+                        too is a painter and a poet. But though the poet and the painter color his
+                        phrases, it is the geometrician that constructs his sentences. Bossuet's
+                        sentences are winged, they fly like an eagle; Pascal's sentences are a
+                        theorem, and develop themselves like a theorem: they always advance but
+                        never run! Now, Mr. Reader, what have you been trying to do? To fly! to run!
+                        nothing less! <anchor xml:id="b048"/> This wonderful style of Pascal's you
+                        have actually succeeded in making dull and heavy, simply because you tried
+                        to make it light and airy! Here! Please listen for a minute or two while I
+                        endeavor to express by a slight change of style the alluring charms of a
+                        writer who, though ever eloquent, is never an orator!"</p>
+                    <p>Then without much hurrying, with very little pausing, I set myself to
+                        represent that force which gains new strength as it progresses, <hi rend="italic">vires acquirit eundo</hi>, like a squadron of heavy
+                        cavalry, advancing with accelerated motion, and making the earth tremble
+                        under the continuous pressure <pb xml:id="leaf021v" facs="loc_ap_00112.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">88</fw> of an onward movement, heavy,
+                        uninterrupted, resist less!</p>
+                    <p>My proof, I need not say, was far from complete, my efforts as a reader being
+                        far from perfect, but I had the satisfaction of convincing my friends of the
+                        truth of my observations and, when the reading was over, we all bore away,
+                        well engraved on our memories, clearer, better defined and more correct
+                        portraits of these two great masters of French prose.</p>
+                    <pb xml:id="leaf022r" facs="loc_ap_00113.jpg" type="recto"/>
+                    <p><hi rend="smallcaps">CHAPTER IV.</hi></p>
+                    <p><hi rend="smallcaps"><hi rend="italic">HOW READING REVEALS.</hi></hi></p>
+                    <p><hi rend="smallcaps">EVERY</hi> rose has its thorn. Even reading aloud is not
+                        without its disillusions. If it discovers beauties, it detects faults as
+                        well. As Sainte Beuve has phrased it, "A reader aloud is at once a critic
+                        and a judge.'" Yes, a stern and severe judge, with an eye quick to alight on
+                        unsuspected weaknesses.</p>
+                    <p> What wretched discoveries of the kind have I fallen upon myself even
+                        unawares! How many writers and writings that I used to admire passionately,
+                        that possibly you admire passionately now, I have found totally unable to
+                        stand this terrible test! A French phrase describing a self-evident thing
+                        says, <hi rend="italic">it jumps into your eyes;</hi> it would be just as
+                        correct to say <hi rend="italic">it jumps into your ears</hi>. Eyes hurry
+                        hastily over the page, skipping lightly over the weak spots, instinctively
+                        avoiding the dangerous. But ears catch everything. Ears make no skips! Ears
+                        have sensibilities, susceptibilities, penetrations, of which eyes are
+                        totally incapable! The little word which, read in silence, slipped past us
+                        unawares, when read aloud, suddenly assumes enormous proportions! The
+                        expression which your eye had scarcely noticed, is absolutely shocking to
+                        your ear! And the more numerous is the audience listening to the reader, the
+                        keener and more sensitive is that reader's clairvoyant insight!</p>
+                    <span rend="singleLine-left" hand="#h4" xml:id="b049" from="#b049" to="#b050"/>
+                    <span rend="singleLine-right" hand="#h4" xml:id="b051" from="#b051" to="#b052"/>
+                    <p>The fact is, as soon as a reader begins his discourse, an <anchor xml:id="b050"/>
+                        <anchor xml:id="b052"/>
+                        <fw type="footnote" place="bottom left">8*</fw>
+                        <fw type="pageNum" place="bottom right">89</fw>
+                        <pb xml:id="leaf022v" facs="loc_ap_00114.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">90</fw>
+                        <span rend="singleLine-left" hand="#h4" xml:id="b053" from="#b053" to="#b054"/>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b055" from="#b055" to="#b056"/>electric current is instantly established between him and
+                        his hearers, a current of mutual reaction and mutual instruction.<anchor xml:id="b054"/><anchor xml:id="b056"/> The reader by enkindling the
+                        others enkindles himself; he blazes in their reflected light. No murmurs of
+                        impatience, no mutterings of inattention are necessary to give him warning.
+                        A certain kind of silence is language enough for him. Conscious of their
+                        impressibility, he feels that a certain passage will displease them, must
+                        displease them, long before he comes to it&#8212;we should not be far out if we
+                        said that his critical faculty, thoroughly aroused and highly excited by
+                        this thrilling contact with a public audience, has really become a kind of
+                        divination.</p>
+                    <p>Shall I confess that the experiment of reading aloud one day suddenly
+                        destroyed one of the dearest and most charming of my youthful enthusiasms? A
+                        writer whom I had always set up high in the first rank, had to step down
+                        unceremoniously to the second. I admire him still; eloquent and pathetic I
+                        shall always acknowledge him to be, but his name is no longer on the list of
+                        my great gods. It is to Massillon that I allude.</p>
+                    <p>Massillon, in my opinion, has a magnificent treasury of words, but an
+                        extraordinary dearth of phraseology. His vocabulary is truly royal, but his
+                        skill in employing it has little variety or breadth. Bossuet's style is
+                        continually relieved by new and unexpected turns of expression, which stamp
+                        every sentence with a peculiar and striking cast of countenance. In La
+                            Fontaine<hi rend="superscript">58</hi>, so many verses, so many
+                        different styles of thought. But once Massillon hits on a certain kind of
+                        sentence, he holds on to it with a deathgrip, page after page. Like a
+                        horse-car unable to leave its tramway, like a canal-boat which cannot quit
+                        its canal, on he goes, without turning an inch to the right or left, and on
+                        you go with him. What is the consequence? A<pb xml:id="leaf023r" facs="loc_ap_00115.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">HOW
+                                    READING REVEALS.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">91</fw> monotony, that at last palls on
+                        the ear and actually stops the reader. Besides, even the splendid profusion
+                        of his words is not without its uniformity. His incomparable talent of
+                        setting forth a single thought under such a variety of shapes had for a long
+                        time astounded me, dazzled me. I used to take for a new idea what was
+                        nothing but the same idea presented again and again under various different
+                        forms. But reading aloud soon convinced me that there was something
+                        artificial in this exuberant display. I began to feel as you feel at one of
+                        those pieces where the same actor pretends to represent five or six
+                        different personages, whereas in reality the only thing changed is the
+                        costume.</p>
+                    <p>Take a page of Saint-Simon59 if you want to realize more fully the idea that
+                        I wish to convey. He too repeats the same idea under twenty different
+                        shapes, but he does so as a clever magician turns one object into fifty by
+                        the blazing reflection of dazzling mirrors; he does so with the fire and
+                        heat of a man who, under the influence of a burning impression, always
+                        considers his expressions too feeble to adequately represent his ideas. He
+                        fights and struggles with his words to compel them to express what he means.
+                        He whips his language, spurs it, tortures it, drives it, overloads it, until
+                        at last it obeys him and becomes just as passionate, fiery, and headlong as
+                        himself!</p>
+                    <p>I have often tried to read Saint-Simon aloud, but never, I must acknowledge,
+                        with more than indifferent success. In the reading line I know of no harder
+                        kind of work or anything at the same time more interesting than a lively,
+                        rough and tumble, body to body, tug with this terrible giant. It is Jacob's
+                        struggle with the angel. You are sure to be conquered. But your very defeat
+                        has done you good; it has given you more nerve and a readier confidence in
+                        attempting new encounters.</p>
+                    <pb xml:id="leaf023v" facs="loc_ap_00116.jpg" type="verso"/>
+                    <p><hi rend="smallcaps">CHAPTER V.</hi></p>
+                    <p><hi rend="italic"><hi rend="smallcaps">A DILLUSION.</hi></hi></p>
+                    <p><hi rend="smallcaps">PERHAPS</hi> the best name for our little work would be:
+                            <hi rend="italic">Memoirs of a Reader</hi>. Its principles and chief
+                        points are certainly presented under forms of my own personal experience,
+                        and, deriving my ideas as I do from absolute realities, I endeavor to make
+                        them as vivid as possible by giving in detail all the circumstances to which
+                        they are indebted for their origin.</p>
+                    <p>Buffon<hi rend="superscript">60</hi> says: "Style is nothing but the order
+                        and the movement in which our thoughts run," and this definition embodies
+                        one of the fundamental rules of the art of reading. <span rend="singleLine-right" hand="#h4" xml:id="b057" from="#b057" to="#b058"/>The first thing therefore to be done by a reader, when he enters on the
+                        study of a new piece, is to look after its order so as to be able to
+                        determine its movement &#8212; movement being in reality no more than
+                        animated order. He must discover the plan underlying the structure, the
+                        sketch beneath the picture, the framework beneath the edifice, and thus
+                        arrive at the great original trace-lines.<anchor xml:id="b058"/></p>
+                    <p>The consequence of all this labor is perfectly natural. The reader's insight
+                        becomes amazing. No one penetrates more deeply into the secrets of the
+                        composition. Many a defect in unity, many a fault in harmony, which the
+                        gloss of execution and the glare of detail keep completely concealed from
+                        the eye of the multitude, force themselves irresistibly on the notice of the
+                        reader. Of this truth I had <fw type="pageNum" place="bottom right">92</fw>
+                        <pb xml:id="leaf024r" facs="loc_ap_00117.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">A
+                                    DILLUSION.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">93</fw> but a partial glimpse for a
+                        long time, but it was brought before me at last in all its power with an
+                        evidence that really there was no gainsaying.</p>
+                    <p>Delaunay, of the <hi rend="italic"/>Comedie Française<hi rend="superscript">45</hi>, favored me with his company one day at
+                        dinner. During the evening he said, in the course of conversation:</p>
+                    <p>"Have you any objection to my attempting before your friends a little
+                        recitation in poetry that I have never given elsewhere? It pleases myself so
+                        much that I have studied it with delight; I think I have discovered new
+                        effects in it, but, not having as yet put it to the test, I am in some
+                        doubt."</p>
+                    <p>"To what piece do you allude?" I asked.</p>
+                    <p>"Well, it is a piece that, I acknowledge, has little in common with a
+                        pleasant company assembled together after a lively dinner. Still, even the
+                        spice of danger tempts me."</p>
+                    <p>"What is it anyway?"</p>
+                    <p>"<hi rend="italic">Hope in God</hi>, by Alfred de Musset<hi rend="superscript">61</hi>."</p>
+                    <p>"Bravo!" I exclaimed. "These lines I have read my self more than once, and
+                        not without having experienced a pleasing impression. Beauties of the first
+                        order &#8212; verses little short of immortal! Come, begin! I vouch for your
+                        success!"</p>
+                    <p>His success in fact was decided; the end of the piece particularly, the
+                        Prayer, produced a profound and general emotion. Never before had the
+                        charming interpreter of <hi rend="italic">The October Night</hi>, and <hi rend="italic">No Jesting with Love</hi>, so much enraptured me. His
+                        voice was delightfully sweet and soft. He did not speak &#8212; he prayed!
+                        He prayed, just as people <span rend="singleLine-left" hand="#h4" xml:id="b059" from="#b059" to="#b060"/><span rend="singleLine-right" hand="#h4" xml:id="b061" from="#b061" to="#b062"/>sing &#8212; but he
+                        was very far from singing &#8212; he pursued the charming path that lies
+                        midway between majestic speech and melting music. It was, in fact, a hymn of
+                        youth, or<anchor xml:id="b060"/><anchor xml:id="b062"/>
+                        <pb xml:id="leaf024v" facs="loc_ap_00118.jpg" type="verso"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <fw type="header" place="top left">94</fw> rather of youthfulness &#8212;
+                        his accents revealed all the touching weakness of sublime immaturity &#8212;
+                        we were all moved to tears.</p>
+                    <p>Starting for the shores of Britanny, three months afterwards, I took care to
+                        carry my <hi rend="italic">Musset</hi> along, determined to learn in my turn
+                        how to recite <hi rend="italic">Hope in God</hi>. The very first day of my
+                        arrival I set myself to work. There I was, strolling among the rocks, my
+                        ears ringing with the grand bass of the "far-resounding sea," as I recited
+                        aloud these splendid verses. I say <hi rend="italic">recited</hi>, not <hi rend="italic">read</hi>, but recited, for one of the advantages of our
+                        art &#8212; I say <hi rend="italic">our</hi> art &#8212; for I hope it will
+                        soon become yours,&#8212; one of its many advantages is that it helps to
+                        people our memory with many a <span rend="singleLine-left" hand="#h4" xml:id="b063" from="#b063" to="#b064"/><span rend="singleLine-right" hand="#h4" xml:id="b065" from="#b065" to="#b066"/>grand passage from
+                        immortal works. <hi rend="italic">Reading</hi> these is not enough &#8212; we must
+                            <hi rend="italic">say</hi> them .... <hi rend="italic">repeat</hi> them
+                        .... <hi rend="italic">recite</hi> them at every moment that the humor takes
+                        us, at every moment that we have the opportunity! Down on the books that you
+                        must be always dragging along!<anchor xml:id="b064"/><anchor xml:id="b066"/>
+                        Be independent of them! Be able to do without them! Or rather, carry your
+                        books in your head! That's the way to start on a summer trip! You are, to
+                        all appearance, solitary and alone. You appear to undertake it without
+                        inviting a single one of your silent but eloquent company. Nevertheless, you
+                        are surrounded by a troop of such friends as Lamartine<hi rend="superscript">62</hi>, Corneille, La Fontaine, Victor Hugo<hi rend="superscript">63</hi>. With them we hold pleasant converse in the depths of the
+                        forest shades; with them we talk about our own daring lines; with them we
+                        pass hours and hours of delightful intercourse, hunting after some fleeting
+                        emotional tone, tender and true, finding it at last, announcing the
+                        discovery with delight and asking them how they are pleased with our
+                        success.</p>
+                    <p>This is certainly what I did with De Musset's <hi rend="italic">Hope in
+                            God</hi>. Never before had I learned anything with greater</p>
+                    <pb xml:id="leaf025r" facs="loc_ap_00119.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">A
+                                DILLUSION.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">99</fw>
+                    <p>An answer to this is easy. That a Reader, who knows his business, has a
+                        perfect right to bring out the beauties of his subject into the strongest
+                        relief, and at the same time do all he can to diminish its defects, does not
+                        admit of a shadow of doubt; but this liberty is allowable only when he has
+                        realized these beauties himself and discovered these defects himself. Us
+                        therefore he may dupe occasionally but himself never!</p>
+                    <p>Some time afterwards I told Delaunay of my disillusion.</p>
+                    <p>"It does not at all surprise me," was his reply. "I had myself detected that
+                        very flaw which you found so displeasing and had readily seen that the first
+                        part of the composition was much superior to the second. But I had also
+                        discovered that this Prayer, which you must acknowledge really contains
+                        several very touching lines, was capable of some new and telling effects. I
+                        expected it to move you, as it had moved me, by its very suggestions of
+                        human weakness. I contrived to exert my art in abridging a little of the
+                        first part, in toning it down somewhat, so as to be able to set the second
+                        in stronger light."</p>
+                    <p>You see then that Delaunay had not really entrapped us into unwarranted
+                        emotion. He had simply improved on his author, and this he could have done
+                        only on the condition of not being entrapped himself.</p>
+                    <span rend="singleLine-left" hand="#h4" xml:id="b067" from="#b067" to="#b068"/>
+                    <span rend="singleLine-right" hand="#h4" xml:id="b069" from="#b069" to="#b070"/>
+                    <p>&#8212;Which brings us back to our first principle:</p>
+                    <p><hi rend="italic">The best way to understand a work is to read it
+                        aloud.</hi></p>
+                    <anchor xml:id="b068"/>
+                    <anchor xml:id="b070"/>
+                    <pb xml:id="leaf025v" facs="loc_ap_00120.jpg" type="verso"/>
+                    <!--stamp?-->
+                    <p><hi rend="smallcaps">CHAPTER VI.</hi></p>
+                    <p><hi rend="smallcaps"><hi rend="italic">READING POETRY.</hi></hi></p>
+                    <p><hi rend="smallcaps">DE MUSSET'S</hi>name has naturally brought us to an
+                        important question in the study of our subject: the application of the art
+                        of Reading to poetry.</p>
+                    <p>How are verses to be read?</p>
+                    <p>Judging by what is usually done, even on the stage, the grand art of reading
+                        poetry consists in making the audience think you are reading prose. I was
+                        sitting one evening in a theatre, quite close to a box occupied by two
+                        ladies elegantly dressed and evidently of some distinction. All at once one
+                        of them exclaims:</p>
+                    <p>"Good gracious! They 're giving us verses!"</p>
+                    <p>And up they rise and out they go.</p>
+                    <p>For the loss of their company the actor certainly was not to be blamed; he
+                        had taken all kinds of pains to conceal the monster; he had so successfully
+                        broken up, dislocated and chopped the lines to pieces that the "poetry"
+                        reminded me of some murdered hero's body so gashed and disfigured by wounds
+                        that his own mother could not have recognized him.</p>
+                    <p>The amateurs naturally and blindly imitate the artists. Indeed they can't
+                        very well do anything else. We know only what we have learned, and very few
+                        suspect that here anything <hi rend="italic">is</hi> to be learned. I have
+                        never heard poetry read in public without being astonished unto admiration
+                        at the innumerable methods by which people contrive to <fw type="footer" place="bottom right"><hi rend="smallcaps">100</hi></fw>
+                        <pb xml:id="leaf026r" facs="loc_ap_00121.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READING
+                                    POETRY.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">101</fw> read it badly. Some, suffering
+                        from I know not what incomprehensible nightmare of harmony, conceive it to
+                        be their conscientious and inexcusable duty to envelope their verses in a
+                        sort of unctuous rhapsodical singsong, killing off all the rhymes, softening
+                        off all the outlines, shading off all the movements, until they succeed at
+                        last very thoroughly in producing upon the listener the same nauseous
+                        impression as you experience when you take some insipid greasy draught.
+                        Others again, laboring under the delusion that everything should be
+                        sacrificed for the sake of "truth," never seem to give themselves the least
+                        concern whatever regarding either the rhythm, the rhyme, or the prosody;
+                        and, when they unfortunately remember that the cesura should be somewhere
+                        about the sixth foot, they always contrive to make a pause in the very spot
+                        where, of all places in the world, a pause is sure to make the whole verse
+                        ridiculous.</p>
+                    <p>In opposition to these strange errors, allow me to present you with three
+                        maxims, absolute and final, the truth of which I shall prove by the simplest
+                        examples:</p>
+                    <list>
+                        <item>1. The Art of Reading is never so difficult and never so necessary as
+                            when it is applied to poetry. Only long and careful study can make you a
+                            proficient.</item>
+                        <item>2. You must read verses as verses, and poetry with the ear of a
+                            poet.</item>
+                        <item>3. The interpreter of poets must become their confidant; that is, they
+                            must reveal to him what they reveal to no other.</item>
+                    </list>
+                    <p>To demonstrate these three axioms, one poet and one alone may be taken, La
+                        Fontaine.</p>
+                    <p>The little detail I am now about to give must not be considered a digression;
+                        in fact it will be only a shorter and pleasanter path to take you where I
+                        want you to go.</p>
+                    <fw type="footer" place="bottom left">9*</fw>
+                    <pb xml:id="leaf026v" facs="loc_ap_00122.jpg" type="verso"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw>
+                    <fw type="header" place="top left">102</fw>
+                    <p>La Fontaine was the first book in which I took reading lessons. My master was
+                        a man of talent &#8212; perhaps he even had too much talent &#8212; with a
+                        charming voice, of which he certainly made a sensible use, and with a play
+                        of features, of which he just as certainly took considerably too much
+                        advantage. He gave me, however, two lessons of great and equal utility, from
+                        which I hope you may profit just as much as I did. He told me both what a
+                        reader should always attempt to do, and what he should always carefully
+                        avoid.</p>
+                    <p>He had to read some fables of La Fontaine one morning at the Conservatory
+                        before some literary assembly; on the way he called in on me, and said:</p>
+                    <p><span rend="singleLine-left" hand="#h4" xml:id="b071" from="#b071" to="#b072"/>Come and see how a reader that knows his business presents himself before
+                        a large audience. That you may profit the more from it, here is the
+                        programme:</p>
+                    <p>"I begin by giving the assembly a sweeping glance. This glance, circular,
+                        comprehensive, and accompanied by a half smile lightly pencilled on the
+                        lips, must be of an agreeable and amiable character. Its object is to
+                        conciliate the good-will of the audience, to make a collection of their
+                        sympathies and regards, and particularly, to make yourself the central point
+                        of attraction for all eyes. Then you clear your throat a little &#8212; hm!
+                        hm ! &#8212; as if you were going to begin &#8212; but you don't begin !
+                        &#8212; not yet ! &#8212; you wait until the silence is as still as death.
+                        Then you advance your arm &#8212; your right arm, mind &#8212; with a
+                        graceful curve of the elbow &#8212; never forget that &#8212; the elbow is
+                        the soul of the arm!<anchor xml:id="b072"/> Attention redoubled. You
+                        announce the title. You announce it simply, aiming at no effect, playing
+                        programme as it were &#8212; <hi rend="italic">The Oak and the Reed</hi>.
+                        You begin: <hi rend="italic">The OAK</hi> &#8212; here your voice must be
+                        round and full! The intonation, however, must be dampened a <pb xml:id="leaf027r" facs="loc_ap_00123.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READING
+                                    POETRY.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">103</fw> a bit! Your gesture must be
+                        noble and somewhat emphatic! You're describing a giant, you know, his head
+                        in the clouds, his feet in the regions of eternal death!</p>
+                    <p>"The OAK, one day said to the <hi rend="smallcaps">REED</hi>.</p>
+                    <p>"Remember! Hardly any voice at all in pronouncing the word <hi rend="italic">Reed</hi>! Let your intonation belittle him, squeeze him, crush him,
+                        the wretched vegetable! Despise him, throw up your nose at him, give him a
+                        contemptuous glance over your shoulder &#8212; all this in a masterly way,
+                        you know &#8212; with a low, smothered voice as if you were looking down on
+                        him from a great distance&#8212;"</p>
+                    <p>&#8212;What! tittering? Well, I don't wonder! But how heartily you would
+                        laugh if I proceeded to show you how my respected preceptor, Monsieur
+                        Febvé, read the line:</p>
+                    <p><hi rend="italic">Regardaient rôtir des marrons</hi>&#8212;</p>
+                    <p>He actually made the five <hi rend="italic">r</hi>'s roll and rattle on his
+                        tongue 1n imitation of the chestnuts crackling and sputtering before the
+                        fire! Absurd, you say, ridiculous, silly. Well, the absurdity, the
+                        ridiculousness, the silliness I don't deny. But I tell you that in spite of
+                        absurdity, ridiculousness, silliness, my preceptor's remarks contained much
+                        that was profound, just, truthful! <span rend="singleLine-right" hand="#h4" xml:id="b073" from="#b073" to="#b074"/>Nothing is more unquestionable
+                        than that you must not begin to read the instant you mount<anchor xml:id="b074"/>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b075" from="#b075" to="#b076"/> the platform, or that you must endeavor by a certain
+                            glance<anchor xml:id="b076"/>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b077" from="#b077" to="#b078"/>to put yourself in communication with your audience, or that
+                        you must announce your title simply, unostentatiously, distinctly, and that
+                        you must try to represent, to realize, <anchor xml:id="b078"/><span rend="singleLine-right" hand="#h4" xml:id="b079" from="#b079" to="#b080"/>to paint and reproduce, as it were, your different personages by the
+                        varying intonations of your voice. In short, if you only suppress my
+                        preceptor's fantastic, perhaps peculiar<anchor xml:id="b080"/>,
+                        exaggerations, affectations, and far-fetched strains <pb xml:id="leaf027v" facs="loc_ap_00124.jpg" type="verso"/><fw type="pageNum" place="top left">104</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>after the impossible, you can draw
+                        from his instructions an excellent and highly useful lesson.</p>
+                    <p>About the manner of reading fables, we must now make a few remarks. The
+                        ordinary opinion is so prevalent as to have become an axiom: <hi rend="italic">Fables should be read simply</hi>. Simply&#8212;no doubt.
+                        But what do you mean by simply? Do you mean smoothly, unvaryingly, or, in
+                        short, prosily? You do? Well, then I am sorry to be compelled to differ with
+                        you <hi rend="italic">in toto</hi>. That is not reading La Fontaine, it is
+                        killing him! <hi rend="italic">Tradulore traditore</hi>! It is not
+                        translating him, it is betraying him! La Fontaine is the most involved poet
+                        of the French language. No writer unites in one single individual so many
+                        contrarieties. No poetry is so rich in opposition! His well-earned nickname
+                        of <hi rend="italic">Bonhomme</hi> (simpleton), his well-known reputation
+                        for "verdancy," the thousand and one anecdotes told of his fits of
+                        abstraction, have all somewhat blinded us with regard to his unquestioned
+                        genius. The man has set us all wrong in estimating <hi rend="italic">the
+                            poet</hi>. Of the simplest manners? Yes. As an individual, somewhat
+                        eccentric, possibly foolish? Granted. But put a pen into the hand of this
+                        simpleton, this Poor Poll &#8212; he is simpleton no longer! He is the
+                        quickest, the deepest, the sharpest, the knowingest! We are nothing beside
+                        him! We are simple amateurs; he is the most accomplished of artists! He has
+                        himself revealed his secret:</p>
+                    <l><hi rend="italic">Tandis que sous mes cheveux blancs</hi></l>
+                    <l><hi rend="italic">ye fabrique a force de temps,</hi></l>
+                    <l><hi rend="italic">Des vers v1oins sense's que la prose.</hi></l>
+                    <p>(Whilst in my old age I manufacture with time and care verses hardly as
+                        sensible as prose.)</p>
+                    <p><hi rend="italic">I manufacture !</hi> Do you understand the word? Does it
+                            <pb xml:id="leaf028r" facs="loc_ap_00125.jpg" type="recto"/>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READING
+                                    POETRY.</hi></hi></fw>
+                        <fw type="pageNum" place="top right">105</fw>not pretty well express effort,
+                        energy, powerful will? <span rend="singleLine-right" hand="#h4" xml:id="b081" from="#b081" to="#b082"/>In fact, with La Fontaine
+                        everything is carefully calculated beforehand, premeditated, sought after
+                        with effort, while, at the same time, by a miraculous gift, everything is
+                        harmonious, flexible, natural! <hi rend="underline" hand="#h4">Art</hi>
+                        <hi rend="underline" hand="#h4">everywhere</hi>, <hi rend="underline" hand="#h4">the artful</hi>
+                        <hi rend="underline" hand="#h4">nowhere!</hi><anchor xml:id="b082"/> What is
+                        the key to this wondrous union? His delightful simplicity of heart naturally
+                        passes into his verses, and then fuses itself so thoroughly with his great
+                        literary talent that, while his knowledge enables him to represent
+                        simplicity with consummate skill, his simplicity imparts its own airy
+                        gracefulness to knowledge.</p>
+                    <p>Another contrast, another difficulty, and consequently another merit. In La
+                        Fontaine all extremes meet. Side by side, in the closest union, stand tones
+                        the most dissimilar, emotion, humor, power, grandeur, dignity, familiarity,
+                        Gallic joviality, all elbowing each other incessantly, and all present
+                        everywhere in every one of his poems. No writer that I know of has succeeded
+                        so perfectly in packing so much value into so small a space! One single
+                        line, often one single word of his, is sufficient to open out to your gaze
+                        far extending horizons! Painter incomparable! Narrator incomparable! Creator
+                        of original characters, hardly inferior to Moliére himself! And you
+                        think all this can be rendered simply, unvaryingly, prosily, without effort?
+                        I tell you again that it cannot! No. It is only after deep and careful study
+                        that a reader may begin to think that he understands even imperfectly, much
+                        less undertake to make others understand, an art so profound and so
+                        elaborate.</p>
+                    <p>My expressions, I confess, want clearness: to illustrate them, let us take
+                        the fable of<pb xml:id="leaf028v" facs="loc_ap_00126.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">106</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <hi rend="italic">THE HERON.</hi></p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Un jour, sur ses longs pieds allait, je ne sais
+                                òu,</hi></l>
+                        <l>Le héron au long bec emmanché d'un long cou.</l>
+                    </lg>
+                    <p>(One day, the Heron was going somewhere on his long legs, his long bill
+                        swinging at the end of his long neck.)</p>
+                    <p>Any one can see here that the triple repetition of the word <hi rend="italic">long</hi> is a pictorial effect which the reader should attempt to
+                        render.</p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Il côtoyait une rivière;</hi></l>
+                        <l>L'onde était transparente ainsi qu' aux plus beaux jours.</l>
+                    </lg>
+                    <p>(He was stalking alongside a brook, whose waters were as trasnparent as
+                        waters can be in the most lovely weather.)</p>
+                    <p>Should these two lines be read in the same way? By no means. The first, being
+                        simple narrative, should be read simply. The second is a painter's line; the
+                        image must be rendered as visible by the reader's tongue as by the poet's
+                        pen.</p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Ma commère la carpe y faisait mille tours</hi></l>
+                        <l><hi rend="italic">Avec le brochet son compère!</hi></l>
+                    </lg>
+                    <p>(There frolicked together Dame Carp with her old crony Beau Pike!)</p>
+                    <p>You don't know your business very well here unless you contrive to throw into
+                        your voice a lively, joyous, sportive, lightly jesting expression,
+                        suggestive of the jovial fun of the rollicking pair.</p>
+                    <lg type="linegroup">
+                        <l>Le héron en eût fair aisément son profit;</l>
+                        <l>Tous s'approchaient du bord; l'oiseau n'avait que prendre.</l>
+                    </lg>
+                    <p>(The heron could have easily gobbled them up; they touched the bank every now
+                        and then; he had but to stoop.)</p>
+                    <p>Simple narration all this, nothing more.</p>
+                    <lg type="linegroup">
+                        <l>Mais il crut micus faire d'attendre</l>
+                        <l>Qu'il eût un peu plu d'appétit</l>
+                    </lg>
+                    <p>(But he was in no hurry. By and by would serve just as well.</p>
+                    <pb xml:id="leaf029r" facs="loc_ap_00127.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">READING
+                                POETRY.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">109</fw>
+                    <p>It strangles Mr. Heron. It chokes him. A death by starvation stares him in
+                        the face! Render all this by your voice. Paint also the <hi rend="italic">dénouement</hi> abrupt, disdainful, decisive, pitiless like a
+                        statute:</p>
+                    <lg type="linegroup">
+                        <l>Il fut tout heureux et tout aise</l>
+                        <l>De rencontrer un limaçon.</l>
+                    </lg>
+                    <p>(Most fortunate at last and particularly lucky did Mr. Heron deem himself
+                        when he caught sight of a small, slimy, watery, crawling snail.)</p>
+                    <p>Nearly all La Fontaine's fables afford subjects for similar study, and all
+                        the great poets can be studied as well as La Fontaine. Only&#8212;and this
+                        we must never forget&#8212;the modes of reading verse are just as numerous
+                        as the modes of writing verse. Racine must not be read like Corneille, nor
+                        Moliere like Regnard<hi rend="superscript">64</hi>, nor Lamartine like
+                        Victor Hugo. Correct elocution varies strictly according to the nature of
+                        the genius that it undertakes to interpret. Sink the faults, hurry through
+                        or abridge the tedious passages, skip them even if you like, but never
+                        attempt to change your author's nature! A reader who would undertake to
+                        deliver <hi rend="italic">Ruy Bias</hi>, for instance, in what is called a
+                        simple unaffected style would deprive the play at one blow of its most
+                        predominant characteristic &#8212; its richness of coloring. If we are plain
+                        with the plain, with the exuberant we must be exuberant &#8212; it would
+                        never do to copy Rubens<hi rend="superscript">65</hi> with neutral tints. To
+                        read an ode as we should read a fable, a lyric strain like a dramatic
+                        passage, Lamartine's Stars like Florian's<hi rend="superscript">66</hi> The
+                        Blind Man and the Paralytic, would be simply spreading a gray veil of dull
+                        uniformity over the magnificent variety of genius's glittering garden.</p>
+                    <p>But the <hi rend="smallcaps">RULE</hi> immutable, inflexible, eternal,
+                        applicable to all kinds of poetry, to all kinds of poets &#8212; the Law
+                        comprising all laws is this: <hi rend="italic">When you read a poet,
+                            read</hi>
+                        <fw type="footer" place="bottom left">10</fw>
+                        <pb xml:id="leaf029v" facs="loc_ap_00128.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">110</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw>
+                        <hi rend="italic">him as a poet</hi>. Where there is rhythm, let that rhythm
+                        be heard! Where there is rhyme, let us be made aware of it! When the verses
+                        are painting and music, be a painter and a musician when you read them! In
+                        how many passages, for instance, is the intensely pathetic suggested by
+                        little more than the melancholy but melodious cadence! Good-natured friends
+                        will of course warn you: "Take care!" they will cry, "you 're becoming
+                        emphatic, declamatory! You 're forgetting Nature! You 're overstepping the
+                        bounds of Truth!" Ah! Truth is infinitely vaster than the narrow brains of
+                        pedants can comprehend! <hi rend="underline" hand="#h4">Truth is infinitely
+                            grander than the merely natural!</hi> Truth embraces within her
+                        dominions not merely the so-called Natural, but everything that the human
+                        soul can reach in its highest flight! Whatever is written with consistency
+                        and in sincerity is <hi rend="italic">Truth</hi>, and as Truth should be
+                        read! Not of course, the Truth of every-day commonplace experience, nor of
+                        cold, plain, practical reason; <hi rend="underline" hand="#h4">but the Truth
+                            of the soul</hi>, quite as real and just as natural as the Truth of the
+                        body! When you think of the fertile fancy and burning imagination of
+                            Ariosto<hi rend="superscript">67</hi>, what image rises in your mind?
+                        The classic Pegasus? Not at all. It is the winged Hippogriff that bore <hi rend="italic">Astolpho</hi><hi rend="superscript">67</hi> to the moon I-
+                        Well then, when you read <hi rend="italic">Orlando Furioso</hi>, take your
+                        seat on that Hippogriff's back and start with him for the dazzling regions
+                        beyond the stars!</p>
+                    <p>And this reminds me of a certain kind of poetry not yet spoken of, though
+                        closely connected with our study and most completely dependent on art. I
+                        mean that kind of poetry which is much more common in French Literature than
+                        in English, and is usually known by the name of <hi rend="italic">Free
+                            Verses</hi>.</p>
+                    <p>A conversation of mine with Victor Cousin<hi rend="superscript">68</hi>, will
+                        help considerably to bring out my idea.</p>
+                    <pb xml:id="leaf030r" facs="loc_ap_00129.jpg" type="recto"/>
+                    <p>CHAPTER VII.</p>
+                    <p><hi rend="italic">FREE VERSES</hi></p>
+                    <p><hi rend="smallcaps">VICTOR COUSIN</hi> was the greatest initiator of us all
+                        into the grandeurs of the Seventeenth Century, simply because he was its
+                        greatest adorer. It would be a calumny, however, to limit his passionate
+                        admiration to the fine ladies of that period; he was quite as much
+                        captivated by Pascal as by Madame de Longueville<hi rend="superscript">69</hi>, and he would never exchange the great Corneille for the most
+                        enchanting of the marchionesses. Still, it cannot be denied that he was not
+                        free from the usual fault of fanatics &#8212; he considered a single word
+                        uttered in disparagement of one of his idols as a personal insult offered to
+                        himself; in fact, on such occasions his temper hardly knew any bounds.</p>
+                    <p>At one of our usual sessions in the Academy one day, I happened unfortunately
+                        to observe that, out of the fourteen verses composing the introduction to
+                            <hi rend="italic">Baucis and Philemon</hi>, I considered only two to be
+                        admirable and that I looked on the rest as absolutely detestable. Cousin
+                        darted me a furious glance, but I kept on saying my say:</p>
+                    <p>"Nothing can be finer than such a verse as this:</p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">La Fortune vend ce qu'on croit gu'elle donne.</hi></l>
+                        <l>(Fortune but sells what we think she gives.)</l>
+                    </lg>
+                    <p>"Or this:</p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Rien ne trouble sa fin, c'est le soir d'un beau
+                                jour.</hi></l>
+                        <l>(Nothing disturbs his death; it's the close of a lovely day.)</l>
+                    </lg>
+                    <fw type="pageNum" place="bottom left">111</fw>
+                    <pb xml:id="leaf030v" facs="loc_ap_00130.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">112</fw>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw>
+                    <p>"But," I continued, "as to <hi rend="italic">gold</hi> and <hi rend="italic">grandeur</hi> being <hi rend="italic">divinities</hi> that become <hi rend="italic">asylums</hi> of <hi rend="italic">devouring</hi> cares,
+                        which in their turn become <hi rend="italic">vultures represented</hi> by
+                        the son of Japhet, etc. &#8212; all that I have no hesitation in denouncing
+                        as unmitigated stuff and nonsense."</p>
+                    <p>By Jove! I thought Cousin was going to swallow me, body and bones! Most
+                        fortunately, however, the session broke up at that moment precisely, and
+                        everybody began to leave the room. But Cousin overtook me at the doorway and
+                        permitted himself to exclaim as bluntly as you please:</p>
+                    <p>"You 're probably conceited enough to imagine you know as much about La
+                        Fontaine as I do?"</p>
+                    <p>"Well, I rather think I do," replied I with a smile.</p>
+                    <p>"You're in earnest?"</p>
+                    <p>"Certainly I'm in earnest. I know more of La Fontaine than you do, because
+                        you read him silently, whereas I read him aloud."</p>
+                    <p>"Oh! the argument!"</p>
+                    <p>"An excellent argument. Do you want to be convinced of its soundness?" "Of
+                        course I do!"</p>
+                    <p>Off we start down the quays, arm in arm, hotly discussing the question.</p>
+                    <p>"Has not La Fontaine written nearly all his Fables in Free Verses?" I
+                        begin.</p>
+                    <p>"Well, suppose he has!"</p>
+                    <p>"First, what are Free Verses?"</p>
+                    <p>"The term itself expresses the meaning perfectly. Free verses are verses that
+                        rhyme but that have no regular rhythm."</p>
+                    <p><span rend="singleLine-left" hand="#h4" xml:id="b083" from="#b083" to="#b084"/>Not at all. <hi rend="underline" hand="#h4">Free Verses have just as much
+                            rhythm as Alexandrine verses or any other verses, only it is, I
+                            admit,</hi><anchor xml:id="b084"/>
+                        <pb xml:id="leaf031r" facs="loc_ap_00131.jpg" type="recto"/><fw type="pageNum" place="top right">113</fw><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">FREE VERSES.</hi></hi></fw>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b085" from="#b085" to="#b086"/>
+                        <hi rend="underline" hand="#h4">a concealed rhythm. Free Verses obey a rule,
+                            a mysterious but a real rule, a rule not indeed treated of in the
+                            rhetoric books, but nevertheless just as surely existing and always as
+                            present in the imagination of all writers of true poetic
+                            genius.</hi><anchor xml:id="b086"/> This is simply the reason why the
+                        Free Verses of the Seventeenth Century are excellent whilst those of the
+                        Eighteenth, except a few of Voltaire's, are all mediocre. The poets never
+                        guessed the secret."</p>
+                    <p>"What secret?" asks Cousin, ever ready to take fire at anything like a
+                        dogmatic assertion regarding literature, though now evidently somewhat
+                        mollified by my little compliment to his beloved Seventeenth Century. "What
+                        secret? What mysterious rule are you talking about? Explain the meaning of
+                        your hidden rhythm."</p>
+                    <p>"No easy matter; still &#8212;Do you ever take a ride on horseback?"</p>
+                    <p>"Very seldom &#8212; scarcely ever."</p>
+                    <p>"That's bad &#8212; well &#8212; you have no doubt often heard of the famous
+                        riding-masters Monsieur Baucher<hi rend="superscript">70</hi> and Monsieur
+                        D'Aure?"</p>
+                    <p>"Oh! haven't I? When I was minister, what endless discussions we had as to
+                        which of them we should make master of the Saumur school of cavalry. The
+                        Minister of War was for Baucher, one of our military men was for D'Aure. Why
+                        so? Hang me if I have an idea on the subject!"</p>
+                    <p>"I think I can give you one or two while I am at the same time endeavoring to
+                        develop my theory regarding Free Verses."</p>
+                    <p>"<hi rend="italic">Parbleu</hi>!" cries my companion. "This is something
+                        quite original! Poetry illustrated by horse-riding! Go on, my dear sir! I am
+                        all attention!"</p>
+                    <p>"Baucher," I resume, "was <hi rend="italic">par excellence</hi> the Rider of
+                            <fw type="footer" place="bottom left">10*</fw><fw type="footer" place="bottom">11</fw>
+                        <pb xml:id="leaf031v" facs="loc_ap_00132.jpg" type="verso"/><fw type="pageNum" place="top left">114</fw><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw> the Ring. No sight more interesting than
+                        that afforded by a horse mounted, that is, subdued, mastered by Baucher. How
+                        complete the domination of the man over the animal! Trembling, prancing,
+                        palpitating, exulting in his strength though quite conscious of its
+                        subjugation, the horse has not a muscle that is not under the most perfect
+                        control. The foam flecking him, here and there, the nostrils opening and
+                        closing in ardent perturbation, the net-work of swollen veins rising in such
+                        high relief all over his body &#8212; all betray his life, his strength, his
+                        feverish impatience, his hunger after freedom. But no matter for that! Every
+                        single one of his movements is rhythmical; every single one of his paces is
+                        fore-arranged; inclosed in the unyielding circle of his master's iron limbs,
+                        his abounding energy itself becomes the very perfection of
+                        subordination!"</p>
+                    <p>"Well;" interrupts my companion, "all this I may not dispute, but what in the
+                        world &#8212;"</p>
+                    <p><span rend="singleLine-left" hand="#h4" xml:id="b087" from="#b087" to="#b088"/>"Wait a moment. D'Aure, on the contrary, is the dashing rider of the open
+                        air. A great difference! What D'Aure requires is plenty of room. What he
+                        demands of his horse is the fullest exertion of all his forces. No curbing
+                        in, no reining up now; no check-reins, no martingales! spurs, if anything,
+                        and a touch of the stinging lash! See the animal speeding past, nose in air,
+                        eye aflame, hair and mane streaming in the breeze! Watch him as he skims the
+                        plain, fleet as an arrow, light as the wind, graceful as a bird! Who is the
+                        master now, the horse or the man? The man as much as ever! His is the
+                        direction just as much as the inspiration! <span rend="singleLine-right" hand="#h4" xml:id="b089" from="#b089" to="#b090"/>He apparently gives
+                        the animal the wildest liberty, and yields with pleasure to his fieriest and
+                        most uncontrollable impulse; but his fingers never abandon the guiding rein,
+                        nor his arm the curbing bit!<anchor xml:id="b088"/><anchor xml:id="b090"/><pb xml:id="leaf032r" facs="loc_ap_00133.jpg" type="verso"/><fw type="pageNum" place="top right">115</fw><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">FREE VERSES.</hi></hi></fw>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b091" from="#b091" to="#b092"/>So, while Baucher's horse, though a captive, subdued,
+                        submissive, is as powerful in his strength as ever, D'Aure's, though
+                        apparently independent as the raging blast, is as much under control as the
+                        rider's little finger."<anchor xml:id="b092"/></p>
+                    <p>"I think I understand you now," said Cousin with a smile. "Baucher's horse is
+                        epic or Alexandrine versification, and&#8212;"</p>
+                    <p><span rend="singleLine-left" hand="#h4" xml:id="b093" from="#b093" to="#b094"/><span rend="singleLine-right" hand="#h4" xml:id="b095" from="#b095" to="#b096"/>Precisely! and D'Aure's is the rhythm of Free Verses. Here
+                        the artist, instead of confining the play of his inspiration within a circle
+                        traced beforehand, abandons it to its natural bent, gives it full
+                            scope<anchor xml:id="b096"/>, follows it through all its windings,
+                        expresses it in all its mobile plasticity, changes the rhythm with every
+                        change of idea, and thus succeeds in imparting more justice, truth, and
+                        reality to multitudes of delicate, elegant, airy, and graceful
+                            sentiments.<anchor xml:id="b094"/>
+                        <span rend="doubleLine-right" hand="#h4" xml:id="b097" from="#b097" to="#b098"/>But this unrestraint must never degenerate into listlessness
+                        or license. The freer from a master is the true artist, the stricter and
+                        severer he is towards himself.<anchor xml:id="b098"/> He is always
+                        contriving therefore to relieve the freedom of the rhythm by the number and
+                        variety of the rhymes, by bolder and more striking expressions, by newer and
+                        more captivating ideas, so that we are always instinctively conscious of
+                        power as well as of grace, of severe art as well as of playful negligence.
+                        Free Verses, though not a canal with straight banks, are by no means an
+                        ocean without coasts. They are rather a river whose shores are winding,
+                        flexible, varying, flowery, but everywhere strictly regular in spite of
+                        their apparent irregularity."</p>
+                    <p>"This theory of yours may have something in it. But sustain it, pray, by
+                        means of a few examples. Show me some passage where the poet says by a free
+                        verse something that the regular verse could not so well express."</p>
+                    <pb xml:id="leaf032v" facs="loc_ap_00134.jpg" type="verso"/>
+                    <fw type="pageNum" place="top left">116</fw>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw>
+                    <p>"Take this stanza from the English poem <hi rend="italic">Genevieve:</hi>*</p>
+                    <lg type="linegroup">
+                        <l>She wept with pity and delight,</l>
+                        <l rend="indented1">She blushed with love and virgin shame;</l>
+                        <l>And, like the murmur of a dream,</l>
+                        <l rend="indented1">I heard her breathe my name.</l>
+                    </lg>
+                    <p>"Nothing would have been easier than to give to the fourth or last verse the
+                        metre of the preceding three; it would be enough to insert ' softly' and
+                        say:</p>
+
+                    <l>I heard her softly breathe my name.</l>
+
+                    <p>"But try it. You will find that the delicate aroma of the poetry has vanished
+                        like a shadow.""It is true!&#8212;Another example."</p>
+                    <p>"La Fontaine all through is one long example. His rigorous but graceful
+                        imagination has continual recourse to Free Verses for fitly rendering the
+                        incessant variation of his ideas. Do you remember the six verses of the <hi rend="italic">Peasant of the Danube</hi>, beginning with four sweeping
+                        Alexandrines, and ending with two lines of only four feet each?</p>
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Craignez, Romains, craignez que les dieux quelque jour,
+                                etc.,</hi></l>
+                        <l><hi rend="italic">Nos esclaves Á voire tour!</hi></l>
+                    </lg>
+                    <p>"We cannot sufficiently admire the wonderful art that terminates the solemn,
+                        stately, and threatening march of the four Alexandrines with the sudden,
+                        unexpected and terrible blow struck by those two rapid lines of eight
+                        syllables!"</p>
+                    <p>"It is perfectly true!" cries Cousin. "But how have you come across such
+                        reflections as these?"</p>
+                    <p>"I have told you how already&#8212;by reading aloud! The <fw type="footer" place="bottom">*We need hardly apologize for substituting here a well
+                            known English example for the French poetry which to many readers would
+                            be rather unintelligible.</fw>
+                        <pb xml:id="leaf033r" facs="loc_ap_00135.jpg" type="recto"/><fw type="pageNum" place="top right">117</fw><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">FREE VERSES.</hi></hi></fw>
+                        <span rend="singleLine-left" hand="#h4" xml:id="b099" from="#b099" to="#b100"/>voice is a revealer, an initiater into mysteries, that
+                        possesses a power as mysterious as it is unsuspected."<anchor xml:id="b100"/></p>
+                    <p>"I beg your pardon &#8212; I don't quite understand you."</p>
+                    <p>"You shall in a moment. A celebrated actress of the last century, Madame
+                        Talma&#8212;"</p>
+                    <p>"I have seen her!" interrupts Cousin with animation. "What a soul! Of what
+                        exquisite sensibility!"</p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b101" from="#b101" to="#b102"/>Well, Madame Talma relates in her <hi rend="italic">Memoirs</hi> that, as she was playing <hi rend="italic">Andromache</hi>
+                        one evening, she felt herself so profoundly moved that the tears flowed not
+                        only from the spectators' eyes but even from her own.<anchor xml:id="b102"/>
+                        The play over, one of her admirers, rushing up, takes her hand and cries:
+                        'Oh my dear friend! It was admirable! You were <hi rend="italic">Andromache</hi> herself! <span rend="singleLine-right" hand="#h4" xml:id="b103" from="#b103" to="#b104"/>You must have imagined yourself
+                        to be really living in Epirus, <hi rend="italic">Hector's</hi> disconsolate
+                        widow!' 'Not at all!' replies Madame laughing merrily. 'But you were
+                        certainly moved! I saw real tears!' 'Yes, I wept real tears.' 'But on what
+                        account? What made you weep if not emotion?' 'My own voice.' 'How your own
+                        voice?' 'Exactly, my own voice. What really affected me was the expression
+                        that my voice gave to poor <hi rend="italic">Andromache's</hi> sufferings,
+                        and not by any means the thought of the sufferings themselves. The nervous
+                        shudder that thrilled my whole frame was an electric shock given to my
+                        nerves by my own accents. I was at once actress and audience. I actually
+                        magnetized myself.'"<anchor xml:id="b104"/></p>
+                    <p>"Decidedly a strange fact!" observes Cousin."But what a striking instance of
+                        the power of the human voice !"</p>
+                    <p>"It is certainly a psychological phenomenon," continues Cousin, "which I have
+                        never had a glimpse of in all my studies."</p>
+                    <p>"Oh!" I reply, quoting Shakespeare, "there are more <pb xml:id="leaf033v" facs="loc_ap_00136.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">118</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw> things in heaven and earth, Horatio,
+                        than are dreamt of in your philosophy. But an experience of this kind is by
+                        no means confined to Madame Talma. <span rend="singleLine-left" hand="#h4" xml:id="b105" from="#b105" to="#b106"/>Rachel told me something one day
+                        that I can never forget. She was speaking of her recitations at Potsdam in
+                        the presence of the Emperor of Russia, the Emperor of Austria, the King of
+                        Prussia, and other sovereigns. 'Such a flower-bed of kings,' said she,
+                        'actually electrified me. Never before had I hit on truer or more powerful
+                        accents. <hi rend="italic">My voice actually enchanted my own
+                        ears</hi>.'"</p>
+                    <p>"Were these Rachel's own words?"</p>
+                    <p>"Her actual words. But that is not all. One of our first living artists has
+                        often told me that he never could succeed in reaching those pathetic tones
+                        of his that so profoundly affected the audience, without having previously
+                        learned his part <hi rend="italic">aloud</hi>. It was his own voice that
+                        touched him, guided him, and always assured him when he was right. This
+                        throws some light on another strange fact, generally held inexplicable.
+                        Stupid players have been actually known to play like men of undoubted
+                        wit."</p>
+                    <p>"Oh! That's impossible!"</p>
+                    <p>"I have known some instances of the kind myself. Yes. I have seen men of only
+                        mediocre intelligence, wit, soul, or whatever you call it, who, once on the
+                        stage, made the best of us think, tremble, and even weep. How so, you ask.
+                        Well, their voice did it all. Their voice supplied all the lacking wit, the
+                        intelligence, the emotion. Condemn them to silence&#8212;they instantly
+                        relapse into their normal nullity. Some cunning fairy is fast asleep in
+                        their throat while they are silent; but once they begin to speak, she wakes
+                        up and with a wave of her <span rend="singleLine-left" hand="#h4" xml:id="b107" from="#b107" to="#b106"/><span rend="singleLine-right" hand="#h4" xml:id="b108" from="#b108" to="#b106"/>magic wand summons to
+                        her aid powers and resources till then invisible and unknown. Indeed the
+                        voice may be <anchor xml:id="b106"/>
+                        <pb xml:id="leaf034r" facs="loc_ap_00137.jpg" type="recto"/><fw type="pageNum" place="top right">119</fw><fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">FREE VERSES.</hi></hi></fw>
+                        <span rend="singleLine-left" hand="#h4" xml:id="b109" from="#b109" to="#b110"/><span rend="singleLine-right" hand="#h4" xml:id="b111" from="#b111" to="#b112"/>considered an invisible actor concealed within
+                        the player, an invisible speaker concealed within the reader,&#8212; and
+                        performing for both the part of a first-rate prompter.<anchor xml:id="b112"/>
+                        <span rend="singleLine-right" hand="#h4" xml:id="b113" from="#b113" to="#b114"/>In fact, my dear philosopher, this is a problem that I must
+                        surrender altogether to your meditations, satisfying myself with drawing one
+                        little deduction <anchor xml:id="b110"/>&#8212; However inferior I
+                        undoubtedly am to you in many respects, it is possible that I may know La
+                        Fontaine a little better than you, simply because I generally read him
+                            aloud!"<anchor xml:id="b114"/></p>
+                    <p>"That point I waive the discussion of just now," replies my interlocutor with
+                        a merry smile, "but suppose you give La Fontaine and the other great writers
+                        that you undertake to interpret, meanings, allusions, and intentions that
+                        they themselves never had the least idea of?"</p>
+                    <p><span rend="singleLine-right" hand="#h4" xml:id="b115" from="#b115" to="#b116"/>To such a supposition I should reply in the words of the
+                        illustrious Corneille himself. Somebody pointed out to him one day certain
+                        verses of his that were anything but clear, asking him to explain their
+                        meaning. He looked at them for a while, and then replied: 'When I wrote
+                        these verses, I am certain I understood them; at present I must confess they
+                        are not a bit clearer to myself than they are to you.'<anchor xml:id="b116"/> Thus even the great masters, you see, do not always comprehend their own
+                        mysteries. In the fire and glow of creation, they unconsciously give but
+                        half expression to ideas, of the full force of which they are not probably
+                        completely aware, but which are nevertheless just as real, solid, and
+                        consistent as those ideas that they have most highly elaborated. Genius, as
+                        well as beauty, as well as infancy, has its unconscious moments. <span rend="singleLine-right" hand="#h4" xml:id="b117" from="#b117" to="#b118"/>A child enchanting you by the innocence of his smile is seldom aware that
+                        his smile looks innocent. But is it the less innocent for that? <span rend="doubleLine-right" hand="#h4" xml:id="b119" from="#b119" to="#b118"/>Well then, one of the very greatest advantages of reading masterpieces
+                        aloud is that it gradually but forcibly reveals to us<anchor xml:id="b118"/>
+                        <pb xml:id="leaf034v" facs="loc_ap_00138.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">120</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART
+                                    OF READING.</hi></hi></fw><span rend="doubleLine-left" hand="#h4" xml:id="b120" from="#b120" to="#b121"/>thousands of exquisite
+                        little touches that seem to be actually unknown to the very pencil that has
+                        created them. This alone would be enough to make the art of reading a
+                        powerful instrument in education. Elocution teaches us literature, just as
+                        successfully as it improves our diction."<anchor xml:id="b121"/></p>
+                    <p> Here we parted. But just as Cousin turned away, he uttered a few words of
+                        which, coming from such lips, I must confess I feel rather proud:</p>
+                    <p>"Thank you, my dear friend; you have certainly taught me something I had not
+                        known before."</p>
+
+                    <pb xml:id="leaf035r" facs="loc_ap_00139.jpg" type="recto"/>
+                    <fw type="pageNum" place="top right">137</fw>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">PONSARD.</hi></hi></fw>
+                    <p>ous efforts for the conclusion. But how arrive at this conclusion without
+                        fatiguing his hearers too much? Or without, what is still worse, fatiguing
+                        himself too much? A Monologue of a hundred and twenty lyrical verses is no
+                        joke either for hearer or reader! What good is emotion without a voice to
+                        convey it? No matter what your stock of real emotion may be, the instant
+                        your voice betrays weariness or languor adieu to your proper effect on the
+                        audience!</p>
+                    <p>Cicero says: <hi rend="italic">Nil citius arescit quam
+                        lacryma</hi>&#8212;nothing dries up quicker than a tear. But I beg to differ
+                        with him&#8212;something else dries up just as
+                        fast&#8212;faster&#8212;admiration! <span rend="singleLine-right" hand="#h4" xml:id="b122" from="#b122" to="#b123"/><hi rend="underline" hand="#h4">No monotony is so fatiguing, so straining, as the monotony of the
+                            sublime.</hi></p>
+                    <p>First of all then, it was perfectly clear that I should try to find out
+                        certain bits of contrast, of repose, of opposition, of light and shade; at
+                        every available moment I should dismount from my chariot of Elias. In fact,
+                        I should be in no hurry at all to get into it.</p>
+                    <p>Let us examine the piece in detail.<anchor xml:id="b123"/></p>
+                    <p>The first twenty verses, though of a decidedly poetical cast, are really
+                        little more than the expression of a scientific truth.</p>
+
+                    <l><hi rend="italic">Non, les temfs ne sontplus, etc.</hi></l>
+
+                    <p>These, therefore, I should deliver with decision, with conviction, with
+                        authority, as the expression of unquestioned scientific facts beyond all
+                        cavil or dispute, but without any undue expenditure of lyrical effusion.</p>
+                    <p>Next comes the superb apostrophe to the Sun and to all those portions of
+                        starry space that can be contemplated by the unaided human eye.</p>
+
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Soleil! Globe de feu! Gigantesquefournaise,
+                            etc.</hi></l>
+                        <l>(Sun! Fiery globe! Fountain of light and heat, etc.)</l>
+                    </lg>
+                    <fw type="footer" place="bottom">12*</fw>
+
+                    <pb xml:id="leaf035v" facs="loc_ap_00140.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">THE ART OF
+                                READING.</hi></hi></fw>
+                    <fw type="pageNum" place="top left">138</fw>
+                    <p>Here it was clear enough that I should not be afraid to come out strong, as
+                        the saying is, to give my voice its full swing, to lift it up, higher and
+                        still higher, until it should reach the nebulas!</p>
+
+                    <p>Then&#8212;a change&#8212;absolute and complete. The ineffably mysterious
+                        depths of the <hi rend="smallcaps">INFINITE</hi> are now to be represented.
+                        And to represent them fitly I soon found out that the poet had limited
+                        himself to terms of mysterious import, to words of oracular and shadowy
+                        meaning, to tints of clear-obscure that remind us of Corot's<hi rend="superscript">79</hi> vaporous, misty, semi-diaphanous
+                        canvases.</p>
+
+                    <lg type="linegroup">
+                        <l><hi rend="italic">Il est, je les ai vus, ties nuages laiteux,</hi></l>
+                        <l><hi rend="italic">Des gouttes, etc.</hi></l>
+                    </lg>
+                    <p>(Yes, they exist, I have seen them, these milky mist-streaks, these
+                        fight-dots, of ray so faint that a glow-worm twinkling in grassy tuft sheds
+                        light enough to eclipse them all, etc.)</p>
+
+                    <p>Here, of course, I was to endeavor to depict by modulation of voice what the
+                        poet had endeavored to depict by choice of words, to find shades in harmony
+                        with these tints, to compose music for these verses! This pause in the
+                        semi-obscurity, these notes, soft, sweet, soothing as a spirit chorus, had
+                        the double advantage of reposing me a little, and preparing the way with
+                        greater effect for the grand lyrical enthusiasm of the conclusion.</p>
+                    <p>But I had to look out for something else in the piece. I should depict the
+                            <hi rend="smallcaps">MAN</hi>.</p>
+                    <p>Who is supposed to speak these verses? Ponsard? Not at all. Galileo. These
+                        verses are no ode on the great discoveries of a great discoverer. They are
+                        the words of the great discoverer himself. He speaks in verse certainly, but
+                        he tells us a true story, <hi rend="italic">his own work!</hi> Him,
+                        therefore, I should do everything to bring forward. I looked carefully </p>
+
+                    <pb xml:id="leaf036r" facs="loc_ap_00141.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">VOLTAIRE.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">221</fw>
+                    <p>handed him by Marshal Richelieu, <hi rend="italic">Brother Cain</hi>, as
+                        Voltaire himself calls him with his last sigh. The drug plunges him into
+                        stupor from which he never recovers. AbbÉ Gauthier has to leave him,
+                        saying he is in no state to receive the last rites.</p>
+                    <p>How did he die? Impiously and scornfully? as the "philosophers" aver; or like
+                        a madman howling with rage and terror? as many unimpeachable witnesses
+                        testify. What does his own physician say, the famous Tronchin, who
+                        introduced inoculation into France, who was neither cleric nor philosopher,
+                        and who attended him at his last illness? He speaks candidly enough. "If my
+                        principles had needed strengthening," he writes, "the man whose death agony
+                        I have just witnessed, would have bound them up into a gordian knot. The
+                        death of a good man, the pleasant close of a beautiful day, compared with
+                        that of Voltaire, shows all the difference between a calm and a tempest. ...
+                        In spite of my injunctions he had gone to the Academy and the last <hi rend="italic">sÉance</hi> was too much for him. From that moment
+                        till the day of his death his life was one hurricane of madness. The drugs
+                        that he had taken to give himself strength threw him into the most frightful
+                        state of despair and insanity. I recall it now with horror. As soon as he
+                        saw that what he had done to strengthen himself had produced the contrary
+                        effect, death was continually before his eyes. Rage instantly took
+                        possession of his soul. . . . Remember the raving madness of Orestes &#8212;
+                            <hi rend="italic">furiis agitatus obiit</hi> (he expired tortured to
+                        death by the furies)."</p>
+                    <p>The pastor not allowing the body to be interred in the parish of S. Sulpice,
+                        AbbÉ Mignot, Voltaire's nephew, had it embalmed and buried in his own
+                        abbey at Scellieres, on the Seine, whence, on the destruction of the
+                        monastery, thirteen years later, the remains were removed by a decree of the
+                        National Assembly, and transferred to the Church of Sainte GeneviÈve in
+                        Paris, at that time called the PanthÉon.</p>
+                    <p>For a long time mankind will differ regarding the merits of Voltaire. Many
+                        consider him a monster, a demon incarnate, a curse to the human race; others
+                        worship him as the destroyer<fw type="footer" place="bottom">19*</fw><pb xml:id="leaf036v" facs="loc_ap_00142.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">222</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">NOTES.</hi></hi></fw> of superstition, ignorance, and
+                        barbarism. But nobody claims for him the merit of originating a single
+                        principle of solidity or truth. Giving him every credit for extraordinary
+                        grace, clearness and vivacity, we have great difficulty in discovering what
+                        may be called <hi rend="italic">heart</hi> in his writings; of deep feeling,
+                        the origin of true eloquence as of true poetry, he seems almost completely
+                        destitute. He has no regard for truth. To make fun, he has no hesitation in
+                        calling Shakespeare "an ugly ape," an "inspired idiot," a "big madman
+                        everywhere but in London." To gain his point, he utters without the
+                        slightest compunction the most atrocious falsehoods, confidently relying on
+                        the ignorance of his readers to get them swallowed. Why was he so powerful?
+                        Because he was the exact echo of the age in which he lived, of its levity,
+                        licentiousness, enervation, blasphemy, mockery, shallow science, sham
+                        philanthropy, and intense and stupidly reckless selfishness. He did not
+                        originate the Revolution ; far from it, but, if he had been a better man,
+                            <span rend="singleLine-left" hand="#h4" xml:id="b124" from="#b124" to="#b125"/><hi rend="underline" hand="#h4">the unquestioned advantages
+                            of that great upheaval</hi> would not have been almost counterbalanced
+                        by <hi rend="underline" hand="#h4">its unquestioned horrors</hi>, from the
+                        consequences of which we are suffering even at the present day.<anchor xml:id="b125"/></p>
+                    <p> Here is Victor Hugo's opinion on the merits of "King Voltaire."</p>
+                    <p>"Voltaire leaves us a monument more astonishing by its extent than imposing
+                        by its grandeur. It is not an edifice of the august order. It is no palace
+                        for kings, it is no hospital for the poor. It is a bazar, elegant, vast,
+                        easily moved through, irregular; displaying untold riches flung on
+                        mud-heaps; offering to every interest, to every vanity, to every passion the
+                        very thing that suits it best; dazzling to the eye, but rank to the nostril;
+                        presenting impurities as pleasures; alive with merchants, tramps, idlers,
+                        but seldom showing a priest or a poor workingman. Here are splendid
+                        galleries thronged incessantly with wonder-lost crowds; there are dark
+                        caverns which nobody boasts of having ever visited. Under those sumptuous
+                        arcades you can find countless masterpieces of art and taste, glittering
+                        with gold and diamonds; but for the bronze statue, with the severe and
+                        classic forms of antiquity, you may look in vain. Decorations for your
+                        parlors</p>
+
+                    <pb xml:id="leaf037r" facs="loc_ap_00143.jpg" type="recto"/>
+                    <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">VICTOR
+                                HUGO.</hi></hi></fw>
+                    <fw type="pageNum" place="top right">299</fw>
+                    <p>This fondness for dwelling on ghastly scenes of blood and death and brutal
+                        cruelty has been the besetting sin of his life. This too is the reason why
+                        readers of coarse tastes, the immense majority, whose palates must be
+                        tickled by the hottest stimulants, read him with the greatest pleasure. The
+                        fact is, his irregular education, while doing much to exalt his fancy, had
+                        done little to chasten or improve his taste. The dreaming boy had been
+                        wandering over the splendors and horrors of Europe, instead of working at
+                        school, and playing with his companions; a few years later his opening
+                        imagination took greater delight in modern Spanish, Italian, German and
+                        English literature, than in the master-pieces of Greece and Rome, or in the
+                        deathless productions of the age of Louis XIV. Exuberant in his genius, and
+                        dimly conscious of his creative power, he chafed beneath rules of art and
+                        dictates of criticism, regarding them as cumbersome trammels, rather than
+                        wise and safe guiding-reins. Royalty, too, had probably been never more than
+                        a sentiment, and his mother's death was the first blow towards successfully
+                        severing the link binding him to the old monarchic and religious school,
+                        which, about this time, became known as the <hi rend="italic">Classic</hi>,
+                        to distinguish it from the new school called the <hi rend="italic">Romantic</hi>. Of this school, as already stated (page 224). the
+                        dramatist Lemercierhad been really the father, but Lamartine's fascinating
+                            <hi rend="italic">Meditations</hi> having now made it extremely popular,
+                        especially with young France, a new paper, the <hi rend="italic">Globe</hi>,
+                        was started expressly to define and support its principles. Its articles
+                        being full of life, and especially of novelty, the <hi rend="italic">Globe</hi> was extensively read, its doctrines proving especially
+                        ensnaring to young poets, artists, and dramatists. Young Hugo in particular,
+                        embraced the new doctrines with such enthusiasm that he soon became their
+                        most vigorous exponent, the great Panjandrum indeed of the new mysteries.
+                            <span rend="singleLine-right" hand="#h4" xml:id="b126" from="#b126" to="#b127"/> The chief principles of the two schools seem to be somewhat
+                        as follows: the Classic School holds that nature should be represented in
+                        poetry, in art, on the stage, etc., not as she <hi rend="italic">really
+                            is</hi>, but <hi rend="italic">idealized</hi>, and, whether in good or
+                        in ill, <hi rend="italic">improved</hi> into what our imaginations readily
+                        tell us she <hi rend="italic">ought to be</hi>. The Romanticists claim that
+                        in the representation of<anchor xml:id="b127"/>
+                        <pb xml:id="leaf037v" facs="loc_ap_00144.jpg" type="verso"/>
+                        <fw type="pageNum" place="top left">300</fw>
+                        <fw type="header" place="top"><hi rend="italic"><hi rend="smallcaps">NOTES.</hi></hi></fw>
+                        <span rend="singlineLine-left" hand="#h4" xml:id="b128" from="#b128" to="#b129"/>nature our only ideal should be the <hi rend="italic">True</hi>. Art, fettered by no rule, by no tradition, by no criticism,
+                        should be allowed to express nature <hi rend="italic">as it finds her</hi>,
+                        in whatever order it may please, with whatever terms it may please. What
+                        right, they ask, have we to substitute our fleeting conventionalities for
+                        the majesty of reality? Truth to nature should be our only standard. In our
+                        pictures of nature why exclude the horrible, the grotesque, or even the
+                        trivial? If we admit only the beautiful, the perfect, the sublime, what
+                        pretensions can we make to giving a representation of <hi rend="italic">truth?</hi><anchor xml:id="b129"/></p>
+                    <p>Something like this at least was said by Victor Hugo himself in the preface
+                        to a third volume of his <hi rend="italic">Odes and Ballads</hi> in 1826.
+                        "What is really true is always true. Thought is a virginal and fertile soil,
+                        whose productions should be allowed to grow spontaneously, and even at
+                        hazard. <hi rend="italic">Regularity</hi> is one thing; <hi rend="italic">order</hi> another. Regularity is merely human; order is simply divine.
+                        The poet's only model should be, nature; his only guide, truth; his only
+                        books, Homer and the Bible." But it was in the preface to his first tragedy,
+                            <hi rend="italic">Cromwell</hi>, 1827, that he boldly flung the new
+                        banner to the breeze, and stoutly nailed it to the mast. "In creation we see
+                        the ugly existing beside the beautiful, the deformed beside the graceful,
+                        bathos beside pathos, the ridiculous beside the sublime, evil beside good,
+                        shade beside light; why then should the artist endeavor to surpass God? Is
+                        nature mutilated nature improved? Is the harmonious to be sought at the
+                        expense of the complete? The time has now come for poetry to take a decided
+                        step, a step, like the earthquake shock, destined to change the face of the
+                        world. She will show the shadow as well as the light, the grotesque as well
+                        as the sublime, the body as well as the soul, the animal as well as the
+                        spirit; but she will show them as Nature shows them, mingling them, not
+                        confounding them."</p>
+                    <p>These fine phrases, however new, being looked upon by many as anything but
+                        true, to give them emphasis, he published his "Shakespearian" tragedy of <hi rend="italic">Cromwell</hi>, a tragedy, however, "Shakespearian" in
+                        nothing but some glaring defects and crudities which the great English poet
+                        could have hardly</p>
+                    <pb xml:id="leaf038r" facs="loc_ap_00145.jpg" type="recto"/>
+                    <div3 type="pasteon">
+                        <add rend="pasteon" source="#ref4" xml:id="add4">
+                            <q who="unk" type="printed">
+                                <floatingText rend="flat">
+                                    <body>
+                                        <p><hi rend="smallcaps">A FEW</hi> words now of a greater
+                                            than these, Sarah Siddons. The fame of stage triumph is
+                                            said to be short-lived, but the echo of her tragic tones
+                                            seems never to have died away. She was born in South
+                                            Wales in 1755, and died in 1831. she came of a family of
+                                            actors. Her father, Roger Kemble, her brothers, John
+                                            Philip and Charles, her sister Elizabeth, and her
+                                            husband, were all renowned exponents of dramatic art.
+                                            Hazlitt said of her, "That as an actress, she was above
+                                            all excellence," and it has been added, "that her
+                                            private character was irreproachable."</p>
+                                        <p><hi rend="smallcaps">THERE</hi> was nothing mechanical in
+                                            her acting. Sometimes under the
+                                            <!--add another pasteon?--> <span rend="singleLine-right" hand="#h4" xml:id="b130" from="#b130" to="#b131"/> influence of inspiration she
+                                            cast aside all dramatic precedent. Once if playing <hi rend="italic">Volumnia</hi> to her brother's <hi rend="italic">Coriolanus</hi>, she was one of a
+                                            procession of some two hundred and forty persons given
+                                            in honor of the victor Corioli. Instead of advancing
+                                            with dignified and measured tread, and in cadence
+                                            subservient to the orchestra, with flashing eye, and
+                                            proudest smile, and hands pressed firmly upon her bosom
+                                            as if to repress the triumphant swellings of her haughty
+                                            mother's heart, she towered above all around, and
+                                            rolled, and almost reeled across the stage; her whole
+                                            being seeming to dilate with exultation, till her
+                                            action, though losing all studied grace, became so true
+                                            to nature, so picturesque and descriptive, that pit and
+                                            gallery sprang to their feet, electrified by the
+                                            transcendent execution of the conception.<anchor xml:id="b131"/></p>
+                                        <note type="authorial" resp="#h4" place="right" target="#b130">splendid!</note>                                         
+                                    </body>
+                                </floatingText>
+                            </q>
+                        </add>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

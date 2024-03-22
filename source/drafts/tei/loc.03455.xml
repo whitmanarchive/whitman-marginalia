@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03455">
+    
+    
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title level="m" type="main">Historical Sketches of the Churches of the City of Brooklyn</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author xml:id="ww">Walt Whitman</author>
+            <author xml:id="unk">Anonymous</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+                <resp>Transcription and encoding</resp>
+                <persName xml:id="jb">Joelle Byers</persName>
+                <persName xml:id="slg">Samantha Gilmore</persName>
+                <persName xml:id="km">Kevin McMullen</persName>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+            <funder>The National Endowment for the Humanities</funder>
+        </titleStmt>
+        <editionStmt>
+            <edition>
+                <date>2019</date>
+            </edition>
+        </editionStmt>
+        <publicationStmt>
+            <idno>loc.03455</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+                <addrLine>Center for Digital Research in the Humanities</addrLine>
+                <addrLine>319 Love Library</addrLine>
+                <addrLine>University of Nebraska-Lincoln</addrLine>
+                <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+                <p>The text of the original document is in the public domain. Subject to certain
+                    exceptions, public domain works may be freely copied or used in the creation
+                    of derivative works without permission, or authorization, of the former
+                    copyright owners.</p>
+                <p>The text encoding was created and/or prepared by the Walt Whitman Archive and
+                    is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/"
+                        >Creative Commons Attribution 4.0 International License</ref> (CC BY
+                    4.0).</p>
+                <p>Permission to reproduce the graphic images in this archive has been granted
+                    by the owners of the originals for this publication only.</p>
+            </availability>
+        </publicationStmt>
+        
+        <sourceDesc>
+            <bibl>
+                <author>Walt Whitman</author>
+                <title><!-- Title needs added --></title>
+                <idno type="callno"><!-- Repository Info needed --></idno>
+                <date notBefore="1847">1847 or later</date><!-- update date -->
+                <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt
+                    Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                <note type="project">Transcribed from digital images of the original
+                    item.</note>
+            </bibl>
+            <bibl type="base">
+                <author>Anonymous</author>
+                <title level="m">Historical Sketches of the Churches of the City of Brooklyn</title>
+                <date></date><!-- update date -->
+                <note type="project"/>
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+            <handNote xml:id="h2" scribeRef="#unk" medium="type"/>
+        </handNotes>
+    </profileDesc>
+    <revisionDesc>
+        <change who="#km" when="2019-09-04">initial proofing</change>
+        <change who="#slg" when="2019-09-30">encoded</change>
+        <change who="#jb" when="2019-09-09">transcribed</change>
+    </revisionDesc>
+</teiHeader>
+    
+    
+    <text type="marginalia">
+        <front>
+            <pb xml:id="leaf001r" facs="loc_nhg.00341.jpg" type="recto"/>
+            
+            <titlePage>
+                
+                <docTitle>
+                    <titlePart type="sub"><handShift new="#h2"/>THE "CITY OF CHURCHES" ILLUMINATED.</titlePart>
+                    <titlePart type="sub">JULY.</titlePart>
+                </docTitle>
+                    
+                    <figure type="illustration"><figDesc>Illustration of the biblical figures, Joseph, Mary, and infant Jesus.</figDesc></figure>
+                    
+                    <docTitle>
+                    <titlePart type="sub">No. 1</titlePart>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                    <ab>PRICE 25 CTS.</ab>
+                    <milestone unit="undeclared" rend="horbar-short-center"/>
+                        
+                        <figure type="illustration"><figDesc>Illustrated scene of two woman surrounded by six men.</figDesc></figure>
+                    
+                </docTitle>
+                
+                <docTitle>
+                    <titlePart type="main">HISTORICAL<lb/> SKETCHES<lb/> OF THE<lb/> CHURCHES<lb/> OF THE CITY<lb/> OF BROOKLYN</titlePart>
+                </docTitle>
+                
+                
+                <note type="authorial" resp="#h1" place="left" rend="vertical">
+                    <table>
+                        <row>
+                            <cell>1807</cell>
+                        </row>
+                        <row>
+                            <cell>1666</cell>
+                        </row>
+                        <milestone unit="undeclared" rend="horbar-full"/>
+                        <row>
+                            <cell>141</cell>
+                        </row>
+                    </table>
+                </note><!-- backwards bleedthrough before addition -->
+                
+                <byline>H. A. LEES, Compiler.</byline>
+               
+                    <byline place="center">BANDEAU &#38; BRO., Artists.</byline>
+                
+                <milestone unit="undeclared" rend="horbar-short-center"/>
+                
+                <docImprint><pubPlace>BROOKLYN:</pubPlace> 
+                    <name>LEES &#038; FOULKES,</name>
+                    PRINTERS,<lb/>
+                    No. 35 Fulton Street,</docImprint>
+                    
+                    
+                    <figure type="illustration"><figDesc>Illustrated scene of angel feeding man with cup.</figDesc></figure>
+                    <figure type="illustration"><figDesc>Illustrated scene of Jesus surrounded by cherubs.</figDesc></figure>
+                    
+                    <docImprint><pubPlace>PUBLISHED AT NO. 41 FULTON, COR. OF FRONT ST.</pubPlace></docImprint>
+                
+                
+                <note type="authorial" resp="#h1" place="bottom" rend="vertical">
+                    <table>
+                        <row>
+                            <cell>1666</cell>
+                        </row>
+                        <row>
+                            <cell>125</cell>
+                        </row>
+                        <milestone unit="undeclared" rend="horbar-short-left"/>
+                        <row>
+                            <cell>1791</cell>
+                        </row>
+                    </table>
+                </note>
+ 
+            </titlePage>
+        </front>
+
+        <body>
+            
+            
+            
+            <pb xml:id="leaf002v" facs="loc_nhg.00342.jpg" type="verso"/>
+            <fw type="header" place="top-center">CHURCHES OF BROOKLYN.</fw><fw type="pageNum" place="top-right">9</fw>
+            
+            
+            <p>Elijah Lewis, Sept. 12 1827&#8212;Epharim Corning, Nov. 29, 1834&#8212;Joseph Tuthill, May 25, 1841&#8212;David Lester, March 21, 1842&#8212;Wm. Hagar, Dec. 23, 1844&#8212;John H. Clark, Dec. 1, 1847&#8212;J. Ward Raymond, Dec. 1, 1847.</p>
+            
+            <p><hi rend="smallCaps">CHURCH CLERKS.</hi>&#8212;The clerks who have served the church are, C.P. Jacobs, J. Brown, E. Lewis, A. Wiley, and Edward L. Brown. 
+                
+                <p><hi rend="smallCaps">SABBATH SCHOOL.</hi>&#8212;The Sabbath School has ever been regarded with peculiar favor by the whole church; having a prominent place given to it in their first letter to the Hudson River Association, in 1826.The first superintendent was one of the fathers of the Church, Elijah Lewis, who continued his faithful and very acceptable services, for nearly twenty five years, without remitting a jot of heart or hope or toil, till he felt that he might call upon his brothers to assist him. The present chief officer is Bro. Edward L. Brown&#8212;an able and efficient man, sustained by an excellent corps of teachers. They have a fine library, and a Missionary Society of great liberality and promise.</p>
+                
+                <p>PLACES OF WORSHIP.&#8212;The meetings of this church were at first held in private houses, even on the Sabbath, as those of week-day evenings were for a long time. After a while they procured the use of the District School-house, on the corner of Adams and Concord streets. 
+                
+                <span rend="singleLine-right" hand="#h1" xml:id="s1" from="#s1" to="#s2"/>Deprived of this, they next obtained the Public School-house in Middagh street, which they occupied till the summer of 1826, when their house of worship in Pearl street was completed and entered.<anchor xml:id="s2"/><note type="authorial" resp="#h1" place="margin-right" target="#s1">&#9756;</note></p>
+                
+                This edifice was forty by sixty feet, without galleries, but large enough for their wants at the time. Built upon the free-seat principle, by a people of small aggregate means, they were obliged to draw largely upon brethren Raymond, Lewis, Corning, and other living and dead. This house was sold in 1834, for the use of Free Calvary Episcopal Church, who now occupy it, for $5,000, and the use of the Presbyterian lecture-room, now known as "Gothic Hall," in Adams street. Which this um and an authorized loan, the substantial brick edifice in Nassau street was erected. It was finished in early spring, 1835, during Bro. Howard's highly acceptable and profitable pastorage, and became the birth-place of many souls&#8212;the gateway of heaven to many a way-worn pilgrim. In the wide-spread devastation of the great fire in September, 1848, our beautiful</p>
+            
+            
+            
+            
+            
+            <pb xml:id="leaf003v" facs="loc_nhg.00343.jpg" type="verso"/>
+            <fw type="header" place="top-center">CHURCHES OF BROOKLYN.</fw><fw type="pageNum" place="top-right">13</fw>
+            
+            
+           
+<p>Sands St. M. E. Church</p>
+            
+    <p>The Society worshipping in this Church is one of the oldest religious organizations existing in the city of Brooklyn, and dates its origin as far back as the year 1790, or thereabouts, and although not having, at that time, any particular place for worship, 
+        
+        <span rend="singleLine-right" hand="#h1" xml:id="s3" from="#s3" to="#s4"/>met at intervals in private houses belonging to its then few members, who in 1792 bought the lots of ground at present owned and occupied by them, and took the necessary steps for building the First Methodist Church in Brooklyn. In 1794, they were so far successful in their labours as to have finished and ready for occupancy, a small frame building, fronting on<anchor xml:id="s4"/><note type="authorial" resp="#h1" place="margin-left" target="#s3">&#9758;</note>
+        
+        Sands street, which was then dedicated to the service of Almighty God. The number of members attached to, and composing this church, amounted to between twenty and thirty, and with the Rev. Joseph Totten at their head, commenced holding stated meetings in their new edifice. From this small number a church as grown up which comprises, with few if any exceptions, the largest number of members of any church in the city. The congregation having greatly increased, it became necessary, in 1804, to enlarge their accommodations, which was accordingly done by making an addition to its former size. Owing to its still further increased prosperity, about the year 1811, the former building was torn down, and a larger one erected in its place, which was known to the inhabitants of Brooklyn at that time, and to many of the residents at the present day, as the "Old White Church," and was a very commodious and substantial building for the times, but hardly to be compared, either as regards size or beauty, with the building represented by the annexed engraving. In the year 1843 it was proposed by some of the embers to erect a larger church, and although many who had long worshipped in the still highly-prized old church were at first somewhat opposed to what they deemed to be almost sacrilege, they finally</p>
+            
+            
+            
+            
+            
+            <pb xml:id="leaf004v" facs="loc_nhg.00344.jpg" type="verso"/>
+            <fw type="header" place="top-center">CHURCHES OF BROOKLYN.</fw><fw type="pageNum" place="top-right">19</fw>
+            
+            
+            
+            <p>have done the greater part toward the support of a German minister, who preaches to his countrymen each Sabbath in the lecture-room under the school. This school was the first in Brooklyn, and one of the present Superintendents (Joseph Herbert,) was a Superintendent of the original school. Of its early formation we learn, that "in the summer of 1816, Robert Snow, Andrew Mercein, and Joseph Herbert, met together with the design of forming a Sabbath School in this city. The project met with great opposition from many of the members of different churches, who looked upon the undertaking as a desecration of the Sabbath; and those engaged in its commencement 
+                
+                <span rend="singleLine-right" hand="#h1" xml:id="s5" from="#s5" to="#s6"/>had not only contend with the difficulties generally attending new enterprises, admitted to be useful, but to withstand the attacks of many of the most influential friends of religion.</p> 
+                <p>The printing office of Mr. Kirk, in Fulton st., was the place selected for the school. One of the persons above-named acted as Superintendent and Teacher, while the other two occupied the time of the Sessions on the Sabbath, in procuring Scholars<anchor xml:id="s6"/><note type="authorial" resp="#h1" place="margin-left" target="#s5">&#9758;</note>
+    
+    and Teachers.</p>
+            
+    <p>Under this arrangement the school continued for a short time, until, from the want of teachers and owing to the opposition encountered, its operations were  suspended for several months. At the expiration of this period an advertisement appeared in a New York newspaper intimating the intention of some members of the Baptist church in that city, to commence a Sabbath School n Brooklyn, and appointing the hour on a certain Sabbath when school would be opened. This announcement aroused the spirit of the friends of the cause in this city, who not being willing idly to look on, while others from abroad were superceding them in this field of labor, resolved to put forth a new effort.</p> 
+    <p>The three persons before named, together with Mr. Ezra Woodhull, a Presbyterian, Mr. Dodge, a Baptist, and Mr. Abraham Vanderveer, a member of the Dutch Reformed Church, reopened the school (on the same Sunday morning as advertised in the newspaper before referred to) in the District School House, on the corner of Adams and Concord Streets. By a union of the Dutch Reformed, Presbyterian, Baptist, and Methodist churches, a goodly number of children were brought together</p>
+  
+        </body>
+        
+    
+    </text>
+</TEI>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00189">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00189">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" type="main">Frederick Schlegel 1772&#8211;1829</title>
+                <title level="m" type="main">Frederick Schlegel 1772–1829</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <author xml:id="ww">Walt Whitman</author>
                 <author xml:id="unk">Unknown</author>
@@ -11,7 +11,7 @@
                 <respStmt>
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -22,7 +22,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00189</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -34,14 +34,14 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00189</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">Passages noted from Schlegel have been identified as coming from Joseph Gostwick's <hi rend="italic">German Literature</hi>, which was published in 1854 (<hi rend="italic">Walt Whitman: Notebooks and Unpublished Manuscripts</hi>, ed. Edward F. Grier [New York: New York University Press, 1984], 5:1837).</note>
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
-                    <title>Frederick Schlegel 1772&#8211;1829</title>
+                    <author sameAs="#ww">Whitman, Walt</author>
+                    <title>Frederick Schlegel 1772–1829</title>
                     <idno type="callno">MS 93</idno>
                     <date notBefore="1854-01-01" notAfter="1892-03-26">After 1854</date>
                     
@@ -56,7 +56,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-10">added notesStmt and moved date note into it</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-10-01">Transcribed and encoded.</change>
@@ -76,38 +76,38 @@
             celebrated
             literary
             brothers
-            &#8212;the other named
+            —the other named
             Augustus</note>
             <milestone unit="unknown" rend="horbar-short-left"/>
             <ab>Had a strong predilection
-            toward the wonderful and mysterious&#8212;</ab>
-            <ab>1803, entered Roman Catholic Church.&#8212;</ab>
+            toward the wonderful and mysterious—</ab>
+            <ab>1803, entered Roman Catholic Church.—</ab>
             <milestone unit="unknown" rend="horbar-short-left"/>
-            <ab>Wrote "Philosophy of History,"&#8212;<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="2" unit="char"/></del><add rend="overwrite" place="over" seq="2">mo</add></subst>st
-            valuable <subst><del rend="overstrike" seq="1">idea</del> <add rend="unmarked" place="supralinear" seq="2">tenet</add></subst> of which is,&#8212;<hi rend="underline">"the
+            <ab>Wrote "Philosophy of History,"—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="2" unit="char"/></del><add rend="overwrite" place="over" seq="2">mo</add></subst>st
+            valuable <subst><del rend="overstrike" seq="1">idea</del> <add rend="unmarked" place="supralinear" seq="2">tenet</add></subst> of which is,—<hi rend="underline">"the
             inexpediency of destroying old institutions
             before new ideas</hi> <hi rend="underline">are prepared
             to <choice><sic>develope</sic><corr>develop</corr></choice> themselves in consistency
-            with the order of society.&#8212;"</hi></ab>
-            <ab>&#8212;Lectures "(History of Literature" <add rend="unmarked" place="infralinear">1811&#8211;12</add>)
+            with the order of society.—"</hi></ab>
+            <ab>—Lectures "(History of Literature" <add rend="unmarked" place="infralinear">1811–12</add>)
             have chiefly extended his fame</ab>
-            <ab>&#8212;<hi rend="underline">He makes Literature the <choice><orig>repre‑<lb/>
+            <ab>—<hi rend="underline">He makes Literature the <choice><orig>repre‑<lb/>
             sentative</orig><reg>representative</reg></choice> expression of all
-            that is superior in a nation&#8212;</hi>
+            that is superior in a nation—</hi>
             thus elevating it, especially
             poetry, far above the views of
             trivial and commonplace criticism,
             and regarding it as incorporating
             and being the highest product
             of human life and genius</ab>
-            <ab>&#8212;He appreciates the great masters of
+            <ab>—He appreciates the great masters of
             all countries, and sets them off from
             crowds of temporary persons</ab>
             <milestone unit="unknown" rend="horbar-short-left"/>
-            <ab xml:id="ab1"><hi rend="underline">Prejudices</hi>&#8212;But remember in
+            <ab xml:id="ab1"><hi rend="underline">Prejudices</hi>—But remember in
                 <note type="authorial" resp="#h1" place="left" target="#ab1">☞</note>reading these Lectures, that Schlegel
             was full of the Prejudices of a
-            zealous newly converted Roman Catholic.&#8212;</ab>
+            zealous newly converted Roman Catholic.—</ab>
             <pb xml:id="leaf001v" facs="Pa110794.jpg" type="verso"/>
         </body>
     </text>

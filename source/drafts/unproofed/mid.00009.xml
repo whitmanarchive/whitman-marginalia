@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="mid.00009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Lessing (Gotthold</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mid.00009</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Lessing's Laocoon</title>
+                    <idno type="callno">Walt Whitman's Manuscript Notes on Southey, Browning and Others</idno>
+                    <date notBefore="1851-01-01" notAfter="1892-05-26"/>
+                    <orgName xml:id="mid">Middlebury College Library, Special Collections</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+                <bibl type="pasteon" xml:id="r2">
+                    <author>Unknown author</author>
+                    <title level="a">Lessing's Laocoön</title>
+                    <title level="j">The American Whig Review</title>
+                    <date notBefore="1851-01-01" notAfter="1851-12-26">1851</date>
+                    <biblScope type="vol">7</biblScope>
+                    <biblScope type="pp">17</biblScope>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="brown-ink"/>
+                <handNote xml:id="h3" scribeRef="#unk" medium="typescript"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2013-06-29">Transcribed and encoded.</change>
+            <change who="#lmg" when="2014-01-22">Checked.</change>
+        </revisionDesc>
+    </teiHeader>
+<text type="marginalia">
+    <body>
+        <pb xml:id="leaf001r" facs="mid.00009.001.jpg" type="recto"/>
+        <ab><handShift new="#h1"/>Lessing (Gotthold Ephraim Lessing)&#8212;1729&#8212;1787
+        cont. of Voltaire)
+        very active&#8212;Lived in Berlin, Leipsic, Breslaw, Hamburg, &amp;c&#8212;
+        &#8212;Was a severe and almost perfect critic&#8212;exposed Klopstok's deficien
+        as a poet and the false imitations of the classics&#8212;author of
+        "Laokoon" (1766)&#8212;and of good dramas&#8212;also a didactic
+        drama "Nathan the Wise," inculcating Kosmos religious notions
+        &#8212;Lessing was
+        a Jew He was the R.W. Emerson
+        of his age, and paved
+        the way for Goethe and
+        Schiller</ab>
+        <fw type="date" place="top left"><handShift new="#h3"/>1851.</fw>
+        <fw type="header" place="top" rend="italic">Lessing's Laocoön.</fw>
+        <fw type="pageNum" place="top right">17</fw>
+        <ab rend="centered">LESSING'S LAOCOÖN.</ab>
+        <ab rend="centered">THE SECRET OF CLASSIC COMPOSITION IN POETRY, PAINTING, AND STATUARY.</ab>
+        <cb/>
+            <p>T<hi rend="smallcaps">HE</hi> "Laocoön" of Lessing has been
+        but little read in America. Copies of the
+        elegant translation by Ross are rare on this
+        side of the Atlantic. Readers of German
+        profess to understand it in German; but
+        like our collegiate Grecians, they read it, as
+        Homer is read in schools, with little advantage.
+        The Laocoön cannot, however, be
+        classed among "difficult books." In the
+        translation of William Ross, it is easily and
+        soon read. The style of that translator,
+        which is clear and flowing, facilitates, no
+        doubt, an easy comprehension of the author's
+        meaning. At two sittings one may read
+        the whole. Lessing was neither a mystic
+        nor a transcendentalist. His characteristics
+        are perspicuity and judgment, and an
+        understanding very free of prejudice.</p>
+        <p>The purpose of the Laocoön is to ascertain
+            the limits of poetry and painting; to
+            show what subjects, or rather, what conditions
+            of subjects, are proper for poetic, and
+            what for pictorial representation.</p>
+        <p xml:id="p1a" next="#p1b">The work opens with an examination of
+            Winkelman's theory, "that <hi rend="underline" hand="#h1">the <hi rend="italic">primary law</hi>
+            of the arts of design among the ancients,
+            consisted in a noble simplicity and tranquil
+            grandeur, both of attitude and expression."</hi>
+            The illustrations of their principles are taken,
+            both by Lessing and by Winkelman, who
+            were contemporaries, from the celebrated
+            group in marble of Laocoön and his two
+            sons, represented as perishing together in the
+            folds of two enormous serpents. The father
+            appears to be in the very agony of death,
+            but his features, in the marble, are not distorted
+            to a revolting degree; they represent
+            agony subdued by an exertion of the will,
+            and yet agony extreme, even to death.
+            Winkelman argues that <hi rend="underline" hand="#h1">the representation
+                of the moral power which subdues unseemly
+                manifestations of pain and passion, was the
+                true object of classic art.</hi> Lessing shows,
+            on the contrary, that <span rend="bracket-left" hand="#h1" xml:id="s1" from="#s1" to="#s2"/><span rend="bracket-right" hand="#h1" xml:id="s3" from="#s3" to="#s4"/><hi rend="underline" hand="#h1">the poets and dramatists
+                of Greece did not confine themselves to
+                the expression of subdued and dignified
+                emotions; but gave room, in their dramatic
+                exhibitions, to every variety and extreme of
+                passionate expression, to a degree not tolerated</hi><anchor xml:id="s2"/><anchor xml:id="s4"/></p>
+            <ab>VOL. VII. NO. I. NEW SERIES</ab>
+            <note type="authorial" resp="#h1" place="bottom">☝</note>
+        <cb/>
+            <p xml:id="p1b" prev="#p1a"><hi rend="underline" hand="#h1">on the modern stage</hi>; and that <hi rend="underline" hand="#h1">only
+                the painters and the sculptors,</hi> <hi rend="underline" hand="#h1">in representing
+                    the passions, kept within the limits
+                    proscribed by Winkelman for all the representative
+                    arts.</hi> <hi rend="underline" hand="#h1">"Stoicism," says Lessing,
+                        "is <hi rend="italic">undramatic</hi>, and our sympathy is always
+                        commensurate with the suffering exhibited
+                        by its object."</hi> "If it be true, that
+                to give utterance to the expression of pain is
+                perfectly compatible&#8212;at least, according to
+                the notions of "the ancient Greeks&#8212;with
+                grandeur of soul, it follows, that it could not
+                have been from the fear of diminishing this
+                elevation of character, that the artist refrained
+                from tracing on his marble (the Laocoön)
+                the outward indications of painful shrieks.
+                He must then have had some other motive
+                for departing, in this instance, from the line
+                adopted by his rival, the poet, who has
+                chosen deliberately to express those shrieks."</p>
+        <span rend="singleLine-right" hand="#h1" xml:id="s5" from="#s5" to="#s6"/><p>In the second section of his work Lessing
+            endeavors to show that <hi rend="italic">beauty</hi> is the primary
+            object of the arts, and that they were confined
+            by the Greeks to the narrow limits of
+            beauty. Mere representation, made for its<anchor xml:id="s6"/>
+            <span rend="singleLine-right" hand="#h1" xml:id="s7" from="#s7" to="#s8"/>own sake, was not permitted. <hi rend="underline" hand="#h1">There was
+                even a law among the Thebans, which ordained
+                the imitation of the beautiful alone:
+                this law was directed against the caricaturists
+                and delineators of vulgar subjects.
+                The ancient statuaries avoided every kind
+                and degree of passion which contorts the
+                countenance and destroys the beauty of the
+                figure;</hi> <hi rend="underline" hand="#h1">while to the poets, every liberty of
+                    representation was permitted.</hi> Jupiter, hurling
+            his thunder-bolt, was <hi rend="italic">fierce</hi> with indignation
+            in the song of the poet; while in the
+            sculptor's image he was simply <hi rend="italic">grave</hi>.<anchor xml:id="s8"/></p>
+        <span rend="bracket-right" hand="#h2" xml:id="s9" from="#s9" to="#s10"/><p xml:id="p2a" next="#p2b">Imitation by the sculptor is confined to a
+            single moment, and that of the painter to
+            a single point of view, <hi rend="underline" hand="#h1">while it is the <hi rend="italic">art</hi>
+                of the poet to describe a series of movements,
+                one following another,</hi> in the relation<anchor xml:id="s10"/>
+            of cause and effect. Since, therefore, the
+            arts are limited by their own intrinsic necessities,
+            truth and expression ought not alone
+            to be regarded. The difficulty of the artist
+            is to select such a moment, and such a point
+            of view, as shall be sufficiently pregnant</p>
+        <ab>2</ab>
+        <pb xml:id="leaf001v" facs="mid.00009.002.jpg" type="verso"/>
+        <fw type="pageNum" place="top left">18</fw>
+        <fw type="header" place="top" rend="italic">Lessing's Laocoön.</fw>
+        <fw type="date" place="top right">Jan.</fw>
+        <cb/>
+        <p xml:id="p2b" prev="#p2a">with meaning. "Nothing," says Lessing,
+            "can possess this important qualification but
+            that which leaves free scope to the imagination.
+            The sight and the fancy must be permitted
+            reciprocally to add to each other's
+            enjoyment. There is not, however, any one
+            moment less favorable for this purpose, in
+            the object of art, than that of its highest
+            state of excitement." <hi rend="italic">Transient</hi> situations
+            and appearances, our author argues, are to
+            be avoided. The portrait of a man laughing
+            disgusts upon a second view. Falling
+            bodies cannot be represented. Ajax distracted,
+            after having murdered the sheep and
+            oxen, which he mistook for men, leans
+            gloomily upon his sword, meditating selfdestruction.
+            That is the moment for the
+            sculptor or the painter; and if an excess
+            of passion is represented, it must be at
+            instants of amazement and stupefaction, or
+            at the pause or point of hesitation, on the
+            <span rend="singleLine-left" hand="#h1" xml:id="s11" from="#s11" to="#s12"/>eve of some terrible catastrophe. Thus we
+            see the poet and the artist occupy the
+            entire range of representation, and fill out
+            the circle, <hi rend="underline" hand="#h1">one representing <hi rend="italic">motion</hi>, and the
+                other <hi rend="italic">rest</hi>.</hi></p>
+            <p xml:id="p3a" next="#p3b">Passing over several chapters in which
+                our author discusses questions that are interesting
+                rather to the classical critic and the<anchor xml:id="s12"/>
+                antiquary than to the artist, we come
+                upon the seventh division of his subject, in
+                which he distinguishes two kinds of imitation,
+                &#8212;that of the genuine artist, and that
+                of the servile copyist. The artist imitates
+                the poet, and the poet the artist; but with
+                different degrees of propriety. When <hi rend="italic">Virgil</hi>
+                gives us a description of the shield of
+                Æneas, he imitates in a certain sense the
+                sculptor of the shield; but it was a true imitation
+                only when he had seen such a shield,
+                and when he described what he had seen.
+                "If, on the other hand, Virgil had taken the
+                marble group of the Laocoön for his model,"
+                says Lessing, "he would have produced an
+                imitation of the second kind; he would
+                have copied the <hi rend="italic">subject</hi> only, and his description
+                would not have been taken from
+                any particular attitude chosen by the sculptor,
+                nor would he describe it as one would
+                draw it, piece by piece, and limb by limb.
+                He would take the group as the suggestor
+                of a series of actions leading to the catastrophe
+                represented in the particular attitude
+                selected by the statuary." Our author is careful
+                to give a superior credit to the more original
+                kind of imitation, in which the poet</p>
+        <cb/>
+            <p xml:id="p3b" prev="#p3a">describes what he has seen; taking for his
+                example Virgil's description of the shield of
+                Æneas, where the poet is also the inventor
+                of the imagery described upon the shield.
+                Lessing argues that it would have been a
+                degradation for the poet to have taken a
+                hint from the marble group of Laocoön.
+                He might, however, show as great an originality
+                and power in describing the series of
+                events which led to the catastrophe of Laocoön,
+                though his first hint of them may
+                have been given by the marble group, as
+                the statuary himself, who, from some ancient
+                story or tradition, executed the work in
+                marble. <hi rend="underline" hand="#h1">It is not originality, which is demanded
+                    of the artist or the poet</hi>,&#8212;and this
+                    we say of ourselves, and not after Lessing,&#8212;
+                    <hi rend="underline" hand="#h1">but the power of producing a combined
+                        effect of pleasure and elevation, by whatever
+                        means that effect may be produced.</hi></p>
+            <p>"The Count de Caylus recommends the artist
+                to make himself thoroughly acquainted with
+                Homer, that greatest of all pictorial poets&#8212;that
+                faithful follower of nature. The Count assures
+                the artists that their execution will be more perfect
+                in proportion to their intimacy with the
+                minutest details of the poet's description."</p>
+            <p>"The effect of the system here recommended,"
+                continues Lessing, in his 11th section, "would be,
+                to unite the two kinds of imitation, which I have
+                already distinguished from each other. The
+                painter would not only have to imitate that
+                which the poet had imitated before him, but he
+                would also be required to do so with the identical
+                lineaments which the other had employed;&#8212;he
+                would be required to make use of his prototype
+                not only in his character of narrator, but in that
+                of poet likewise.</p>
+            <p>"But how does it happen that this second kind
+                of imitation, which is so derogatory to the poet, is
+                not equally so to the artist? If such a series
+                of pictures as that which the Count de Caylus
+                gives from Homer, had been in existence before the
+                poet wrote; and if we knew that he had drawn
+                his story from those materials, would not our admiration
+                of him be infinitely diminished? How
+                then does it happen, that we withhold none of
+                our approbation from the artist, even when he
+                does nothing more than embody the poet's words
+                in forms and colors?"</p>
+            <p>To this question Lessing replies, that in
+                the works of the painter or statuary, the
+                execution seems more difficult than the invention;
+                while, with the poet, <hi rend="italic">invention</hi> is
+                the test.</p>
+            <p xml:id="p4a" next="#p4b">In offering this explanation, Lessing departs
+                from his own principle; or rather,
+                he loses sight of it, and neglects it. By
+                his own showing, the merit of the painter or
+                sculptor is <hi rend="italic">never</hi> the merit of the poet, in
+                any case. Neither is invention more creditable</p>
+        <pb xml:id="leaf002r" facs="mid.00009.003.jpg" type="recto"/>
+        <fw type="date" place="top left">1851.</fw>
+        <fw type="header" place="top" rend="italic">Lessing's Laocoön.</fw>
+        <fw type="pageNum" place="top right">19</fw>
+        <note type="authorial" resp="#h1" place="top">☟</note>
+        <cb/>
+        <p xml:id="p4b" prev="#p4a">in the poet, than in the statuary or
+            <span rend="singleLine-left" hand="#h1" xml:id="s13" from="#s13" to="#s14"/><span rend="bracket-right" hand="#h1" xml:id="s15" from="#s15" to="#s16"/>painter. <hi rend="underline" hand="#h1">And, if we be not wrong in the
+                conjecture, invention, so much prized by the
+                moderns, was not in the least esteemed by
+                the artists and poets of antiquity; their
+                works being founded entirely upon tradition
+                and history; a common stock, from which
+                all alike drew their materials.</hi></p><anchor xml:id="s14"/><anchor xml:id="s16"/>
+        <p>In every work, the spirit and circumstance
+            of the plot, or situation, was given
+            by tradition; and it was the duty of the
+            poet to develop and characterize it&#8212;<hi rend="italic">impersonate</hi>
+            it, if we may be allowed the expression,
+            by the actions of the figures; while
+            the statuary and painter restricted themselves
+            to certain groups and tableaux, depicting
+            points of rest and expectation. Consequently,
+            there is no need of giving precedence
+            <span rend="bracket-left" hand="#h1" xml:id="s17" from="#s17" to="#s18"/><span rend="bracket-right" hand="#h1" xml:id="s19" from="#s19" to="#s20"/>to one art over the other, for the
+            universe is both at rest and in motion in an
+            equal degree, and the eternal rest is surely
+            as sublime, to our imagination, as the eternal
+            motion.<anchor xml:id="s18"/><anchor xml:id="s20"/></p>
+            <p>In composing pictures from Homer, or in
+                executing groups in <hi rend="italic">bas-relief</hi>, the artist
+                does not adopt even the minutest trace of
+                that which is the peculiar subject matter of
+                poetry, nor is it possible for him to do so, in
+                the nature of things, unless by caricature.
+                He adopts only the dry bones of tradition,
+                the history itself, which Homer may have
+                got, and probably did get, as did <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice>,
+                from his predecessors, improving on
+                them, it may be, and adding new features,
+                but not using larger liberties with tradition
+                itself than the statuary or the painter may
+                use with the same. The arts are therefore
+                free of each other, and make no serious
+                encroachments upon each other's limits.</p>
+            <p>Lessing argues, that should the poet take
+                his descriptions from groups of statuary or
+                from paintings, his merit would be infinitely
+                less.</p>
+            <p>"Had Virgil," says he, "delineated the fate of
+                Laocoön and his sons from the sculpture, he would
+                have forfeited the merit which we consider the
+                most difficult of attainment, and would have been
+                entitled only to that which is of comparatively
+                smaller importance; for the first creation of such
+                a work in the imagination, is a far higher effort of
+                genius than its description in words: but had the
+                artist, on the contrary, borrowed his subject from
+                the poet, our admiration of him would scarcely
+                have been diminished, though the merit of the
+                conception would not have been his own; for
+                to impart expression to the marble is infinitely
+                more difficult than to give expression in words;
+                and in comparing the relative value of expression
+                and execution, we are always disposed to excuse
+                <cb/>
+            the sculptor's deficiency in the one to the same
+            extent that we require his excellence in the other.</p>
+            <p>"In some instances, it is even a greater merit in
+                the artist to have imitated nature through the
+                medium of the poet's imitation than without it.
+                The painter who has delineated a beautiful landscape
+                after the description of a Thomson, has
+                performed a higher task than he who has copied it
+                directly from nature."</p>
+            <p>Were the principles of our critic, indicated
+                in the above remarks, to pass into literature
+                as critical canons, we conceive a great and
+                serious injury would be inflicted upon the
+                arts. It may be a much more <hi rend="italic">difficult</hi> task
+                to paint a landscape after Thomson, but the
+                difficulty of art does not in the remotest
+                degree enhance its merit. Whether easily
+                or with difficulty produced, is nothing to the
+                point; works of art are not for the artist,
+                but for others, and were we inclined to interpose
+                between the artist and his work,
+                we should rather say, the more easily it is
+                done the better. "The painter of nature,"
+                says our author, "has the original before his
+                eyes; the painter after Thomson must exert
+                his imagination:" but, in truth, there is no such
+                thing in art as a pure imitation of nature;
+                the entire work, from the composition of the
+                colors to the last degree of sublimity in
+                expression, is a production of talent and
+                imagination. The artist has, indeed, nature
+                before him, but the spiritual significance of
+                nature he has only in his own mind; and
+                it is not <hi rend="italic">every</hi> natural scene, every appearance
+                on the face of nature, that <hi rend="italic">has</hi> significance;
+                nor, to <hi rend="italic">some</hi> minds, has <hi rend="italic">any</hi> scene
+                <hi rend="italic">any</hi> significance. If he paints after Thomson
+                he does not take the colors of his stones and
+                trees, (their most effective element,) nor their
+                individual shapes, from Thomson. These he
+                must take from nature, which is common to
+                himself and to the poet. The poet may have
+                expressed the spiritual significance of the
+                scene, but by the canon which Lessing has
+                himself established, he does so by the <hi rend="italic">changes</hi>
+                which pass over the landscape, the æsthetic
+                succession of the changes forming a natural
+                drama or story; as, for instance, that of the
+                rise and progress of a thunder-storm, of
+                which nature retains the tradition, for the
+                use both of the painter and the poet.</p>
+        <p>We repeat, then, that the duty of the
+            painter is to represent moments of rest,
+            (<hi rend="italic">suggesting</hi> motions and changes,) and that,
+            too, by Lessing's own established principle&#8212;
+            a principle which marks a satisfactory limit
+            between pictorial and poetical art.</p>
+        <pb xml:id="leaf002v" facs="mid.00009.004.jpg" type="verso"/>
+        <note type="authorial" resp="#h1" place="top"><add rend="insertion" place="supralinear">In art</add> Originality is an effect, just as much as a cause.</note>
+        <fw type="pageNum" place="top left">20</fw>
+        <fw type="header" place="top" rend="italic">Lessing's Laocoön.</fw>
+        <fw type="date" place="top right">Jan.</fw>
+        <cb/>
+        <span rend="doubleLine-left" hand="#h1" xml:id="s21" from="#s21" to="#s22"/><p><hi rend="underline" hand="#h1">We firmly believe that while Invention is
+            held to be the chief merit of an artist&#8212;
+            while the attainment of what is called Originality
+            is held up to the youthful poet
+            or painter&#8212;we shall never produce great
+            works of art. Let Art itself be its own merit,
+            and let its subjects be taken, as they come,
+            either from nature</hi> or from history indifferently;
+            and he who can best select and
+            <span rend="bracket-left" hand="#h2" xml:id="s23" from="#s23" to="#s24"/>execute the subject, he is the greatest artist.
+            How absurd would seem the efforts of that
+            painter, who should endeavor to invent a
+            new form of human face! Novelty in art
+            is a contradiction in terms, for the soul of
+            art is representation.<anchor xml:id="s24"/><anchor xml:id="s22"/></p>
+            <p>Let us consider in what manner a great
+                artist would choose to immortalize himself.
+                Surely by the representation of a moral
+                theme, and by no means of any extemporized
+                fable. Were he a sculptor, his
+                figure would be a Moses, a Cromwell, a
+                Calhoun. He would turn to history both
+                for story and sentiment; and chiefly to the
+                oldest traditions, and the most sacred histories.
+                Were he a poet, his choice would be
+                <span rend="bracket-left" hand="#h2" xml:id="s25" from="#s25" to="#s26"/>of no idle scone, pregnant with no consequences:
+                that which he represented would
+                be significant either of the great laws which
+                govern human nature in all conditions, or
+                of the destiny of a nation, or perhaps, as
+                in Milton's epic, of all mankind. He would
+                endeavor to characterize the most powerful
+                traits of humanity, in order, simply, <hi rend="italic">to express
+                    the grandeur of his own spirit,</hi> (for the
+                artist is ambitious, and seeks admission to
+                the society of the great of all ages;) and he
+                would, therefore, by a necessary sympathy,
+                feel himself attracted only to the characters<anchor xml:id="s26"/>
+                and actions of heroes and sages. If, like
+                Milton, he chose to invent, his invention
+                would be merely a combination,&#8212;an assemblage
+                of known images, to express a series
+                of established principles; and in this invention
+                he would only imitate nature, and, as
+                Milton has done, reproduce tradition in new
+                actions, and describe what has already been
+                described&#8212;battles, single conflicts, stratagems,
+                statesmanship, and the interior struggles
+                of the greater passions. He would
+                never inquire whether or no he were original,
+                but only whether he were true to
+                nature in her highest passages, and correct
+                and artistic in the combination of the forms
+                and actions taken to illustrate his moral
+                theme.</p>
+            <p>In the fifteenth section of his work, Lessing<cb/>
+                has marked the essential difference between
+                the poet and the artist. Without
+                adhering closely to the text, let us endeavor
+                to develop the idea of which it contains the
+                germ, and the germ only; for Lessing, although
+                the originator, did not prove himself
+                the master of criticism, and humbler spirits,
+                following in his steps, may possibly add
+                something to the work which he began.</p>
+                <p>"Time is the sphere of the poet&#8212;space
+                    that of the painter." More correctly, the
+                    statuary and the painter make use of visible
+                    fixed forms to represent passions and moral
+                    emotions,&#8212;visible fixed <hi rend="italic">forms</hi>, which are
+                    significant in themselves, as the human face
+                    is, in itself, significant of what passes in
+                    the mind and heart. The poet, on the other
+                    hand, makes use of <hi rend="italic">sounds</hi>, the measures of
+                    time and motion. Tho face and form of
+                    man is the property of the painter; his
+                    speech, the most significant and powerful of
+                    his actions, belongs to the poet. It is important,
+                    however, not to mistake written language,
+                    or phonetics, for an essential in the
+                    poet's art; since poetry may be composed
+                    without the aid of letters, and intrusted
+                    merely to the memory. The labor of the
+                    painter and statuary is mechanical, and
+                    their work requires no comment; its meaning,
+                    like that of nature, being at once apparent
+                    to all mankind. The work of the
+                    poet is limited to the language in which he
+                    writes; a medium variously colored, imperfect,
+                    and artificial in tho highest degree.</p>
+                <p>The poet cannot make us see a thing
+                    which we have not seen; he can only represent
+                    the motions and actions of things
+                    which we <hi rend="italic">have</hi> seen; which gives a hint of
+                    the mode in which poems should be illustrated;
+                    that is to say, by pictures representing
+                    points of rest in the progress of the story,
+                    and giving us portraits of the personages in
+                    groups preparatory to, or concluding an
+                    action, as <choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice> has been illustrated
+                    by the more recent limners.</p>
+                <p>Because language can express and suggest
+                    every action, sentiment, and feeling,
+                    <span rend="singleLine-right" hand="#h2" xml:id="s27" from="#s27" to="#s28"/>poetry can do the same; but as <hi rend="underline" hand="#h2">language
+                        proper always expresses by its nature a
+                        <hi rend="italic">movement</hi> in the mind, while colors and
+                        lines express only fixed images in the same,
+                        poetry is the vehicle for expressing passions,
+                        actions, and variable emotions, while painting
+                        and statuary can only</hi> represent, in<anchor xml:id="s28"/>
+                    <hi rend="underline" hand="#h2">strictness, what</hi> is permanent and perpetual,
+                    <hi rend="underline" hand="#h2">or rather,</hi> what is <hi rend="underline" hand="#h2">complete in itself,</hi> and that</p>
+    </body>
+</text>
+</TEI>

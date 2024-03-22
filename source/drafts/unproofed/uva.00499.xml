@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="uva.00499">
+    <!-- Not linked to a publication; no work id has been assigned; jc, 2014-11-05. -->
+    <relations>
+        <work ref="xxx.00000">
+            <p> </p>
+        </work>
+    </relations>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The unknown refused to explain</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <author>George Sand</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="cb">Caterina Bernardini</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of
+                    Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>uva.00499</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2018 by Ed Folsom and Kenneth M. Price, all rights reserved.
+                        Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Whitman quotes this passage, with minor
+                    variations, from George Sand, <hi rend="italic">The Countess of Rudolstadt</hi>,
+                    trans. Francis G. Shaw (2 vols., New York, 1848). This novel was the sequel to
+                    George Sand's <hi rend="italic">Consuelo</hi>, accounting in part for Whitman's
+                    citation; his copies of both novels, held by the Library of Congress Rare Books
+                    division, are now disbound, but the 1858 catalog of the New York Mercantile
+                    Library (p. 37) lists the two novels bound together in its collection at the
+                    time.</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>["The unknown refused to explain]</title>
+                    <date notBefore="1847-01-01" notAfter="1892-03-26">1847 or after</date>
+                    <orgName xml:id="uva">Papers of Walt Whitman (MSS 3829), Clifton Waller Barrett
+                        Library of American Literature, Albert H. Small Special Collections Library,
+                        University of Virginia</orgName>
+                    <note type="project">Transcribed from digital images of the original
+                        item.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018-01-12" who="#cb">proofed</change>
+            <change when="2015-11-14" who="#mc">added ed. note and proofed</change>
+            <change when="2014-11-06" who="#jc">transcribed and encoded</change>
+
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <pb xml:id="leaf001r" facs="uva_jc.00502.jpg" type="recto"/>
+            <p>"The unknown refused to explain himself. 'What could I say to you that I have not
+                said in another (my own) language? Is it my fault that you have not understood me?
+                You think I wished to speak to your senses, &#038; it was my soul spoke to you. What
+                do I say! It was the soul of the whole of humanity that spoke to you through
+                mine'."&#8212;<hi rend="underline">George Sand</hi>.</p>
+            <ab><hi rend="underline">Consuelo</hi>. Vol 5, page 264</ab>
+        </body>
+    </text>
+</TEI>

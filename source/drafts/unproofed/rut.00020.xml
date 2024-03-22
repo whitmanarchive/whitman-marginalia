@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"The English Mind"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00020</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>"The English Mind"</title>
+                    <!--<idno type="callno"></idno>-->
+                    <!--<date cert="high" when="1851-08">August 1851</date>-->
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-11-18">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <div1>
+                <pb xml:id="leaf001r" facs="rut_nhg.00024.jpg" type="recto"/>
+                <fw type="pageNum" place="top right">835</fw>
+                <fw type="header" place="top"><hi rend="smallcaps">LITERARY NOTICES.</hi></fw>
+                <milestone unit="undeclared" rend="horbar-full"/>
+                <p>readers are ignorant of the deadly herb whose infernal power is here recorded,
+                    let them know that hasheesh is the juice of the Indian hemp, the southern branch
+                    of the same family which, in northern climes, grows almost totally to fibre,
+                    producing materials for mats and cordage. Under a tropical sun the plant loses
+                    its fibrous texture, and secretes profusely an opaque and greenish resin. This
+                    has been used for ages in the East as a narcotic and stimulant, and at this day
+                    forms a habitual indulgence with all classes of society in India, Persia, and
+                    Turkey. The efi‘ects which it produces, both physical and intellectual, are of
+                    the most extraordinary character. The experience of the author in its use is
+                    here frankly and fully related, in a narrative which is equally rich in
+                    psychological illustration and in imaginative vision.</p>
+                <p><hi rend="italic">Lectures on Temperance</hi>, by <hi rend="smallcaps">ELIPHALET
+                        NOTT, D.D</hi>. (Published by Sheldon, Blakeman, and Co.) The devotion of
+                    the venerable President of Union College to the cause of temperance is a no less
+                    striking feature of his career than his exuberant eloquence, his tenacity of
+                    purpose, and his wonderful elasticity of intellect. The lectures, which are here
+                    published under the auspices of Mr. M‘Coy, a well-known leader in the Temperance
+                    movement, and with a characteristic introduction by the learned Professor of
+                    Greek in Union College, Mr. Taylor Lewis, are admirable specimens of research,
+                    vigor of reasoning, vivacity of style, and a candid, catholic spirit. The chart
+                    at the close of the volume, exhibiting the Bible texts which allude to wine, is
+                    a document of great interest and value.</p>
+                <p><hi rend="italic">The Legal Adviser&gt;</hi>, by <hi rend="smallcaps">EDWIN D.
+                        FREEDLEY</hi>. (Published by Lippincott and Co.) It is no part of the design
+                    of this volume to assist any conceited ignoramus to set up as a lawyer on his
+                    own account, and dispense with the services of the regular profession in case of
+                    need. On the contrary, it aims at giving intelligent business-men such
+                    information in regard to the elementary principles of mercantile law as may
+                    guide them in their daily routine, save them the annoyance and expense of
+                    litigation, or at least enlighten them as to the probable issue of a proposed
+                    lawsuit. Mr. Freedley has discussed several important topics in a lucid and
+                    popular manner, illustrating them with a variety of apposite examples and
+                    incidents, some of which are of a singularly curious character. The doctrine of
+                    agents and administrators, of commission and guarantee, of partnership, of
+                    insurance, and of testamentary provisions, receives ample attention in this
+                    volume; but a clear explanation of the principles and processes of mortgage and
+                    hypothecation would add greatly to its completeness, and to the value of a
+                    second edition.</p>
+                <p><hi rend="italic">Life Studies; or, How to Live</hi>, by the <hi rend="smallcaps">REV. JOHN BAILLIE</hi>. (Published by Harper and Brothers.) The influence
+                    of religious principle, as illustrated in the biography of several eminently
+                    pious individuals, is the subject of this little volume. John Bunyan is made the
+                    representative of the “Good Soldier," Gerhardt Tersteegen of the “Christian
+                    Laborer,” James Montgomery of the “Christian Man of Letters," Frederic Perthes
+                    of the “ Man of Business," and Mary Winslow of the “Christian Mother." The
+                    author has skillfully constructed a series of interesting narratives from the
+                    most salient incidents of their lives, producing a work of practical religious
+                    value, without the formality and dryness almost inseparable from a merely
+                    didactic treatise.</p>
+                <cb/>
+                <p>
+                    <hi rend="italic">The Life of Handel</hi>, by <hi rend="smallcaps">VICTOR
+                        SCHOELCHER</hi>. (Published by Mason Brothers.) Composed by a distinguished
+                    political exile of France, whom the troubles of his country compelled to seek
+                    refuge in London, this volume is a genuine labor of love, and bears on every
+                    page the enthusiasm in which it had its origin. The author learned to solace his
+                    retirement in that city by listening to the oratorios of Handel&#8212;he had
+                    already been impressed by their sublimity&#8212;but a further acquaintance
+                    produced fresh admiration&#8212;and he at length conceived the wish to possess
+                    all the works of the great master to whom he was so deeply indebted. In the
+                    accomplishment of this purpose be was led to examine whatever had been written
+                    concerning the life of Handel, and his researches finally grew into such
+                    magnitude and importance that he decided to embody their results in a volume.
+                    The present work is the fruit of that pains-taking diligence. It comprises a
+                    great amount of facts and anecdotes relating to Handel with which the public is
+                    not familiar, and at the same time throws much light on the musical history of
+                    England, especially of the period of the introduction of the Italian Opera. The
+                    American edition is arranged somewhat differently from the original, for the
+                    sake of avoiding the confusion of method which impairs the London impression. It
+                    contains, however, all the matter of Mr. Schoelcher‘s Work, and will be found an
+                    instructive and entertaining biography.</p>
+                <p><hi rend="italic">Poems</hi>, by <hi rend="smallcaps">ROSA VERTUER JOHNSON</hi>.
+                    (Published by Ticknor and Fields.) The chief recommendation of these poems is
+                    their smoothness and frequent sweetness of versification, rather than any
+                    remarkable boldness or originality of thought. They are evidently the
+                    productions of a cultivated and refined mind, liberally endowed with poetical
+                    instincts, but with no fervent saliency of imagination.</p>
+
+                <p><hi rend="italic">First Book of Chemistry and the allied Sciences</hi>, by <hi rend="smallcaps">JOHN A. PORTER</hi>. (Published by A. S. Barnes and Co.)
+                    The Professor of Chemistry in Yale College has performed a valuable service to
+                    the cause of scientific education in the preparation of this elementary
+                    treatise. It is founded on a thorough practical knowledge of the subject, and
+                    displays a skill in brief and lucid exposition that is not common among men most
+                    eminent for their scientific attainments. The main topics in the rudiments of
+                    chemistry are presented in the natural order of succession, and illustrated by a
+                    great variety of well-selected and apposite examples. Agricultural chemistry and
+                    geology are briefly treated in separate chapters, forming an appropriate
+                    conclusion t6 the main discussions of the work. Like most judicious manuals for
+                    juvenile instruction, this volume may be used to great advantage as an authority
+                    for current reference.</p>
+
+                <p><hi rend="italic">Floral Home; or, First Years of Minnesota</hi> by <hi rend="smallcaps">HARRIET E. BISHOP</hi>. (Published by Sheldon, Blakeman,
+                    and Co.) The progress of the portion of the great Northwest to which the present
+                    volume is devoted, is vividly described in these personal recollections of a
+                    lady connected with the Indian missions in that quarter. It is some ten years
+                    since she commenced the work of religious benevolence among the natives, and
+                    during that interval she has had ample opportunities of witnessing the rapid
+                    development of the country. She relates her experience with a certain degree of
+                    enthusiasm, but her narrative is highly interesting, full of information, and
+                    apparently worthy of en‘ tire credence.</p>
+            </div1>
+
+            <pb xml:id="leaf001v" facs="rut_nhg.00023.jpg" type="recto"/>
+            <div1>
+                <note type="authorial" resp="#h1" place="top"><handShift new="#h1"/>This essay
+                    explains a great deal in English Literature &#8212; illumines a great deal also
+                    in English manners, politics, &amp;c &amp;c. </note>
+                <note type="authorial" resp="#h2" place="top right">8</note>
+                <head>Editor's Table.</head>
+                <p><hi rend="smallcaps">THE ENGLISH MIND</hi>.&#8212;It is hardly necessary for us
+                    to say that a nation is not a mere aggregation of existing individuals, or
+                    collection of provinces and colonies, but an organic living body of laws,
+                    institutions, manners, and literature, whose present condition is the result of
+                    the slow growth of ages, and whose roots stretch far back into the past life of
+                    the people. By a national mind we mean the whole moral and mental life of a
+                    nation, as embodied in its facts and latent in its sentiments and ideas. This
+                        <hi rend="italic">body</hi> of mind, the organization of centuries,
+                    exercises, in virtue of its mass, a positive attractive force on all individual
+                    minds within the sphere of its influence, compelling them to be partakers of the
+                    thoughts and passions of the national heart and brain, and receiving in return
+                    their contributions of individual thoughts and passions. Now a national mind is
+                    great according to the vitality and vigor at the centre of its being, the
+                    fidelity with which it resists whatever is foreign to nature, and its consequent
+                    perseverance in its own inherent laws of development. Tried by these tests, that
+                    pyramidal organism, with John Bull at the base and <choice>
+                        <orig>Shakspeare</orig>
+                        <reg>Shakespeare</reg>
+                    </choice> at the apex, which we call the English mind, is unexcelled, if not
+                    unequalled, in modern times for its sturdy force of being, its muscular strength
+                    of faculty, the variety of its directing sentiments, and its tough hold upon
+                    existence. No other national mind combines such vast and various creativeness,
+                    and presents so living a synthesis of seemingly elemental contradictions, which
+                    is at the same time marked by such distinctness of individual features. That
+                    imperial adjective, English, fits its sedition as well as its servility, its
+                    radicalism as well as its conservatism, its squalor as well as its splendor, its
+                    vice as well as its virtue, its morality and religion as well as its politics
+                    and government. The unity of its nature is never lost in all the prodigious
+                    variety of its manifestation. Prince, peasant, Cavalier, Roundhead, Whig, Tory,
+                    poet, penny-a-liner, philanthropist, ruffian&#8212;William Wilberforce in
+                    Parliament, Richard Turpin on the York road&#8212;all agree in being English,
+                    all agree in a common contempt, blatant or latent, for everything not English.
+                    Liberty is English, wisdom is English, philosophy is English, religion is
+                    English, earth is English, air is English, heaven is English, hell is English.
+                    And this imperious dogmatism, too, has none of the uneasy self-distrust which
+                    peeps through the vociferous brag of corresponding American phenomena; but,
+                    expressing its seated faith in egotism's most exquisite <hi rend="italic">non
+                        sequiturs</hi>, it says stoutly, with Parson Adams, "A schoolmaster is the
+                    greatest of men, and I am the greatest of schoolmasters;" and, moreover, it
+                    believes what it says. The quality is not in the tongue, but in the character of
+                    the nation.</p>
+                <p>This solid self-confidence and pride of nationality, this extraordinary content
+                    with the image reflected in the mirror of self-esteem, indicates that the
+                    national mind is not tormented by the subtle sting of abstract opinions or the
+                    rebuking glance of unrealized ideals, but that its reason and imagination work
+                    on the level of its Will. The essential peculiarity, therefore, of the English
+                    Mind is its basis in Character, and consequent hold upon facts and disregard of
+                    abstractions. Coarse, strong,<cb/> massive, sturdy, practical,&#8212;organizing
+                    its thoughts into faculties, and toughening its faculties into the consistency
+                    of muscle and bone,&#8212;its whole soul is so embodied and embrained, that it
+                    imprints on its most colossal mental labors the stern characteristics of sheer
+                    physical strength. It not only has fire, but fuel enough to feed its fire. Its
+                    thoughts are acts, its theories are institutions, its volitions are events. It
+                    has no ideas not inherent in its own organization, or which it has not
+                    assimilated and absorbed into its own nature by collision or communion with
+                    other national minds. It is enriched but never overpowered by thoughts and
+                    impulses from abroad, for whatever it receives it forces into harmony with its
+                    own broadening processes of interior development. Thus the fiery, quick-witted,
+                    wilful and unscrupulous Norman encamped in its domains, and being unable to
+                    reject him, and its own stubborn vitality refusing to succumb, it slowly and
+                    sullenly, through long centuries, absorbed him into itself, and blended fierce
+                    Norman pride and swift Norman intelligence with its own solid substance of sense
+                    and humor. By the same jealous and resisting, but assimilative method, it
+                    gradually incorporated the principles of Roman law into its jurisprudence, and
+                    the spirit of Italian, Spanish, and German thought into its literature,
+                    receiving nothing, however, which it did not modify with its own individuality,
+                    and scrawling "England, her mark," equally on what it borrowed and what it
+                    created.</p>
+                <p>A national mind thus rooted in character, with an organizing genius directed by
+                    homely sentiments, and with its sympathies fastened on palpable aims and
+                    objects, has all the strength which comes from ideas invigorated but narrowed by
+                    facts. General maxims disturb it not, for it never acts from reason alone, or
+                    passion alone, or understanding alone; but reason, passion, understanding,
+                    conscience, religious sentiment, are all welded together in its thoughts and
+                    actions, and pure reason, or pure conscience, or pure passion, it not only
+                    neglects, but stigmatizes. Its principles are precedents buttressed by
+                    prejudices, and these are obstinately asserted from force of character rather
+                    than reasoned out by force of intellect. "Taffy," said swearing Lord Chancellor
+                    Thurlow to Lord Kenyon, "you are obstinate, and give no reasons; now Scott is
+                    obstinate, too, but he gives reasons&#8212;and d&#8212;d bad ones they are!"</p>
+                <p>Indeed, the English mind believes what it practises, and practises what it
+                    believes, and is rarely weakened in its active power by perceiving a law of
+                    morality or intelligence higher than its own practical morality and
+                    intelligence. It meets all emergencies with expedients, and gives to its reasons
+                    the emphasis of its will. Bringing everything to the test of common sense and
+                    fact, it is blind to the operation cf the great laws of rectitude and
+                    retribution objective to itself, but trusts that the same practical sagacity and
+                    practical energy which have heretofore met real dangers, will meet impending
+                    dangers when they become real. It has no forecasting science of right, but when
+                    self-preservation depends on its doing right, the most abstract requirements of
+                    justice will be "done into English" in as coarse and as sensible a way as its
+                    old hack-writers translated Juvenal and Plutarch.</p>
+            </div1>
+
+
+
+
+        </body>
+    </text>
+</TEI>

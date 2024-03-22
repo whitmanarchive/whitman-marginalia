@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00258">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Poem</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="mh">Melody S. Han</persName>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="bb">Brett Barney</persName>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original item is in the public domain. The text encoding and editorial notes were created and/or prepared by the <hi rend="italic">Walt Whitman Archive</hi> and are licensed under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <hi rend="italic">Walt Whitman Archive</hi>. Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p>
+                </availability>
+            <idno>duk.00258</idno></publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">This manuscript features notes for a poem about night "visions," possibly related to the fourth poem in the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "The Sleepers." Fragments of an unidentified newspaper clipping about the Puget Sound area have been pasted to the leaf.</note>
+                <note type="work_relations" target="xxx.00264" cert="low"><p>This manuscript may relate to the poem eventually titled "The Sleepers," first published as the fourth poem in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>. See in particular the opening line: "I WANDER all night in my vision," (1855, p. 70).</p></note>
+                <note type="work_relations" target="xxx.00048" cert="low"><p>There is also a chance that this manuscript may relate to the following line in the poem eventually titled "Song of Myself," first published as the first poem in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "The white-topped mountains point up in the distance . . . . I fling out my fancies toward them;" (1855, p. 38).</p></note>
+                
+            </notesStmt>
+            <sourceDesc>
+                
+                <bibl>
+                    <author sameAs="#ww">Whitman, Walt</author>
+                    <title>Poem</title>                  
+                    <idno type="callno">MS f 30</idno>
+                    <date cert="medium" notBefore="1850" notAfter="1860" xml:id="dat1">Between 1850 and 1860</date>
+                    <orgName xml:id="duk">The Trent Collection of Walt Whitman Manuscripts, Duke University Rare Book, Manuscript, and Special Collections Library</orgName>
+                    <note>Transcribed from digital images of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2023-09-20" who="#bb">updated relations tagging; converted invalid add elements to addSpan</change>
+            <change when="2022-04-14" who="#as">regularized Name</change>
+            <change when="2019-11-06" who="#nhg">edited notes; added inline relations</change>
+            <change when="2019-04-09" who="#bb">checked; edited</change>
+            <change when="2019-01-28" who="#nhg">proofed</change>
+            <change when="2015-02-07" who="#jc">checked; revised repository information in header</change>
+            <change when="2014-11-24" who="#kc">converted from P4 to P5, checked</change>
+            <change when="2004-02-02" who="#mh">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+<text type="manuscript">
+<body>
+<pb xml:id="leaf001r" facs="duk.00258.001.jpg" type="recto"/>
+
+    <head type="main-authorial" rend="underline"><handShift new="#h1"/>Poem</head>
+    <milestone unit="undeclared" rend="horbar-short-left" resp="#h1"/>
+    <ab xml:id="ab01" corresp="#l1648"><handShift new="#h1"/>As in Visions of — — at<lb/> night—</ab>
+    <ab xml:id="ab02" corresp="#l808"><handShift new="#h1"/>All sorts of fancies running through<lb/> the head</ab>
+    <addSpan spanTo="#a1" rend="pasteon" place="inline"/>
+        <floatingText><body><p><note type="editorial" place="right" resp="#h3">2</note><handShift new="#h2"/>Spring has just set in here, and the weather is truly delightful. We have the biggest pond (Puget Sound) and the finest fish in the world. They are so abundant, and the waters so placid, that the Indians spear instead of hook them. All night long one can see them shooting across the water in their canoes, and bearing aloft their torches. They usually manage to load down their boats with salmon, codfish and flounders, till the night gives place to day. Although the narrowest part of the Sound in this vicinity is four miles, and the widest ten, days succeed days without a ripple disturbing its broad expanse, save when made by the paddle-wheels of a steamer.</p></body></floatingText>
+    <anchor xml:id="a1"/>
+    <addSpan spanTo="#a2" rend="pasteon" place="inline"/><floatingText><body><p><note type="editorial" place="right" resp="#h3">3</note> <note type="editorial" place="right" resp="#h3"><del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#bb">2</unclear></del></note><handShift new="#h2"/>"The shores on either side of the Sound are skirted with dense timber, and on the tops are to be seen the eyrie of the eagle. At a distance of fifty miles the coast range of mountains are distinctly visible. These are covered with perpetual snow.</p>
+<p>"Balls and parties are of frequent occurrence. When one is given, the "rural districts" are well represented. Married couples think nothing of riding in on horseback, with infants in their arms, through heavy rains, distances of five or ten miles. From fifty to one hundred couple may be seen at a single ball. The In-<gap reason="cut away" atLeast="1" unit="chars"/></p></body></floatingText>
+    <anchor xml:id="a2"/>
+
+    <pb xml:id="leaf001v" facs="duk_am.00215.jpg" type="verso"/>
+    
+</body>
+</text>
+</TEI>

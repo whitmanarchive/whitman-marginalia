@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">A travelling sight-seer's Day in Rome</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="clh">Christy Hyman</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00084</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2019 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">A travelling sight-seer's Day in Rome</title>
+                    <idno type="callnumber">MS q 188</idno>
+                    <date xml:id="dat1" notBefore="1850" notAfter="1860" cert="high">Between 1850 and 1860</date>
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                
+                <bibl xml:id="r1" type="pasteon"> 
+                <author>unknown</author>
+                    <title level="a">From Rome</title>
+                    <title level="j">New-York Daily Tribune</title>
+                    <date when="1857-04-22" >22 April 1857</date>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope type="page">6</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#unk" medium="typescript"><persName xml:id="unk">unknown</persName></handNote>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-10-09" who="#km">proofed</change>
+            <change when="2019-06-10" who="#km">checked</change>
+            <change when="2019-05-16" who="#clh">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <ab/><!-- Sticking this empty tag here so that the file validates (it doesn't like it when there's nothing other than <add>s. KM -->
+            
+            <pb xml:id="leaf001r" facs="duk_nhg.00336.jpg" type="recto"/>
+            
+            <add rend="pasteon" place="top">
+                <floatingText rend="flat">
+                    <body>
+                        <pb xml:id="leaf002r" facs="duk_clh.00001.jpg" type="recto"/>
+                        
+                        <p><handShift new="#h1"/>A travelling sight-seer's Day <hi rend="underline">in Rome</hi>&#8212;the usual "things to look after"&#8212;an artist-teacher&#8212;his studio&#8212;&#8212;(well written rollicking</p>
+                    </body>
+                </floatingText>
+             </add>
+            
+            <add rend="pasteon" source="#r1"><handShift new="#h2"/>
+    <pb xml:id="leaf003r" facs="duk_clh.00002.jpg" type="recto"/>
+        <floatingText rend="flat">
+            <body>
+                <head>FROM ROME.</head>
+                
+<milestone unit="undeclared" rend="horbar-short-center"/>
+                
+<byline>Correspondence of The N.Y. Tribune.</byline>
+
+<dateline>R<hi rend="smallcaps">OME</hi>, March 24, 1857.</dateline>
+                
+<p>Rome's bill of fare offers invariably her homemade nature, ruins, churches, galleries and studios, beside her made-dishes of shops, gossip, scandal, fashion and vanity, which many prefer; in all a profuse banquet for the wise and the foolish, from which none need go empty away; and also food for sense and for soul, differing only in the partaking and digesting.</p> 
+                                                          
+<p>To <hi rend="italic">sans c&#0230;ur</hi> and fine linen people, a ride on the Appian Way, a sight of the Forum and Coliseum, St. Peter's and the Vatican, a yawn at Gibson's, Crawford's and Page's; some mosaics, pearls and scarfs; something gossipy and garrulous about the ministers, spiritual and temporal, and, by way of balancing their charities, some speculations on Crawford's state, his eulogy, epitaph and convalescence; then a Roman Punch of A.'s divorce, B.'s litigation, C.'s engagement&#8212;whether it is generally known or not, and whether she knows his intrigues; then a cigarette in the Villa Borghese, or on the Pinchio, and finally a salute at a Cardinal's reception, is the faring sumptuously everyday, and the veritable feast of reason and flow of soul, undreamed of in their arch epicurean fancies. Once in a while, in a transcendental fit of wisdom, for instance in a fine day, when, as Emerson says, "the cattle have great and tranquil thoughts," scenting the trail of a vagrant <hi rend="italic">flaneur</hi>,  in hopes of rare and dainty game, or of finding some piquant weed for condiment or flavor, they follow by-paths into by-corners, aside from prescribed sights and guide-book routes, and praise and hug themselves in coming, all of a sudden, on a pot of cream in a cellar, or some savory herbs in a garret, or a wild duck on a shelf, all which, taking care not to heat or soil themselves, they pack into their picnic sacks, lauding extremely the brilliancy of their eccentricities, and wondering if ever any one won so wittingly value from their travels; entirely unsuspecting that the old Leather-Stocking hunter, who has these small stores behind, is far ahead, by his sagacity and patience filling his pouch with the daintiest birds, and bearing the heavier game on his back, which nourish him as loves in the heart, and truth in the head, and in their way make him too fare sumptuously everyday; finding this tent pitched under any shady tree, or a home in every vine-tapestried ruin, where he may muse on all the canopy covers, in Rome and without, with no aim but to hunt God's truth and to live on God's goods, content always with the simple fare of wisdom and love which these fashionable pursuers of his trail pervert in cooking with their condiments of curiosity, vanity and worldly wisdom, till their final dish is, like a French fricassee or an Italian masjonnaise, made to tickle the taste more than to nourish the strength. Leather Stocking is chary of his commerce with Fine Linen and the Grundyists in general; but occasionally, with a simple and truth-loving heart, he indulges an amicable mood, and spreads out before him, in some favorite haunt, his dainty repast, and waits till the shadows grow long in telling his tales of town and country. Sometimes, with a friend or two, in a short cut across the Campagna, we have caught a familiar nod as he hurried by, or seen his fresh footsteps up some valley, opening a vista to the mountains, or found a bouquet of first wall-flowers left at the Coliseum; or seen him stretched in the sun with a group of models, or playing the castanets to the Sartorello dancing girls, but before we arrive he is off as quick as his shadow, lost in an unexpected subterranean of the Palace of the C&#0230;sars, or next seen emerging from an unmasked columbarium in a garden of chicory, telling the gardener of the arabesques beneath, and also about some Ghiotto frescoes in a walledoff corridor in the church across the field. Anon at the Vatican, in citizen's dress, he is looking at a pure Greek bit, too mutilated for Red Book rhapsodies, but just whole enough to hold a heart or pulse; and the next we hear of him he has found something of promise in an unknown artist's studio, or is extolling something</p> 
+            </body>
+        </floatingText>
+    
+</add>
+ 
+            <add rend="pasteon" source="#r1"> <handShift new="#h2"/>
+        <floatingText rend="flat">
+        <body>
+            <pb xml:id="leaf004r" facs="duk_clh.00003.jpg" type="recto"/>
+            
+<p>Ruskin never saw or wrote about, and all the Royal Academicians are ignorant or blind to; regaling himself continually with tit-bits neither fashionable nor conventional, doing the socratic with the rich as boldly as with the poor, husking down all people and things to their kernel, giving the husks to the swine, sowing the good seed on good ground, and leaving the bad to rot or come to tares. Again we find him rating the Apollo, the Torso Belvidere and the Dying Gladiator at their full value, and rendering honor to whom honor is due, in the works of Raphael and <choice><orig>Micheal Angelo</orig><reg>Michelangelo</reg></choice>, but reserving his superlatives for things better still, having a place for everything, and everything in its place, with an order astonishing and incomprehensible to those who would pile all, pell-mell, on the top shelf. Though not a lion hunger, Leather-Stocking makes the old lions cower as effectually as Gerard's sure shots; and before him Prince, the Lion of Lehore, is tame as a kid, and the lionesses, Mrs. Jamison, Mrs. Guckill and Mrs. Stowe, are as playful as maidens, and all the big bugs and little bugs take rank and make file in their order of merit, and buzz off safe as buzzards, leaving in great relief Margaret Fuller's observation on the natural history of lions, that, when seen close to, their pranks are much like those of other animals. Whether Leather Stocking can be called, popularly speaking, a friend or an enemy, I cannot say; on some he leaves a shame-shadow, on others a glow of delight; to some he is the skeleton of their house, to others as their household god, just as their affections take him. But the most we know of this rare old wonder is from hearsay, or from occasional short encounters on his trails, or from hints gathered fresh from where he has just gone, or from rehearsals of his propensities by some fellow-companion, as at our visit to F. the other day, who never tires of his eulogy.</p>
+    
+<p>F. is one of Leather Stocking's cronies&#8212;more of a maniaist and less universal than he, but yet akin in loves; and so always friends that look each other in the eye. F. came a pensioner to Rome from Piedmont at the age of fifteen, and since then for forty years he has traced his designs, smoked his cigar and taken his coffee at the same little table at the Grecco, and inhabited the same high, sunless rooms in the Piazza San Pietro, looking out on the grim, vine-deviced walls connecting St. Angelo and the Vatican, spite of damp, dark and solitude, covering his cherished nest-eggs, and hatching out hints which the world steals, nurtures and is proud of, while his own brooding patience is more content and happier in the hatching than in the rearing of its offspring.</p > 
+            
+<p>For some time I had felt I ought to pay a visit to my kind old master, not that I owed him one because he ever comes to see me&#8212;for when he is off his nest he is always at the Grecco&#8212;but because when I go to see him he greets me cordially, and looks happy that I have not forgotten him or lost interest in what he is and does; and thinking he and his appurtenances might be among the rarest of Rome's by-way sights, I proposed to the two Misses Fine Linen to accompany me to his rooms. At 11 we enter the sun-sparking Piazza&#8212;the fountains and light stones all aglow; St. Peter's and the Vatican erect against the bright sky; the red-hot uniforms and caps and bayonets tipped with flame, making a spectacle unrivaled in brilliancy. While we are blinking our eyes in admiration, the carriage stops before the deep shadow of the Great Porte Cochere of the Palace, whose dark back rooms F. occupies. The entrance is fortress-like, becoming its neighborhood to the Fort and the Vatican; a shrine, with a picture and a cross and a flicker of olive oil, stands in the dim passage. The ladies stop in the court, admiring the fountain, while I run up to the first story and around the Loggia to F.'s door, where I flutter in my mind how to conciliate the old artist and obtain the grace I have come to beg for. I know he dislikes visits from others than artists or pupils, and ladies, particularly, he has a dread of. But, summoning all my amiable pleas, I jerk the wire bell-pull and pound the heavy knocker, and by and by F. shuffles out, opens the door, takes out his pipe and salutes me; and before he has time to bide me come in, I ask permission that the ladies below may accompany me. "Are they artists?" asks he. "No&#8212;yes"&#8212;I reply; "one is an authoress." "Do they draw or paint or work in sculpture?" "No," I am forced to answer. He looks dubious and hesitating, hating to refuse me, but bored with the thought of meeting any branch of the Fine Linen family; but I plead the universality of art, and quibble the authoress into an artist. His scruples stagger into confused excuses. "They will find him</p>
+            
+            </body>
+        </floatingText>
+        
+    </add>
+   </body>                   
+</text>
+</TEI>

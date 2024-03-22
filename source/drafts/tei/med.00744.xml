@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="med.00744">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">Geoffrey Chaucer</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.00744</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Edward Grier notes that the date of this manuscript "<hi rend="italic">may</hi> be as early as 1847, but it is more likely from [Whitman's] period of intense self-education between 1855 and 1860." See Grier's headnote to his transcription (cited below) for a discussion of the source of Whitman's information about Chaucer.</note>             
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Walt Whitman</author>
+                        <editor>Edward F. Grier</editor>
+                        <title xml:id="nupm">Notebooks and Unpublished Prose Manuscripts</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>New York University Press</publisher>
+                            <date when="1984">1984</date>
+                            <biblScope type="page">1783&#8211;1784</biblScope>
+                            <biblScope type="volume">5</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note type="project">Grier derives his text from <hi rend="italic">Notes &amp; Fragments</hi>, Richard Maurice Bucke (1899), 92-93.</note>
+                </biblStruct>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title rend="bracketed">Geoffrey Chaucer</title>                  
+                    <date xml:id="dat1" notBefore="1847" notAfter="1860" cert="low">Between 1847 and 1860</date>
+                    <orgName xml:id="med">The location of this manuscript is unknown.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-05-26" who="#km">checked</change>
+            <change when="2015-02-16" who="#jc">checked</change>
+            <change when="2014-10-27" who="#kc">encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="manuscript">
+        <body>
+            <p>Geoffrey Chaucer, born 1328, died 1400 aged 72, parents citizens of London. Contemporary of Froissart, Walter de Manny, King Edward and Queen Phillippa.</p>
+            
+            <p>Chaucer is supposed to have seen and conversed familiarly with Petrarch.</p>
+            
+            <p>He received in the 39th and 44th years of his age two grants or annuities from the King.</p>
+            
+            <p>He cultivated his own growth out of that of the Italian and Proven&#231;al poets.</p>
+            
+            <p>Appointed by the King Comptroller of the customs of wool, wool-fells and hides&#8212;income &#163; 1,000, equal to about $15,000 now.</p>
+            
+            <p>After death of Edward III. held similar favor and kindness under Richard II.</p>
+            
+            <p>Wickliffe was his contemporary and friend. Chaucer sat in Parliament 1386.</p>
+            
+            <p>Personally (aged 30) "of a fair and beautiful complexion, his lips red and full, his size a just medium, his air polished and graceful." Married at 37 to the daughter of a Hainault knight.</p>
+            
+            <p>Of course in Chaucer's time the language of the court and of learned and refined persons, especially of poetical-disposed genteel persons must have assimilated to the French and mostly was French, coming on to them from William the Conqueror and his nobles and their descendants.</p>
+            
+            <p>Spencer copied Chaucer 200 years after his time.</p>
+            
+            <p>Of all Chaucer's poems Driden preferred Palamon and Arcite.</p>
+            
+            <p>As great as Spencer and Milton very easily&#8212;and no obstinate quarrel about Dante; but wait awhile before putting him with Homer or Shakespeare.</p>
+            
+            <p>Doubtless at that time no one knew or thought those persons heroes or those wars and politics important. Also Chaucer alone of eminent English poets seems to have been above adulating royalty and nobles for gain's sake.</p>
+            
+            <p>There has been hardly a poet in the English language since 1400 but imitates Chaucer more or less.</p>
+            
+            <p>Driden founded the school under which Pope's style comes. Driden's forte was satire&#8212;his poems all have it more or less&#8212;visibly or invisibly.</p>
+            
+            <p>Chaucer was humorous&#8212;perhaps as humorous as Shakespeare.</p>
+            
+            <p>Chaucer was plainly a strong wholesome man with large perceptive organs, friendly, amative, of independent spirit&#8212;possessed of the true English tastes, rude, fond of women, fond of eating and drinking, not to be quelled by priestcraft or kingscraft.</p>
+            
+        </body>
+    </text>
+</TEI>

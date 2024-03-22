@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00172">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00172">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" type="main">1855&#8212;I have looked over Gerald Massey's Poems</title>
+                <title level="m" type="main">1855—I have looked over Gerald Massey's Poems</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <author xml:id="ww">Walt Whitman</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
                     <resp>Transcription and encoding</resp>
-                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
+                    <persName xml:id="lmg">Lauren Grewe</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="tra">Ty Alyea</persName>
+                    <persName xml:id="mc">Matt Cohen</persName>
+                <persName xml:id="as">Ashlyn Stewart</persName>
                 </respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -21,7 +25,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00172</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -33,11 +37,11 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00172</idno></publicationStmt>
             
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title/>
                     <idno type="callno">MS 4to 73<!--This information from Grier, p. 1772.--></idno>
                     <date notBefore="1855-01-01" notAfter="1892-03-26">Undated</date>
@@ -52,7 +56,7 @@
                 <handNote xml:id="h2" scribeRef="#ww" medium="brown-ink"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#nhg" when="2015-03-08">completed date information, tweaked encoding</change>
             <change who="#nhg" when="2015-01-26">added schematron declaration, updated schema declaration, changed text type to annotations</change><change who="#lmg" when="2011-07-28">Transcribed and encoded.</change>
             <change who="#nhg" when="2011-08-23">Checked and revised.</change>
@@ -63,18 +67,18 @@
     <text type="annotations">
         <body>
             <pb xml:id="leaf001r" facs="duk.00172.001.jpg" type="recto"/>
-            <ab><handShift new="#h1"/>1855&#8212; I have looked over
-            <hi rend="underline">Gerald Massey's</hi> <hi rend="underline">Poems</hi>.&#8212;<add rend="unmarked" place="supralinear">London.&#8212;</add>They seem
+            <ab><handShift new="#h1"/>1855— I have looked over
+            <hi rend="underline">Gerald Massey's</hi> <hi rend="underline">Poems</hi>.—<add rend="unmarked" place="supralinear">London.—</add>They seem
             to me zealous, candid, warlike,
-            &#8212;intended, as they <del rend="overstrike" hand="#h2">surely</del> are, to get up
+            —intended, as they <del rend="overstrike" hand="#h2">surely</del> are, to get up
             a strong feeling against the British
             aristocracy both in their social
-            and <subst><del rend="overstrike" hand="#h2" seq="1">governmental</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>political</add></subst> <handShift new="#h1"/>capacity.&#8212;
+            and <subst><del rend="overstrike" hand="#h2" seq="1">governmental</del> <add rend="unmarked" place="supralinear" seq="2"><handShift new="#h2"/>political</add></subst> <handShift new="#h1"/>capacity.—
             Massey, I hear, is a youngish
             man, a radical, an editor now
             I believe in one of the provincial
-            towns.&#8212;His early life laborious,
-            a workman in a factory I think.&#8212;</ab>
+            towns.—His early life laborious,
+            a workman in a factory I think.—</ab>
             <pb xml:id="leaf001v" facs="duk_ap_00129.jpg" type="verso"/>
         </body>
     </text> 

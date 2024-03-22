@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00197">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00197">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -18,7 +15,7 @@
                     <persName xml:id="tra">Ty Alyea</persName>
                     <persName xml:id="mc">Matt Cohen</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>University of Texas at Austin</sponsor>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -29,7 +26,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>duk.00197</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,13 +38,13 @@
                     <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
                 </address>
                 <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
-            </publicationStmt>
+            <idno>duk.00197</idno></publicationStmt>
             <notesStmt>
                 <note type="project">At one point, this manuscript likely formed part of <ref target="../index-scrapbook.html">Whitman's cultural geography scrapbook</ref>.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <author>Walt Whitman</author>
+                    <author sameAs="#ww">Whitman, Walt</author>
                     <title>Egypt...</title>
                     <idno type="callno">MS 96</idno>
                     <date notBefore="1850" notAfter="1860">Between 1850 and 1860</date>
@@ -62,7 +59,7 @@
                 <handNote xml:id="h2" scribeRef="#unk" medium="pencil"/>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-14" who="#as">Regularized Name</change>
             <change who="#km" when="2020-02-07">added image link for verso</change>
             <change who="#km" when="2020-01-30">corrected date in metadata</change>
             <change who="#km" when="2019-11-05">proofed</change>
@@ -88,25 +85,25 @@
                 rich and divine enough, 
                 standing amazed and 
                 awed before the mystery 
-                of life<del rend="overstrike">.</del>&#8212;nothing more 
+                of life<del rend="overstrike">.</del>—nothing more 
                 wonderful than life, 
                 even in <subst><del rend="overstrike" seq="1">an</del> <add rend="unmarked" place="inline" seq="2">a</add></subst> hawk 
-                a bull or a cat&#8212; 
-                <add rend="insertion" place="supralinear">&#8212;the masses of the people</add> 
+                a bull or a cat— 
+                <add rend="insertion" place="supralinear">—the masses of the people</add> 
                  reverent of priestly 
                 and kingly authority. 
                <del rend="overstrike"><add rend="unmarked" place="supralinear">We cannot go</add></del> All the <subst><add rend="unmarked" place="supralinear" seq="2">hitherto</add> <del rend="overstrike" seq="1">modern</del></subst> <choice><orig>cen-<lb/>turies</orig><reg>centuries</reg></choice>  
                 <add rend="unmarked" place="supralinear">The <add rend="insertion" place="supralinear">definite</add><!--Grier counts it as deleted.-->  history <del rend="overstrike">and</del> <add rend="unmarked" place="inline">of</add> the world</add> 
                 <del rend="overstrike">We</del> cannot go back 
-                farther than Egypt&#8212; 
+                farther than Egypt— 
                 and, <del rend="overstrike">in with <gap reason="illegible" unit="char" quantity="1"/></del> and
                         
                 <milestone unit="undeclared" rend="horbar-full"/>
                         <delSpan rend="hashmark" spanTo="#a01"/>
                 have we indeed gone 
                 on much farther than 
-                what Egypt has left&#8212; 
-                &#8212;even the last two 
+                what Egypt has left— 
+                —even the last two 
                 thousand<anchor xml:id="a01"/>
                         
                         <pb xml:id="leaf001v" facs="duk_ap_00059.jpg" type="verso"/>
@@ -118,18 +115,18 @@
                 not gone <subst><del rend="overstrike" seq="1">a single</del> <add rend="unmarked" place="supralinear" seq="2">one</add></subst> 
                 <del rend="overstrike">step</del> forward of 
                 the spirit of ancient 
-                Egypt.&#8212;</ab>
+                Egypt.—</ab>
                 
 
                <ab>India, represents 
                 meditation, oriental 
                 rhapsody, <add rend="insertion" place="supralinear">passiveness,</add> a<del rend="overstrike" seq="1">s</del> curious<!--Grier says s is not struck out in 'as' here.--> 
                 antique schoolmasters 
-                teaching, <add rend="insertion" place="supralinear">of wise precepts&#8212;</add> &#8212;and is the 
+                teaching, <add rend="insertion" place="supralinear">of wise precepts—</add> —and is the 
                 beginning of feudality, 
                 or the institution of 
                 the lord and the 
-                serf&#8212;much of the 
+                serf—much of the 
                 <subst><del rend="overstrike" seq="1">modern</del> <add rend="unmarked" place="supralinear" seq="2">late‑age</add></subst> lord, or fine 
                 gentleman, <del rend="overstrike">dates ba</del>
                 so nice and delicate, 

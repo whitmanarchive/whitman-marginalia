@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.01159">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                <title level="m" type="main">N.Y. Tribune April 22d</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2010</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno>loc.01159</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project" target="#dat1"><!-- when was this manuscript written? --></note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="al">Ashley Lawson</persName> <persName xml:id="tj">Tim Jackson</persName>
+                </note>
+            </notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>          
+                    <title>N.Y. Tribune April 22d</title> 
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">MSS45443 Box 1</idno>
+                    <orgName>The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842-1937</orgName>
+                    <note type="project">Transcribed from our own digital image of the original manuscript.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2010-09-20" who="#al">Transcribed and encoded</change>
+            <change when="2010-11-16" who="tj">Checked, corrected</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text type="manuscript">
+        
+        <body>
+            
+            <pb xml:id="leaf001r" facs="loc.01159.001.jpg" type="recto"/>
+            
+            <head type="main-derived">N.Y. Tribune April 22d, letter from near Columbus Ky, April 7th</head> <!-- [TJ] Could the date be '17th' instead of '7th'? -->
+            
+            <ab><add place="supralinear" rend="unmarked">XXX</add>At Helena, the new negro regiments are progressing favorably.
+                In 3 days after Gen Thomas left for Vicksburgh 800 blacks had enlisted in the 1st Arkansas Infantry of African descent"&#8212;(now 1000 are in probably)&#8212;it is said to be well
+                <unclear reason="illegible" cert="medium" resp="#al">officed</unclear> <!-- [TJ] Suggest 'officerd' -->Col. Wood is an experienced officer, has been a Military officer in West Indies&#8212;the line officers are mostly privates selected from western regiments for Merit &#38; bravery&#8212;they <del rend="overstrike"><unclear reason="illegible"
+                        cert="medium" resp="#al">drilled</unclear></del> paraded lately at Helena</ab>
+            
+            <ab>Wash Chron. April 24</ab>
+            <ab>&#8212;three regiments 
+            <subst>
+                <del rend="overstrike" seq="1">are</del>
+                <add place="supralinear" rend="unmarked" seq="2">were</add>
+            </subst>
+                already formed at Lake Providence, lower Mississippi under Gen. McPherson’s authority.  Eighth, Ninth, &#38; Tenth.  “Louisiana Volunteer Infantry of African descent.”  the officers names are
+                given in the reports&#8212;the captains &#38; lieutenants are selected from privates of experience, courage and competence, <del rend="overstrike">belo</del> hitherto in the war, in western
+                &#38; other regiments Lake Providence is at present the rendezvous of these regiments and of others, rapidly forming.
+            </ab> <note place="marginbottom" type="editorial" resp="unk">330</note>
+            
+            <pb xml:id="leaf001v" facs="loc.01159.002.jpg" type="verso"/> 
+            
+        </body>
+    </text>
+</TEI>
+
+
+
+

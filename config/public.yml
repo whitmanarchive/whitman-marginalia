@@ -7,23 +7,27 @@ default:
   data_base: https://whitmanarchive.org/media
   media_base: https://whitmanarchive.org/media
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
-  
+  variables_html:
+    image_large: 1200
+    image_thumb: 80
+  api_version: "2.0"
+  es_index: whitman-api_v2
+  threads: 1
 
 development:
-  es_path: https://whitman-dev.unl.edu/elastic
-  es_index: api_v1
-  site_url: https://whitman-dev.unl.edu
-  solr_path: https://whitman-dev.unl.edu/solr
-  data_base: https://whitman-dev.unl.edu/media
+  es_path: https://set_in_private_config/elastic
+  site_url: https://set_in_private_config
+  solr_path: https://set_in_private_config/solr
+  data_base: https://set_in_private_config/media
 
   variables_solr:
     project: The_Walt_Whitman_Archive
-    site_url: https://whitman-dev.unl.edu
+    site_url: https://set_in_private_config
     slug: whitman-marginalia
 
 production:
   site_url: https://whitmanarchive.org
-  solr_path: https://whitman-prod.unl.edu/solr
+  solr_path: https://set_in_private_config/solr
 
   variables_solr:
     project: The_Walt_Whitman_Archive

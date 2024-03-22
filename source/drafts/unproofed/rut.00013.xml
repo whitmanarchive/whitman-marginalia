@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="rut.00013">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">America and the Early English Poets</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="unk">Unknown</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>rut.00013</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Unknown</author>
+                    <title>America and the Early English Poets</title>
+                    <!--<idno type="callno"></idno>-->
+                    <date cert="high" when="1839-05">May 1839</date>
+                    <orgName xml:id="rut">Special Collections and University Archives, Rutgers University
+                        Libraries, Rutgers, The State University of New Jersey </orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#jyc" when="2014-10-24">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            <pb xml:id="leaf001r" facs="rut_nhg.00001.jpg" type="recto"/>
+            <note type="authorial" resp="#h1" place="top right"><handShift new="#h1"/>1</note>
+            <fw type="date" place="top left">1839.]</fw>
+            <fw type="pageNum" place="top right">469</fw>
+            <head type="main-authorial" rend="smallcaps">AMERICA AND THE EARLY
+                ENGLISH POETS.</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <p>The expedition to America undertaken in the reign of Elizabeth, and in that of the
+                first James, could not fail to awaken a more than usual interest in the public mind.
+                This interest must have been proportionably increased, when the fact was known that
+                several bands of their adventurous countrymen had obtained a footing in the new
+                world; had formed compacts with the Indian, or driven him back to his native wilds;
+                had established villages and towns, which soon assumed importance from the grant of
+                corporate rights and charters, and other immunities. But then these facts were known
+                to comparatively but few, and it was long before the intelligence found its way to
+                the interior of the country. There were no Magazines, no Reviews, and above all, no
+                newspapers to circulate intelligence in a few hours from one end of the kingdom to
+                another. Men were content with oral information, which, after it had survived,
+                perhaps, the proverbial nine-days' interest, was suffered to pass into oblivion. As
+                there was no medium for transmitting the information of the day, few, if any,
+                thought of recording it, and hence the absence of any details relative to the social
+                history, literature and biography of these times. What has been qualified as a want
+                of curiosity in the worthy people of the golden days of the good Queen Bess, might,
+                it appears to us, be more properly ascribed to the cause here assigned.</p>
+            <p>In the absence of other chroniclers, the poets have, from time immemorial, been
+                looked up to as the transmitters, indirectly at least, of the traditionary lore of
+                their age, of its more remarkable events, and of all that most deeply excited its
+                attention and <choice>
+                    <orig>rivetted</orig>
+                    <reg>riveted</reg>
+                </choice>its interest. It is to these sources that we have looked for materials to
+                throw some light upon the state of the public mind in England, in reference to the
+                early settlement of America, and we are led to hope that enough has been discovered
+                to furnish out an Article which will present a general transcript of the feelings of
+                this interesting period. At all events it has the merit of novelty.</p>
+            <p>The first settlement made by the English in America was in Virginia, about the year
+                1590. <note type="authorial" resp="#h2" place="right"><handShift new="#h2"/>Fairy
+                    Queen appeared 1592</note><handShift new="#h1"/> In 1592 appeared that great
+                masterpiece of fancy and invention, the <hi rend="smallcaps">FAIRY QUEEN</hi>, which
+                its author laid at the feet of his great patroness and friend, Queen Elizabeth. In
+                the character of this extraordinary woman were blended contrasts the most
+                singular&#8212;the frivolous and the cruel, the lofty and the mean, all that is
+                humiliating in personal vanity with all <fw type="footnote" place="bottom left">Vol
+                    V. No. XVII.&#8212;May,1839. F.F</fw>
+                <pb xml:id="leaf001v" facs="rut_nhg.00002.jpg" type="verso"/>
+                <fw type="pageNum" place="top left">470</fw>
+                <fw type="header" place="top"><hi rend="italic">America and the Early English
+                        Poets.</hi></fw>
+                <fw type="date" place="top right">[ May</fw> that is great and enobling in public
+                spirit. Among her number less foibles, the most remarkable was that of being known
+                to her contemporaries, and to posterity, by the title of "the Virgin-Queen." It was
+                to flatter this weakness of his mistress, that sir Walter Raleigh named the
+                newly-discovered country <hi rend="smallcaps">VIRGINIA</hi>. Spenser's Dedication to
+                her of the first edition of the Fairy Queen is too curious to be withheld from the
+                reader, especially as, for reasons which now can be only conjectured, this
+                dedication was altered in the subsequent edition. It runs as follows: </p>
+
+            <q who="Edmund Spenser" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="dedication">
+                            <l><hi rend="smallcaps">"TO THE MOST HIGH AND MIGHTY</hi></l>
+                            <l><hi rend="smallcaps">ELIZABETH</hi></l>
+                            <l><hi rend="smallcaps">BY THE GRACE OF GOD, QUEEN OF ENGLAND,</hi></l>
+                            <l><hi rend="smallcaps">FRANCE AND IRELAND,</hi></l>
+                            <l><hi rend="italic">And of Virginia,</hi></l>
+                            <l><hi rend="smallcaps">HER MOST HUMBLE SERVANT,</hi></l>
+                            <l><hi rend="smallcaps">EDMUND SPENSER,</hi></l>
+                            <l><hi rend="smallcaps">DOTH IN ALL HUMILITY,</hi></l>
+                            <l><hi rend="smallcaps">DEDICATE THESE HIS LABOURS,</hi></l>
+                            <l>To live with eternity of her fame."</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>This may be thought to form a curious anticlimax, but surely not more remarkable than
+                the present regal title&#8212;King of Great Britain, France, and Ireland, and also
+                    of&#8212;<hi rend="italic">Berwick upon Tweed.</hi></p>
+            <p>In canto the tenth of the Fairy Queen, mention is thus made of America:</p>
+
+            <q who="Edmund Spenser" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l rend="indented2">Who, then, can thee, Mercilla, thoroughly
+                                praise,</l>
+                            <l rend="indented2">That herin dost all earthly princes pass?</l>
+                            <l rend="indented1">What heavenly muse shall thy great honor raise </l>
+                            <l rend="indented2">Up to the skies, whence first deriv'd it was,</l>
+                            <l rend="indented2">And now on earth itself enlarged has,</l>
+                            <l rend="indented1">From th' utmost brink of the Americ shore </l>
+                            <l rend="indented2">Unto the margent of the Moluccas?</l>
+                            <l rend="indented1">Those nations far they justice do adore,</l>
+                            <l rend="indented1">But thine own people do thy mercy praise much
+                                more.</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>We have here a just and well turned compliment both to Elizabeth and to Spenser's
+                friend, Sir Walter, Raleigh, to whose kind offices the poet had during the season of
+                his distress, been deeply indebted.</p>
+            <p>1599. From Spenser we turn to another poet of the same period, whose name is not so
+                familiar in the mouths of men as it deserves to be. Michael Drayton is a genius, if
+                not of the loftiest, at least of the most pleasing order ; there is scarcely any
+                kind of composition, from the sonnet to the domestic epic, which he has not
+                attempted, and with success. His "Polyolbion" stands an indestructible monument of
+                his learning, taste and invention. His sonnets are some of the sweetest and most
+                characteristic compositions of the Elizabethan era, and his "Muses' Elysium," or
+                pastoral pieces, exhibits a play of fancy, and a command of language <pb xml:id="leaf002r" facs="rut_nhg.00003.jpg" type="recto"/>
+                <fw type="pageNum" place="top right">471</fw>
+                <fw type="header" place="top"><hi rend="italic">Michael Drayton.</hi></fw>
+                <fw type="date" place="top left">1839.]</fw> of rhythm, unsurpassed in our mother
+                tongue. Joined to these qualities is another, very rarely to be found in the poetry
+                of this period&#8212;we mean humor, a native vein of which runs through all his
+                compositions. It even stole into his more serious pieces; for instance, in one of
+                his elegies he has the following lines:</p>
+            <lg type="elegy">
+                <l rend="indented3">"A tender-hearted man, like me, may spend</l>
+                <l rend="indented3">Some pious drops for a deceased friend;</l>
+                <l rend="indented3">Some men, perhaps, their wives' late death may rue,</l>
+                <l rend="indented3">Or wives their husbands'&#8212;but the number's few."</l>
+            </lg>
+            <p>We are led to hope that some lover of the good old school of our poetry will revive a
+                portion, at least, of the works of this delightful writer; we know not of any one of
+                our elder poets over whose palingenesis we should rejoice.</p>
+            <p>There are two of this writer's poems that have a reference to our country, and which
+                we have selected for the present occasion. With respect to the subject of the
+                second, we would state, for the information of those not acquainted with the fact,
+                that Sandys completed his translation of Ovid in Virginia, whence he dates his
+                dedication to Charles the First. In a second article, which we contemplate, on
+                America and the English prose-writers, we purpose to give this, with other curious
+                articles.</p>
+            <lg type="poem">
+                <lg type="linegroup">
+                    <l rend="indented3"><hi rend="smallcaps">"THE VIRGINIAN VOYAGE.</hi></l>
+                    <l rend="indented1">You brave heroic minds,</l>
+                    <l rend="indented2">Worthy your country's name,</l>
+                    <l rend="indented3">That honour still pursue;</l>
+                    <l rend="indented1">While loitering hinds</l>
+                    <l rend="indented2">Luck here at home with shame&#8212;</l>
+                    <l rend="indented3">Go, and subdue.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indented1">Britons, you stay too long;</l>
+                    <l rend="indented2">Quickly abroad bestow you,</l>
+                    <l rend="indented3">And with a merry gale</l>
+                    <l rend="indented3">Swell your stretch'd sail,</l>
+                    <l rend="indented1">With vows as strong</l>
+                    <l rend="indented2">As the winds that blow you.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indented1">And cheerfully to see,</l>
+                    <l rend="indented2">Success should still entice</l>
+                    <l rend="indented3">To get the pearl and gold,</l>
+                    <l rend="indented3">And ours to hold,</l>
+                    <l rend="indented1">Virginia,</l>
+                    <l rend="indented2">Earth's only paradise.</l>
+                </lg>
+                <lg type="linegroup">
+                    <l rend="indented1">Where nature hath in store</l>
+                    <l rend="indented2">Fowl, venison, and fish;</l>
+                    <l rend="indented3">And the fruitfullest soil</l>
+                    <l rend="indented3">Without your toil&#8212;</l>
+                    <l rend="indented1">Three harvests more,</l>
+                    <l rend="indented2">And greater than your wish.</l>
+                </lg>
+                <pb xml:id="leaf002v" facs="rut_nhg.00004.jpg" type="verso"/>
+                <lg type="linegroup">
+                    <l rend="indented3">But well I know ensuing ages shall</l>
+                    <l rend="indented3">Raise her again, who now is in her fall;</l>
+                    <l rend="indented3">And out of dust reclaim our scatter'd rhymes&#8212;</l>
+                    <l rend="indented3">Jewels rejected by these slothful times.</l>
+                    <l rend="indented3">If you vouchsafe rescription, blend your quill</l>
+                    <l rend="indented3">With nature's bounties, and impart your skill</l>
+                    <l rend="indented3">In the description of the place, that</l>
+                    <l rend="indented3">May become learned in the soil thereby;</l>
+                    <l rend="indented3">Of noble Wyat's health, pray let me hear,</l>
+                    <l rend="indented3">The governor; and how the people there</l>
+                    <l rend="indented3">Increase and labour; what supplies are sent&#8212;</l>
+                    <l rend="indented3">All which I own will give me much content.</l>
+                    <l rend="indented3">But you may save your labour, if you please</l>
+                    <l rend="indented3">To write me aught of those your savages;</l>
+                    <l rend="indented3">For savages slaves be in Great Britain here,</l>
+                    <l rend="indented3">As any one that you can show me there.</l>
+                    <l rend="indented3">But though for this I say I do not thirst,</l>
+                    <l rend="indented3">Yet should I like it well to be the first</l>
+                    <l rend="indented3">Whose numbers have into Virginia flew:</l>
+                    <l rend="indented3">So, noble Sandys, for this time, adieu!"</l>
+                </lg>
+            </lg>
+            <p>Daniel, in that charming and highly philosophic poem, <hi rend="italic">Musophilus</hi>, has the following prophetic lines:</p>
+            <lg type="poem">
+                <l rend="indented2">"And who knows whither may, in time, be sent</l>
+                <l rend="indented2">The treasures of our tongue? To what strange shores</l>
+                <l rend="indented1">This gain of our best glory may be lent</l>
+                <l rend="indented2">T'enrich unknowing nations with our stores?</l>
+                <l rend="indented1">What worlds in the yet unform'd occident,</l>
+                <l rend="indented2">May 'come refin'd with accents that are ours."</l>
+            </lg>
+            <p>This burst of patriotic pride, in which the poet indulged, in anticipation of the
+                future spread of a language which his even too much neglected works contributed
+                greatly to improve and adorn, was no vision of the fancy, but destined to be
+                realized to the very letter. "The treasures of our tongue," have been spread not
+                only to the "strange shores" of "unknowing nations" of the East, but have penetrated
+                to the farthest limits of the now not "unformed occident." The language of Daniel is
+                heard and spoken from one extremity to the other of our Western Hemisphere; indeed,
+                it may triumphantly be said, that the sun <handShift new="#h2"/><subst>
+                    <del rend="overstrike" resp="#2" seq="1">now</del>
+                    <add place="left" resp="#2" seq="2">never</add>
+                </subst><handShift new="#h1"/> sets upon the wide-spread regions in which that
+                language prevails, and this is one of those triumphs unalloyed by any admixture of
+                party-feeling; it awakens a responsive feeling in every American as in every British
+                bosom.</p>
+            <p>1620. We now touch at that epoch so interesting to every American heart&#8212;the
+                landing of the Pilgrim Fathers; we hail the arrival, on the shores of the New World,
+                of the little band of fugitives from the religious persecutions of the Old. It is
+                highly inte-</p>
+            <!--pg5?-->
+        </body>
+    </text>
+</TEI>

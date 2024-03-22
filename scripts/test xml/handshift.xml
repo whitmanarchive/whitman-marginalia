@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="duk.00248">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">The Vanity and the Glory of Literature</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <author xml:id="hr">Henry Rogers</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName><persName xml:id="mc">Matt Cohen</persName>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability><p>The text of the original document is in the public domain. Subject to certain exceptions,
+            public domain works may be freely copied or used in the creation of derivative works
+            without permission, or authorization, of the former copyright owners.</p><p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed
+            by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</ref> (CC BY 4.0).</p><p>Permission to reproduce the graphic images in this archive has been granted by the owners
+            of the originals for this publication only.</p></availability>
+            <idno>duk.00248</idno></publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>The Vanity and the Glory of Literature</title>
+                    <idno type="callno">MS 175</idno>
+                    <date notBefore="1849-04-01" notAfter="1892-03-26">After April 1, 1849</date>                   
+                    <orgName xml:id="duk">Trent Collection of Whitmaniana, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</orgName>
+                    <note type="project">Transcribed from digital images of the original item.</note>
+                </bibl>
+                <bibl type="base" xml:id="r1">
+                    <author>Henry Rogers</author>
+                    <title level="a">The Vanity and the Glory of Literature</title>
+                    <title level="j">The Edinburgh Review</title>
+                    <date>April 1849</date>
+                    <biblScope type="vol">89</biblScope>
+                    <biblScope type="issue">180</biblScope>
+                    <biblScope type="pp">149–168</biblScope>
+                    <note type="project">American Edition</note>
+                </bibl>
+                <bibl type="pasteon" xml:id="r2">
+                    <author>Unknown author</author>
+                    <title>THE MUSES</title>
+                    <date>Date unknown</date>
+                    <note type="project"/>
+                </bibl>
+                <bibl type="pasteon" xml:id="r3">
+                    <author>Unknown author</author>
+                    <title>SOCRATIC PHILOSOPHY</title>
+                    <date>Date unknown</date>
+                    <note type="project"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#unk" medium="typescript"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h3" scribeRef="#ww" medium="black-ink"/>
+                <handNote xml:id="h4" scribeRef="#unk" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2011-08-12">Transcribed and encoded.</change>
+            <change who="#nhg" when="2012-03-12">Transcribed and encoded.</change>
+            <change who="#lmg" when="2013-09-07">Checked.</change>
+            <change who="#tra" when="2013-12-09">Checked and revised bibliographical encoding and handnote encoding.</change>
+            <change who="#lmg" when="2014-03-08">Added dimensions to pasteons, checked cbs, footnotes.</change>
+            <change who="#mc" when="2014-10-19">Proofed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia">
+        <body>
+            
+            <note type="authorial" resp="#h4" place="top left">x</note>
+            <note type="authorial" resp="#h2" place="top">Walter Whitman</note>
+            <note type="authorial" resp="#h4" place="right">5)</note>
+                <ab><handShift new="#h1"/></ab>
+                    <ab>T<hi rend="smallcaps">HE</hi> M<hi rend="smallcaps">USES</hi>.</ab><p>—The muses are described in
+                        Mythology as daughters of Jupiter and Mnemosyne.
+                        They are believed to preside over poetry, music,
+                        and all the liberal arts and sciences, and were generally
+                        allowed to be nine in number .. the ninth
+                        muse, presided over singing and rhetoric. She was
+                        represented veiled in white, holding a sceptre in
+                        her left hand, and with her right raised, as if ready
+                        to harangue.</p><note type="authorial" resp="#h2" place="right">1854 <span rend="curlyBrace-left" xml:id="s1" from="#s1" to="#s2"/>10,000 new books were<lb/>
+                            published in Germany<lb/>
+                            —2025 journals, of which<lb/>
+                            403 political<lb/>
+                <anchor xml:id="s2"/></note>
+
+            <p>For the truth is, that the creations of the 
+                    human mind transcend its capacity to collect 
+                    and preserve them; and, like the seeds 
+                    of life in the vegetable world, the intellectual 
+                    powers of man are so prolific that 
+                    they run to waste. Some readers, perhaps, 
+                    as a bright company of splendid names 
+                    rushes on their recollection, may be disposed 
+                    to say 'avaunt' to these melancholy 
+                    forebodings. <handShift new="#h2"/>(<handShift new="#h1"/><hi rend="underline" resp="#h2">Surely, it</hi> can be only necessary 
+                    to remind them <hi rend="underline" resp="#h2">of the</hi> votive tablets in 
+                    the Temple of Ne<hi rend="underline" resp="#h2">ptune r</hi>ecording escape 
+                    from shipwreck. <hi rend="underline" resp="#h2">How many men have 
+                        suffered shipwreck, and whose tablets therefore 
+                        are not to be found!</hi> on the contrary, remain ever beautiful as 
+                    long as the language in which they are embodied 
+                    shall endure: even to translate is to 
+                    injure them. Thus it is, that for one reader 
+                    of Archimedes (even amongst those who 
+                    know just what Archimedes achieved,) there 
+                    are <add rend="insertion" place="supralinear" hand="#h3"><handShift new="#h3"/>a hundred</add> thousands of readers of Homer; and of
+                    Newton it may be truly said, that nine-
+                    tenths of those who are familiar with his 
+                    doctrines have never studied him, except at 
+                    second-hand. Far more intimate, no doubt, 
+                    is that sympathy which and 
+                    Milton inspire; <hi rend="underline" hand="#h3">"being dead they yet speak," 
+                        and may even be said to form a part</hi></p>
+            
+            
+            <note type="authorial" resp="#h3" place="top">My own opinion <add rend="unmarked" place="supralinear"><handShift new="#h2"/>guess</add><handShift new="#h3"/> is that myriads of superior works have
+            been lost—superior to existing works in every department,
+            except law, physics, and the exact sciences.— <hi rend="underline">1856</hi></note>
+            
+            
+            <fw type="date" place="top left"><handShift new="#h1"/>1849.</fw>
+            
+           <p>neglect be the lot of the writings even
+                of Newton, what must be naturally and universally
+                the fate of inferior men? Of that
+                treatise of Descartes, in which he lays the
+                foundation of analytical geometry, how few
+                of those who have pursued.
+            </p>
+            
+            
+            
+            
+            <p>It may be said, perhaps, that if in so vast
+                a majority of cases the hope of immortality
+                is a dream, 
+                and serene old age have always been
+                thought desirable things, rather than a
+                sudden and violent dissolution. Immortality
+                is not to be thought of—but <hi rend="italic">euthanasia</hi> <add rend="insertion" place="bottom"><handShift new="#h2"/>"euthanasia"
+                    an easy death</add><handShift new="#h1"/> is
+                not to be despised.</p>
+            
+            
+            
+            
+            
+            
+            
+        </body>
+    </text>
+</TEI>

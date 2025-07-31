@@ -275,17 +275,6 @@
                 </a>
                 <xsl:text>.</xsl:text></li>
             </xsl:for-each>
-            
-            <xsl:for-each select="//relatedItem[@type = 'document']">
-              <li>
-                <xsl:text> See </xsl:text>
-                <a>
-                  <xsl:attribute name="href" select="@target"/>
-                  <xsl:value-of select="@target"/>
-                </a>
-                <xsl:text>.</xsl:text>
-              </li>
-            </xsl:for-each>
           </ul>          
         </li>
       </xsl:if>
